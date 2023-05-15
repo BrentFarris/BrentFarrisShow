@@ -37,6 +37,10 @@ author:
 plugins:
   - jekyll-relative-links
   - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-sitemap
+  - jekyll-paginate
 relative_links:
   enabled: true
   collections: true
