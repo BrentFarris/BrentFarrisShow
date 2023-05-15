@@ -1,1 +1,20 @@
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+#theme: jekyll-theme-tactile
+remote_theme: mmistakes/minimal-mistakes@4.24.0
+title: Brent Farris Podcast
+description: The Brent Farris Podcast is a podcast about programming, game development, technology and sometimes art
+tagline: Some Assembly required
+author: Brent Farris
+email: ContactMeThroughTwitter@brentfarris.com
+#google_analytics: UA-154143529-1
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - index.md
+titles_from_headings:
+  enabled:     false
+  strip_title: true
+  collections: false
+highlighter: rouge
