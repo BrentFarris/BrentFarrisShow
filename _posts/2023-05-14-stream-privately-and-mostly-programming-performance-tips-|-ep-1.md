@@ -1,7 +1,7 @@
 ---
 header:
-  og_image: /assets/images/teasers/2023-05-14-episode-1.jpg
-  teaser: /assets/images/teasers/2023-05-14-episode-1.jpg
+  og_image: /assets/images/teasers/episode-1.jpg
+  teaser: /assets/images/teasers/episode-1.jpg
 categories: Episodes
 tags:
   - privacy
