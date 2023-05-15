@@ -32,7 +32,7 @@ author:
       url: "https://github.com/brentfarris"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
-      url: "https://instagram.com/@BrentFarris"
+      url: "https://youtube.com/@BrentFarris"
 #google_analytics: UA-154143529-1
 plugins:
   - jekyll-relative-links
