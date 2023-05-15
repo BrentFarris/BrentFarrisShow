@@ -1,10 +1,38 @@
 #theme: jekyll-theme-tactile
 remote_theme: mmistakes/minimal-mistakes@4.24.0
-title: Brent Farris Podcast
-description: The Brent Farris Podcast is a podcast about programming, game development, technology and sometimes art
-tagline: Some Assembly required
+title: Brent Farris Show
+subtitle: Some assembly required
+description: The Brent Farris Show is a podcast about programming, game development, technology and sometimes art
 author: Brent Farris
-email: ContactMeThroughTwitter@brentfarris.com
+name: Brent Farris
+url: https://brentfarris.com
+logo: /assets/images/88x88.png
+permalink: /:categories/:title/
+search: true
+lunr:
+  search_within_pages: true
+og_image: /assets/images/logo.png
+social:
+  type:  # Person or Organization (defaults to Person)
+  name:  # If the user or organization name differs from the site's name
+  links:
+    - "https://twitter.com/Brent9x"
+    - "https://www.youtube.com/@BrentFarris"
+author:
+  name     : "Brent Farris"
+  avatar   : "/assets/images/brent.jpg"
+  bio      : "Host of the Brent Farris Show"
+  location : "USA"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/Brent9x"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/brentfarris"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://instagram.com/@BrentFarris"
 #google_analytics: UA-154143529-1
 plugins:
   - jekyll-relative-links
@@ -19,3 +47,10 @@ titles_from_headings:
   strip_title: true
   collections: false
 highlighter: rouge
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      show_date: true
