@@ -1,7 +1,7 @@
 ---
 header:
-  og_image: /assets/images/teasers/2023-05-13-episode-0.png
-  teaser: /assets/images/teasers/2023-05-13-episode-0.png
+  og_image: /assets/images/teasers/episode-0.png
+  teaser: /assets/images/teasers/episode-0.png
 categories: Episodes
 tags:
   - introduction
