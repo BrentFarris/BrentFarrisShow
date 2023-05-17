@@ -1,0 +1,896 @@
+0:00
+all right welcome back uh today I learned that valve is getting sued for the steam deck
+0:05
+um other than that I want to talk about uh private chats some AI stuff some
+0:12
+local AI stuff clean code and GitHub and that sort of stuff
+0:17
+so I guess uh the very first thing straight off I just learned about it a
+0:23
+minute ago was that valve is now getting sued or I
+0:29
+don't know a lawsuit has been filed for the steam deck and
+0:34
+you may be wondering what on Earth could it be over and um
+0:40
+that's exactly what I was thinking and it's for a patent
+0:45
+no steam didn't or valve didn't just blatantly copy a patent or steal it or
+0:52
+anything like that it's just that valve is falling prey to patent troll
+0:58
+um if you don't know what a patent troll is it's basically a Consortium of people who buy up
+1:05
+software and Hardware patents and they produce nothing themselves they just sit
+1:11
+around on their thumbs doing nothing other than they had some money to buy some ideas from people that were
+1:18
+probably smarter than they are or maybe they're not as smart as they are because they're the ones who bought all the patents and essentially what they do is
+1:26
+they sue everybody and force them to pay them uh you know royalties
+1:33
+and uh the the patent that they that I didn't even know is a patent as haptics
+1:40
+so the little vibrations that you feel on basically everything from phones to
+1:46
+controllers uh those apparently are patented by some
+1:51
+dudes somewhere who had enough money to buy the patent and then do nothing other than sit there
+1:58
+and reap rewards of everyone else's success I'm a little annoyed at it I I've always
+2:04
+disliked patent trolls I think they're I put the way that I put it is on
+2:10
+Twitter was uh there the the idea guys that do nothing and set mom's basement and uh you know perhaps all the other
+2:18
+guys went off and they made something successful but this dude had Equity so he's just gonna reap the rewards for you
+2:26
+know existing it's very annoying um it sucks I think it stifles
+2:31
+innovation um yeah I I it's it's basically my take
+2:36
+on that in fact here we're gonna we can take a look at it here I have the
+2:42
+the link this is from The Verge you can see well it's night from you
+2:49
+morning or tonight for me morning for you um this just just happened a minute ago uh
+2:55
+the company is called immersion Corporation and that right there that name uh kind
+3:03
+of gives away the game immersion Corporation sounds like we bought up all the patents for haptics
+3:09
+that we could find on the internet and are going to sue everybody into the ground and otherwise that force them to
+3:16
+pay us royalties and also give us a big chunk of change right at the beginning underneath the table otherwise we're
+3:23
+we're going to see you um it's really annoying immersion Corporation I even I even
+3:30
+looked up who the heck is immersion Corporation and it's just a bunch of flashy videos
+3:35
+of look phones and stuff and they produce
+3:41
+nothing as far as I can tell on here um just some company that
+3:47
+I would dare say stole patents with money stole it with money anyways
+3:54
+that's really annoying um it happens to the best of us valve is
+4:00
+probably just going to pay them the money under the table or out of the court to skip the lawsuit and just pay
+4:07
+them royalties so that's that's
+4:13
+I'm a little miffed about that I don't know if other people have the same feelings about it I'm sure
+4:20
+a lot of people are ambivalent to it it just annoys me um the guys who who do nothing and you
+4:27
+know prey on others it's it's a little huh
+Twitter secure messages
+4:33
+anyways well that's that one of the things I wanted to go over today other
+4:39
+than that since that popped out of nowhere was private messages
+4:44
+so Twitter recently released their uh secure messages I think that they were
+4:51
+in talks with the guys from signal and they produced a their
+4:57
+untrustable uh or don't trust the don't trust it yet
+5:03
+messaging system that's just something that they mentioned don't trust it yet
+5:09
+give it a try though and now I'm not I'm not a Twitter hater or I don't know
+5:16
+whatever bandwagon people have about all that what I like is that
+5:23
+there are uh private messages at all uh secure
+5:28
+messages at all a company like this does not have to add secure messaging to
+5:33
+their app they could just go on being completely insecure and
+5:39
+that's that's not great for the people um it doesn't actually look nobody is is
+5:46
+saying I'm going to make a Twitter account now because the messages are secure I I'm pretty sure most people
+5:52
+don't even use Twitter direct messages I've never even used it I'd like to use it now that it's secure
+5:58
+I'd like to see what it looks like because they're a little like padlock or something um
+6:04
+I'm curious not something I'm gonna jump ship from I use signal for all of my
+6:13
+private messages with my family both my immediate family like my wife
+6:18
+and I almost exclusively talk on Signal and I have a family group chat on there where I talk with all of my family
+6:25
+and sure it does use up a lot of your storage because it's locally stored
+6:31
+that's the whole point is that it's not stored on somebody's server somewhere so I'm probably not going to be jumping
+6:39
+ship off of signal anytime soon maybe even ever it all depends on you know
+6:44
+where they take it uh you know companies like this could promise the world and
+6:50
+then swap out from underneath you to doing something else I think
+6:56
+though I like telegram um I don't actively use it because it's
+7:01
+hosted on somebody's server somewhere and they kind of just promise security and safety and that sort of
+7:07
+stuff and you can trust it lots of people do and they could be telling the truth but
+7:13
+I do like the idea of it all being locally on my device even if it is a little bit of an annoying of an
+7:19
+annoyance taking up the space and then having to make backups and then not being able to transfer it to another
+7:24
+device like my desktop there are annoyances for it not being a server and I would host my own and or make my
+7:32
+own little messaging app for my family and I've done you know Divi Helman encryption the whole process of updating
+7:38
+the key on every message and all that sort of stuff for fun but you know making a whole app that my whole family
+7:45
+is willing to jump on and even friends and new friends are willing to jump on it's not going to happen so it's a lot
+7:52
+easier for me to just use it but moral of the story here is that I love that
+7:57
+Twitter is moving towards these secure DMS everything should be security M's
+8:03
+it's just you know it's out of respect for the people who use your platform I mean
+8:11
+all in all they are trying to advertise to you and you never know what's going on in the background and I think these are also on the server
+8:17
+kind of obviously so same difference between you know Twitter DMS and uh
+8:24
+what's the one Facebook owns that one
+8:30
+and uh in Telegram and all those so um stigma signal because it's local I
+8:37
+mean it does now signal does store it on a server until it gets delivered and confirmed that it's delivered so there
+8:43
+is that there's that little middleman aspect there but um it's kind of like a a cousin of mine
+8:50
+he said he loves Apple because of their secure messages and then I asked him I was like well you
+8:56
+know they do have secure messages but if you buy a new phone
+9:01
+and you get all of your old messages out of nowhere that means that all the
+9:06
+messages were stored on some server and they can be decrypted uh on a different device just the
+9:13
+different device that exists that just so happens to exist with your phone number I don't know if it's locked to your phone number or anything
+9:19
+um so you can get all of your old messages and they all get decrypted so that that right there just means that it
+9:25
+exists somewhere and it can be decrypted so you know security is in the promise I suppose on that
+9:32
+but yeah that was my thoughts on uh Twitter secure DMs if anyone exists out
+9:39
+there that wants to try it out uh send me a message on Twitter and uh
+9:45
+yeah thank you so uh that's basically it for the
+9:51
+secure messaging stuff I don't want to go on too much of a rant for that um
+GPT4All, local ai
+9:57
+now I I did want to talk about some AI stuff as you know I I deal with AI stuff
+10:05
+for fun I like making random prompts that sort of stuff nothing serious so I
+10:11
+am not up to date on all the crazy newness and all the things people are doing now and the tricks and that sort
+10:17
+of stuff so I just learned about GPT for all today
+10:23
+which was pretty neat uh if you haven't heard of it it's basically a local instance
+10:29
+um of these different models that you can run locally on your computer without
+10:35
+internet and depending on your computer's processing power it'll
+10:41
+be slower or faster and you don't need a GPU to to run it I
+10:48
+I think that's because they most of the training happens through gpus but this
+10:53
+is not training it I think there is a way to train your own stuff so which would be pretty cool like you'd take all
+11:00
+the documents you've ever written or maybe all the transcripts of all your videos or something like that and train
+11:07
+the model on it to be kind of like a mini you which would be kind of neat to see
+11:13
+but I like it just for its local instance so I wanted to point that out I
+11:18
+have I wanted to show which model I'm using because uh the website itself says that this is
+11:26
+the good model so um let's see if I can zoom in oh I can't
+11:31
+zoom in it's uh GPT for all JV 1.3 groovy
+11:39
+and if you go to GPT for all here let's just grab this and stick it up here
+11:47
+on their website um they just boast about its features if
+11:53
+you can't find the model you want they do have this little drop down that tells you about the different models so the one
+12:00
+that's already selected is the one that I downloaded for me it was the second from the top but I'm sure those shift around and it's the current best
+12:07
+commercial commercially licensable model based on GPT J
+12:15
+um and Commercial commercially licensable the reason that there is uh
+12:20
+Distinction on these is that you can you can actually run a server with this
+12:26
+local instance and you can run Python scripts to query against it and act as
+12:32
+like a client and you can serve up servers and like make money using it and
+12:39
+all that sort of stuff however these models are licensed somebody did all the effort in training them so this
+12:45
+particular one you can pay somebody I guess to use it if you want to use it commercially there are other ones uh
+12:52
+like this snoozy one current best non-commercial commercial commercially
+12:58
+licensable model and the reason for that is that this is based on uh Lama 13B
+13:05
+which is I think the Facebook leaked stuff so that's why you can't I mean you can't
+13:14
+be like yo Facebook I'm going to use that thing that got leaks from your company can I give you a couple bucks so
+13:19
+obviously you can't do that but yeah go give this a try I was playing around with it on my laptop which is a it's a
+13:25
+Linux laptop with a Intel 11th gen tiger Lake I think
+13:31
+it's not yeah tiger Lake processor and it was fast enough it was pretty decent
+13:36
+it wasn't like incredibly slow you'll try some of these offline ones and they're super slow it was decently fast
+13:42
+I haven't tried it on this computer yet this laptop much more beefy 12th gen uh
+13:47
+Intel Core processor um so I would be surprised if this one
+13:52
+wasn't even faster so yeah go give go give this uh go give this a shot
+13:59
+and try out that model it's the second from the top for me like I said just review it on
+14:06
+the website and pick the model that you find most interesting
+Super prompt
+14:13
+another thing that I learned about today like I said I'm just passively
+14:18
+Nai person prompter whatever I don't make images or anything I just like to prompt
+14:24
+it and see what kind of stuff it comes up with and cross-reference it and or cross check it
+14:31
+I don't know check its work and that sort of stuff I do like to generate very
+14:36
+small scripts that I really am too lazy to write so an example of a script that
+14:42
+I wrote that I I modified I asked the AI to
+14:48
+write it for me was a Lua script that took in a text file and this text file had time marks and then text of what was
+14:55
+being said at those time marks and it converted it into SRT file which
+15:01
+is just uh you know a a closed captioning kind of timing file that
+15:07
+prints out the text that's being said at that time at that time step stamp so I just told it to write me that
+15:13
+script and it busted one out had a couple mistakes in it it didn't check for uh you know blank lines and that
+15:19
+sort of stuff that I I just uh quickly knocked it out and fixed it and also
+15:24
+added a little extra feature so it would spit out a an extra text file which was just the raw text of what was said
+15:30
+without timestamps so I do play around with these uh for all sorts of things uh
+15:36
+stories and code and all that but something I learned about today was super prompt
+15:42
+which is an awesome name I do love when names are
+15:49
+nice like the I don't know fun fun like this some names can be really boring like they're just named after
+15:55
+people like some of these models like Ada or DaVinci or whatever cool you named it after
+16:01
+person but super prompt that's that's awesome it's very it's very uh I mean
+16:06
+Super is used for a ton of things um basically you can probably be sued by
+16:12
+Nintendo by putting super in front of stuff and it they've used it so much but
+16:18
+I don't know I I like the title of it so uh what I learned about the super prompt
+16:23
+today is basically you either set up a really big prompt it's this huge prompt
+16:29
+that uses almost all of your tokens and if you don't know what a token is it's essentially you get 40 96 tokens or so
+16:37
+depending on the service you use and what you pay for and all of that and each about a third of each word is a
+16:47
+token so just say like each word is a token and it really depends it could be the characters if you're using utf-8 or
+16:53
+whatever and you're using foreign characters it may be per character that's presented but generally in
+16:59
+English I think the what they stated is it's on average about 75 percent of a
+17:04
+word and you can have up to 4096 of these tokens and then you uh when you hit that
+17:12
+limit it won't respond or it just doesn't know what to do or um often it'll say uh too much text or
+17:19
+whatever the the web page or whatever even the local ones do this they'll say I file too long or something like that
+17:27
+but you can either pre-prompt it with one gigantic prompt and
+17:33
+have it tried to see things it shouldn't say some people try to make it say bad words or whatever but others try to make
+17:40
+it sound even more human or like you're talking to some some specific character
+17:47
+in history and making it making it kind of reply as if it was that person so
+17:54
+the super prompt isn't always just the one big prompt in the beginning it's
+18:03
+also you're able to do it by feeding it multiple prompts over and over
+18:08
+and kind of building out this super context I'll call it I don't think it's
+18:14
+called super context but I'm going to call it super context and what people do is they they call it
+18:21
+hypnosis they like they they hypnotize the AI so to speak by repeating things
+18:28
+they've previously said in varied ways in order to kind of Shepherd it into a
+18:34
+certain uh Direction and that's just so that they can hit the neurons that aren't often hit you know on the fringes
+18:40
+of of the uh of the I don't know what to call it AI
+18:46
+Matrix mind and then you can get some pretty cool responses
+18:51
+um you can see kind of the depth of its understanding of things and I mean understanding of things so those are
+18:58
+kind of fun uh that's what I learned about today super prompting so go try to
+19:04
+Super prompt um maybe you've done it without even noticing that you've done it uh here
+19:11
+I've just for completeness I I asked uh
+19:17
+I asked Bing what a super prompt was and this was his response you can pause uh
+19:22
+to see this um I guess if you're doing an audio only uh podcast uh it says it says the super
+19:30
+prompt is a term uh used in the context of chat GPT I don't know if it's
+19:35
+specific to chat GPT I just know it's used commonly with chat gbt and other
+19:40
+similar language models uh refers to a prompt that is designed to generate a more advanced and complex response from
+19:46
+the model super prompts are used to train the model and generate more sophisticated responses that are closer
+19:52
+to human-like conversation they're usually more detailed and specific rather than prompts that can include
+19:59
+multiple parts or subparts and these prompts can get long by the
+20:06
+way so I think somebody recorded like I don't know if it was 16 minutes or 16
+20:12
+hours for chat gbt to respond with one of these super prompts and it was uh
+20:17
+pretty neat so go try super prompts today
+20:24
+um so we're going to jump from AI I'm going to talk more about some
+Clean code
+20:29
+programming stuff as you know I'm a programmer I love code I code all the time I code as a day job
+20:35
+I love code so much that I make this podcast and I include code stuff because I just love code
+20:42
+so you may have noticed a huge Trend in the last few years of people moving to clean
+20:50
+code I want to use quote clean code or people moving towards uh you know
+20:58
+craftsmanship clean architecture all this stuff all these buzzwords and clean
+21:04
+code is basically like testable Code test driven development for some people
+21:11
+tiny functions uh making every making it so that your code doesn't need comments
+21:18
+to explain itself anybody can read it and I like to throw design patterns in there because it's not often said with
+21:24
+clean code for some reason as far as I've seen but there's some really good design patterns that help you create
+21:30
+clean code my favorite design pattern is the visitor pattern and that's
+21:37
+basically where you can create a system that executes some unknown uh maybe
+21:44
+structured concept it's hard to explain and you pass it a class or you pass it a
+21:50
+function and that's the mechanic that it runs the context that it runs within so
+21:56
+in that way you can have this core system that does a specific thing and you can alter it by passing out a class
+22:03
+with certain functions or functions themselves to change the behavior while
+22:09
+keeping that one particular piece of code so I think an easy example would be
+22:14
+like rather than using inheritance to say there is an animal and from the animal there is or there's a being which
+22:22
+animal derives from and then you have a dog and a cat and they both have speak and they do a different response instead
+22:29
+of having a hierarchy you can have a flat class that is animal processor and then you pass in a dog
+22:36
+which has a speak function and you pass in a cat which has a speak function and it does speak that way so you don't have
+22:41
+to do inheritance and that way um cats and dogs in this scenario don't have any relationship at all they don't
+22:48
+have to you can use an interface or you can pass them as a function the cat function that does the cat speak
+22:55
+function or whatever and so the class itself that's managing it just knows that it gets things that speak and it
+23:03
+runs this big code on it so that's the visitor pattern there's tons of patterns
+23:09
+just look up the gang the gang of four book if you have the book you can just
+23:15
+go to the very back uh the very back of the book and it has a list of all the patterns which is nice
+23:22
+but yes I I will say all that being said do not
+23:30
+do not uh vehemently abide by Clean code and I'll
+23:36
+tell you this now I write tests functions to test AI generated code but
+23:42
+I don't often write test functions for my own code and my own projects I make
+23:47
+small functions that do very specific things which it would be nonsensical for
+23:53
+me to test because especially when I'm working alone when I'm working with a
+23:58
+team it's a different story but when I'm working alone I don't need to over complicate it I know when I write a function I don't change it if I change
+24:06
+it I'm very specific on how I refactor it whether it gets all deleted and
+24:11
+replaced with something else or something in that realm so all you clean coders out there
+24:17
+congratulations for knowing what clean code is and clean architecture and design patterns and test driven
+24:24
+development and all that sort of stuff but life is life is simple take it take it
+24:31
+easy don't be Zealot about it and one of the things that you'll find
+24:38
+is if you adhere too close to clean code and everything's interfaces and everything's abstract and everything's
+24:43
+going everywhere especially for your own personal projects or projects you put up on
+24:50
+GitHub as libraries you'll find that you wind up with
+24:55
+unreadable code anyways even though your your whole goal was to make readable
+25:00
+code you get way too many intertwined different things or disconnected things even worse
+25:06
+um one of the things just an aside when I program in unity
+25:11
+I like to leverage Unity so all of it signals all of its how it connects
+25:18
+different objects I like to leverage it because when another person who's using Unity comes and they they want to work
+25:24
+with me or they they just see the code or see the project they understand
+25:30
+what's going on they can find where things are and what things are doing they don't have to go through and find
+25:36
+the class and then go to its manager and then go to the then go to the facade which manages the manager's list which
+25:43
+comes from a factory which comes from an abstract Factory they don't need to go through all that to figure out that the
+25:49
+character can jump they can see just straight in the code exactly what it's doing
+25:55
+and I get trying to abstract a way to make everything interchangeable and all that but I will argue
+26:03
+that as a huge proponent of clean code by the way uh in in a lot of scenarios
+26:09
+especially in working with teams uh it is a major downside and I will argue
+26:16
+that it will bloat your code and make it unreadable if you adhere to it too far
+26:22
+and it'll slow down your code because you've you've abstracted everything
+26:27
+just off to Oblivion so what I like to do in my personal projects is I like to stick to flat
+26:36
+non-hierarchical refactorable code the most important
+26:41
+thing in my mind is that I write code that is easy to refactor whether it's deleting whole functions and replacing
+26:46
+them with another or just changing out being able to
+26:53
+delete maybe an entire set of files or change out the data structure easily
+26:59
+that's what I aim for is refactorable code because I refactor my code non-stop all the time over and over my game
+27:06
+engine that I was I've written in C has been Rewritten multiple times I've converted it to C plus plus and
+27:12
+converted back to C twice and I've also refactored the entire math library and
+27:18
+everything else and so it's been it's like uh what's that joke theseus's ship I I know
+27:25
+that off top of my head because my wife has been making fun of this person who fixes her husband's shoes and not making
+27:32
+fun of her but making fun of the people comment on it because every comment is oh it reminds me of Theseus ship but
+27:37
+that's kind of what my code is like everything's been replaced it's it's not none of the code is the same from the
+27:43
+original maybe except for some of my standard string string functions and stuff like that
+27:49
+so that's my thoughts on the clean code try to do clean code but don't don't stick to it too strictly
+[Basics] Securing keys
+27:57
+um now I I don't want to speak just to Advanced programmers to to more inexperienced programmers
+28:05
+people who are just learning or learning the ropes or getting into things or you're an advanced programmer you've
+28:11
+done assembly coding but you haven't done any web one of the things that I've seen in repositories recently which is why I
+28:18
+want to talk about it is you'll find API keys and other sensitive keys and that
+28:24
+sort of stuff inside of public GitHub repositories and you know people can take those keys and
+28:31
+wind up racking up a bill for you in fact I wouldn't be surprised if there's people who Crawl Through the different
+28:37
+projects looking for keywords for specific apis and see if they can't get a free key for a little bit
+28:44
+and um and I've seen people ask about it what do you do with you know these keys
+28:51
+so especially in web or any kind of development it doesn't have to be web you could be deploying uh game server or
+28:57
+anything like that you don't put your keys anywhere in your code base at all
+29:02
+if you need to regenerate keys because you forgot it or you've deleted something that you're keeping it at the
+29:09
+secure place you're keeping it in no big deal regenerate it um
+29:14
+but what you want to do is when you deploy your
+29:20
+code your application your game server is that you want to push your key
+29:25
+through through and add it as the environment variables
+29:30
+or add it as a file that's inaccessible that's kind of in a weird directory that
+29:37
+is hard for anyone to access access without you know root privileges or something
+29:42
+like that just you want to push your keys into your server so don't put it in your
+29:49
+code base don't put in any code base don't even put it in a private repository just keep them locally
+29:55
+and push them if you're using Docker often you'll put these in environment variables and just push them off to the
+30:02
+server so that's just a little tip on that because
+30:07
+I've seen some issues with that so uh oh this one is pretty cool I found
+GitHub map project
+30:15
+a random project where somebody was doing a map of GitHub and this was a
+30:24
+pretty neat project I I like these kinds of things I like especially and like in these
+30:31
+where it connects things I don't know why they're connected probably because they're Forks of each other or something like that
+30:37
+but I have this page here called map of
+30:43
+GitHub and uh this is who it's made by and VA
+30:49
+and vaka here I mean I can go to his uh he's in Seattle
+30:57
+does a lot of web stuff anyways um here's uh here's land of unity so we
+31:02
+can zoom in on the land of unity and you can see a whole bunch of little dots starting to appear
+31:07
+as you get closer you get inundated with a sea of dots and you can click on I
+31:15
+think the circle yeah and then you can see all these lines connecting it to things why they're
+31:20
+connected to those things I don't know like let's go to it page not found oh I
+31:27
+guess some of these are broken how about you outline effect oh it has uh
+31:32
+it looks like it's readme here yeah I think it sticks its read me
+31:38
+inside of there um why is it connected to something else maybe it's a sub-repository or something
+31:44
+like that it's just a readme a review code I'm not in desktop mode it's
+31:49
+collapsed maybe it's these packages
+31:55
+it's probably these packages anyways I don't want to get it I don't want to go browsing through this stuff
+32:02
+uh in the podcast but I thought this was really neat um if you guys know any
+32:07
+projects like these just random stuff it's like a mind map basically fbx
+32:13
+exporter ooh Unity fbx exporter
+32:18
+Unity Technologies I guess this oh this must be the unity's fbx
+32:23
+exporter plugin no Unity 3 Japan oh maybe anyways like I said I can browse
+GitHub explore feature
+32:30
+these all day long so if you have any that you like um similar to this or you know any language I I uh it doesn't matter to me
+32:39
+um send them my way I love to look through these um
+32:45
+so I this is On a related note
+32:51
+um have you I don't know if you've explored GitHub before it took me a long and like
+32:58
+I've had a GitHub account forever and I never went through the explore tab
+33:04
+um which is hilarious because that's I mean I just showed you I like
+33:10
+to look around at those kinds of things but um a few years back I started using explore
+33:15
+Tab and so you can find things like this one that I I shared was game engines and
+33:21
+I've done a video in the past like I don't know a while ago a couple maybe a
+33:26
+year or two ago about all the different game engines that you can find inside of
+33:32
+GitHub for all different kinds of things 2D 3D Half Baked all that sort of stuff
+33:37
+of course you're going to have your number one uh most starred stuff up here Godot
+33:43
+um but you know you'll have I'm gooey I am GUI however you want to
+33:49
+say it um it's a popular UI Library it's uh
+33:55
+it's kind of essentially it doesn't keep track of the things it creates it's
+34:02
+it's an immediate mode that's what im stands for it's an immediate mode where you have to tell it to render stuff what
+34:08
+it's rendering kind of every frame um but I'm not going to go through all
+34:13
+these but there's there's all kinds like this is a refreshing a refreshingly simple data driven game engine built in
+34:20
+Rust so uh I guess Bevy must be a popular one for the rest the restarians
+34:27
+restitonians all the rusties it's pretty cool
+34:34
+um but there are I was about to say hundreds there are thousands I think there's five thousand
+34:41
+let me scroll down to the bottom here um maybe it's not at the bottom there's
+34:46
+oh here it is it was at the top there's almost uh well there's if you round up almost 6 000 uh game
+34:56
+engines and you know some of them are pretty cool uh I kind of spent some time
+35:01
+perusing these uh a year or two ago and they were there's
+35:09
+just some really cool stuff and you can get some pretty cool shaders that people have done there's a lot of you know
+35:14
+available shaders um with like demos and and Cool Stuff uh I
+35:20
+like writing shaders but I do like uh checking out what other people do because lots of other people are way
+35:26
+better at shaders than I am um I don't even I don't even really use Shader graphs I
+35:32
+I I find them too cumbersome for me I like to hand type it but
+35:38
+um I hate debugging shaders it takes forever so yeah I like to look at other people's
+35:45
+shaders for inspiration and and that sort of stuff so pretty dope
+35:51
+uh yeah if you have some time come in here feel free to to browse through
+35:59
+the thousands and thousands and thousands of game engines you'll find one for every language and you'll find
+36:04
+one for every scenario and let's see what you can filter by you can filter by star most fewest
+36:11
+most Forks that'd be interesting and I've I'd assume it's relative to the Stars
+36:17
+all right let's find out yep Godot IMG I'm gooey Coco's 2D
+36:24
+I guess it's a little different about the same though I I feel like those two are superfluous
+36:29
+um or the forks is Superfluous that is the Stars kind of is basically the same
+36:35
+thing I wouldn't recommend fewer Stars um you're gonna get tons of zeros
+36:41
+and I don't know what order those are in so recently updated this might be pretty cool
+36:48
+Coco's Creator yeah so if you ever get some time come out here and explore the GitHub
+36:56
+there's a lot of cool stuff you can select on topics and you can select
+37:01
+different topics based on what you're interested in one topic that I have saved is C I love looking through C
+37:08
+stuff I love uh getting ideas from from sea
+37:13
+and look here's OBS uh but I love just looking through see
+37:19
+stuff since it's my favorite language lots of good stuff in there so check it out play around and uh
+37:26
+send me if you find if you find some cool stuff send them my way I'd love to uh look I
+37:34
+love looking through this stuff like I said so uh I think you know we're coming to the end
+37:41
+of this and one of the things that there's one other thing that bothered me I hate I I
+Play Zelda in Zelda?
+37:48
+strongly dislike to end on a sour note but it's a it's a goofy one to me
+37:54
+um there's there's this article that was posted and it bothered my wife too where
+38:01
+I don't know if it's called a straw man argument or a gas lighting or what um but it was about not being able to
+38:08
+play Zelda inside of the uh you know Legend of Zelda series I know ironically you don't
+38:15
+play a Zelda and Zelda you play as Lincoln Zelda and
+38:21
+I don't think this is they made it seem like everybody on the planet was wanting this to happen
+38:27
+and you could play a Zelda and tons of games you could play in Zelda you know super smash you can play in Zelda as uh
+38:33
+what was it called Hyrule Warriors you could play Zelda and like tons of like offshoot games
+38:39
+um so I don't know if she's in Mario Kart now she might even be in Mario Kart uh I
+38:46
+don't understand the need for people to come up with problems maybe it's because
+38:52
+they're being paid to write articles and so they've got to figure out how to spend their day doing something and so
+38:59
+they come up with these weird ghosts that they have to chase and the way they word it is like
+39:05
+everybody on the internet wanted this like with no citation of all the people that wanted it I'm sure there's you know
+39:11
+a pocket of people that want to play Zelda and a Zelda game but um generally you play Legend of Zelda as
+39:18
+link that's how it's always been it's a great game for its mechanics you want to focus on the gameplay you want to focus
+39:24
+on all that sort of stuff you don't want to have to focus on character semantics and altering your
+39:31
+story and changing your formulas just so you can play as one of the other characters in there and they have lots
+39:36
+of characters it doesn't just have to be Zelda people are complaining and I mean you could just mod the games
+39:43
+if you really want to play a Zelda but yeah there's this is the uh the article
+39:50
+in question uh by thegamer.com Nintendo has no plans to make Zelda a
+39:57
+playable character it's a news flash big old bold headline right there no plans
+40:04
+oh how dare they as theories that Zelda would be playable in tears of the Kingdom have proven
+40:10
+wrong the wrong all those theories I'd never heard once they're all just ugh
+40:16
+and Nintendo even worst of all Nintendo doesn't plan to change anytime soon
+40:23
+game that makes them millions and millions of dollars and is huge Smash
+40:28
+Hits they don't want to change it up and you know potentially alienate audiences ugh
+40:36
+uh yeah it's just I feel like this is I don't know like I said I don't know if
+40:41
+it's straw man or Gaslight it feels like one of those things where companies point at or no news people in
+40:49
+general point at something and then they say what do you think about that and they point it and they
+40:56
+they start asking that to like corporations and stuff like trying to get them the way in on stuff they don't
+41:01
+need to weigh in on and in my opinion Nintendo and they make tons of money they have
+41:07
+the IP solid it's a fantastic like everybody loves the characters everybody loves the the storyline even though it
+41:13
+repeats it's it's a formula that works that people really like they focus on link doing these interesting game
+41:19
+mechanics so um but yeah they're saying like uh
+41:24
+however yet again is not the case yet again oh no
+41:30
+every single time I'm let down every time my Zelda game comes out it's a Smash Hit and I'm always thinking about
+41:37
+why couldn't I play Zelda um yeah it's
+41:42
+it's uh they even mention uh that here we go unfortunately
+41:48
+uh that has many fans wondering if Zelda these mini fans I don't know where they
+41:54
+are maybe they meant to put m-i-n-i mini fans a small group uh of her playing in
+42:01
+the mainline game and that's the thing is like why does it have to be Mainline game that's why it's like
+42:07
+you wanting to make Facebook or something um WhatsApp I just remembered the the chat
+42:13
+app that's like saying you want to put WhatsApp on the front page of Facebook it is I don't know a you know a lot of
+42:20
+people use it or like it so might as well swap out your main thing for that it it
+42:26
+doesn't make much sense business-wise um you you kind of follow the money when
+42:31
+you're in a business if you've got a formula that works especially that's growing as big as Zelda does uh which I
+42:37
+think is like their biggest title uh you don't go tweaking that much you you
+42:43
+make better game mechanics games are about the mechanics games are not about the characters games are not about the
+42:49
+stories both of those things make games better but that's not what games are
+42:54
+about they're about what the player does the games are about the player and everybody has to get that in their their
+43:01
+minds the game is for the player and is about the player you don't need
+43:07
+to pressure them into worrying about all these things they don't need to worry about just let them have fun playing their game
+43:13
+okay so that was my rant on this particular article sorry uh whoever you
+43:19
+are this person um this is this is dumb it's a waste of
+43:26
+it's a I I don't like these kinds of these kinds of articles that point at
+43:32
+random ghosts and say why isn't that the way it's I think it should be
+43:38
+um you know so anyways I haven't played by the way just a side
+43:43
+note no don't spoil anything for me I have not played the new Zelda game I can't play it you see I'm about to
+43:50
+have a baby I'm very excited about this baby and I can't get sucked into a video game just as I'm about to have a baby
+43:57
+she'll be here any day now and I probably won't be able to play the Zelda unfortunately and I really do want to
+44:04
+play it I probably won't be able to play it for a few months until you know she's stable
+44:10
+I mean you know my wife is all healed up and feeling better I I've already got a
+44:16
+child to I'm going to be looking after my son basically the whole time because he's
+44:24
+he's fairly young and uh they're they're pretty close in age I can say so I'm gonna have my hands full
+44:31
+and I I though I really want to play this game I'm gonna have to hold off on it so no spoilers for me don't tell me
+44:37
+anything you can tell me what you like in general the public stuff like hey I
+44:42
+like building cars and and trees into spaceships uh or whatever but
+44:49
+don't spoil any of the like mechanics they haven't already kind of exposed or anything like that I I like to go and
+44:55
+blind on these things in fact I a goofy story I I like all the side things in games I
+45:04
+haven't even finished beating breath of the wild I've done everything like mastered all the cooking stuff I've got
+45:10
+all the best clothes the last thing that I need to do is beat uh the final boss
+45:16
+which is Ganon presumably I have I like I said I don't spoil myself on this stuff
+45:22
+um I haven't even beat him yet because I did everything else and there's a few things I haven't done
+45:28
+I something I like to do like there's a few of the um shrines I haven't completed so something
+45:34
+I like to do is I like to do all of the side things and then beat the final boss
+45:40
+because then it's like a super completionist feeling moment it feels incredible the downside is six years
+45:46
+later I have to be the boss but the upside is it feels amazing when I do and uh because one of the one of the things
+45:53
+that I feel suck is is if you finish the game beat the boss and then there's a
+45:59
+bunch of side things to do it feels like it's backwards order like I feel like you should do all of the adventuring
+46:05
+before you beat the penultimate boss and then say I'm done that's just me though I'm sure
+46:12
+but that's just what I like to do in games so games like Grand Theft Auto games like I don't even know what the
+46:20
+main story Quest is and uh things like Skyrim I have no I have no idea at all I
+46:26
+just I just get plopped in the world and I do everything but the main story that's just how I am so anyways
+46:33
+uh that's my thoughts and thanks for watching I guess I'll see you guys in
+46:39
+the next one have a good one bye for now

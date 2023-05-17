@@ -1,0 +1,1920 @@
+1
+00:00:00,000 --> 00:00:02,000
+welcome back today we're one step closer to Microsoft buying blizzard
+
+2
+00:00:06,000 --> 00:00:08,000
+some new sea stuff I got a PHP note uh we got there's a lot of stuff about
+
+3
+00:00:11,000 --> 00:00:13,000
+programmer health and some other stuff to go over today so I guess the the first big story that
+
+4
+00:00:19,000 --> 00:00:21,000
+happened today was Microsoft is one step closer to buying blizzard of course this is all part of the
+
+5
+00:00:25,000 --> 00:00:27,000
+industry consolidation that everyone's talked about for the game industry and it's
+
+6
+00:00:31,000 --> 00:00:33,000
+part of uh I think it's it's it's related to something I mentioned before which is
+
+7
+00:00:36,000 --> 00:00:38,000
+we have an issue where a lot of stuff there's just a lot of games being
+
+8
+00:00:42,000 --> 00:00:44,000
+published out to steam and app stores on both IOS and Android and a lot now even
+
+9
+00:00:48,000 --> 00:00:50,000
+on the Nintendo switch which used to be a really walled off garden garden and with all that noise it's really hard
+
+10
+00:00:57,000 --> 00:00:59,000
+for people to punch through it and become successful a lot of them have to go through
+
+11
+00:01:02,000 --> 00:01:04,000
+YouTubers and YouTubers have a very specific show to put on so a lot of
+
+12
+00:01:09,000 --> 00:01:11,000
+games are being kind of developed in a way that YouTubers can can use them to be funny
+
+13
+00:01:16,000 --> 00:01:18,000
+or entertaining and so we've got a lot of noise in that at respect
+
+14
+00:01:22,000 --> 00:01:24,000
+there's a lot of games that are getting published with unity assets store stuff they just pull some stuff off the asset
+
+15
+00:01:28,000 --> 00:01:30,000
+store they pay a few bucks for throw it all together do some very light coding
+
+16
+00:01:34,000 --> 00:01:36,000
+and then they put out a game in in less than a week and sometimes they're really successful on on YouTube there's a lot
+
+17
+00:01:41,000 --> 00:01:43,000
+of channels out there constantly looking for more content and games to play that are
+
+18
+00:01:48,000 --> 00:01:50,000
+different and so that constant stream is really nice that being said that makes for a lot of
+
+19
+00:01:54,000 --> 00:01:56,000
+noise in the game industry lots and lots of noise on all platforms we have a lot
+
+20
+00:01:59,000 --> 00:01:61,000
+of adult games coming out of nowhere in my my wife complains a lot about how
+
+21
+00:02:05,000 --> 00:02:07,000
+many adult games she's getting on Steam even though she has so many filters to block them they keep coming through I
+
+22
+00:02:11,000 --> 00:02:13,000
+think it's kind of the joke now everybody kind of sees that so with all that Madness
+
+23
+00:02:16,000 --> 00:02:18,000
+big companies they have the money to push their games to push their products
+
+24
+00:02:21,000 --> 00:02:23,000
+they they can Market to millions of people they have hundreds of millions of dollars to put into marketing and
+
+25
+00:02:27,000 --> 00:02:29,000
+research and influencer campaigns lots of influencer campaigns a lot of streamers are paid to
+
+26
+00:02:34,000 --> 00:02:36,000
+pay those the games to uh to promote them and uh sometimes I I don't even I don't
+
+27
+00:02:42,000 --> 00:02:44,000
+know if the streamers even mentioned that they are um paid to promote them and if they do it's probably at the beginning of the
+
+28
+00:02:48,000 --> 00:02:50,000
+Stream and a lot of people aren't there for that so they just think that the streamer is like playing this game that they really just found and enjoyed when
+
+29
+00:02:56,000 --> 00:02:58,000
+those streamers are paid a ton of money to stream and I know this because I've worked with companies that do those
+
+30
+00:03:01,000 --> 00:03:03,000
+kinds of campaigns and they're a valid marketing campaign because you can get a lot of uh people to play your game using
+
+31
+00:03:09,000 --> 00:03:11,000
+this technique so how does that relate to Microsoft buying blizzard and consolidating of the
+
+32
+00:03:16,000 --> 00:03:18,000
+game industry well like I said in some previous videos people these companies are able to spend
+
+33
+00:03:22,000 --> 00:03:24,000
+millions and millions of dollars to get eyeballs in their games to buy their games and they make tons of money and
+
+34
+00:03:28,000 --> 00:03:30,000
+all the little companies that can't compete with that wealth have a very hard time even with really
+
+35
+00:03:34,000 --> 00:03:36,000
+incredible games there's a lot of incredible games that just nobody ever hears of or that never can get completed
+
+36
+00:03:41,000 --> 00:03:43,000
+because they can't get the funding and um so these big companies get bigger
+
+37
+00:03:47,000 --> 00:03:49,000
+they spend a lot of money to make a lot of money and then they spend that money to buy up all the other medium-sized
+
+38
+00:03:53,000 --> 00:03:55,000
+businesses I think every every company I've worked at for the last three companies
+
+39
+00:03:59,000 --> 00:03:61,000
+all three of them were purchased by a much larger company and one of them got purchased twice by a large company so
+
+40
+00:04:06,000 --> 00:04:08,000
+it's a it's a very real thing the consolidation of all these companies so the European commission has approved
+
+41
+00:04:13,000 --> 00:04:15,000
+Microsoft's blizzard purchase um some some other European country I
+
+42
+00:04:19,000 --> 00:04:21,000
+don't know what it was probably England or something denied it but there's the I don't know
+
+43
+00:04:24,000 --> 00:04:26,000
+how this works but it still goes through and they're still going to be working towards it I am frankly a little bit
+
+44
+00:04:31,000 --> 00:04:33,000
+ambivalent to big companies buying up other big companies or big companies buying up no uh medium-sized companies
+
+45
+00:04:40,000 --> 00:04:42,000
+it's a great way for developers if they get equity in the middle a medium-sized company it's a great way to get an extra
+
+46
+00:04:46,000 --> 00:04:48,000
+paycheck and it's kind of just the way the system is what can we do we can't tell people to stop developing indie
+
+47
+00:04:53,000 --> 00:04:55,000
+games or we can't make them promise that they'll spend more than a week on an indie game before they publish it to
+
+48
+00:05:00,000 --> 00:05:02,000
+steam or any other game store so
+
+49
+00:05:05,000 --> 00:05:07,000
+just getting past that noise is already a high bar even if you do a Kickstarter
+
+50
+00:05:11,000 --> 00:05:13,000
+campaign a lot of the times your game has to be some kind of meme to to just to stand out and punch through all that
+
+51
+00:05:18,000 --> 00:05:20,000
+noise and um that could be frustrating for people who don't want to make meme games they want to make games that maybe
+
+52
+00:05:24,000 --> 00:05:26,000
+tell a story that means something to them or make a game that that's a story for children or or they want to make a
+
+53
+00:05:30,000 --> 00:05:32,000
+game that's uh you know more puzzle related but there's no gimmick and it's just a bunch of series of different
+
+54
+00:05:36,000 --> 00:05:38,000
+kinds of puzzles that sort of stuff and those Developers are basically developing games for
+
+55
+00:05:41,000 --> 00:05:43,000
+themselves and their friends because it's a hard Market to compete with
+
+56
+00:05:46,000 --> 00:05:48,000
+um I'm like I said I'm ambivalent to big companies buying up other big companies I think the consolidation just happens
+
+57
+00:05:53,000 --> 00:05:55,000
+maybe it'll lead to some kind of Tipping Point where um
+
+58
+00:05:58,000 --> 00:05:60,000
+people get tired of it maybe you know developers will get tired of making stuff of course
+
+59
+00:06:04,000 --> 00:06:06,000
+then we get into the whole AI stuff and then putting AI into games for really quick and easy content so I don't know
+
+60
+00:06:11,000 --> 00:06:13,000
+it could be noisy forever or I don't know maybe we can band together all of us game developers who spend a good
+
+61
+00:06:18,000 --> 00:06:20,000
+quality amount of time on our games there's a lot of us so if we got together and you know bought
+
+62
+00:06:25,000 --> 00:06:27,000
+and sold each other's games and uh it kind of collaborated in that way to create our own kind of
+
+63
+00:06:31,000 --> 00:06:33,000
+um group marketing strategy in that way maybe that's the way we can punch through with great game ideas and uh
+
+64
+00:06:38,000 --> 00:06:40,000
+stop leaving it just to the big guys to get to to be able to get their their games out there
+
+65
+00:06:45,000 --> 00:06:47,000
+so beyond uh this kind of business news
+
+66
+00:06:51,000 --> 00:06:53,000
+um the next thing I want to talk about is C C is my is a favorite link is my
+
+67
+00:06:58,000 --> 00:06:60,000
+favorite language um I love C plus plus I love C sharp I love JavaScript python I'm okay with I'm
+
+68
+00:07:05,000 --> 00:07:07,000
+learning I mean I'm learning the python variant and Godot and I've used python for
+
+69
+00:07:13,000 --> 00:07:15,000
+over a decade now um it's not one of my favorites but mainly because the whole tabbing thing
+
+70
+00:07:19,000 --> 00:07:21,000
+in spacing and all that sort of stuff but it's it's a lot different than it
+
+71
+00:07:25,000 --> 00:07:27,000
+was back then so I give you some credit anyways back to C uh we got some great news for some sea
+
+72
+00:07:31,000 --> 00:07:33,000
+people GCC 13 now supports c2x stuff
+
+73
+00:07:38,000 --> 00:07:40,000
+um and some of the notable things that people like to point out is uh null pointer which comes from C plus plus
+
+74
+00:07:45,000 --> 00:07:47,000
+that one I'm iffy about doesn't really matter to me I'm fine with null
+
+75
+00:07:50,000 --> 00:07:52,000
+um this null pointer makes it a little bit more explicit better compiler support that sort of stuff it's not just
+
+76
+00:07:56,000 --> 00:07:58,000
+a macro that evaluates to zero so that that'll allow some better compiler checking for things like that
+
+77
+00:08:04,000 --> 00:08:06,000
+um enhanced enums oh also for null pointer that not only for compilers
+
+78
+00:08:09,000 --> 00:08:11,000
+but kind of uh what are they called a static analysis tools we'll have
+
+79
+00:08:17,000 --> 00:08:19,000
+you know they won't have to deal with evaluating macros by name to figure out what the context is of that people are
+
+80
+00:08:24,000 --> 00:08:26,000
+doing so there are some benefits there for the the static analysis and the compilers enhanced enumerations
+
+81
+00:08:31,000 --> 00:08:33,000
+um if you've used enum you know that it evaluates to an INT an INT on a 16 uh on a 16-bit system is
+
+82
+00:08:40,000 --> 00:08:42,000
+going to be different than a 32 32 and 64 basically the same and evaluates the
+
+83
+00:08:45,000 --> 00:08:47,000
+32 bits but it's ambiguous right that's why we have stdent.h which allows us to use very
+
+84
+00:08:53,000 --> 00:08:55,000
+specific sizes for our integers like n32t unit 32d and all that sort of stuff
+
+85
+00:09:01,000 --> 00:09:03,000
+so the enhanced enumerations if I recall correctly allow you to put a colon and
+
+86
+00:09:08,000 --> 00:09:10,000
+then put the the size of the enum you see this a lot like an Unreal Engine whenever they're doing enums
+
+87
+00:09:14,000 --> 00:09:16,000
+um it's not like in C plus plus the the class enum stuff this is just allowing
+
+88
+00:09:20,000 --> 00:09:22,000
+uh enums to be a little bit safer in that way and adhere to a proper ABI
+
+89
+00:09:27,000 --> 00:09:29,000
+because if you put an enum instead of a struct and you compile it on two different systems you can't guarantee or
+
+90
+00:09:33,000 --> 00:09:35,000
+two different pilers even you can't guarantee that you're going to wind up with the exact same ABI especially
+
+91
+00:09:39,000 --> 00:09:41,000
+across the network if you're talking to like some super small embedded device you want your ABI especially in C to be
+
+92
+00:09:48,000 --> 00:09:50,000
+consistent so enhanced enumerations will help a lot with that another thing that I think my
+
+93
+00:09:56,000 --> 00:09:58,000
+friend a good friend of mine he really really wants from C plus plus which is the auto keyword now you may know that c
+
+94
+00:10:03,000 --> 00:10:05,000
+plus hijacked the auto keyword Auto comes from B which comes before c Dennis
+
+95
+00:10:10,000 --> 00:10:12,000
+Ritchie worked on uh when he worked with B he wanted you know see he's supposed to
+
+96
+00:10:16,000 --> 00:10:18,000
+be somewhat backwards compatible I don't know a whole lot about B but uh the auto keyword came from that and I was for I
+
+97
+00:10:23,000 --> 00:10:25,000
+think locally scoped variables or or maybe something like that and it just got deprecated and unused over time so
+
+98
+00:10:31,000 --> 00:10:33,000
+the auto keyword you'll notice is a keyword in C and um now they're deciding you know Auto
+
+99
+00:10:37,000 --> 00:10:39,000
+bring Auto in and detect types of course you really need that in C plus because some of those types with the namespaces
+
+100
+00:10:44,000 --> 00:10:46,000
+and everything else the namespaces plus the long class names plus the uh you
+
+101
+00:10:52,000 --> 00:10:54,000
+know the templating make just just declaring the type of a variable
+
+102
+00:10:58,000 --> 00:10:60,000
+alone takes up the full 80 columns for people like me who like to call who like
+
+103
+00:11:04,000 --> 00:11:06,000
+to code in 80 columns you know you're going to wind up with like 120 minimum just to Define your variable not even
+
+104
+00:11:11,000 --> 00:11:13,000
+assign it so Otto is super necessary in my opinion for C plus plus not as necessary in C
+
+105
+00:11:17,000 --> 00:11:19,000
+but is nice um for when you just you just want to Auto it in and you don't want to have to
+
+106
+00:11:23,000 --> 00:11:25,000
+worry about it uh I don't I don't change type names that often if I do I use a refactoring tool so I'm not crazy I'm
+
+107
+00:11:31,000 --> 00:11:33,000
+not like banging down the door to get Auto in another one is const expression now I
+
+108
+00:11:37,000 --> 00:11:39,000
+know you see plus plus guys you know what const Discretions are they're a great tool for the compiler we are not
+
+109
+00:11:43,000 --> 00:11:45,000
+talking about the same const expression this is like a lightweight version of constant expression which does allow
+
+110
+00:11:48,000 --> 00:11:50,000
+some compile time stuff it's it's been months since I read the spec on constant expression for C so I I don't recall it
+
+111
+00:11:56,000 --> 00:11:58,000
+off all off the top of my head but go check it out it's the it's kind of like a nice little addition
+
+112
+00:12:02,000 --> 00:12:04,000
+again see it's supposed to be lightweight and I can take or leave any of these I can code in c99 but I do like
+
+113
+00:12:09,000 --> 00:12:11,000
+to stay up to date and see and mess around with like the generic macro or or you know some of the modern Atomic stuff
+
+114
+00:12:16,000 --> 00:12:18,000
+and things like that it is nice to to stay kind of up to date with
+
+115
+00:12:22,000 --> 00:12:24,000
+with computers and just what CPUs and all the CPUs and gpus are doing these
+
+116
+00:12:28,000 --> 00:12:30,000
+days so it's good to stay up to date that's what's happening in Sea land now
+
+117
+00:12:34,000 --> 00:12:36,000
+I'm going to take a second to talk about PHP for you web people who still use PHP
+
+118
+00:12:40,000 --> 00:12:42,000
+I don't I I love PHP because it's so simple I use node.js for websites too I
+
+119
+00:12:46,000 --> 00:12:48,000
+use things like Firebase for a random website every now and then to throw it up um you know I I but I do love PHP
+
+120
+00:12:54,000 --> 00:12:56,000
+because it's very flat straightforward simple and it's well supported on basically everything like coding on
+
+121
+00:13:00,000 --> 00:13:02,000
+Windows is pretty easy debugging in all windows and all that at least since I've
+
+122
+00:13:06,000 --> 00:13:08,000
+been doing it for a while maybe I'm cheating because I've used it for many years but php8 came out a while ago and now I
+
+123
+00:13:13,000 --> 00:13:15,000
+have a little bit of a rant for people who are using PHP and not using php8 I I
+
+124
+00:13:19,000 --> 00:13:21,000
+love PHP and I love the flexibility of it so I get it you want to use kind of
+
+125
+00:13:25,000 --> 00:13:27,000
+the old Trend true but please uh try out php8 and especially try out the uh what
+
+126
+00:13:33,000 --> 00:13:35,000
+do they call type names being able to type name and uh
+
+127
+00:13:41,000 --> 00:13:43,000
+kind of strongly type your PHP is very nice and it's great because it's not all or nothing you can use some strong types
+
+128
+00:13:49,000 --> 00:13:51,000
+or you should use strong types in many places where um you know what the type is going to be
+
+129
+00:13:55,000 --> 00:13:57,000
+and then you can just not use strong types and places that you want to deal with you know strings or network
+
+130
+00:14:01,000 --> 00:14:03,000
+requests or things coming up you know from a client or going to the client or just the arbitrary data like you know
+
+131
+00:14:08,000 --> 00:14:10,000
+collections or an array of you know if you want to make an array with mixed
+
+132
+00:14:15,000 --> 00:14:17,000
+data types inside of them that's completely fine but trial php8 and do
+
+133
+00:14:21,000 --> 00:14:23,000
+use the type the type name syntax the reason I bring this up is because I
+
+134
+00:14:29,000 --> 00:14:31,000
+don't see I see I continue to see PHP being used in the modern era and all of them are
+
+135
+00:14:36,000 --> 00:14:38,000
+like I've even seen stuff on php5 which I used like a decade ago so php7 is pretty
+
+136
+00:14:43,000 --> 00:14:45,000
+popular but try out php8 get up to date it's faster type type safety whenever you add type
+
+137
+00:14:51,000 --> 00:14:53,000
+names you automatically get some magical speed up in your code just because it's
+
+138
+00:14:58,000 --> 00:14:60,000
+known anytime you have something known your code's going to go faster this is this is why native code like C and C
+
+139
+00:15:06,000 --> 00:15:08,000
+plus plus are so fast other than them not having garbage collectors or being
+
+140
+00:15:11,000 --> 00:15:13,000
+interpreted everything you want you try to make everything known and like you duplicate
+
+141
+00:15:18,000 --> 00:15:20,000
+functions that's what templates do they just duplicate the functions for different types and everything is just
+
+142
+00:15:23,000 --> 00:15:25,000
+statically known and so it could be really fast because it knows what it's doing it knows the size of variables
+
+143
+00:15:29,000 --> 00:15:31,000
+that are going inside of functions it doesn't have to dynamically allocate the stack so
+
+144
+00:15:35,000 --> 00:15:37,000
+just a little aside and assembly whenever you compile C or C
+
+145
+00:15:40,000 --> 00:15:42,000
+plus plus there's a thing called a shadow stack and there's also home space these this is a space when you call a
+
+146
+00:15:46,000 --> 00:15:48,000
+function it has to allocate it uses some registers for the first few arguments but then it has to allocate the stack
+
+147
+00:15:52,000 --> 00:15:54,000
+some memory on the stack to be able to know the size of the arguments going in if the size is arbitrary and jumping
+
+148
+00:15:59,000 --> 00:15:61,000
+around all the time it's going to have to determine the size before it can allocate that X that stack space or it's
+
+149
+00:16:04,000 --> 00:16:06,000
+going to over allocate the stack space just to uh just to to support some unknown type so
+
+150
+00:16:12,000 --> 00:16:14,000
+uh it it's yeah type type safety is also good just FYI for all of you PHP
+
+151
+00:16:21,000 --> 00:16:23,000
+programmers out there give it a try I promise you'll love it I love it and I
+
+152
+00:16:28,000 --> 00:16:30,000
+I still keep the flexibility and simplicity of PHP I can write a whole routing I can write an entire
+
+153
+00:16:35,000 --> 00:16:37,000
+router um you know for a request that comes in I can take the URL and figure out which
+
+154
+00:16:42,000 --> 00:16:44,000
+uh like get or post request or even to to return um you know some content with in like 30
+
+155
+00:16:50,000 --> 00:16:52,000
+less than 30 lines of code I can write a PHP router so and that's using all the PHP stuff so
+
+156
+00:16:56,000 --> 00:16:58,000
+give it a try the next thing that I want to talk about is programmers
+
+157
+00:17:02,000 --> 00:17:04,000
+uh Mental Health I saw a lot of news articles recently about programmers with mental health uh
+
+158
+00:17:10,000 --> 00:17:12,000
+not issues but like they're burnt out or you know they stopped coding for a while and they're coming back or they just you
+
+159
+00:17:18,000 --> 00:17:20,000
+know they can't seem to keep a job or get a job the job Market's
+
+160
+00:17:23,000 --> 00:17:25,000
+hard right now I'm not looking for a job so I I don't know about it I know
+
+161
+00:17:28,000 --> 00:17:30,000
+there's been tons and tons of layoffs recently um I don't know how many of those are
+
+162
+00:17:34,000 --> 00:17:36,000
+programmers but I'm I'm certain there's got to be quite a few programmers within there and probably a lot of web
+
+163
+00:17:40,000 --> 00:17:42,000
+programmers and just because I think they got overstaffed during you know
+
+164
+00:17:46,000 --> 00:17:48,000
+the the stuff that went on in 2020 2019 that's all that stuff so they kind of
+
+165
+00:17:53,000 --> 00:17:55,000
+overstaffed and uh you know now it's hard to find work apparently for some people
+
+166
+00:17:59,000 --> 00:17:61,000
+um yeah if you're getting burnout for programming
+
+167
+00:18:04,000 --> 00:18:06,000
+um I don't want to tell you take take a break I don't know uh maybe you're not
+
+168
+00:18:09,000 --> 00:18:11,000
+coding what you love coding I have coded almost Non-Stop
+
+169
+00:18:16,000 --> 00:18:18,000
+no breaks for nearly 15 years uh hours and hours a day every day I
+
+170
+00:18:23,000 --> 00:18:25,000
+still have a wife I still have kids I I still have a job I still do random stuff
+
+171
+00:18:29,000 --> 00:18:31,000
+on the side like this thing and um you know I still could I love code I
+
+172
+00:18:34,000 --> 00:18:36,000
+sat here and read articles about code so if you're getting burned out maybe you're not focusing on what matters most
+
+173
+00:18:40,000 --> 00:18:42,000
+to you maybe you're chasing after Trends maybe you're you're you know not you're
+
+174
+00:18:48,000 --> 00:18:50,000
+trying too hard to complete projects that you're not interested anymore I think the key to my success in
+
+175
+00:18:53,000 --> 00:18:55,000
+continuing to code and not get burned out is that I just whenever I finish coding a part
+
+176
+00:19:01,000 --> 00:19:03,000
+of some big Grand idea that I've had I just quit programming and I'm done and I move it on I move on to something else
+
+177
+00:19:07,000 --> 00:19:09,000
+it's it's not that important to finish the project and you know what you don't always have to be the guy you don't have to go make
+
+178
+00:19:13,000 --> 00:19:15,000
+a million dollars you don't have to be super you know uh you don't have to make some super cool project that everyone
+
+179
+00:19:19,000 --> 00:19:21,000
+uses or anything like that you don't have to be the guy give yourself some slack have fun coding is fun most of it
+
+180
+00:19:26,000 --> 00:19:28,000
+is creative and playing around with different ideas it's all just a game it's a it's a puzzle that you play
+
+181
+00:19:32,000 --> 00:19:34,000
+around with and have fun with and that's the key and that's also why I've programmed in
+
+182
+00:19:38,000 --> 00:19:40,000
+so many languages I have dealt with so many different Technologies and also program stuff for like Game Boy
+
+183
+00:19:44,000 --> 00:19:46,000
+and I've tried out and learned like four different assembly languages I just have
+
+184
+00:19:50,000 --> 00:19:52,000
+fun it's just a puzzle to me so don't burn yourself out if you're being burned out it's probably because you're
+
+185
+00:19:56,000 --> 00:19:58,000
+doing something you don't want to do um the there's uh yeah this this guy here
+
+186
+00:20:05,000 --> 00:20:07,000
+um not gonna show it I don't want to point out anybody specific but you know he's saying that he's having a hard time
+
+187
+00:20:11,000 --> 00:20:13,000
+with the job market but he seems a really like blase like super chill and like you know get coffee
+
+188
+00:20:20,000 --> 00:20:22,000
+and chill sip on some tea a very it looks like uh he mentioned the
+
+189
+00:20:27,000 --> 00:20:29,000
+only reason I know he's a coder is because he mentioned it there's like a one sentence where it was mentioned in
+
+190
+00:20:32,000 --> 00:20:34,000
+this whole thing um so maybe if you talk more about code and uh update your LinkedIn do some
+
+191
+00:20:39,000 --> 00:20:41,000
+things like that I I'm not too fond of his advice advice is just like if you're doing front end do back end
+
+192
+00:20:46,000 --> 00:20:48,000
+um if you're like I don't know stuff about self-care and stuff like that look if you want a job
+
+193
+00:20:52,000 --> 00:20:54,000
+in Co and programming I'll tell you the secret program a lot impress people do some
+
+194
+00:20:57,000 --> 00:20:59,000
+math for fun make a whole bunch of websites make some games uh update your LinkedIn recruiters are always looking
+
+195
+00:21:04,000 --> 00:21:06,000
+on LinkedIn put a whole bunch of keywords of everything you've you've done so you'll see in the first episode
+
+196
+00:21:10,000 --> 00:21:12,000
+of the podcast where I read off a bunch of stuff that I have messed with that list and more is on my LinkedIn and
+
+197
+00:21:18,000 --> 00:21:20,000
+um I'm you know recruiters they look up these keywords and that's how they find people so update your
+
+198
+00:21:23,000 --> 00:21:25,000
+LinkedIn put in all the keywords of the stuff that you know how to do because you will be tested on them if you uh go
+
+199
+00:21:29,000 --> 00:21:31,000
+for a job interview don't waste anybody's time not knowing how to do something um
+
+200
+00:21:34,000 --> 00:21:36,000
+that being said my first job when I barely started coding in PHP ibsed it
+
+201
+00:21:40,000 --> 00:21:42,000
+and said I knew exactly what I was doing and the guy the owner had me come out to the back and he's like look here's my
+
+202
+00:21:46,000 --> 00:21:48,000
+problem with the code and he left me with it and I had to figure it out in 30 minutes and it was just it was a serious
+
+203
+00:21:53,000 --> 00:21:55,000
+problem they had with their company and this was a small company and I figured it out in 30 minutes and I blew my own
+
+204
+00:21:59,000 --> 00:21:61,000
+mind and here's he hired me on the spot because he was so excited that I solved it so sometimes that scenario can work
+
+205
+00:22:06,000 --> 00:22:08,000
+but don't rely on it don't don't take my advice on that
+
+206
+00:22:11,000 --> 00:22:13,000
+um there's been also one other thing related to health and programming
+
+207
+00:22:17,000 --> 00:22:19,000
+is uh people have been talking about software development ethics
+
+208
+00:22:23,000 --> 00:22:25,000
+now I have a very specific view on ethics in programming
+
+209
+00:22:28,000 --> 00:22:30,000
+um if it's a game and it doesn't hurt anybody and you don't steal anybody's stuff and you don't take their money and
+
+210
+00:22:34,000 --> 00:22:36,000
+all this sort of stuff you know if you if you're if you buy a product and you own it for example
+
+211
+00:22:41,000 --> 00:22:43,000
+um like if you buy a a game a modern game even and you tear it apart to
+
+212
+00:22:46,000 --> 00:22:48,000
+figure out what's going on inside of it and you learn their company secrets that way
+
+213
+00:22:51,000 --> 00:22:53,000
+that's fine in my opinion that's you exploring and researching um that's not the ethics I'm talking
+
+214
+00:22:57,000 --> 00:22:59,000
+about here I think their ethics is more about their focus is kind of on artificial
+
+215
+00:23:04,000 --> 00:23:06,000
+intelligence and it it talks about uh you know using AI to steal stuff or scam
+
+216
+00:23:11,000 --> 00:23:13,000
+people all that sort of stuff I don't think I don't think we're gonna
+
+217
+00:23:17,000 --> 00:23:19,000
+change anybody's mind on programming ethics um you're just going to code the way
+
+218
+00:23:24,000 --> 00:23:26,000
+that you code if you're going to get more ethical in programming you need to be more
+
+219
+00:23:31,000 --> 00:23:33,000
+ethical as a person and I don't mean to make this less technical to talk but
+
+220
+00:23:37,000 --> 00:23:39,000
+the the problems at the source uh you know that's the same truth and code
+
+221
+00:23:43,000 --> 00:23:45,000
+as it is with people so if if you find that you're talking to somebody or knows
+
+222
+00:23:49,000 --> 00:23:51,000
+somebody that has um you know they're doing nasty things and
+
+223
+00:23:54,000 --> 00:23:56,000
+stealing people's info and trying to scam them you're not gonna you're not gonna change their mind by writing a
+
+224
+00:24:00,000 --> 00:24:02,000
+blog post about programming ethics and trying to get out there and teach programming ethics to groups of people
+
+225
+00:24:06,000 --> 00:24:08,000
+I've seen it on LinkedIn I've seen it in blog posts I've seen it kind of it's like I don't know if people are just
+
+226
+00:24:13,000 --> 00:24:15,000
+trying to become speakers at some kind of event or something but ethics are at the source and the
+
+227
+00:24:20,000 --> 00:24:22,000
+people have to change their own internal ethics they have to be willing not to steal from people they have to be willing not to lie they have to be
+
+228
+00:24:27,000 --> 00:24:29,000
+willing to have integrity in and not run up the clock for their employer doing nothing a lot of programmers don't do as
+
+229
+00:24:35,000 --> 00:24:37,000
+much as they should when uh when they're at work or when they're on teams I have a
+
+230
+00:24:41,000 --> 00:24:43,000
+I have a little story about when I was in college um there was this there's I would always
+
+231
+00:24:47,000 --> 00:24:49,000
+be on teams in college and I was the one even though I went to school for animation I was the one who was doing
+
+232
+00:24:54,000 --> 00:24:56,000
+the code stuff and I wound up doing all the code and the coders just didn't uh
+
+233
+00:25:00,000 --> 00:25:02,000
+they didn't do their their work of course I was a coder at the same time because I was more focused on like on
+
+234
+00:25:07,000 --> 00:25:09,000
+code at that point but I wound up doing all the work and they didn't do anything and you know that's
+
+235
+00:25:14,000 --> 00:25:16,000
+not their own software development ethics that's their own personal ethics they were more interesting one of them
+
+236
+00:25:20,000 --> 00:25:22,000
+was more interested in looking at opengl and making a cube move or something
+
+237
+00:25:25,000 --> 00:25:27,000
+um that's that's just people ethics you can't you can't preach software software ethics to people you gotta teach if you
+
+238
+00:25:32,000 --> 00:25:34,000
+want to preach ethics you got to preach people ethics treat people nicely you
+
+239
+00:25:37,000 --> 00:25:39,000
+know don't steal don't steal from your employer don't steal their time don't
+
+240
+00:25:42,000 --> 00:25:44,000
+steal their money don't steal from others respect others all these things this isn't this isn't a podcast about
+
+241
+00:25:49,000 --> 00:25:51,000
+morals but it uh you need to you need to preach morals to
+
+242
+00:25:54,000 --> 00:25:56,000
+people um not software ethic so um please don't
+
+243
+00:26:00,000 --> 00:26:02,000
+go to any of these software ethics talks I don't I don't know what they really have to talk about
+
+244
+00:26:07,000 --> 00:26:09,000
+um so yeah that's that's kind of the mental health aspect of
+
+245
+00:26:14,000 --> 00:26:16,000
+today's thing and uh yeah I just noticed there was a burst in
+
+246
+00:26:20,000 --> 00:26:22,000
+all these I mean it seems to be constant ever since 2019 lots of mental health and
+
+247
+00:26:29,000 --> 00:26:31,000
+kind of existential crises with programmers I don't know why programmers
+
+248
+00:26:34,000 --> 00:26:36,000
+have have this you know I I feel like I've been playing a game for 15 years so
+
+249
+00:26:40,000 --> 00:26:42,000
+I had I I've I haven't really felt this but all I can say is what I've done and
+
+250
+00:26:46,000 --> 00:26:48,000
+hopefully that helps somebody out there um so I want to talk about now
+
+251
+00:26:53,000 --> 00:26:55,000
+Google is one of those
+
+252
+00:26:59,000 --> 00:26:61,000
+um they're not part of I can I don't think I see a n n the domain name I don't know
+
+253
+00:27:05,000 --> 00:27:07,000
+what to call them the domain name uh Consortium or something like that but they are kind of they are associated to
+
+254
+00:27:12,000 --> 00:27:14,000
+it which means they can come up with domain names and one of the things that they
+
+255
+00:27:18,000 --> 00:27:20,000
+decided to come up with there I've even got the site here to to show you
+
+256
+00:27:25,000 --> 00:27:27,000
+one of the things that they came up with is here's the new domain names let me zoom
+
+257
+00:27:33,000 --> 00:27:35,000
+in on this okay dot Foo okay I feel like that's some kind of
+
+258
+00:27:40,000 --> 00:27:42,000
+programming joke Maybe okay that's fine um let's see what else we've got
+
+259
+00:27:47,000 --> 00:27:49,000
+dot zip now the uh
+
+260
+00:27:53,000 --> 00:27:55,000
+eagle-eyed viewer out there will know that dot zip is probably not a
+
+261
+00:27:59,000 --> 00:27:61,000
+good idea for a domain extension uh what are they called top level domain name or
+
+262
+00:28:06,000 --> 00:28:08,000
+something like that tldn or something dot zip is probably not a good idea you probably shouldn't use super well-known
+
+263
+00:28:12,000 --> 00:28:14,000
+extensions for your domain names and now this is the goofy part uh ZIP this is their
+
+264
+00:28:18,000 --> 00:28:20,000
+definition this is what they told icann and these are approved I believe
+
+265
+00:28:24,000 --> 00:28:26,000
+please note that the launch schedule for this is the this TLD has been modified since being announced the schedule is
+
+266
+00:28:30,000 --> 00:28:32,000
+published below and has been updated and approved by a icannn
+
+267
+00:28:36,000 --> 00:28:38,000
+zip is a secure domain name for typing for tying things together or moving
+
+268
+00:28:43,000 --> 00:28:45,000
+really fast hosting content on a dot zip domain means speed this is kind of like
+
+269
+00:28:49,000 --> 00:28:51,000
+Zip and Zippy's Zip Zip Zip um so
+
+270
+00:28:56,000 --> 00:28:58,000
+maybe they didn't realize that's also for the compressed file type
+
+271
+00:29:01,000 --> 00:29:03,000
+I feel like that's just problems waiting to happen like who first of all
+
+272
+00:29:07,000 --> 00:29:09,000
+I would never make a domain name unless it's a joke as a dot zip because you'll
+
+273
+00:29:12,000 --> 00:29:14,000
+probably put it be put on all the spam lists and no one will probably click your link they'll think that you're
+
+274
+00:29:18,000 --> 00:29:20,000
+scamming them with a zip file that's already one problem and good on them too because I I can tell you that dot zip
+
+275
+00:29:26,000 --> 00:29:28,000
+domains will probably use be used to scam people a lot
+
+276
+00:29:31,000 --> 00:29:33,000
+you know free music dot zip and it'll download a zip file when you go to it
+
+277
+00:29:37,000 --> 00:29:39,000
+and then of course the kids or or whoever is downloading this um will then get a virus because they
+
+278
+00:29:44,000 --> 00:29:46,000
+went to this dot zip domain and I know it's not any different than
+
+279
+00:29:50,000 --> 00:29:52,000
+freemusic.com zip or slash whatever or if you meet freemusic.com and then get a
+
+280
+00:29:56,000 --> 00:29:58,000
+you know a zip file sent to you but if something downloads when you go to a
+
+281
+00:30:01,000 --> 00:30:03,000
+website you are probably questioning it even the kid would be like I didn't click on
+
+282
+00:30:07,000 --> 00:30:09,000
+anything but if you go to a dot zip domain and it downloads something that's a zip file you probably won't question
+
+283
+00:30:13,000 --> 00:30:15,000
+it as much I'm just saying the other one is dot mov
+
+284
+00:30:19,000 --> 00:30:21,000
+um let's see this is a secure domain for moving pictures and other things that
+
+285
+00:30:24,000 --> 00:30:26,000
+move for anything that moves you dot move is the perfect domain this is also a famous
+
+286
+00:30:32,000 --> 00:30:34,000
+file extension and if you download a mov file by going to
+
+287
+00:30:38,000 --> 00:30:40,000
+I don't know pocahontas.mov and it downloads a movie called Pocahontas
+
+288
+00:30:43,000 --> 00:30:45,000
+and it's not really a movie file and something else then you
+
+289
+00:30:49,000 --> 00:30:51,000
+have another problem I love dot dad though that Dad is
+
+290
+00:30:55,000 --> 00:30:57,000
+is a secure domain for dads and I'm a dad I can get behind dot dad that's that's
+
+291
+00:31:01,000 --> 00:31:03,000
+awesome so I can't get behind.zip.mov but I can get behind.dad
+
+292
+00:31:07,000 --> 00:31:09,000
+um dot PhD dot Professor hopefully these uh
+
+293
+00:31:13,000 --> 00:31:15,000
+show off your teaching credentials um hopefully these are locked I don't know what uh if if any of these are
+
+294
+00:31:20,000 --> 00:31:22,000
+locked like dot edu and dot gov are locked you can't get them as an individual you have to prove that you're
+
+295
+00:31:26,000 --> 00:31:28,000
+a educational uh Institution for edu and you have to prove your government entity
+
+296
+00:31:31,000 --> 00:31:33,000
+for dot gov and that's why those are successful and you can use the edu for
+
+297
+00:31:37,000 --> 00:31:39,000
+you know getting discounts and stuff is because they can trust that those are locked I don't know if PhD and Professor
+
+298
+00:31:43,000 --> 00:31:45,000
+are locked nor do I care I don't think um
+
+299
+00:31:49,000 --> 00:31:51,000
+I don't think certain people in society should just get and get special like individuals get
+
+300
+00:31:56,000 --> 00:31:58,000
+special privileges for domain extensions that seems a little weird
+
+301
+00:32:01,000 --> 00:32:03,000
+um especially when there's a lot of people with phds that aren't uh you know that study weird that study weird things
+
+302
+00:32:08,000 --> 00:32:10,000
+and they have a PhD and um or they they studied one thing and they start preaching about another and say they're
+
+303
+00:32:13,000 --> 00:32:15,000
+a doctor we have a lot of those on you know on the internet my wife shows me a
+
+304
+00:32:19,000 --> 00:32:21,000
+bunch of them uh just these people masquerading as actual scientists or
+
+305
+00:32:24,000 --> 00:32:26,000
+whatever and they're not so these are a little weird I can see these scamming people I can see these
+
+306
+00:32:30,000 --> 00:32:32,000
+scamming people with uh kind of just falsified stuff and even even so there
+
+307
+00:32:37,000 --> 00:32:39,000
+there are a lot of doctors and PhD people out there that kind of they don't have time to do the research
+
+308
+00:32:43,000 --> 00:32:45,000
+let's say they're a doctor and they're a surgeon they don't have time to research uh you know some some other field of
+
+309
+00:32:52,000 --> 00:32:54,000
+Medical Science so they rely on others and so if someone sent them you know if they trust
+
+310
+00:32:59,000 --> 00:32:61,000
+someone and that person's email got hacked and they sent them a fake thing and then this other person started propagating it we shouldn't have like
+
+311
+00:33:06,000 --> 00:33:08,000
+Authority domains outside of uh gov so I don't know what Esq is uh
+
+312
+00:33:15,000 --> 00:33:17,000
+show you are a bar admissions Almar work experience
+
+313
+00:33:20,000 --> 00:33:22,000
+lawyer okay um yeah so I'm not super down on lockdown
+
+314
+00:33:27,000 --> 00:33:29,000
+domains outside of edu and gov I think those were two good choices and the only two that I think should exist dot dad
+
+315
+00:33:33,000 --> 00:33:35,000
+that's the one that wins it I bet you I can saw this list and all they saw was dot dad was like yeah whatever I just
+
+316
+00:33:40,000 --> 00:33:42,000
+let it go we're getting dead there oh Nexus I skipped that one
+
+317
+00:33:45,000 --> 00:33:47,000
+um it's like a hub interesting yeah zip and mov are the ones I wanted to complain about and I
+
+318
+00:33:52,000 --> 00:33:54,000
+have complaint about them so Let's uh move on
+
+319
+00:33:58,000 --> 00:33:60,000
+so another topic that I've seen um fairly recently
+
+320
+00:34:05,000 --> 00:34:07,000
+is I mean it's I've seen it recently but I've seen it
+
+321
+00:34:11,000 --> 00:34:13,000
+essentially the whole time I've done web development and that's people trying to figure out
+
+322
+00:34:17,000 --> 00:34:19,000
+what database to use now a lot of these sites are going to be one versus the other so like graph
+
+323
+00:34:23,000 --> 00:34:25,000
+database versus a relational database or a nosql database versus a SQL
+
+324
+00:34:29,000 --> 00:34:31,000
+database I don't often see vertical databases in here or anything like that so our memory cache databases although
+
+325
+00:34:37,000 --> 00:34:39,000
+MySQL has memory cache it has you can set it up to have memory cache
+
+326
+00:34:44,000 --> 00:34:46,000
+as a storage mechanism so anyways the debate on which database to
+
+327
+00:34:51,000 --> 00:34:53,000
+use um really you should be using many different databases for the different
+
+328
+00:34:57,000 --> 00:34:59,000
+parts of your program that does different things with data so you'll use
+
+329
+00:35:03,000 --> 00:35:05,000
+I think it's a really used like a redis for a leaderboard so that you can
+
+330
+00:35:08,000 --> 00:35:10,000
+quickly sort and select things you'll use a MySQL for long term concrete
+
+331
+00:35:15,000 --> 00:35:17,000
+storage you don't want messed up like accounts and you know keeping track of
+
+332
+00:35:21,000 --> 00:35:23,000
+very sensitive data like that you'll use nosql databases for game data and quick
+
+333
+00:35:29,000 --> 00:35:31,000
+storage of save data or or like where enemies kind of I don't know if you have
+
+334
+00:35:35,000 --> 00:35:37,000
+like timetables or something you can put those in there just kind of transient data that's not so important that's okay
+
+335
+00:35:41,000 --> 00:35:43,000
+to refill um and you'll use you know cache databases
+
+336
+00:35:46,000 --> 00:35:48,000
+for very quick lookups if especially this you you normally front cache like a
+
+337
+00:35:54,000 --> 00:35:56,000
+MySQL relational database you front cache it so that you can if something's
+
+338
+00:36:00,000 --> 00:36:02,000
+requested a lot from those structured databases you can get to that
+
+339
+00:36:05,000 --> 00:36:07,000
+information very quickly another one is uh what did I mention the graph
+
+340
+00:36:11,000 --> 00:36:13,000
+database so graph database is great for data that is highly intertwined think
+
+341
+00:36:17,000 --> 00:36:19,000
+friend graphs I think we've all seen that so you have a lot of you know data that's connected
+
+342
+00:36:24,000 --> 00:36:26,000
+to that's interconnected and it can have some Blobs of information you know like account name and login date and you know
+
+343
+00:36:33,000 --> 00:36:35,000
+friends and the friends is the graph or something like that so use a graph for that kind of data so
+
+344
+00:36:39,000 --> 00:36:41,000
+what I'm getting at is stop arguing over database types use them all they all
+
+345
+00:36:46,000 --> 00:36:48,000
+have a specific purpose for specific things there's not one that's going to be a Magic Bullet there's not one that's
+
+346
+00:36:52,000 --> 00:36:54,000
+going to solve all your problems I know that if you use things like Firebase or whatever they may only have
+
+347
+00:36:59,000 --> 00:36:61,000
+support a couple variants of databases which is bad but it does help with those
+
+348
+00:37:05,000 --> 00:37:07,000
+types of like live apps or whatever um you should use the database that you
+
+349
+00:37:10,000 --> 00:37:12,000
+need for the time you need it uh cool you know key value stores also I
+
+350
+00:37:16,000 --> 00:37:18,000
+know that no SQL is often a key value store but you can also just have a flat
+
+351
+00:37:21,000 --> 00:37:23,000
+like key and value whether it's a blob of binary data or whatever so just pick the database that works for
+
+352
+00:37:29,000 --> 00:37:31,000
+the task not the program not the whole app for the task
+
+353
+00:37:35,000 --> 00:37:37,000
+and you'll be happy that's one of the downsides of web development of your web developer you've got to use
+
+354
+00:37:41,000 --> 00:37:43,000
+different Technologies all the time from the language to the stack to the operating system to the web browser size
+
+355
+00:37:48,000 --> 00:37:50,000
+whether it's a phone or a desktop window or if the database doesn't matter you're
+
+356
+00:37:55,000 --> 00:37:57,000
+using different Tech all the time it's the curse of the job so
+
+357
+00:38:01,000 --> 00:38:03,000
+that's that's my view on all the arguments I constantly see over the
+
+358
+00:38:06,000 --> 00:38:08,000
+years of database selection so don't fall into which database is better use
+
+359
+00:38:12,000 --> 00:38:14,000
+the database that works for the specific type of data and is not unreasonable to use all the databases because you need
+
+360
+00:38:20,000 --> 00:38:22,000
+all those different types of data oh and now I can't uh I can't go on to
+
+361
+00:38:28,000 --> 00:38:30,000
+the fun stuff without talking about artificial intelligence uh it's all in the news so of course there's a lot of
+
+362
+00:38:35,000 --> 00:38:37,000
+news for it Google has you know they had Google I O just
+
+363
+00:38:40,000 --> 00:38:42,000
+recently that's the developer um as the developer conference for Google
+
+364
+00:38:47,000 --> 00:38:49,000
+however it's also part uh part them trying to
+
+365
+00:38:52,000 --> 00:38:54,000
+please the investors and also consumers because a lot of people were watching
+
+366
+00:38:59,000 --> 00:38:61,000
+Google I O that have never programmed in their life because they wanted to see the pixel fold I'm not here to talk
+
+367
+00:39:05,000 --> 00:39:07,000
+about the pixel fold I'm here to talk about the goofiness of responsible AI
+
+368
+00:39:10,000 --> 00:39:12,000
+all these people are praising this responsible Ai and I think that it's you
+
+369
+00:39:15,000 --> 00:39:17,000
+know it's good to have responsible AI however putting some metadata on a photo and embedding some data into a photo is
+
+370
+00:39:22,000 --> 00:39:24,000
+not responsible AI responsible AI comes from the source not the output so uh
+
+371
+00:39:30,000 --> 00:39:32,000
+I I know that this is kind of one of the hot arguments on Art and that sort of stuff I'm not
+
+372
+00:39:37,000 --> 00:39:39,000
+here to talk about artificial intelligence reading people's art and stealing it or anything like that I I
+
+373
+00:39:43,000 --> 00:39:45,000
+have no strong opinions on that I love Ai and I also love art and I want to see
+
+374
+00:39:50,000 --> 00:39:52,000
+both of them flourish so one of the things that that felt goopy
+
+375
+00:39:58,000 --> 00:39:60,000
+goofy to me was the responsible AI stuff and if you know the um if you're in the United States you may
+
+376
+00:40:05,000 --> 00:40:07,000
+know that all the tech leaders except Elon Musk went to the White House to talk about artificial intelligence and
+
+377
+00:40:11,000 --> 00:40:13,000
+responsible artificial intelligence so you had like Satya Nadella Microsoft you had whoever was from Google I uh I think
+
+378
+00:40:20,000 --> 00:40:22,000
+the CEOs left and came back I can't remember the names very well and then of course all the other places probably
+
+379
+00:40:25,000 --> 00:40:27,000
+open Ai and all that it was there's a room full of uh you know tech people and the
+
+380
+00:40:32,000 --> 00:40:34,000
+president so they had this whole Meetup about responsible Ai and what does responsible
+
+381
+00:40:39,000 --> 00:40:41,000
+AI mean now it's always kind of goofy to have corporations and CEOs who are beholden
+
+382
+00:40:46,000 --> 00:40:48,000
+to their shareholders in those kinds of meetings to talk about their responsibilities to the human race at
+
+383
+00:40:53,000 --> 00:40:55,000
+large um but you know it is a good thing that
+
+384
+00:40:59,000 --> 00:40:61,000
+they talk about it and of course they get warnings and say hey we're going to regulate this thing
+
+385
+00:41:06,000 --> 00:41:08,000
+probably so stay in line uh
+
+386
+00:41:12,000 --> 00:41:14,000
+anyways the one thing that irked me about the AI thing Google I O was their big push on
+
+387
+00:41:18,000 --> 00:41:20,000
+uh detecting AI generated images the image thing really got me because
+
+388
+00:41:24,000 --> 00:41:26,000
+first of all metadata they're going to put metadata inside of images that's fantastic because you know what whenever
+
+389
+00:41:30,000 --> 00:41:32,000
+you upload an image to any website worth their grain their their weight and salt salt sugar worth their weight in gold
+
+390
+00:41:38,000 --> 00:41:40,000
+uh they strip meta tags So Meta is useless it just gets discarded by all companies
+
+391
+00:41:46,000 --> 00:41:48,000
+because well first they read it they read it for themselves they want to get your GPS location all that stuff that's
+
+392
+00:41:52,000 --> 00:41:54,000
+in your photo by the way turn off GPS on your photos nobody uses the photos where was I GPS
+
+393
+00:42:01,000 --> 00:42:03,000
+thing um on your phone uh you're just giving people your position
+
+394
+00:42:08,000 --> 00:42:10,000
+all the time it's kind of strange and who knows who can get access to that but anyways before they take that photo
+
+395
+00:42:15,000 --> 00:42:17,000
+and send it off and propagate it to everybody they completely strip meta tags just so that it does protect your
+
+396
+00:42:21,000 --> 00:42:23,000
+personal information because photos The Meta for photos can have a lot of stuff in there that shouldn't and also if
+
+397
+00:42:27,000 --> 00:42:29,000
+you're a web developer strip The Meta do not just take people's photos and host
+
+398
+00:42:32,000 --> 00:42:34,000
+them strip them out of there's there's a ton you can just take a photo if you're
+
+399
+00:42:38,000 --> 00:42:40,000
+doing node.js for example there's a library where you can just take the photo and when it takes the photo you
+
+400
+00:42:43,000 --> 00:42:45,000
+can have it as part of one of the arguments to just strip The Meta and if you don't know how to do meta
+
+401
+00:42:51,000 --> 00:42:53,000
+stripping or anything like that the easiest way to do it if you're kind of new to coding or you're not well versed
+
+402
+00:42:58,000 --> 00:42:60,000
+on how to access the metadata on a file if you take the photo and then use like
+
+403
+00:43:03,000 --> 00:43:05,000
+Magics or whatever it's called just any kind of image library and just crop it
+
+404
+00:43:09,000 --> 00:43:11,000
+by like a you don't even I don't even think you have to change it at all but you probably should just so that you
+
+405
+00:43:15,000 --> 00:43:17,000
+know that it's working just like crop it or change something about it using the
+
+406
+00:43:20,000 --> 00:43:22,000
+photo editing software or photo editing the library
+
+407
+00:43:25,000 --> 00:43:27,000
+and then save it and that just strips The Meta automatically because it's saving a new image so strip The Meta
+
+408
+00:43:32,000 --> 00:43:34,000
+inside of the photos and videos please do not do not do not read it do not take
+
+409
+00:43:37,000 --> 00:43:39,000
+it do not sell it do not redistribute it strip The Meta so the second thing is
+
+410
+00:43:44,000 --> 00:43:46,000
+um and this is probably the more clever one but not exactly perfect that's where you can
+
+411
+00:43:51,000 --> 00:43:53,000
+encode data inside of an image without changing how the image looks so you can
+
+412
+00:43:57,000 --> 00:43:59,000
+inject data that's not metadata you know like you know into the interlaced into
+
+413
+00:44:03,000 --> 00:44:05,000
+the pixels or interlaced into the header or anything like that of the file
+
+414
+00:44:10,000 --> 00:44:12,000
+now that's obviously not something that gets stripped very easily but if you
+
+415
+00:44:15,000 --> 00:44:17,000
+open that photo inside of a photo editor and save it that's just going to be gone it's the it's not coded in the pixels I
+
+416
+00:44:22,000 --> 00:44:24,000
+mean even if it is encoded in the pixels it's just going to resave the pixels in a new way when you export from a photo
+
+417
+00:44:28,000 --> 00:44:30,000
+program so it's like the easiest thing to get rid of so even if you use that Library example where you just take it
+
+418
+00:44:34,000 --> 00:44:36,000
+and crop it or whatever and then save it again that little encoded data that was in there is now gone because it got
+
+419
+00:44:40,000 --> 00:44:42,000
+re-saved maybe has a different format or a format doesn't that doesn't support interlaced data inside of the pixels
+
+420
+00:44:48,000 --> 00:44:50,000
+so that's my rant on on that that was just lip service the the photo stuff just pure lip service by Google on on
+
+421
+00:44:55,000 --> 00:44:57,000
+trying to make people think that they're thinking about ethical Ai and in fact in my opinion that's a complete waste of
+
+422
+00:45:01,000 --> 00:45:03,000
+money you shouldn't be putting you know that in fact that
+
+423
+00:45:06,000 --> 00:45:08,000
+doesn't even cost them that much money to put that in you know on the output of the image instead of investing money in
+
+424
+00:45:12,000 --> 00:45:14,000
+ethical AI put and the file that gets outputted you need to invest ethical AI in the input
+
+425
+00:45:19,000 --> 00:45:21,000
+how you train the system what you do with the system that's ethical that is
+
+426
+00:45:24,000 --> 00:45:26,000
+two different arguments so don't believe the hype on when people talk about encoding will
+
+427
+00:45:32,000 --> 00:45:34,000
+tell you if it's a if it's a AI inside of the image or AI generated in the
+
+428
+00:45:38,000 --> 00:45:40,000
+image it's nonsense invest in a in a service where I can upload a picture to Google and it
+
+429
+00:45:44,000 --> 00:45:46,000
+has a memory of all the photos it generated so it can tell me if that photo was generated by AI that right
+
+430
+00:45:50,000 --> 00:45:52,000
+there doesn't need metadata it doesn't need to put little tags inside of the binary that just me send you it and you
+
+431
+00:45:57,000 --> 00:45:59,000
+tell me whether it is just do that that's that's probably way more useful and then just make that an API I can
+
+432
+00:46:04,000 --> 00:46:06,000
+call so I guess that was kind of a rant on ethical AI so we're going to talk about
+
+433
+00:46:10,000 --> 00:46:12,000
+some fun stuff now I've seen in in uh like programming humor stuff
+
+434
+00:46:16,000 --> 00:46:18,000
+a lot of people are fighting over text editors this is funny to me because uh we have people saying I
+
+435
+00:46:24,000 --> 00:46:26,000
+use notepad and of course we all use notepad to do some code but they're all
+
+436
+00:46:29,000 --> 00:46:31,000
+ragging on Visual Studio code I don't know why probably because Visual Studio code came out and it became really
+
+437
+00:46:35,000 --> 00:46:37,000
+popular because it's node.js you can host it on the web you can has all kinds of easy plugins you can use web
+
+438
+00:46:41,000 --> 00:46:43,000
+technology to write your plugins and I've written like language servers and
+
+439
+00:46:46,000 --> 00:46:48,000
+stuff like that and for visual studio code it's nice uh but you have all kinds of people
+
+440
+00:46:53,000 --> 00:46:55,000
+talking about notepad or atom or my text editor runs inside of a terminal uh
+
+441
+00:47:00,000 --> 00:47:02,000
+Visual Studio code doesn't uh my text editor runs a web page within it and all
+
+442
+00:47:06,000 --> 00:47:08,000
+this other stuff so that's a lot of fun go into programming humor and please post some more text text
+
+443
+00:47:13,000 --> 00:47:15,000
+editor uh jokes because I love them they're funny
+
+444
+00:47:19,000 --> 00:47:21,000
+to me I think nobody's taking it seriously of course there are people out there that are dyards on their text
+
+445
+00:47:25,000 --> 00:47:27,000
+editors I can use anything I can use notepad I use c-line I use Visual Studio I use Visual Studio code I use Nano I
+
+446
+00:47:32,000 --> 00:47:34,000
+sometimes use them I use web div editable divs doesn't matter to
+
+447
+00:47:40,000 --> 00:47:42,000
+me text this text whatever as long as I can press Tab and I get a tab
+
+448
+00:47:46,000 --> 00:47:48,000
+that's all I need but those are kind of funny so uh here's
+
+449
+00:47:52,000 --> 00:47:54,000
+here's a I have an example here of one um this is just one I I saw like seven
+
+450
+00:47:59,000 --> 00:47:61,000
+of these I think there's a thing going on right now where everyone's doing them but go contributes these
+
+451
+00:48:05,000 --> 00:48:07,000
+and now I'm going to uh and talk about I I don't know anything about
+
+452
+00:48:12,000 --> 00:48:14,000
+this indie game or anything else I just know it looked kind of fun um so I thought I'd share it just
+
+453
+00:48:18,000 --> 00:48:20,000
+because I I kind of want to talk about indie games every now and then that uh piqued my interest it may be a copy of
+
+454
+00:48:24,000 --> 00:48:26,000
+another indie game and maybe a clone like maybe a stolen idea or whatever the
+
+455
+00:48:29,000 --> 00:48:31,000
+concept is uh pretty fun I'm actually going to turn off as some music I don't know if it's
+
+456
+00:48:35,000 --> 00:48:37,000
+copyright but but the idea is that you have these little paddles on the bottom
+
+457
+00:48:40,000 --> 00:48:42,000
+and you gotta slap the boxes that are coming down and as you rotate them the
+
+458
+00:48:46,000 --> 00:48:48,000
+the paddles on the bottom sticks in place so see you have the blue one on the right now it can wind up all the way
+
+459
+00:48:52,000 --> 00:48:54,000
+on the left and I thought that was kind of a neat little puzzle game I love puzzle games um I love first person shooters puzzle
+
+460
+00:48:59,000 --> 00:48:61,000
+games RTS I love all kinds of games so um I thought this one was kind of fun I so I I kind of wanted to shout out
+
+461
+00:49:07,000 --> 00:49:09,000
+um whatever game this is It's called swap I guess uh pretty neat idea it's fun it's
+
+462
+00:49:14,000 --> 00:49:16,000
+simple um hopefully it's not just going to be a mobile game hopefully there's going to
+
+463
+00:49:20,000 --> 00:49:22,000
+be more to it I'm not super into mobile games but it does have IOS and Android here
+
+464
+00:49:25,000 --> 00:49:27,000
+um and it's coming on Steam so I don't know if you're a developer head add some cool uh some some cool
+
+465
+00:49:32,000 --> 00:49:34,000
+desktop perks um don't don't make your game lock down
+
+466
+00:49:37,000 --> 00:49:39,000
+lock down don't lock down its potential to mobile devices um and that's that's kind of another
+
+467
+00:49:43,000 --> 00:49:45,000
+thing I guess I'll end on is if you're going to make a game
+
+468
+00:49:49,000 --> 00:49:51,000
+and you're gonna put it on different devices uh one of the things that I don't like
+
+469
+00:49:55,000 --> 00:49:57,000
+for example is old games like I don't know Grand Theft Auto Vice City or something coming to
+
+470
+00:50:01,000 --> 00:50:03,000
+mobile because the controls are clunky and I don't I I didn't buy it because I
+
+471
+00:50:07,000 --> 00:50:09,000
+didn't want to play it on phone I've I have copies of you know I have copies of
+
+472
+00:50:12,000 --> 00:50:14,000
+Vice City on Xbox and Playstation 2 I think it is over there somewhere so I I'm not I didn't spend any money on
+
+473
+00:50:21,000 --> 00:50:23,000
+it but I doubt it has good Bluetooth controller support um a lot of games on mobile don't
+
+474
+00:50:28,000 --> 00:50:30,000
+so if you put your game on Steam or whatever make some controller support on mobile put in the extra effort I know it
+
+475
+00:50:34,000 --> 00:50:36,000
+kind of sucks but let's make mobile games better by adding more support controls now let's
+
+476
+00:50:39,000 --> 00:50:41,000
+let's add a whole realm let's Force Google and apple to to have a little tag
+
+477
+00:50:45,000 --> 00:50:47,000
+on there that says you know controller required or something like that let's just make a whole category for it that'd
+
+478
+00:50:51,000 --> 00:50:53,000
+be fantastic I would love that but anyways yeah that was a cool little indie game called swap don't know much
+
+479
+00:50:57,000 --> 00:50:59,000
+more than that video that's all I've seen so uh that's that's about it thanks
+
+480
+00:51:03,000 --> 00:51:05,000
+for thanks for listening and I'll see you guys in the next one bye for now
+

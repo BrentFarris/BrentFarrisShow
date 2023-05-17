@@ -1,0 +1,1020 @@
+0:00
+hello and welcome back this is going to be uh I guess episode two well I start at zero for indexing right so this would
+0:08
+be episode one zero one um welcome to episode one of the podcast
+0:14
+um and I just saw recently that there was kind of an uptick in
+0:21
+uh people who are streaming and they hit alt tab or they have
+0:28
+they just have things on their screen that they shouldn't have you know um everything from like
+0:36
+home addresses web searches adult videos the websites
+0:43
+you know um and that sort of stuff just a lot of personal information
+0:49
+that is just going out there and it's kind of a it's kind of a
+0:55
+problem uh you know with people streaming a lot and exposing all this stuff and there's a lot of easy ways
+1:03
+to combat these problems especially on Windows Windows has a lot of tools for you to not fall prey to this
+1:12
+to this I don't know what to call it the these self-destructive problems and it could
+1:19
+be out of laziness or whatever else but I have some some thoughts on
+1:27
+how to solve that and just some things people can do when they're streaming and it's not even just streaming there's a
+1:33
+lot of people who record videos I've watched people who record videos and they think the the animations and the
+1:39
+things moving around is fast enough to not worry about people seeing their address uh you know on a maps location
+1:46
+or saying their private messages with their uh with their wife in this case that I'm
+1:54
+thinking of a wife or husband or whoever else so there's there's very easy things you can
+2:02
+do whenever you're recording whenever you're streaming on Windows that'll solve this so I'm going to start off with talking
+2:08
+about those things just some tools that you can use to to not fall prey to that and then the second part I'm going to
+2:15
+talk a little bit about programming mainly about optimizing and making your code a bit
+2:22
+faster and just things to think about I guess
+2:27
+so staying uh private while you're streaming one of the most common things
+2:32
+that people do is they alt tab and ALT tab is nice it allows you get through
+2:39
+things really quickly let me suggest to you alt Escape let's say that you have
+2:44
+two windows you can put the window that you want to kind of look at on the screen behind the game and put your
+2:51
+other stuff on the other monitor and you use alt escape to go to the background window and then
+2:58
+come back to foreground so it's kind of like going through them in that way it
+3:04
+just allows you to Simply switch between it basically sends the
+3:10
+current program to the back of the stack and the next one shows up so if there's only two you're just going to be swapping between the two
+3:18
+so that's just a quick alternative if you're kind of wanting that that
+3:23
+velocity of alt tab but of course we have lots of tabs we want to tab through them and we want to find the one that uh
+3:30
+we're interested in so the next thing that you'd want to do is virtual desktops
+Virtual desktops
+3:37
+not many people I've seen through their streams or anything like that use Virtual desktops
+3:43
+they kind of just stick everything about them up on their primary window
+3:49
+so I like to use Virtual desktops to separate out this stuff and the great
+3:55
+thing about virtual desktops is that you can shut down your computer you can restart your computer and it'll come back up and you'll still have your
+4:01
+virtual desktop so you don't have to reset them up in fact here's a example
+4:08
+of what it looks like we have I have a primary desktop here and I got a podcast
+4:14
+desktop here you can guess which one I'm using right now the primary one is going to have you
+4:20
+know chats and that sort of stuff on it and then the podcast one is going to have podcast related things the great thing
+4:28
+about this is when you alt tab you're presented with just the programs
+4:33
+that are running on that desktop so in this way you don't have to do much you
+4:38
+can just set up these you can even give them a name as you saw just right click it hit rename there you go
+Browser isolation
+4:46
+um another problem that people have is browser tabs lots of lots of browser
+4:52
+tabs also when you type in the browser it shows history of your searches I don't want to know what kind of weird
+4:58
+things you search for but I am only human so when I see that pop up a little
+5:04
+nagging part of the back of my brain is like what's in there what are they what are they interested in
+5:09
+um not in a nefarious way but you know people you like to watch they have some information on things you wonder where
+5:15
+they're getting it from so it's very tempting for a lot of people people are
+5:23
+curious by nature and they're going to wind up looking through that stuff that pops up
+5:29
+especially if you have tabs search history all that sort of stuff um
+5:35
+so how do we solve this if you're a gamer you can use the steam browser I
+5:41
+think you press shift Tab and that'll open up the the steam overlay and you hit web browser and you can search on
+5:47
+stuff in there and that's a kind of an easier way for people that don't want to all Tab out or anything like that the
+5:53
+other one is to use browser sessions this is something I use quite often as
+5:59
+you can see I have a few sessions here so when you're in your browser there's a little icon in the top right and you
+6:05
+click on it and create you'll basically get this window with the sessions so you see I have my personal one I have one
+6:12
+that is explicitly for Google things only I have one that's for the podcast I
+6:17
+have one for Japanese stuff so you can guess that I'll be using
+6:23
+podcast one whenever I'm going through this and so the podcast uh they have their separate histories they have their
+6:29
+separate uh logins and you know data and plugins and everything else so
+6:35
+um separate out your separate separate out your browser stuff don't don't go
+6:40
+streaming with your main browser and you know Bank tabs open and all that sort of
+6:45
+stuff so yeah it's very easy just set these up you can you can you can decorate them you just hit the add
+6:51
+button you can add as many as you want very simple so that's kind of how you can separate
+6:57
+your browser how you can separate your desktops one of the problems that you'll have
+Hiding filesystem
+7:02
+with uh even if you separate out your desktops is you're going to have your
+7:07
+file system if you are a programmer and you're doing a programming video or a devlog or whatever
+7:14
+you're going to show your file system so and it's just inevitable you have a file
+7:20
+window open or you know you'll have uh files that you have to load up or
+7:25
+something like that so if you want to show off that stuff I think we all use git we all use you know subversion I
+7:33
+guess or per force or you know all the different kinds of the repositories so we can clone that
+7:42
+stuff over to a separate user account it's very easy to create a separate user
+7:47
+account I create one for family members I create them for um just random stuff I want to lock
+7:53
+myself out from or if I want to sandbox and like test around with things but you
+7:58
+can create a user and then do all your videos and you're streaming in that user you know if
+8:04
+you're a big game streamer you just create a uh this is my game streaming
+8:11
+account and you set a user and it has its own file system and you can lock it out of access from your main file system
+8:17
+so in that way you can prevent showing off your files whatever files you may
+8:22
+have um you know Court subpoenas or whatever yeah they they'll now be kind of Hidden
+8:30
+Away especially if you use the preview I sometimes use preview instead of
+8:35
+Explorer and you know you accidentally click on something it'll show you preview on the right and you don't want that going up on your stream or you know
+8:43
+up in your video and you didn't notice so creating a user account super easy
+8:49
+you just go into your settings you look for accounts and there's other user
+8:54
+accounts right here you just click add account very easy I don't think you have to have a Microsoft account for this for
+9:00
+these you can add it as a family member I don't know just add an account and it's very simple and that'll make it so
+9:07
+that you can separate out your file system and this will also make it so
+9:12
+that you don't need virtual desktops or have to make different browser stuff so this is just another Vector of attack
+9:19
+for adding you know not hiding but um you know not not displaying your
+9:27
+goods to the world there's a lot of important stuff on our computers and we have a lot of computers with a lot of
+9:33
+stuff strung around that we don't even notice especially when we're clicking around real fast and a lot of people
+9:39
+when they edit their videos they'll just load up their video and they'll skip ahead and you'll just miss those flashes
+9:46
+of frames that pop up with sensitive information so please use user accounts
+9:52
+if you need to protect your file system and those sort of things
+9:57
+so another kind of thing that you can do
+Sandboxing
+10:02
+is Windows sandbox unfortunately you need to have Windows Pro your bios has to allow for virtualization you need to
+10:09
+have it on in your bios and I think you need to have hyper-v set up so there's a lot of prerequisite
+10:16
+prerequisites to this and it may cost money if you don't have Windows Pro so this is kind of for the other people
+10:21
+that have Windows Pro and and all the virtualization enabled
+10:27
+and this one it's very simple you have apps and features just search features
+10:33
+it'll show up apps and features here and then you'll have a list of features I suggest you turn on
+10:40
+Windows subsystem for Linux as well if you're a developer and if you're watching this you probably are so turn
+10:46
+that guy on um if you don't already anyways Windows sandbox is right there you turn that on
+10:52
+restart your computer you'll be good to go and I guess I can
+10:57
+um I can show sandbox another problem I had with sandbox is once I installed it
+11:04
+I could type in sandbox and it doesn't show up in all my apps so I actually have to go and uh
+11:13
+go to all apps and then scroll all the way down to the W I'm actually going to pin it pin to
+11:19
+start you'll find in there just pin it or open it from from that
+11:25
+and that will open up this Windows sandbox and you'll see that it's just a
+11:32
+regular old windows looking instance I think I can scale this down so that it'll fit on the screen here
+11:38
+there we go so you'll see it looks like a regular Windows instance you can set up a
+11:44
+configuration file so that this can have access to certain folders when it launches which is nice you can make it
+11:51
+run programs at startup which is also nice if you want to install stuff that sort of thing and then of course
+11:58
+you can copy and paste from your primary desktop over into here so you can kind of set up your windows sandbox
+12:04
+to present something or anything like that and this is a nice way to not have to make a user and also it's a nice way
+12:12
+to clean out stuff if it's temporary and you're just showing off something and you don't want to keep all those files
+12:18
+and it's it's just a waste of space and you don't have to clean them up yourself
+12:24
+using the windows sandbox is cool because it destroys everything that's in
+12:29
+its session of course it doesn't destroy the linked folders but if you put files and stuff in here on the desktop or in
+12:36
+its own file system that's not the linked folders it will destroy them which is great especially if you're
+12:42
+let's say that you're showing off something in your program and it installs or whenever you build it
+12:50
+it makes like a makes like 30 gigs of files of assets or something it's really
+12:56
+nice to have it in a sandbox that you just close it and not worry about it it's just gone once you hit that X and
+13:01
+you'll see are you sure you want to kill sandbox yeah
+13:07
+option for you if you're not interested in
+13:12
+having people see all of your goods now I kind of did want to show
+YT Frame-by-frame
+13:20
+what happens what people do inside of YouTube If you don't know this um you know other web players have this
+13:26
+and you probably do know this I'm sure a lot of developers know this but you can actually uh
+13:33
+play frame by frame on a video so let's let's just
+13:38
+let's just open up a a video I have here
+13:44
+and you'll see that I have it paused here and if I use the period key or the comma so the period will go four
+13:52
+to frame and the comma will go back a frame so I could press period period period so you can see I go frame by
+13:57
+frame and View what's going on
+14:03
+now I didn't want to bring up anybody's any of the particular videos that I've seen and I've seen a lot of them where
+14:10
+you could just tell from one frame you can see the file system is exposed the
+14:17
+browser Tabs are shown all sorts of stuff is shown in one frame and they don't even notice it
+14:23
+um you very easily press pause and then just use the period and comma to go
+14:28
+frame by frame to view the sensitive information and
+14:34
+um there are channels that are dedicated not dedicated there are channels that
+14:40
+are kind of like reaction channels and they will very often use this this frame
+14:46
+by frame feature to look at stuff in the background and comment on it or you know look at what's going on you know in
+14:53
+their tabs and all this other stuff and they'll just comment on it as part of their their gimmick
+14:59
+so it's not just you know malicious actors who know how to do it there's a
+15:05
+lot of YouTube channels that just promote this this Frame swapping which is fine it's a fantastic feature like
+15:12
+I've I've used it for um animations when I watch some really cool animations online and I want to see
+15:19
+how they they did the tweening or something like that I can use the the comma and the period to go back and
+15:26
+forth a frame to kind of see how they they did the tweening and it's really nice it's a really nice feature honestly
+15:32
+it's just in the wrong hands um and with inexperienced video creators
+15:40
+you'll find that the you know malicious people view it or they'll you know it's maybe they're not
+15:46
+malicious but it's just information they shouldn't know and shouldn't have in their head it's information for your head so
+15:54
+that's kind of um my perspective on on
+16:00
+all of that sort of stuff now there is one more thing that you need to be aware
+Notifications
+16:05
+of and this one is a lot has caught a lot more in people's videos but
+16:10
+sometimes they're not and that's notifications so you'll get notifications
+16:18
+on phones and you'll get notifications on uh in on windows so if it's on the
+16:25
+phone it's a little bit more difficult but if the phone's on the desk and the camera is pointed in such a way that they can see it
+16:32
+um it'll be very easy to kind of see see information there maybe it's hard
+16:39
+because in the background it's blurry but still you should just put on uh is
+16:46
+it busy or uh yeah I think it's like busy on your phone where you it doesn't present any
+16:52
+notifications turn that guy on if your phone is going to be in the video or if you're reviewing phones or anything like that
+16:58
+just if it's on the screen on a table in the back a lot of people have tables on the side or they put their phones and
+17:04
+yeah it's it's not the greatest so just turn on
+17:10
+busy or put it face down either one works and on Windows you can use quiet hours
+17:17
+and it is important that you click it twice or quiet time I don't know what
+17:22
+it's called it's important you click it twice to alarms only because there is one that shows important notifications
+17:28
+which maybe work or emails or things like that so
+17:33
+it's pretty easy you just hit on the down here where the little speaker thing
+17:40
+is and the uh this is from a laptop so the little battery and the ethernet just click on that and you click on this Moon
+17:46
+icon twice if it's not there then just hit this little pencil and add it hit it twice go to alarms only you're not going
+17:53
+to get any notifications a lot of this may be redundant for people but I've seen a lot of technical
+17:59
+people don't follow these and it's just information
+18:04
+um that people shouldn't see so that's my rant on that that bothered
+18:12
+me a lot um recently it's happened way too many times and I also have a friend he's he's
+18:19
+goofy anytime I put up a video and I like all tab um that I'm just sending him uh for you
+18:27
+know I trust him and all that you know he'll send me a screenshot be like what's that that sort of stuff and it's
+18:33
+like a single frame so um it's it's just part of human nature to be very curious on what's on people's
+18:41
+computers and desktops what's in there it's kind of like you know there's a back room and the door is cracked
+18:47
+slightly open um pretty much everybody who's who's not boring is going to be you know trying to
+18:55
+see creep over there and kind of peek or maybe even just ask her outright so
+19:01
+um yeah it's just something I thought needed at PSA
+19:07
+but hopefully you follow all those so now I'm going to talk about programming so part two I guess
+Premature Optimization Good
+19:14
+this is I don't know what to call it I think uh we'll call it it's it's very
+19:21
+[Music] um is not groundbreaking but I'll call it Grapevine coding it's where you hear
+19:29
+something about how to program and you kind of take it as law of
+19:36
+programming so programming back in the past may have
+19:41
+been closer to that where there are paradigms that you could tell each other and they would be pretty reliable at
+19:48
+being fast efficient saving size all those sorts of things and those
+19:53
+paradigms first of all we're still using ones from three years ago three decades
+19:59
+you'll still run into programmers to ask you know about these very old problems
+20:06
+and that no longer exist so you kind of hear it on the Grapevine
+20:12
+and you you baste your code and and and uh how you design your code on it which
+20:18
+is even worse so one of the first things I want to
+20:23
+mention is uh premature optimization we've all heard it
+20:30
+we've all had leads we've all had friends who have said it previous premature optimization is the root of
+20:37
+all evil and they're quoting some guys from you
+20:43
+know 60 years ago or so uh and they're guys I respect like Donald knuth is it
+20:49
+knuth Donald news I don't know um I have his art of coding series it's
+20:54
+like a big stack of books um he kind of uh repeated it and one thing
+21:02
+we need to realize is that quote was from the time of assembly
+21:09
+and if anybody's programmed in assembly you know exactly what I'm talking about and you know exactly what they're
+21:15
+talking about when they say premature optimization is the root of all evil because an assembly it's as programmers
+21:22
+we can count the clock cycles and we can think oh man if I can shave off a clock
+21:27
+cycle here and a clock here you know I could do a cool effect or something or I can add I can have extra
+21:35
+performance and those were very dangerous because you would design uh
+21:40
+pretty pretty ridiculous code the code would be
+21:45
+completely unreadable even with comments for for assembly code and uh it's just
+21:50
+awful to work in a team where parts of code you just don't understand especially if they're using some kind of
+21:56
+hack or anything like that so it's
+22:01
+that's kind of the root of it now that's propagated itself into
+22:08
+modern era and in the modern era people use it high level languages now
+22:16
+of course over optimization some early over optimization is not
+22:21
+helpful on a team but you should always think about optimization as you're
+22:28
+designing the code it's part of your design not over optimization not every you can't even really you can't even
+22:33
+count clock Cycles in a high level language but you can think about how things are going to interact and how
+22:39
+slow they're going to be and so you really don't want to get that premature
+22:46
+optimization is the root of all evil as like a base you want to work from in any
+22:52
+project that is that is not good advice for high-level languages now
+22:58
+the reason I say that is because high level languages are much more easy to become spaghetti code you start adding a
+23:05
+bunch of libraries your classes become super intertwined and is just almost
+23:10
+impossible to undo things once they get way too set in stone especially on a
+23:16
+project where there's timelines involved and you've got project managers you're
+23:22
+not going to get time to go back and rip out that whole thing to redo it so you do need to optimize those things up
+23:28
+front and you need to think about the optimization you don't want to over optimize it it shouldn't be something that supports every test case scenario
+23:36
+it should be something that supports the desired scenario
+23:42
+and maybe design in a way that can extend it at minimal effort something
+23:47
+like the visitor pattern is a great pattern for that sort of thing where the
+23:53
+business logic comes into the system and it works off of that and you can swap out the business logic very easily
+23:59
+so you do want to optimize ahead of time and that does one that should be
+24:05
+something in the back of your mind you shouldn't just hack things in to get them going get them going quick you will
+24:10
+regret it and it will waste a lot of your time and a lot of everybody else's time who
+24:15
+has to use it and just to kind of show where I got this from this is actually a
+24:21
+pretty um nice book so let me set up my
+24:27
+my overhead camera here so we can look at it first of all
+24:33
+it's from this book I like no scratch press this is a nice book thinking low-level writing high level
+24:39
+um it's it's a kind of a thick book I have their x86 assembly x64 assembly and
+24:46
+a couple others of of their books because they're they're nice I don't read books from start to finish
+24:52
+so at programming books I don't read programming books from start to finish so that's uh definitely kind of
+25:03
+one thing to keep in mind uh just a moment I'm
+25:09
+I've got to set up this overhead camera let's see
+25:15
+okay pretty sure I got it set up here let me move my keyboard out of the way
+25:22
+thinking low-level writing high level I just want to show you kind of where I got this uh
+25:28
+I've I've kind of always thought this um but it was put nicely into words
+25:34
+in this book here let's see if we can't get a little
+25:42
+bit of a zoom there we go so it actually talks about this here
+25:49
+um let's see although it's often attributed to Donald knuth who popularized it Tony
+25:55
+another fantastic computer scientist
+26:02
+um who said premature optimization is root of all evil this has been a rallying Cry
+26:07
+of software Engineers for application performance until the very end of time however you did not say concern with
+26:14
+application performance during early early stages of application development as a real quality evil and that's kind
+26:21
+of the important part there um it was in a time of counting clock
+26:26
+Cycles if you've done assembly programming like I said it's very tempting to count clock cycles and I've
+26:32
+I've done that quite a few times and it's always bit me in the butt and the people I I code with on that
+26:40
+um they regretted it they were upset at me so uh that's the book I highly recommend it
+26:47
+I wouldn't you know go I don't know how much this book was
+26:54
+uh I was kind of expensive it's like fifty dollars I don't know what it is now but maybe if you can pick up a used
+26:59
+copy um and thumb through it it's a it's a pretty nice book I like I like the no
+27:04
+scratch uh press books they're pretty pretty sweet so you know put that back down here
+27:14
+so that's uh my long-winded uh
+27:20
+part of premature optimizations and I agree with the book so uh let me turn
+27:28
+off this phone okay so
+27:33
+that's uh that's part one premature optimizations so
+Premature Optimization Bad
+27:40
+now that we've said that part I'm going to uh
+27:46
+counter that a little bit that isn't a free pra a free pass to over optimize
+27:54
+all the time here's another example of
+28:01
+programming and doing premature optimization so I this is an example of something I did in
+28:07
+my C library for my game engine I was doing utf-8
+28:13
+strings and in those strings I I kind of
+28:19
+put it I knew I could go online and check out uh how other people have have dealt with
+28:25
+getting the length of the strings and all that sort of stuff and validating the strings and I went online and I saw
+28:31
+that oh it has tons of if statements it has like four if statements just inside of a loop to determine if
+28:38
+um this is a UTF if the utf-8 string oh to
+28:45
+figure out its length how many characters are in it and for me I was like well branching isn't is not very
+28:51
+good all that branching um is going to cost you in the long run
+28:58
+so I've I set up for myself a uh
+29:05
+solution to the problem okay I had to set up my my web pages
+29:11
+there but I set up what I thought was a solution to the problem I should say
+29:16
+and uh it was not it did work
+29:21
+um it was indeed faster so this is uh my website I had a little
+29:31
+utf-8 thing here and you can see that I don't use any if statements it's all
+29:36
+just shifting logic and multiplication in addition which you can vectorize it's
+29:41
+not vectorized here because I'm not going to assume people are going to turn on vectorization but
+29:49
+here it's set up and then I have a validation function below that
+29:54
+so when I go to uh when I want to run it
+30:00
+you'll see that it did go faster it was 1.4 times faster than the internet uh common uh or my previous attempt I
+30:08
+should say and I do have the internet common one
+30:13
+somewhere as well let me double check here
+30:19
+okay unfortunately I don't have the previous one I do have one that I worked on a little bit it did have a couple of
+30:25
+if statements in it this is like my first attempt at messing with it and that one was 1.6 times faster than the
+30:33
+uh I guess it's five cases in the common internet one
+30:39
+so uh you can see that I can I got faster than even one that was faster
+30:45
+than that 1.4 times faster than that now one of the problems I had was as the
+30:53
+string scaled and it repeated itself the internet common one which is the one
+31:00
+with all of the if statements wound up being faster than my implementation without any if
+31:08
+statements inside of the loop and that's very you know surprising for for anyone that you know talks about
+31:15
+branching being very slow now I could try and run it uh
+31:20
+I do have the updated version here but my problem
+31:26
+is that the benchmarking software or website that I'm using here
+31:32
+um stopped working today I think so let's try to run it I'm just going to paste it in here and then
+31:38
+[Music] um let's use cling 14 that's the one I use for my C plus plus engine I'm going to
+31:43
+run a benchmark um I'm not going to make you wait for this I'm going to pause and see if it breaks
+31:50
+yep it's still broken but you can take my word on it when it was a short string
+31:55
+or a string of random characters I would see that my implementation was a little
+32:02
+bit faster are quite a bit faster depending on the scenario but when it is a really long
+32:07
+string of repeating characters the one with many if else branches uh
+32:16
+it wouldn't work and this isn't even the right one uh it's supposed to be this one anyways
+32:21
+doesn't matter it doesn't work anyways so there goes against the conventional logic of course the reasoning for this
+32:28
+is that whenever it's a repeating string the CPU and this is modern CPU I'm
+32:37
+assuming that is running on these Cloud servers that this is hosted on it detected the pattern
+32:45
+um and it did the branch selection uh
+32:51
+much more efficiently the other alternative is that the compiler saw that the saw the pattern and since it's
+32:57
+a very common pattern for utf-8 the compiler optimized the code to a better performing utf-8
+33:03
+function in assembly code and so the compiler is kind of in the way there
+33:09
+or useful useful in my way for my test but useful
+33:16
+overall so so essentially that's one of the things
+33:23
+about you know tribal knowledge the tribal knowledge of this will go faster if you move the
+33:30
+branches is not always true so you don't want to just remove if statements to
+33:35
+make it faster now I do use my version of utf-8 because it's better in most scenarios and it looks nicer to me I
+33:43
+think it looks pretty it's better in a bunch of FL cases um but that kind of shows you that you
+33:49
+really do need to test on your Hardware
+33:55
+uh the that's there's nothing Beyond testing on your target Hardware
+34:02
+um now I've talked a lot about kind of just general things of optimization early over optimizing doesn't always
+34:09
+work um but now I want to talk about ways that you can improve your code
+Magic performance code
+34:15
+um on any system uh that you know either has these features or
+34:22
+uh some features they have to have like memory stuff but
+34:27
+these are ways these are Surefire ways to improve the performance of your code they are kind of like Magic Bullets uh
+34:35
+basically it's hard to to go wrong with them unless you really don't know what you're doing
+34:41
+um the first one is turn on the MMX or AVX or CMD or for
+34:47
+Android turn on neon with flags like uh in
+34:54
+clang I think is on Linux it's minus AE minus M AVX on Windows
+35:00
+um you can send them Visual Studio but turn those on and the compiler itself is
+35:07
+going to vectorize and vectorization if you don't know what it is simd stands
+35:12
+for simultaneous instruction multiple data essentially you can
+35:17
+provide lots of numbers and it can run say an ad instruction
+35:23
+and and one of it's not a single clock cycle but you know in uh one of its you
+35:29
+know virtual clocks for that and it will run in one instruction uh so
+35:40
+I'm always going to know exactly what to do it we'll try to vectorize where it can it'll do it pretty efficiently in
+35:45
+the standard libraries so you will get some magic performance even if it's a
+35:51
+little bit out of turning on vectorization you can code vectorization yourself and
+35:57
+it's not that difficult um the the part that's annoying is that Android neon uses something different
+36:04
+than you know the standard um like AVX MMX stuff so you do have to
+36:11
+like if else case some of those things the other problem is that on desktops
+36:17
+you have access to um like doubles larger uh like a 256 byte
+36:25
+vector whereas in Android neon I think you're limited to 128 byte Vector so you
+36:31
+can't use like doubles I mean you can do doubles but um you can't do say four doubles all together you can do two
+36:38
+which is basically four floats so there are some gotchas on that depending on your platform so it is a little Annoying
+36:45
+to support both but you can write your your code for this and I I wrote my own
+36:50
+math library for my game engine so all the vector math and all the Matrix math the whole shebang I wrote by hand in C
+36:58
+and I used uh simd instructions to make it faster on desktop and make it faster
+37:05
+on Android um any any uh CPUs that support that
+37:11
+those simultaneous instructions so that's one way that you can it's like
+37:16
+a it's like a little magic bullet sometimes you won't see much performance at all and other times you can get some
+37:23
+pretty big performance based on what you're doing the other uh kind of Magic Bullet for
+37:28
+making your making things faster is uh caching a lot of stuff so of
+37:36
+course access to memory is slow but caching things that are complicated or
+37:41
+big structures you know if you're reading a file from a disk whether it's binary or text you got to go read the
+37:49
+file do some stuff with it read the file again later later on I don't know when how often you do this but if you were to
+37:55
+load that into memory and just hold it in memory just hold more in memory and not have to
+38:01
+access it from the network or from file systems or you know
+38:06
+kind of just those just elsewhere you will gain performance and of course
+38:13
+don't overdo it don't put your I mean we do that now I think unreal does that
+38:18
+it loads basically everything you need or as much as possible on to the GPU in
+38:25
+this case so that it can access it really quick
+38:31
+it is a very common practice to load up your your memory with stuff you're going to use then go for shaders you can go
+38:38
+for GPU stuff and go for CPU if you're just processing data um loading up that stuff into memory
+38:45
+caching things in fact uh one of the things one of the software that you'll
+38:51
+use in web is called memcached or memcache D I don't know how to say I'm pretty sure it's memcached
+38:56
+where you can save things in a local cache or even not even a local cache it
+39:01
+could be a remote cache but it's all in memory so it's much faster than a remote
+39:07
+database and reading from the database which reads from file system even with ssds so
+39:15
+caching stuff in memory kind of a Magic Bullet if you do it right um checking your memory alignment some
+39:22
+platforms like Raspberry Pi 3 will actually crash if you don't align your
+39:27
+memory so some platforms force you to do this but Intel for the longest time does
+39:34
+not force you to align your memory and aligning your memory properly will improve your performance not
+39:40
+significantly but it is a nice performance boost reading data into structures writing
+39:47
+data holding data transferring data between multiple objects or cloning your data it's going to be much faster not
+39:54
+much faster it's going to be faster if you align your data properly so
+40:00
+I think compilers have the option to align the memory for you um but it's not that hard to put an
+40:07
+alignment in your structure in fact if you're using like Vulcan or Raspberry Pi
+40:13
+3 you do have to align your data structures um to use it so in Vulcan whenever
+40:20
+you're setting up all your structures that interact with the the Vulcan API you align you align that data because
+40:26
+when it goes to the GPU it expects to have a very specific alignment so it's it's not that much work but it
+40:33
+can gain you some performance I don't think it's worth the effort most of the time
+40:39
+but if it can it is probably a good practice to align your data
+40:47
+and then aggregate commonly accessed data I'm sure everybody's heard about
+40:52
+this they've heard about dots in unity or you know what is it called entity
+40:59
+component systems stuff like that where you have a system and then you have engine uses an array and it accesses them
+41:05
+multiple enemies through the system and it goes It goes through this flow of accessing linear data and that's much
+41:12
+faster than accessing say like a linked list with a linked list you have
+41:17
+uh object over there an object over there who knows where they're at they could be the memory is virtualized so who knows
+41:24
+where they're actually uh in the physical memory so uh if you use uh and by the way like
+41:32
+link list inside of lists for example inside of C sharp or vectors which are
+41:38
+internally arrays so the I'm talking about linked to lists so when the data is disconnected
+41:44
+so having your data especially frequently access data that is relative
+41:52
+to each other and can in consecutive memory if you want to do memory pooling and
+41:58
+then have a big chunk of memory and then you know virtualize your own uh
+42:04
+addresses within that space and you want to say put a
+42:09
+your entity for your game object in there and its components and all that stuff that it has to access uh
+42:16
+you can put it in there if you if all if you have a set of entities that all do the same thing but they have individual
+42:21
+datas but you want to update them collectively consecutively you can use
+42:27
+that memory pooling to to kind of put them all in this consecutive memory and knowing your CPU is good for this
+42:34
+because if you know how much cash you have on on the CPU you can actually optimize for cash
+42:40
+so that it'll load in a big old chunk and it'll just blow through it really fast and then you don't have to worry so
+42:45
+much about your access to memory being slow and that's the bottleneck of pretty
+42:51
+much most programs outside of file system access and that sort of stuff Network stuff so aggregate your data
+42:58
+together that's that's a one of one of one easy way to Sure Fire
+43:04
+um make your program faster so those are some things you do to have
+43:10
+Magic Bullets to solve a little bit of performance but you're not going to make huge gains out of that you're going to make little tiny gains and it could be
+43:19
+fun doing that sort of stuff so there's no magic bullet for like doubling your speed usually that just means fixing
+43:26
+your overall algorithm your business logic and how it operates so even quantifiable algorithms that you
+Test on target hardware
+43:35
+know you've you've tested two algorithms and you've Quantified mathematically now one algorithm is better than the other
+43:42
+does not mean that it's going to run faster than the other unless it's a you know Leaps and Bounds faster it's
+43:48
+slightly faster does not mean it's going to run faster like I said um the CPUs are very smart they figure
+43:54
+out branching they figure out caching and all that sort of stuff so you can have a quantifiable faster algorithm
+44:01
+that will get beat by slower algorithm just because of the architecture so I really liked you know Game Boy or
+44:08
+Xbox PlayStation 3. you know all those computers Commodore 64 where they have they all have the same Hardware
+44:14
+and that means it's known and so you can test it very easily
+44:19
+our problem nowadays is we have tons of different CPUs tons of different iterations of CPUs even along like if
+44:26
+you said I support only Intel CPUs so there's tons of different Intel CPUs you
+44:32
+know released every year and you don't know which one your players are going to
+44:37
+be using or your clients are going to be using so you don't really want to test
+44:43
+and really hyper make make the performance hyper fast on a specific CPU
+44:50
+AKA your development machine at the cost of flexible code or readable
+44:56
+code or elegant code or any of that so it's just something to keep in mind if
+45:01
+you are using a very well-known specific set of Hardware usually game consoles
+45:07
+more power to you just knock out that performance on that CPU because it's it's a known CPU that you can you're
+45:15
+programming against everybody everyone who's going to play your game on that device has that device so
+45:21
+that's you can optimize in those scenarios and just go whole hand for
+45:27
+that um so yeah just test specific Hardware
+45:33
+um if you have minimum requirements uh suggested requirements test on those
+45:40
+guys test the performance you may very well find that one performs better in
+45:45
+one scenario worse than another so that's that's kind of the thoughts on
+45:51
+optimization now I do want to wrap this up with a famous optimization and I've I've been
+Fast Inverse Square Root
+45:58
+asked about this optimization um you know it's it's something that a lot of people
+46:05
+know because it's a very popular one and this is the inverse the fast inverse
+46:11
+square root you know it's a it's a 30 year old square root uh
+46:17
+that they did for uh
+46:22
+was it Doom or Quake it's probably Quake uh I don't know um
+46:28
+John Carmack said made it but he got it from someone else or something like I don't know the history history is not
+46:33
+important the fact is you shouldn't be using this this is a 30 year old algorithm
+46:39
+made for the machines of the time which didn't have Branch prediction for
+46:44
+example and they didn't have built-in signs or they didn't have built-in
+46:50
+you know built-in square roots nowadays we have built-in square roots
+46:56
+we have built-in square roots for floats we have built-in square roots for doubles and they are single instruction on the CPU so it's
+47:04
+it's not worth our time to Implement 30 year old algorithms and it
+47:11
+computers change often and uh it's just one thing that I do see developers
+47:18
+getting caught up on is some of these some of this old knowledge that doesn't
+47:24
+really apply anymore so I've got a little thing here we can take a look at so if we take a look here at this code
+47:32
+we're including math it's just a little C file and we're going to do the square
+47:38
+root float square root double and I'm just going to put a breakpoint here this is debug mode nothing is
+47:45
+optimized because otherwise it'll strip out stuff and I don't want to I don't want to fight the optimizer to
+47:51
+to show an example of something so we're going to run this and what we're going to do here I already have it
+47:57
+open but you can go to debug Windows disassembly to see the the assembly code
+48:03
+that's generated for this program and if we just look at the disassembly here
+48:09
+we can see that we have this is the C code and these are the
+48:16
+functions that are set up for it I don't know exactly what it's going to be when you optimize the code it may even strip
+48:21
+the square root based on you know the consts that are going and all that sort of stuff but anyways
+48:26
+uh you can see here it uses implementation of square root F here
+48:32
+which is going to be an internal function that does magic things but what you can see here for the square root of
+48:38
+double is that it is a single built-in assembly instruction
+48:45
+well it's calling this function and this function the reason it's calling this
+48:50
+function is that vendors can implement it how they want most of them are going to implement you
+48:57
+can see this is using xmm by the way most of the vendors are going to implement it uh
+49:04
+the way that is fastest so CPU calls it's going to be based on the
+49:09
+architecture but this is going to be way way faster than the inverse square root
+49:16
+function from 30 years ago so do not use that and don't use Knowledge from 30 years ago
+49:23
+use wisdom from 30 years ago um you know generally how you work with
+49:29
+teams and I work with code and how you design code and think about how
+49:36
+things interact that sort of stuff is super valuable those guys did a lot of research mainly in those fields they
+49:41
+didn't optimize these little instructions um and that is the useful information for
+49:47
+you not inverse square root or any particular algorithm
+49:52
+if an algorithm has been used for 30 years take a look at maybe making a new
+49:58
+algorithm because there's a lot of stuff that gets added to CPUs we have now you know artificial intelligence parts of
+50:05
+our CPUs we've got Matrix you know stacked CPUs we've got all kinds of new
+50:12
+stuff that can use a different algorithm and perform much faster say whether it's
+50:18
+distributed across multiple cores or maybe you even
+50:23
+use the GPU to do the algorithm because we do have compute GPU now computiators
+50:29
+or Cuda you can just write an algorithm that runs across a huge amount of cores
+50:36
+and blow through things way faster now so that's kind of my general advice on
+50:43
+optimization don't over optimize but do think about optimizing ahead of time and
+50:51
+don't uh you know don't stress out have fun while coding think about it think
+50:57
+more about your overall design who you're working with whether you're working alone or not
+51:02
+and just think about those aspects of your coding and you're going to have a
+51:08
+wonderful experience and you'll be much happier and you're not going to get caught up in all the fights on stack Overflow or whatever people do on stack
+51:15
+Overflow these days so cool that's that's basically it um if you guys have any suggestions on
+51:23
+things to take a look at or think about or talk about or anything like that this is this has been
+51:30
+quite a lot of fun um so yeah let me know if I missed anything if I messed up anything if I
+51:35
+got any information wrong uh you know if things have changed or maybe I just
+51:40
+misinterpreted something uh let me know and we can always pen the comment so
+51:46
+that other people know too so bye for now
+Correcting previous statements
+51:51
+hello this is an amendment to the podcast uh you can tell that it's a different day sun's out and everything
+51:59
+um but I was going to sleep last night and I realized that I said 256 bites for some D instructions and 128 bytes
+52:07
+for the neon instructions for arm and I meant to say bits so I don't know why
+52:12
+that bugged me clearing that one up second one the one that actually bothered me was the system calls
+52:19
+um to the square root functions and that's because we're in debug mode and it was
+52:24
+getting late and I wasn't thinking about it so I have now set up a release mode demo here
+52:31
+where um we will see the x86 instructions for square roots so you can say I have to
+52:39
+print them out so that it doesn't optimize my variables out and then if we run this and check out
+52:45
+our disassembly it'll be in reverse order the queue is going to be up here but you see it calls the assembly
+52:51
+instruction square root PD and then a square root uh
+52:56
+single signed or signed single I don't know which this is assigned and which one's singled
+53:02
+but there you go that's um that's the actual assembly instructions I was expecting to
+53:09
+see yeah I was a little bit surprised when I didn't see him last night but it's because I was in debug mode I
+53:14
+wasn't thinking um so yeah and uh that's basically my
+53:20
+Amendment see you guys

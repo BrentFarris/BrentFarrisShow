@@ -1,0 +1,2016 @@
+1
+00:00:00,000 --> 00:00:02,000
+hello and welcome back this is going to be uh I guess episode two well I start at zero for indexing right so this would
+
+2
+00:00:08,000 --> 00:00:10,000
+be episode one zero one um welcome to episode one of the podcast
+
+3
+00:00:14,000 --> 00:00:16,000
+um and I just saw recently that there was kind of an uptick in
+
+4
+00:00:21,000 --> 00:00:23,000
+uh people who are streaming and they hit alt tab or they have
+
+5
+00:00:28,000 --> 00:00:30,000
+they just have things on their screen that they shouldn't have you know um everything from like
+
+6
+00:00:36,000 --> 00:00:38,000
+home addresses web searches adult videos the websites
+
+7
+00:00:43,000 --> 00:00:45,000
+you know um and that sort of stuff just a lot of personal information
+
+8
+00:00:49,000 --> 00:00:51,000
+that is just going out there and it's kind of a it's kind of a
+
+9
+00:00:55,000 --> 00:00:57,000
+problem uh you know with people streaming a lot and exposing all this stuff and there's a lot of easy ways
+
+10
+00:01:03,000 --> 00:01:05,000
+to combat these problems especially on Windows Windows has a lot of tools for you to not fall prey to this
+
+11
+00:01:12,000 --> 00:01:14,000
+to this I don't know what to call it the these self-destructive problems and it could
+
+12
+00:01:19,000 --> 00:01:21,000
+be out of laziness or whatever else but I have some some thoughts on
+
+13
+00:01:27,000 --> 00:01:29,000
+how to solve that and just some things people can do when they're streaming and it's not even just streaming there's a
+
+14
+00:01:33,000 --> 00:01:35,000
+lot of people who record videos I've watched people who record videos and they think the the animations and the
+
+15
+00:01:39,000 --> 00:01:41,000
+things moving around is fast enough to not worry about people seeing their address uh you know on a maps location
+
+16
+00:01:46,000 --> 00:01:48,000
+or saying their private messages with their uh with their wife in this case that I'm
+
+17
+00:01:54,000 --> 00:01:56,000
+thinking of a wife or husband or whoever else so there's there's very easy things you can
+
+18
+00:02:02,000 --> 00:02:04,000
+do whenever you're recording whenever you're streaming on Windows that'll solve this so I'm going to start off with talking
+
+19
+00:02:08,000 --> 00:02:10,000
+about those things just some tools that you can use to to not fall prey to that and then the second part I'm going to
+
+20
+00:02:15,000 --> 00:02:17,000
+talk a little bit about programming mainly about optimizing and making your code a bit
+
+21
+00:02:22,000 --> 00:02:24,000
+faster and just things to think about I guess
+
+22
+00:02:27,000 --> 00:02:29,000
+so staying uh private while you're streaming one of the most common things
+
+23
+00:02:32,000 --> 00:02:34,000
+that people do is they alt tab and ALT tab is nice it allows you get through
+
+24
+00:02:39,000 --> 00:02:41,000
+things really quickly let me suggest to you alt Escape let's say that you have
+
+25
+00:02:44,000 --> 00:02:46,000
+two windows you can put the window that you want to kind of look at on the screen behind the game and put your
+
+26
+00:02:51,000 --> 00:02:53,000
+other stuff on the other monitor and you use alt escape to go to the background window and then
+
+27
+00:02:58,000 --> 00:02:60,000
+come back to foreground so it's kind of like going through them in that way it
+
+28
+00:03:04,000 --> 00:03:06,000
+just allows you to Simply switch between it basically sends the
+
+29
+00:03:10,000 --> 00:03:12,000
+current program to the back of the stack and the next one shows up so if there's only two you're just going to be swapping between the two
+
+30
+00:03:18,000 --> 00:03:20,000
+so that's just a quick alternative if you're kind of wanting that that
+
+31
+00:03:23,000 --> 00:03:25,000
+velocity of alt tab but of course we have lots of tabs we want to tab through them and we want to find the one that uh
+
+32
+00:03:30,000 --> 00:03:32,000
+we're interested in so the next thing that you'd want to do is virtual desktops
+
+33
+00:03:37,000 --> 00:03:39,000
+not many people I've seen through their streams or anything like that use Virtual desktops
+
+34
+00:03:43,000 --> 00:03:45,000
+they kind of just stick everything about them up on their primary window
+
+35
+00:03:49,000 --> 00:03:51,000
+so I like to use Virtual desktops to separate out this stuff and the great
+
+36
+00:03:55,000 --> 00:03:57,000
+thing about virtual desktops is that you can shut down your computer you can restart your computer and it'll come back up and you'll still have your
+
+37
+00:04:01,000 --> 00:04:03,000
+virtual desktop so you don't have to reset them up in fact here's a example
+
+38
+00:04:08,000 --> 00:04:10,000
+of what it looks like we have I have a primary desktop here and I got a podcast
+
+39
+00:04:14,000 --> 00:04:16,000
+desktop here you can guess which one I'm using right now the primary one is going to have you
+
+40
+00:04:20,000 --> 00:04:22,000
+know chats and that sort of stuff on it and then the podcast one is going to have podcast related things the great thing
+
+41
+00:04:28,000 --> 00:04:30,000
+about this is when you alt tab you're presented with just the programs
+
+42
+00:04:33,000 --> 00:04:35,000
+that are running on that desktop so in this way you don't have to do much you
+
+43
+00:04:38,000 --> 00:04:40,000
+can just set up these you can even give them a name as you saw just right click it hit rename there you go
+
+44
+00:04:46,000 --> 00:04:48,000
+um another problem that people have is browser tabs lots of lots of browser
+
+45
+00:04:52,000 --> 00:04:54,000
+tabs also when you type in the browser it shows history of your searches I don't want to know what kind of weird
+
+46
+00:04:58,000 --> 00:04:60,000
+things you search for but I am only human so when I see that pop up a little
+
+47
+00:05:04,000 --> 00:05:06,000
+nagging part of the back of my brain is like what's in there what are they what are they interested in
+
+48
+00:05:09,000 --> 00:05:11,000
+um not in a nefarious way but you know people you like to watch they have some information on things you wonder where
+
+49
+00:05:15,000 --> 00:05:17,000
+they're getting it from so it's very tempting for a lot of people people are
+
+50
+00:05:23,000 --> 00:05:25,000
+curious by nature and they're going to wind up looking through that stuff that pops up
+
+51
+00:05:29,000 --> 00:05:31,000
+especially if you have tabs search history all that sort of stuff um
+
+52
+00:05:35,000 --> 00:05:37,000
+so how do we solve this if you're a gamer you can use the steam browser I
+
+53
+00:05:41,000 --> 00:05:43,000
+think you press shift Tab and that'll open up the the steam overlay and you hit web browser and you can search on
+
+54
+00:05:47,000 --> 00:05:49,000
+stuff in there and that's a kind of an easier way for people that don't want to all Tab out or anything like that the
+
+55
+00:05:53,000 --> 00:05:55,000
+other one is to use browser sessions this is something I use quite often as
+
+56
+00:05:59,000 --> 00:05:61,000
+you can see I have a few sessions here so when you're in your browser there's a little icon in the top right and you
+
+57
+00:06:05,000 --> 00:06:07,000
+click on it and create you'll basically get this window with the sessions so you see I have my personal one I have one
+
+58
+00:06:12,000 --> 00:06:14,000
+that is explicitly for Google things only I have one that's for the podcast I
+
+59
+00:06:17,000 --> 00:06:19,000
+have one for Japanese stuff so you can guess that I'll be using
+
+60
+00:06:23,000 --> 00:06:25,000
+podcast one whenever I'm going through this and so the podcast uh they have their separate histories they have their
+
+61
+00:06:29,000 --> 00:06:31,000
+separate uh logins and you know data and plugins and everything else so
+
+62
+00:06:35,000 --> 00:06:37,000
+um separate out your separate separate out your browser stuff don't don't go
+
+63
+00:06:40,000 --> 00:06:42,000
+streaming with your main browser and you know Bank tabs open and all that sort of
+
+64
+00:06:45,000 --> 00:06:47,000
+stuff so yeah it's very easy just set these up you can you can you can decorate them you just hit the add
+
+65
+00:06:51,000 --> 00:06:53,000
+button you can add as many as you want very simple so that's kind of how you can separate
+
+66
+00:06:57,000 --> 00:06:59,000
+your browser how you can separate your desktops one of the problems that you'll have
+
+67
+00:07:02,000 --> 00:07:04,000
+with uh even if you separate out your desktops is you're going to have your
+
+68
+00:07:07,000 --> 00:07:09,000
+file system if you are a programmer and you're doing a programming video or a devlog or whatever
+
+69
+00:07:14,000 --> 00:07:16,000
+you're going to show your file system so and it's just inevitable you have a file
+
+70
+00:07:20,000 --> 00:07:22,000
+window open or you know you'll have uh files that you have to load up or
+
+71
+00:07:25,000 --> 00:07:27,000
+something like that so if you want to show off that stuff I think we all use git we all use you know subversion I
+
+72
+00:07:33,000 --> 00:07:35,000
+guess or per force or you know all the different kinds of the repositories so we can clone that
+
+73
+00:07:42,000 --> 00:07:44,000
+stuff over to a separate user account it's very easy to create a separate user
+
+74
+00:07:47,000 --> 00:07:49,000
+account I create one for family members I create them for um just random stuff I want to lock
+
+75
+00:07:53,000 --> 00:07:55,000
+myself out from or if I want to sandbox and like test around with things but you
+
+76
+00:07:58,000 --> 00:07:60,000
+can create a user and then do all your videos and you're streaming in that user you know if
+
+77
+00:08:04,000 --> 00:08:06,000
+you're a big game streamer you just create a uh this is my game streaming
+
+78
+00:08:11,000 --> 00:08:13,000
+account and you set a user and it has its own file system and you can lock it out of access from your main file system
+
+79
+00:08:17,000 --> 00:08:19,000
+so in that way you can prevent showing off your files whatever files you may
+
+80
+00:08:22,000 --> 00:08:24,000
+have um you know Court subpoenas or whatever yeah they they'll now be kind of Hidden
+
+81
+00:08:30,000 --> 00:08:32,000
+Away especially if you use the preview I sometimes use preview instead of
+
+82
+00:08:35,000 --> 00:08:37,000
+Explorer and you know you accidentally click on something it'll show you preview on the right and you don't want that going up on your stream or you know
+
+83
+00:08:43,000 --> 00:08:45,000
+up in your video and you didn't notice so creating a user account super easy
+
+84
+00:08:49,000 --> 00:08:51,000
+you just go into your settings you look for accounts and there's other user
+
+85
+00:08:54,000 --> 00:08:56,000
+accounts right here you just click add account very easy I don't think you have to have a Microsoft account for this for
+
+86
+00:09:00,000 --> 00:09:02,000
+these you can add it as a family member I don't know just add an account and it's very simple and that'll make it so
+
+87
+00:09:07,000 --> 00:09:09,000
+that you can separate out your file system and this will also make it so
+
+88
+00:09:12,000 --> 00:09:14,000
+that you don't need virtual desktops or have to make different browser stuff so this is just another Vector of attack
+
+89
+00:09:19,000 --> 00:09:21,000
+for adding you know not hiding but um you know not not displaying your
+
+90
+00:09:27,000 --> 00:09:29,000
+goods to the world there's a lot of important stuff on our computers and we have a lot of computers with a lot of
+
+91
+00:09:33,000 --> 00:09:35,000
+stuff strung around that we don't even notice especially when we're clicking around real fast and a lot of people
+
+92
+00:09:39,000 --> 00:09:41,000
+when they edit their videos they'll just load up their video and they'll skip ahead and you'll just miss those flashes
+
+93
+00:09:46,000 --> 00:09:48,000
+of frames that pop up with sensitive information so please use user accounts
+
+94
+00:09:52,000 --> 00:09:54,000
+if you need to protect your file system and those sort of things
+
+95
+00:09:57,000 --> 00:09:59,000
+so another kind of thing that you can do
+
+96
+00:10:02,000 --> 00:10:04,000
+is Windows sandbox unfortunately you need to have Windows Pro your bios has to allow for virtualization you need to
+
+97
+00:10:09,000 --> 00:10:11,000
+have it on in your bios and I think you need to have hyper-v set up so there's a lot of prerequisite
+
+98
+00:10:16,000 --> 00:10:18,000
+prerequisites to this and it may cost money if you don't have Windows Pro so this is kind of for the other people
+
+99
+00:10:21,000 --> 00:10:23,000
+that have Windows Pro and and all the virtualization enabled
+
+100
+00:10:27,000 --> 00:10:29,000
+and this one it's very simple you have apps and features just search features
+
+101
+00:10:33,000 --> 00:10:35,000
+it'll show up apps and features here and then you'll have a list of features I suggest you turn on
+
+102
+00:10:40,000 --> 00:10:42,000
+Windows subsystem for Linux as well if you're a developer and if you're watching this you probably are so turn
+
+103
+00:10:46,000 --> 00:10:48,000
+that guy on um if you don't already anyways Windows sandbox is right there you turn that on
+
+104
+00:10:52,000 --> 00:10:54,000
+restart your computer you'll be good to go and I guess I can
+
+105
+00:10:57,000 --> 00:10:59,000
+um I can show sandbox another problem I had with sandbox is once I installed it
+
+106
+00:11:04,000 --> 00:11:06,000
+I could type in sandbox and it doesn't show up in all my apps so I actually have to go and uh
+
+107
+00:11:13,000 --> 00:11:15,000
+go to all apps and then scroll all the way down to the W I'm actually going to pin it pin to
+
+108
+00:11:19,000 --> 00:11:21,000
+start you'll find in there just pin it or open it from from that
+
+109
+00:11:25,000 --> 00:11:27,000
+and that will open up this Windows sandbox and you'll see that it's just a
+
+110
+00:11:32,000 --> 00:11:34,000
+regular old windows looking instance I think I can scale this down so that it'll fit on the screen here
+
+111
+00:11:38,000 --> 00:11:40,000
+there we go so you'll see it looks like a regular Windows instance you can set up a
+
+112
+00:11:44,000 --> 00:11:46,000
+configuration file so that this can have access to certain folders when it launches which is nice you can make it
+
+113
+00:11:51,000 --> 00:11:53,000
+run programs at startup which is also nice if you want to install stuff that sort of thing and then of course
+
+114
+00:11:58,000 --> 00:11:60,000
+you can copy and paste from your primary desktop over into here so you can kind of set up your windows sandbox
+
+115
+00:12:04,000 --> 00:12:06,000
+to present something or anything like that and this is a nice way to not have to make a user and also it's a nice way
+
+116
+00:12:12,000 --> 00:12:14,000
+to clean out stuff if it's temporary and you're just showing off something and you don't want to keep all those files
+
+117
+00:12:18,000 --> 00:12:20,000
+and it's it's just a waste of space and you don't have to clean them up yourself
+
+118
+00:12:24,000 --> 00:12:26,000
+using the windows sandbox is cool because it destroys everything that's in
+
+119
+00:12:29,000 --> 00:12:31,000
+its session of course it doesn't destroy the linked folders but if you put files and stuff in here on the desktop or in
+
+120
+00:12:36,000 --> 00:12:38,000
+its own file system that's not the linked folders it will destroy them which is great especially if you're
+
+121
+00:12:42,000 --> 00:12:44,000
+let's say that you're showing off something in your program and it installs or whenever you build it
+
+122
+00:12:50,000 --> 00:12:52,000
+it makes like a makes like 30 gigs of files of assets or something it's really
+
+123
+00:12:56,000 --> 00:12:58,000
+nice to have it in a sandbox that you just close it and not worry about it it's just gone once you hit that X and
+
+124
+00:13:01,000 --> 00:13:03,000
+you'll see are you sure you want to kill sandbox yeah
+
+125
+00:13:07,000 --> 00:13:09,000
+option for you if you're not interested in
+
+126
+00:13:12,000 --> 00:13:14,000
+having people see all of your goods now I kind of did want to show
+
+127
+00:13:20,000 --> 00:13:22,000
+what happens what people do inside of YouTube If you don't know this um you know other web players have this
+
+128
+00:13:26,000 --> 00:13:28,000
+and you probably do know this I'm sure a lot of developers know this but you can actually uh
+
+129
+00:13:33,000 --> 00:13:35,000
+play frame by frame on a video so let's let's just
+
+130
+00:13:38,000 --> 00:13:40,000
+let's just open up a a video I have here
+
+131
+00:13:44,000 --> 00:13:46,000
+and you'll see that I have it paused here and if I use the period key or the comma so the period will go four
+
+132
+00:13:52,000 --> 00:13:54,000
+to frame and the comma will go back a frame so I could press period period period so you can see I go frame by
+
+133
+00:13:57,000 --> 00:13:59,000
+frame and View what's going on
+
+134
+00:14:03,000 --> 00:14:05,000
+now I didn't want to bring up anybody's any of the particular videos that I've seen and I've seen a lot of them where
+
+135
+00:14:10,000 --> 00:14:12,000
+you could just tell from one frame you can see the file system is exposed the
+
+136
+00:14:17,000 --> 00:14:19,000
+browser Tabs are shown all sorts of stuff is shown in one frame and they don't even notice it
+
+137
+00:14:23,000 --> 00:14:25,000
+um you very easily press pause and then just use the period and comma to go
+
+138
+00:14:28,000 --> 00:14:30,000
+frame by frame to view the sensitive information and
+
+139
+00:14:34,000 --> 00:14:36,000
+um there are channels that are dedicated not dedicated there are channels that
+
+140
+00:14:40,000 --> 00:14:42,000
+are kind of like reaction channels and they will very often use this this frame
+
+141
+00:14:46,000 --> 00:14:48,000
+by frame feature to look at stuff in the background and comment on it or you know look at what's going on you know in
+
+142
+00:14:53,000 --> 00:14:55,000
+their tabs and all this other stuff and they'll just comment on it as part of their their gimmick
+
+143
+00:14:59,000 --> 00:14:61,000
+so it's not just you know malicious actors who know how to do it there's a
+
+144
+00:15:05,000 --> 00:15:07,000
+lot of YouTube channels that just promote this this Frame swapping which is fine it's a fantastic feature like
+
+145
+00:15:12,000 --> 00:15:14,000
+I've I've used it for um animations when I watch some really cool animations online and I want to see
+
+146
+00:15:19,000 --> 00:15:21,000
+how they they did the tweening or something like that I can use the the comma and the period to go back and
+
+147
+00:15:26,000 --> 00:15:28,000
+forth a frame to kind of see how they they did the tweening and it's really nice it's a really nice feature honestly
+
+148
+00:15:32,000 --> 00:15:34,000
+it's just in the wrong hands um and with inexperienced video creators
+
+149
+00:15:40,000 --> 00:15:42,000
+you'll find that the you know malicious people view it or they'll you know it's maybe they're not
+
+150
+00:15:46,000 --> 00:15:48,000
+malicious but it's just information they shouldn't know and shouldn't have in their head it's information for your head so
+
+151
+00:15:54,000 --> 00:15:56,000
+that's kind of um my perspective on on
+
+152
+00:16:00,000 --> 00:16:02,000
+all of that sort of stuff now there is one more thing that you need to be aware
+
+153
+00:16:05,000 --> 00:16:07,000
+of and this one is a lot has caught a lot more in people's videos but
+
+154
+00:16:10,000 --> 00:16:12,000
+sometimes they're not and that's notifications so you'll get notifications
+
+155
+00:16:18,000 --> 00:16:20,000
+on phones and you'll get notifications on uh in on windows so if it's on the
+
+156
+00:16:25,000 --> 00:16:27,000
+phone it's a little bit more difficult but if the phone's on the desk and the camera is pointed in such a way that they can see it
+
+157
+00:16:32,000 --> 00:16:34,000
+um it'll be very easy to kind of see see information there maybe it's hard
+
+158
+00:16:39,000 --> 00:16:41,000
+because in the background it's blurry but still you should just put on uh is
+
+159
+00:16:46,000 --> 00:16:48,000
+it busy or uh yeah I think it's like busy on your phone where you it doesn't present any
+
+160
+00:16:52,000 --> 00:16:54,000
+notifications turn that guy on if your phone is going to be in the video or if you're reviewing phones or anything like that
+
+161
+00:16:58,000 --> 00:16:60,000
+just if it's on the screen on a table in the back a lot of people have tables on the side or they put their phones and
+
+162
+00:17:04,000 --> 00:17:06,000
+yeah it's it's not the greatest so just turn on
+
+163
+00:17:10,000 --> 00:17:12,000
+busy or put it face down either one works and on Windows you can use quiet hours
+
+164
+00:17:17,000 --> 00:17:19,000
+and it is important that you click it twice or quiet time I don't know what
+
+165
+00:17:22,000 --> 00:17:24,000
+it's called it's important you click it twice to alarms only because there is one that shows important notifications
+
+166
+00:17:28,000 --> 00:17:30,000
+which maybe work or emails or things like that so
+
+167
+00:17:33,000 --> 00:17:35,000
+it's pretty easy you just hit on the down here where the little speaker thing
+
+168
+00:17:40,000 --> 00:17:42,000
+is and the uh this is from a laptop so the little battery and the ethernet just click on that and you click on this Moon
+
+169
+00:17:46,000 --> 00:17:48,000
+icon twice if it's not there then just hit this little pencil and add it hit it twice go to alarms only you're not going
+
+170
+00:17:53,000 --> 00:17:55,000
+to get any notifications a lot of this may be redundant for people but I've seen a lot of technical
+
+171
+00:17:59,000 --> 00:17:61,000
+people don't follow these and it's just information
+
+172
+00:18:04,000 --> 00:18:06,000
+um that people shouldn't see so that's my rant on that that bothered
+
+173
+00:18:12,000 --> 00:18:14,000
+me a lot um recently it's happened way too many times and I also have a friend he's he's
+
+174
+00:18:19,000 --> 00:18:21,000
+goofy anytime I put up a video and I like all tab um that I'm just sending him uh for you
+
+175
+00:18:27,000 --> 00:18:29,000
+know I trust him and all that you know he'll send me a screenshot be like what's that that sort of stuff and it's
+
+176
+00:18:33,000 --> 00:18:35,000
+like a single frame so um it's it's just part of human nature to be very curious on what's on people's
+
+177
+00:18:41,000 --> 00:18:43,000
+computers and desktops what's in there it's kind of like you know there's a back room and the door is cracked
+
+178
+00:18:47,000 --> 00:18:49,000
+slightly open um pretty much everybody who's who's not boring is going to be you know trying to
+
+179
+00:18:55,000 --> 00:18:57,000
+see creep over there and kind of peek or maybe even just ask her outright so
+
+180
+00:19:01,000 --> 00:19:03,000
+um yeah it's just something I thought needed at PSA
+
+181
+00:19:07,000 --> 00:19:09,000
+but hopefully you follow all those so now I'm going to talk about programming so part two I guess
+
+182
+00:19:14,000 --> 00:19:16,000
+this is I don't know what to call it I think uh we'll call it it's it's very
+
+183
+00:19:21,000 --> 00:19:23,000
+[Music] um is not groundbreaking but I'll call it Grapevine coding it's where you hear
+
+184
+00:19:29,000 --> 00:19:31,000
+something about how to program and you kind of take it as law of
+
+185
+00:19:36,000 --> 00:19:38,000
+programming so programming back in the past may have
+
+186
+00:19:41,000 --> 00:19:43,000
+been closer to that where there are paradigms that you could tell each other and they would be pretty reliable at
+
+187
+00:19:48,000 --> 00:19:50,000
+being fast efficient saving size all those sorts of things and those
+
+188
+00:19:53,000 --> 00:19:55,000
+paradigms first of all we're still using ones from three years ago three decades
+
+189
+00:19:59,000 --> 00:19:61,000
+you'll still run into programmers to ask you know about these very old problems
+
+190
+00:20:06,000 --> 00:20:08,000
+and that no longer exist so you kind of hear it on the Grapevine
+
+191
+00:20:12,000 --> 00:20:14,000
+and you you baste your code and and and uh how you design your code on it which
+
+192
+00:20:18,000 --> 00:20:20,000
+is even worse so one of the first things I want to
+
+193
+00:20:23,000 --> 00:20:25,000
+mention is uh premature optimization we've all heard it
+
+194
+00:20:30,000 --> 00:20:32,000
+we've all had leads we've all had friends who have said it previous premature optimization is the root of
+
+195
+00:20:37,000 --> 00:20:39,000
+all evil and they're quoting some guys from you
+
+196
+00:20:43,000 --> 00:20:45,000
+know 60 years ago or so uh and they're guys I respect like Donald knuth is it
+
+197
+00:20:49,000 --> 00:20:51,000
+knuth Donald news I don't know um I have his art of coding series it's
+
+198
+00:20:54,000 --> 00:20:56,000
+like a big stack of books um he kind of uh repeated it and one thing
+
+199
+00:21:02,000 --> 00:21:04,000
+we need to realize is that quote was from the time of assembly
+
+200
+00:21:09,000 --> 00:21:11,000
+and if anybody's programmed in assembly you know exactly what I'm talking about and you know exactly what they're
+
+201
+00:21:15,000 --> 00:21:17,000
+talking about when they say premature optimization is the root of all evil because an assembly it's as programmers
+
+202
+00:21:22,000 --> 00:21:24,000
+we can count the clock cycles and we can think oh man if I can shave off a clock
+
+203
+00:21:27,000 --> 00:21:29,000
+cycle here and a clock here you know I could do a cool effect or something or I can add I can have extra
+
+204
+00:21:35,000 --> 00:21:37,000
+performance and those were very dangerous because you would design uh
+
+205
+00:21:40,000 --> 00:21:42,000
+pretty pretty ridiculous code the code would be
+
+206
+00:21:45,000 --> 00:21:47,000
+completely unreadable even with comments for for assembly code and uh it's just
+
+207
+00:21:50,000 --> 00:21:52,000
+awful to work in a team where parts of code you just don't understand especially if they're using some kind of
+
+208
+00:21:56,000 --> 00:21:58,000
+hack or anything like that so it's
+
+209
+00:22:01,000 --> 00:22:03,000
+that's kind of the root of it now that's propagated itself into
+
+210
+00:22:08,000 --> 00:22:10,000
+modern era and in the modern era people use it high level languages now
+
+211
+00:22:16,000 --> 00:22:18,000
+of course over optimization some early over optimization is not
+
+212
+00:22:21,000 --> 00:22:23,000
+helpful on a team but you should always think about optimization as you're
+
+213
+00:22:28,000 --> 00:22:30,000
+designing the code it's part of your design not over optimization not every you can't even really you can't even
+
+214
+00:22:33,000 --> 00:22:35,000
+count clock Cycles in a high level language but you can think about how things are going to interact and how
+
+215
+00:22:39,000 --> 00:22:41,000
+slow they're going to be and so you really don't want to get that premature
+
+216
+00:22:46,000 --> 00:22:48,000
+optimization is the root of all evil as like a base you want to work from in any
+
+217
+00:22:52,000 --> 00:22:54,000
+project that is that is not good advice for high-level languages now
+
+218
+00:22:58,000 --> 00:22:60,000
+the reason I say that is because high level languages are much more easy to become spaghetti code you start adding a
+
+219
+00:23:05,000 --> 00:23:07,000
+bunch of libraries your classes become super intertwined and is just almost
+
+220
+00:23:10,000 --> 00:23:12,000
+impossible to undo things once they get way too set in stone especially on a
+
+221
+00:23:16,000 --> 00:23:18,000
+project where there's timelines involved and you've got project managers you're
+
+222
+00:23:22,000 --> 00:23:24,000
+not going to get time to go back and rip out that whole thing to redo it so you do need to optimize those things up
+
+223
+00:23:28,000 --> 00:23:30,000
+front and you need to think about the optimization you don't want to over optimize it it shouldn't be something that supports every test case scenario
+
+224
+00:23:36,000 --> 00:23:38,000
+it should be something that supports the desired scenario
+
+225
+00:23:42,000 --> 00:23:44,000
+and maybe design in a way that can extend it at minimal effort something
+
+226
+00:23:47,000 --> 00:23:49,000
+like the visitor pattern is a great pattern for that sort of thing where the
+
+227
+00:23:53,000 --> 00:23:55,000
+business logic comes into the system and it works off of that and you can swap out the business logic very easily
+
+228
+00:23:59,000 --> 00:23:61,000
+so you do want to optimize ahead of time and that does one that should be
+
+229
+00:24:05,000 --> 00:24:07,000
+something in the back of your mind you shouldn't just hack things in to get them going get them going quick you will
+
+230
+00:24:10,000 --> 00:24:12,000
+regret it and it will waste a lot of your time and a lot of everybody else's time who
+
+231
+00:24:15,000 --> 00:24:17,000
+has to use it and just to kind of show where I got this from this is actually a
+
+232
+00:24:21,000 --> 00:24:23,000
+pretty um nice book so let me set up my
+
+233
+00:24:27,000 --> 00:24:29,000
+my overhead camera here so we can look at it first of all
+
+234
+00:24:33,000 --> 00:24:35,000
+it's from this book I like no scratch press this is a nice book thinking low-level writing high level
+
+235
+00:24:39,000 --> 00:24:41,000
+um it's it's a kind of a thick book I have their x86 assembly x64 assembly and
+
+236
+00:24:46,000 --> 00:24:48,000
+a couple others of of their books because they're they're nice I don't read books from start to finish
+
+237
+00:24:52,000 --> 00:24:54,000
+so at programming books I don't read programming books from start to finish so that's uh definitely kind of
+
+238
+00:25:03,000 --> 00:25:05,000
+one thing to keep in mind uh just a moment I'm
+
+239
+00:25:09,000 --> 00:25:11,000
+I've got to set up this overhead camera let's see
+
+240
+00:25:15,000 --> 00:25:17,000
+okay pretty sure I got it set up here let me move my keyboard out of the way
+
+241
+00:25:22,000 --> 00:25:24,000
+thinking low-level writing high level I just want to show you kind of where I got this uh
+
+242
+00:25:28,000 --> 00:25:30,000
+I've I've kind of always thought this um but it was put nicely into words
+
+243
+00:25:34,000 --> 00:25:36,000
+in this book here let's see if we can't get a little
+
+244
+00:25:42,000 --> 00:25:44,000
+bit of a zoom there we go so it actually talks about this here
+
+245
+00:25:49,000 --> 00:25:51,000
+um let's see although it's often attributed to Donald knuth who popularized it Tony
+
+246
+00:25:55,000 --> 00:25:57,000
+another fantastic computer scientist
+
+247
+00:26:02,000 --> 00:26:04,000
+um who said premature optimization is root of all evil this has been a rallying Cry
+
+248
+00:26:07,000 --> 00:26:09,000
+of software Engineers for application performance until the very end of time however you did not say concern with
+
+249
+00:26:14,000 --> 00:26:16,000
+application performance during early early stages of application development as a real quality evil and that's kind
+
+250
+00:26:21,000 --> 00:26:23,000
+of the important part there um it was in a time of counting clock
+
+251
+00:26:26,000 --> 00:26:28,000
+Cycles if you've done assembly programming like I said it's very tempting to count clock cycles and I've
+
+252
+00:26:32,000 --> 00:26:34,000
+I've done that quite a few times and it's always bit me in the butt and the people I I code with on that
+
+253
+00:26:40,000 --> 00:26:42,000
+um they regretted it they were upset at me so uh that's the book I highly recommend it
+
+254
+00:26:47,000 --> 00:26:49,000
+I wouldn't you know go I don't know how much this book was
+
+255
+00:26:54,000 --> 00:26:56,000
+uh I was kind of expensive it's like fifty dollars I don't know what it is now but maybe if you can pick up a used
+
+256
+00:26:59,000 --> 00:26:61,000
+copy um and thumb through it it's a it's a pretty nice book I like I like the no
+
+257
+00:27:04,000 --> 00:27:06,000
+scratch uh press books they're pretty pretty sweet so you know put that back down here
+
+258
+00:27:14,000 --> 00:27:16,000
+so that's uh my long-winded uh
+
+259
+00:27:20,000 --> 00:27:22,000
+part of premature optimizations and I agree with the book so uh let me turn
+
+260
+00:27:28,000 --> 00:27:30,000
+off this phone okay so
+
+261
+00:27:33,000 --> 00:27:35,000
+that's uh that's part one premature optimizations so
+
+262
+00:27:40,000 --> 00:27:42,000
+now that we've said that part I'm going to uh
+
+263
+00:27:46,000 --> 00:27:48,000
+counter that a little bit that isn't a free pra a free pass to over optimize
+
+264
+00:27:54,000 --> 00:27:56,000
+all the time here's another example of
+
+265
+00:28:01,000 --> 00:28:03,000
+programming and doing premature optimization so I this is an example of something I did in
+
+266
+00:28:07,000 --> 00:28:09,000
+my C library for my game engine I was doing utf-8
+
+267
+00:28:13,000 --> 00:28:15,000
+strings and in those strings I I kind of
+
+268
+00:28:19,000 --> 00:28:21,000
+put it I knew I could go online and check out uh how other people have have dealt with
+
+269
+00:28:25,000 --> 00:28:27,000
+getting the length of the strings and all that sort of stuff and validating the strings and I went online and I saw
+
+270
+00:28:31,000 --> 00:28:33,000
+that oh it has tons of if statements it has like four if statements just inside of a loop to determine if
+
+271
+00:28:38,000 --> 00:28:40,000
+um this is a UTF if the utf-8 string oh to
+
+272
+00:28:45,000 --> 00:28:47,000
+figure out its length how many characters are in it and for me I was like well branching isn't is not very
+
+273
+00:28:51,000 --> 00:28:53,000
+good all that branching um is going to cost you in the long run
+
+274
+00:28:58,000 --> 00:28:60,000
+so I've I set up for myself a uh
+
+275
+00:29:05,000 --> 00:29:07,000
+solution to the problem okay I had to set up my my web pages
+
+276
+00:29:11,000 --> 00:29:13,000
+there but I set up what I thought was a solution to the problem I should say
+
+277
+00:29:16,000 --> 00:29:18,000
+and uh it was not it did work
+
+278
+00:29:21,000 --> 00:29:23,000
+um it was indeed faster so this is uh my website I had a little
+
+279
+00:29:31,000 --> 00:29:33,000
+utf-8 thing here and you can see that I don't use any if statements it's all
+
+280
+00:29:36,000 --> 00:29:38,000
+just shifting logic and multiplication in addition which you can vectorize it's
+
+281
+00:29:41,000 --> 00:29:43,000
+not vectorized here because I'm not going to assume people are going to turn on vectorization but
+
+282
+00:29:49,000 --> 00:29:51,000
+here it's set up and then I have a validation function below that
+
+283
+00:29:54,000 --> 00:29:56,000
+so when I go to uh when I want to run it
+
+284
+00:30:00,000 --> 00:30:02,000
+you'll see that it did go faster it was 1.4 times faster than the internet uh common uh or my previous attempt I
+
+285
+00:30:08,000 --> 00:30:10,000
+should say and I do have the internet common one
+
+286
+00:30:13,000 --> 00:30:15,000
+somewhere as well let me double check here
+
+287
+00:30:19,000 --> 00:30:21,000
+okay unfortunately I don't have the previous one I do have one that I worked on a little bit it did have a couple of
+
+288
+00:30:25,000 --> 00:30:27,000
+if statements in it this is like my first attempt at messing with it and that one was 1.6 times faster than the
+
+289
+00:30:33,000 --> 00:30:35,000
+uh I guess it's five cases in the common internet one
+
+290
+00:30:39,000 --> 00:30:41,000
+so uh you can see that I can I got faster than even one that was faster
+
+291
+00:30:45,000 --> 00:30:47,000
+than that 1.4 times faster than that now one of the problems I had was as the
+
+292
+00:30:53,000 --> 00:30:55,000
+string scaled and it repeated itself the internet common one which is the one
+
+293
+00:31:00,000 --> 00:31:02,000
+with all of the if statements wound up being faster than my implementation without any if
+
+294
+00:31:08,000 --> 00:31:10,000
+statements inside of the loop and that's very you know surprising for for anyone that you know talks about
+
+295
+00:31:15,000 --> 00:31:17,000
+branching being very slow now I could try and run it uh
+
+296
+00:31:20,000 --> 00:31:22,000
+I do have the updated version here but my problem
+
+297
+00:31:26,000 --> 00:31:28,000
+is that the benchmarking software or website that I'm using here
+
+298
+00:31:32,000 --> 00:31:34,000
+um stopped working today I think so let's try to run it I'm just going to paste it in here and then
+
+299
+00:31:38,000 --> 00:31:40,000
+[Music] um let's use cling 14 that's the one I use for my C plus plus engine I'm going to
+
+300
+00:31:43,000 --> 00:31:45,000
+run a benchmark um I'm not going to make you wait for this I'm going to pause and see if it breaks
+
+301
+00:31:50,000 --> 00:31:52,000
+yep it's still broken but you can take my word on it when it was a short string
+
+302
+00:31:55,000 --> 00:31:57,000
+or a string of random characters I would see that my implementation was a little
+
+303
+00:32:02,000 --> 00:32:04,000
+bit faster are quite a bit faster depending on the scenario but when it is a really long
+
+304
+00:32:07,000 --> 00:32:09,000
+string of repeating characters the one with many if else branches uh
+
+305
+00:32:16,000 --> 00:32:18,000
+it wouldn't work and this isn't even the right one uh it's supposed to be this one anyways
+
+306
+00:32:21,000 --> 00:32:23,000
+doesn't matter it doesn't work anyways so there goes against the conventional logic of course the reasoning for this
+
+307
+00:32:28,000 --> 00:32:30,000
+is that whenever it's a repeating string the CPU and this is modern CPU I'm
+
+308
+00:32:37,000 --> 00:32:39,000
+assuming that is running on these Cloud servers that this is hosted on it detected the pattern
+
+309
+00:32:45,000 --> 00:32:47,000
+um and it did the branch selection uh
+
+310
+00:32:51,000 --> 00:32:53,000
+much more efficiently the other alternative is that the compiler saw that the saw the pattern and since it's
+
+311
+00:32:57,000 --> 00:32:59,000
+a very common pattern for utf-8 the compiler optimized the code to a better performing utf-8
+
+312
+00:33:03,000 --> 00:33:05,000
+function in assembly code and so the compiler is kind of in the way there
+
+313
+00:33:09,000 --> 00:33:11,000
+or useful useful in my way for my test but useful
+
+314
+00:33:16,000 --> 00:33:18,000
+overall so so essentially that's one of the things
+
+315
+00:33:23,000 --> 00:33:25,000
+about you know tribal knowledge the tribal knowledge of this will go faster if you move the
+
+316
+00:33:30,000 --> 00:33:32,000
+branches is not always true so you don't want to just remove if statements to
+
+317
+00:33:35,000 --> 00:33:37,000
+make it faster now I do use my version of utf-8 because it's better in most scenarios and it looks nicer to me I
+
+318
+00:33:43,000 --> 00:33:45,000
+think it looks pretty it's better in a bunch of FL cases um but that kind of shows you that you
+
+319
+00:33:49,000 --> 00:33:51,000
+really do need to test on your Hardware
+
+320
+00:33:55,000 --> 00:33:57,000
+uh the that's there's nothing Beyond testing on your target Hardware
+
+321
+00:34:02,000 --> 00:34:04,000
+um now I've talked a lot about kind of just general things of optimization early over optimizing doesn't always
+
+322
+00:34:09,000 --> 00:34:11,000
+work um but now I want to talk about ways that you can improve your code
+
+323
+00:34:15,000 --> 00:34:17,000
+um on any system uh that you know either has these features or
+
+324
+00:34:22,000 --> 00:34:24,000
+uh some features they have to have like memory stuff but
+
+325
+00:34:27,000 --> 00:34:29,000
+these are ways these are Surefire ways to improve the performance of your code they are kind of like Magic Bullets uh
+
+326
+00:34:35,000 --> 00:34:37,000
+basically it's hard to to go wrong with them unless you really don't know what you're doing
+
+327
+00:34:41,000 --> 00:34:43,000
+um the first one is turn on the MMX or AVX or CMD or for
+
+328
+00:34:47,000 --> 00:34:49,000
+Android turn on neon with flags like uh in
+
+329
+00:34:54,000 --> 00:34:56,000
+clang I think is on Linux it's minus AE minus M AVX on Windows
+
+330
+00:35:00,000 --> 00:35:02,000
+um you can send them Visual Studio but turn those on and the compiler itself is
+
+331
+00:35:07,000 --> 00:35:09,000
+going to vectorize and vectorization if you don't know what it is simd stands
+
+332
+00:35:12,000 --> 00:35:14,000
+for simultaneous instruction multiple data essentially you can
+
+333
+00:35:17,000 --> 00:35:19,000
+provide lots of numbers and it can run say an ad instruction
+
+334
+00:35:23,000 --> 00:35:25,000
+and and one of it's not a single clock cycle but you know in uh one of its you
+
+335
+00:35:29,000 --> 00:35:31,000
+know virtual clocks for that and it will run in one instruction uh so
+
+336
+00:35:40,000 --> 00:35:42,000
+I'm always going to know exactly what to do it we'll try to vectorize where it can it'll do it pretty efficiently in
+
+337
+00:35:45,000 --> 00:35:47,000
+the standard libraries so you will get some magic performance even if it's a
+
+338
+00:35:51,000 --> 00:35:53,000
+little bit out of turning on vectorization you can code vectorization yourself and
+
+339
+00:35:57,000 --> 00:35:59,000
+it's not that difficult um the the part that's annoying is that Android neon uses something different
+
+340
+00:36:04,000 --> 00:36:06,000
+than you know the standard um like AVX MMX stuff so you do have to
+
+341
+00:36:11,000 --> 00:36:13,000
+like if else case some of those things the other problem is that on desktops
+
+342
+00:36:17,000 --> 00:36:19,000
+you have access to um like doubles larger uh like a 256 byte
+
+343
+00:36:25,000 --> 00:36:27,000
+vector whereas in Android neon I think you're limited to 128 byte Vector so you
+
+344
+00:36:31,000 --> 00:36:33,000
+can't use like doubles I mean you can do doubles but um you can't do say four doubles all together you can do two
+
+345
+00:36:38,000 --> 00:36:40,000
+which is basically four floats so there are some gotchas on that depending on your platform so it is a little Annoying
+
+346
+00:36:45,000 --> 00:36:47,000
+to support both but you can write your your code for this and I I wrote my own
+
+347
+00:36:50,000 --> 00:36:52,000
+math library for my game engine so all the vector math and all the Matrix math the whole shebang I wrote by hand in C
+
+348
+00:36:58,000 --> 00:36:60,000
+and I used uh simd instructions to make it faster on desktop and make it faster
+
+349
+00:37:05,000 --> 00:37:07,000
+on Android um any any uh CPUs that support that
+
+350
+00:37:11,000 --> 00:37:13,000
+those simultaneous instructions so that's one way that you can it's like
+
+351
+00:37:16,000 --> 00:37:18,000
+a it's like a little magic bullet sometimes you won't see much performance at all and other times you can get some
+
+352
+00:37:23,000 --> 00:37:25,000
+pretty big performance based on what you're doing the other uh kind of Magic Bullet for
+
+353
+00:37:28,000 --> 00:37:30,000
+making your making things faster is uh caching a lot of stuff so of
+
+354
+00:37:36,000 --> 00:37:38,000
+course access to memory is slow but caching things that are complicated or
+
+355
+00:37:41,000 --> 00:37:43,000
+big structures you know if you're reading a file from a disk whether it's binary or text you got to go read the
+
+356
+00:37:49,000 --> 00:37:51,000
+file do some stuff with it read the file again later later on I don't know when how often you do this but if you were to
+
+357
+00:37:55,000 --> 00:37:57,000
+load that into memory and just hold it in memory just hold more in memory and not have to
+
+358
+00:38:01,000 --> 00:38:03,000
+access it from the network or from file systems or you know
+
+359
+00:38:06,000 --> 00:38:08,000
+kind of just those just elsewhere you will gain performance and of course
+
+360
+00:38:13,000 --> 00:38:15,000
+don't overdo it don't put your I mean we do that now I think unreal does that
+
+361
+00:38:18,000 --> 00:38:20,000
+it loads basically everything you need or as much as possible on to the GPU in
+
+362
+00:38:25,000 --> 00:38:27,000
+this case so that it can access it really quick
+
+363
+00:38:31,000 --> 00:38:33,000
+it is a very common practice to load up your your memory with stuff you're going to use then go for shaders you can go
+
+364
+00:38:38,000 --> 00:38:40,000
+for GPU stuff and go for CPU if you're just processing data um loading up that stuff into memory
+
+365
+00:38:45,000 --> 00:38:47,000
+caching things in fact uh one of the things one of the software that you'll
+
+366
+00:38:51,000 --> 00:38:53,000
+use in web is called memcached or memcache D I don't know how to say I'm pretty sure it's memcached
+
+367
+00:38:56,000 --> 00:38:58,000
+where you can save things in a local cache or even not even a local cache it
+
+368
+00:39:01,000 --> 00:39:03,000
+could be a remote cache but it's all in memory so it's much faster than a remote
+
+369
+00:39:07,000 --> 00:39:09,000
+database and reading from the database which reads from file system even with ssds so
+
+370
+00:39:15,000 --> 00:39:17,000
+caching stuff in memory kind of a Magic Bullet if you do it right um checking your memory alignment some
+
+371
+00:39:22,000 --> 00:39:24,000
+platforms like Raspberry Pi 3 will actually crash if you don't align your
+
+372
+00:39:27,000 --> 00:39:29,000
+memory so some platforms force you to do this but Intel for the longest time does
+
+373
+00:39:34,000 --> 00:39:36,000
+not force you to align your memory and aligning your memory properly will improve your performance not
+
+374
+00:39:40,000 --> 00:39:42,000
+significantly but it is a nice performance boost reading data into structures writing
+
+375
+00:39:47,000 --> 00:39:49,000
+data holding data transferring data between multiple objects or cloning your data it's going to be much faster not
+
+376
+00:39:54,000 --> 00:39:56,000
+much faster it's going to be faster if you align your data properly so
+
+377
+00:40:00,000 --> 00:40:02,000
+I think compilers have the option to align the memory for you um but it's not that hard to put an
+
+378
+00:40:07,000 --> 00:40:09,000
+alignment in your structure in fact if you're using like Vulcan or Raspberry Pi
+
+379
+00:40:13,000 --> 00:40:15,000
+3 you do have to align your data structures um to use it so in Vulcan whenever
+
+380
+00:40:20,000 --> 00:40:22,000
+you're setting up all your structures that interact with the the Vulcan API you align you align that data because
+
+381
+00:40:26,000 --> 00:40:28,000
+when it goes to the GPU it expects to have a very specific alignment so it's it's not that much work but it
+
+382
+00:40:33,000 --> 00:40:35,000
+can gain you some performance I don't think it's worth the effort most of the time
+
+383
+00:40:39,000 --> 00:40:41,000
+but if it can it is probably a good practice to align your data
+
+384
+00:40:47,000 --> 00:40:49,000
+and then aggregate commonly accessed data I'm sure everybody's heard about
+
+385
+00:40:52,000 --> 00:40:54,000
+this they've heard about dots in unity or you know what is it called entity
+
+386
+00:40:59,000 --> 00:40:61,000
+component systems stuff like that where you have a system and then you have engine uses an array and it accesses them
+
+387
+00:41:05,000 --> 00:41:07,000
+multiple enemies through the system and it goes It goes through this flow of accessing linear data and that's much
+
+388
+00:41:12,000 --> 00:41:14,000
+faster than accessing say like a linked list with a linked list you have
+
+389
+00:41:17,000 --> 00:41:19,000
+uh object over there an object over there who knows where they're at they could be the memory is virtualized so who knows
+
+390
+00:41:24,000 --> 00:41:26,000
+where they're actually uh in the physical memory so uh if you use uh and by the way like
+
+391
+00:41:32,000 --> 00:41:34,000
+link list inside of lists for example inside of C sharp or vectors which are
+
+392
+00:41:38,000 --> 00:41:40,000
+internally arrays so the I'm talking about linked to lists so when the data is disconnected
+
+393
+00:41:44,000 --> 00:41:46,000
+so having your data especially frequently access data that is relative
+
+394
+00:41:52,000 --> 00:41:54,000
+to each other and can in consecutive memory if you want to do memory pooling and
+
+395
+00:41:58,000 --> 00:41:60,000
+then have a big chunk of memory and then you know virtualize your own uh
+
+396
+00:42:04,000 --> 00:42:06,000
+addresses within that space and you want to say put a
+
+397
+00:42:09,000 --> 00:42:11,000
+your entity for your game object in there and its components and all that stuff that it has to access uh
+
+398
+00:42:16,000 --> 00:42:18,000
+you can put it in there if you if all if you have a set of entities that all do the same thing but they have individual
+
+399
+00:42:21,000 --> 00:42:23,000
+datas but you want to update them collectively consecutively you can use
+
+400
+00:42:27,000 --> 00:42:29,000
+that memory pooling to to kind of put them all in this consecutive memory and knowing your CPU is good for this
+
+401
+00:42:34,000 --> 00:42:36,000
+because if you know how much cash you have on on the CPU you can actually optimize for cash
+
+402
+00:42:40,000 --> 00:42:42,000
+so that it'll load in a big old chunk and it'll just blow through it really fast and then you don't have to worry so
+
+403
+00:42:45,000 --> 00:42:47,000
+much about your access to memory being slow and that's the bottleneck of pretty
+
+404
+00:42:51,000 --> 00:42:53,000
+much most programs outside of file system access and that sort of stuff Network stuff so aggregate your data
+
+405
+00:42:58,000 --> 00:42:60,000
+together that's that's a one of one of one easy way to Sure Fire
+
+406
+00:43:04,000 --> 00:43:06,000
+um make your program faster so those are some things you do to have
+
+407
+00:43:10,000 --> 00:43:12,000
+Magic Bullets to solve a little bit of performance but you're not going to make huge gains out of that you're going to make little tiny gains and it could be
+
+408
+00:43:19,000 --> 00:43:21,000
+fun doing that sort of stuff so there's no magic bullet for like doubling your speed usually that just means fixing
+
+409
+00:43:26,000 --> 00:43:28,000
+your overall algorithm your business logic and how it operates so even quantifiable algorithms that you
+
+410
+00:43:35,000 --> 00:43:37,000
+know you've you've tested two algorithms and you've Quantified mathematically now one algorithm is better than the other
+
+411
+00:43:42,000 --> 00:43:44,000
+does not mean that it's going to run faster than the other unless it's a you know Leaps and Bounds faster it's
+
+412
+00:43:48,000 --> 00:43:50,000
+slightly faster does not mean it's going to run faster like I said um the CPUs are very smart they figure
+
+413
+00:43:54,000 --> 00:43:56,000
+out branching they figure out caching and all that sort of stuff so you can have a quantifiable faster algorithm
+
+414
+00:44:01,000 --> 00:44:03,000
+that will get beat by slower algorithm just because of the architecture so I really liked you know Game Boy or
+
+415
+00:44:08,000 --> 00:44:10,000
+Xbox PlayStation 3. you know all those computers Commodore 64 where they have they all have the same Hardware
+
+416
+00:44:14,000 --> 00:44:16,000
+and that means it's known and so you can test it very easily
+
+417
+00:44:19,000 --> 00:44:21,000
+our problem nowadays is we have tons of different CPUs tons of different iterations of CPUs even along like if
+
+418
+00:44:26,000 --> 00:44:28,000
+you said I support only Intel CPUs so there's tons of different Intel CPUs you
+
+419
+00:44:32,000 --> 00:44:34,000
+know released every year and you don't know which one your players are going to
+
+420
+00:44:37,000 --> 00:44:39,000
+be using or your clients are going to be using so you don't really want to test
+
+421
+00:44:43,000 --> 00:44:45,000
+and really hyper make make the performance hyper fast on a specific CPU
+
+422
+00:44:50,000 --> 00:44:52,000
+AKA your development machine at the cost of flexible code or readable
+
+423
+00:44:56,000 --> 00:44:58,000
+code or elegant code or any of that so it's just something to keep in mind if
+
+424
+00:45:01,000 --> 00:45:03,000
+you are using a very well-known specific set of Hardware usually game consoles
+
+425
+00:45:07,000 --> 00:45:09,000
+more power to you just knock out that performance on that CPU because it's it's a known CPU that you can you're
+
+426
+00:45:15,000 --> 00:45:17,000
+programming against everybody everyone who's going to play your game on that device has that device so
+
+427
+00:45:21,000 --> 00:45:23,000
+that's you can optimize in those scenarios and just go whole hand for
+
+428
+00:45:27,000 --> 00:45:29,000
+that um so yeah just test specific Hardware
+
+429
+00:45:33,000 --> 00:45:35,000
+um if you have minimum requirements uh suggested requirements test on those
+
+430
+00:45:40,000 --> 00:45:42,000
+guys test the performance you may very well find that one performs better in
+
+431
+00:45:45,000 --> 00:45:47,000
+one scenario worse than another so that's that's kind of the thoughts on
+
+432
+00:45:51,000 --> 00:45:53,000
+optimization now I do want to wrap this up with a famous optimization and I've I've been
+
+433
+00:45:58,000 --> 00:45:60,000
+asked about this optimization um you know it's it's something that a lot of people
+
+434
+00:46:05,000 --> 00:46:07,000
+know because it's a very popular one and this is the inverse the fast inverse
+
+435
+00:46:11,000 --> 00:46:13,000
+square root you know it's a it's a 30 year old square root uh
+
+436
+00:46:17,000 --> 00:46:19,000
+that they did for uh
+
+437
+00:46:22,000 --> 00:46:24,000
+was it Doom or Quake it's probably Quake uh I don't know um
+
+438
+00:46:28,000 --> 00:46:30,000
+John Carmack said made it but he got it from someone else or something like I don't know the history history is not
+
+439
+00:46:33,000 --> 00:46:35,000
+important the fact is you shouldn't be using this this is a 30 year old algorithm
+
+440
+00:46:39,000 --> 00:46:41,000
+made for the machines of the time which didn't have Branch prediction for
+
+441
+00:46:44,000 --> 00:46:46,000
+example and they didn't have built-in signs or they didn't have built-in
+
+442
+00:46:50,000 --> 00:46:52,000
+you know built-in square roots nowadays we have built-in square roots
+
+443
+00:46:56,000 --> 00:46:58,000
+we have built-in square roots for floats we have built-in square roots for doubles and they are single instruction on the CPU so it's
+
+444
+00:47:04,000 --> 00:47:06,000
+it's not worth our time to Implement 30 year old algorithms and it
+
+445
+00:47:11,000 --> 00:47:13,000
+computers change often and uh it's just one thing that I do see developers
+
+446
+00:47:18,000 --> 00:47:20,000
+getting caught up on is some of these some of this old knowledge that doesn't
+
+447
+00:47:24,000 --> 00:47:26,000
+really apply anymore so I've got a little thing here we can take a look at so if we take a look here at this code
+
+448
+00:47:32,000 --> 00:47:34,000
+we're including math it's just a little C file and we're going to do the square
+
+449
+00:47:38,000 --> 00:47:40,000
+root float square root double and I'm just going to put a breakpoint here this is debug mode nothing is
+
+450
+00:47:45,000 --> 00:47:47,000
+optimized because otherwise it'll strip out stuff and I don't want to I don't want to fight the optimizer to
+
+451
+00:47:51,000 --> 00:47:53,000
+to show an example of something so we're going to run this and what we're going to do here I already have it
+
+452
+00:47:57,000 --> 00:47:59,000
+open but you can go to debug Windows disassembly to see the the assembly code
+
+453
+00:48:03,000 --> 00:48:05,000
+that's generated for this program and if we just look at the disassembly here
+
+454
+00:48:09,000 --> 00:48:11,000
+we can see that we have this is the C code and these are the
+
+455
+00:48:16,000 --> 00:48:18,000
+functions that are set up for it I don't know exactly what it's going to be when you optimize the code it may even strip
+
+456
+00:48:21,000 --> 00:48:23,000
+the square root based on you know the consts that are going and all that sort of stuff but anyways
+
+457
+00:48:26,000 --> 00:48:28,000
+uh you can see here it uses implementation of square root F here
+
+458
+00:48:32,000 --> 00:48:34,000
+which is going to be an internal function that does magic things but what you can see here for the square root of
+
+459
+00:48:38,000 --> 00:48:40,000
+double is that it is a single built-in assembly instruction
+
+460
+00:48:45,000 --> 00:48:47,000
+well it's calling this function and this function the reason it's calling this
+
+461
+00:48:50,000 --> 00:48:52,000
+function is that vendors can implement it how they want most of them are going to implement you
+
+462
+00:48:57,000 --> 00:48:59,000
+can see this is using xmm by the way most of the vendors are going to implement it uh
+
+463
+00:49:04,000 --> 00:49:06,000
+the way that is fastest so CPU calls it's going to be based on the
+
+464
+00:49:09,000 --> 00:49:11,000
+architecture but this is going to be way way faster than the inverse square root
+
+465
+00:49:16,000 --> 00:49:18,000
+function from 30 years ago so do not use that and don't use Knowledge from 30 years ago
+
+466
+00:49:23,000 --> 00:49:25,000
+use wisdom from 30 years ago um you know generally how you work with
+
+467
+00:49:29,000 --> 00:49:31,000
+teams and I work with code and how you design code and think about how
+
+468
+00:49:36,000 --> 00:49:38,000
+things interact that sort of stuff is super valuable those guys did a lot of research mainly in those fields they
+
+469
+00:49:41,000 --> 00:49:43,000
+didn't optimize these little instructions um and that is the useful information for
+
+470
+00:49:47,000 --> 00:49:49,000
+you not inverse square root or any particular algorithm
+
+471
+00:49:52,000 --> 00:49:54,000
+if an algorithm has been used for 30 years take a look at maybe making a new
+
+472
+00:49:58,000 --> 00:49:60,000
+algorithm because there's a lot of stuff that gets added to CPUs we have now you know artificial intelligence parts of
+
+473
+00:50:05,000 --> 00:50:07,000
+our CPUs we've got Matrix you know stacked CPUs we've got all kinds of new
+
+474
+00:50:12,000 --> 00:50:14,000
+stuff that can use a different algorithm and perform much faster say whether it's
+
+475
+00:50:18,000 --> 00:50:20,000
+distributed across multiple cores or maybe you even
+
+476
+00:50:23,000 --> 00:50:25,000
+use the GPU to do the algorithm because we do have compute GPU now computiators
+
+477
+00:50:29,000 --> 00:50:31,000
+or Cuda you can just write an algorithm that runs across a huge amount of cores
+
+478
+00:50:36,000 --> 00:50:38,000
+and blow through things way faster now so that's kind of my general advice on
+
+479
+00:50:43,000 --> 00:50:45,000
+optimization don't over optimize but do think about optimizing ahead of time and
+
+480
+00:50:51,000 --> 00:50:53,000
+don't uh you know don't stress out have fun while coding think about it think
+
+481
+00:50:57,000 --> 00:50:59,000
+more about your overall design who you're working with whether you're working alone or not
+
+482
+00:51:02,000 --> 00:51:04,000
+and just think about those aspects of your coding and you're going to have a
+
+483
+00:51:08,000 --> 00:51:10,000
+wonderful experience and you'll be much happier and you're not going to get caught up in all the fights on stack Overflow or whatever people do on stack
+
+484
+00:51:15,000 --> 00:51:17,000
+Overflow these days so cool that's that's basically it um if you guys have any suggestions on
+
+485
+00:51:23,000 --> 00:51:25,000
+things to take a look at or think about or talk about or anything like that this is this has been
+
+486
+00:51:30,000 --> 00:51:32,000
+quite a lot of fun um so yeah let me know if I missed anything if I messed up anything if I
+
+487
+00:51:35,000 --> 00:51:37,000
+got any information wrong uh you know if things have changed or maybe I just
+
+488
+00:51:40,000 --> 00:51:42,000
+misinterpreted something uh let me know and we can always pen the comment so
+
+489
+00:51:46,000 --> 00:51:48,000
+that other people know too so bye for now
+
+490
+00:51:51,000 --> 00:51:53,000
+hello this is an amendment to the podcast uh you can tell that it's a different day sun's out and everything
+
+491
+00:51:59,000 --> 00:51:61,000
+um but I was going to sleep last night and I realized that I said 256 bites for some D instructions and 128 bytes
+
+492
+00:52:07,000 --> 00:52:09,000
+for the neon instructions for arm and I meant to say bits so I don't know why
+
+493
+00:52:12,000 --> 00:52:14,000
+that bugged me clearing that one up second one the one that actually bothered me was the system calls
+
+494
+00:52:19,000 --> 00:52:21,000
+um to the square root functions and that's because we're in debug mode and it was
+
+495
+00:52:24,000 --> 00:52:26,000
+getting late and I wasn't thinking about it so I have now set up a release mode demo here
+
+496
+00:52:31,000 --> 00:52:33,000
+where um we will see the x86 instructions for square roots so you can say I have to
+
+497
+00:52:39,000 --> 00:52:41,000
+print them out so that it doesn't optimize my variables out and then if we run this and check out
+
+498
+00:52:45,000 --> 00:52:47,000
+our disassembly it'll be in reverse order the queue is going to be up here but you see it calls the assembly
+
+499
+00:52:51,000 --> 00:52:53,000
+instruction square root PD and then a square root uh
+
+500
+00:52:56,000 --> 00:52:58,000
+single signed or signed single I don't know which this is assigned and which one's singled
+
+501
+00:53:02,000 --> 00:53:04,000
+but there you go that's um that's the actual assembly instructions I was expecting to
+
+502
+00:53:09,000 --> 00:53:11,000
+see yeah I was a little bit surprised when I didn't see him last night but it's because I was in debug mode I
+
+503
+00:53:14,000 --> 00:53:16,000
+wasn't thinking um so yeah and uh that's basically my
+
+504
+00:53:20,000 --> 00:53:22,000
+Amendment see you guys
+

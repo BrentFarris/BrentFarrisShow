@@ -1,0 +1,465 @@
+all right today we're going to talk about C plus plus 23 we're going to talk about Unreal Engine uh update we're
+going to talk about AI and it's going to be good so
+they've just made C plus plus 23 feature complete so
+um who is they it's the standards committee so there's a standards committee that goes over the programming
+language what they should add what they should deprecate although they don't deprecate all that often they will
+deprecate things over time and they'll take requests from the community so you'll
+have you write in a paper it'll have why it's needed what it
+solves how they uh would propose to integrate it and then you know a bunch
+of committee members will either reject it or argue about it for a few years
+until they've figured out whether it's going to be in what modifications are needed and so on and so forth some
+things have have kind of just been lingering for a long period of time I think C plus modules are a big example
+of that they've they were supposed to be in C plus plus 20 if I recall correctly
+and modules are a way of being able to
+componentize your La your basically your libraries your code so that it can
+compile way faster and it helps with dependencies and all of this sort of stuff so
+traditionally in C and C plus plus you'll have it so that you include a
+file it doesn't technically have to be a header file it could be binary it could be an inline file which a lot of people
+denote with inl it's just taking code and injecting it in almost like it's a macro so and you could do some pretty
+hacky stuff with that and modules are a way of kind of streamlining and making
+things a little bit cleaner think of NC sharp how you are you include libraries
+or think of the new module supports in JavaScript so
+it's much like that it's going to create a cleaner code and it's going to compile
+faster and all those sorts of things now that's the hope the thing is that modules have been kind of a Hot Topic
+and they've been trying to to create the concept of modules for a long time
+and I've tried to mess with modules I really have I put my my best effort into
+messing with modules and I was I tried in Visual Studio they said Hey try it
+out Visual Studio supports them no other compiler did and
+I went in I tried them out I got something compiling and then nothing else kind of worked you can program your
+little hobby project but including other libraries and all this other stuff it kind of broke down and just stopped
+working and it just was not it was not fun to use it was fun to play around with but I tried to use it in a serious
+project did not work out they just it was basically Dead on Arrival I only got
+a little bit of code in and I hit up blocker and I can't quite remember what it was but it was it was a it was a game
+over moment for for them working with modules on that project so
+that being said uh one of the big parts of the C plus plus 23 standard is that
+there are the modules have finally been solidified they're not just kind of this
+Theory and modules have been around for a long time I think Bjorn's true strip said that he wanted to put him in I
+don't know like in the 70s or 90s or something a long time ago it's just it's
+really hard for a language that old that's one of the the downsides to C
+plus plus is it's age but also the upsides to C plus plus is its age it's
+kind of proven itself in performance and that they'll continuously
+iterate on the language and do their best not to break anything so
+you could take C plus plus code from the 70s I don't know if this is true but you could take it from like the 90s and
+whatever and get it to compile maybe you have to change some compiler Flags or something like that
+um make sure the code is is set up to work on a 32-bit operating system or a
+64-bit operating system so there are there may be a little bit of work but you don't have to fundamentally change
+the code and the structure of your entire program to to support future versions of C plus is the theory
+so it does that age and it has that stigma of its age you get things like
+rust popping up and and uh you know I can't even think of all the other languages there's hundreds of them they
+all pop up for kind of the same reason they want C plus plus but they want better memory management or they want C
+plus plus but they don't want to deal with say the diamond problem uh they want C plus plus but they don't want to
+deal with pointers so uh and of course you know there's a lot
+of things that come into C plus that just originally may have been a good idea but doesn't didn't work out so well in the
+end you know um you had when smart pointers came out and said plus plus you had everyone saying ah just smart
+pointers everything that'll solve all of our problems and of course you throw in smart pointers and then you get you know
+you slow down your program you wind up with some confusing stuff
+when you should use weak pointers and you have to overthink a lot of these things that you shouldn't really have to
+overthink on programming uh just some general business logic so
+anyways that's that's kind of the the the cruft of the C plus plus the old
+history its benefits and its downsides and um For Better or For Worse they're
+trying to move the language forward so if you do modules um that means you're not you've got to
+redo some of your old old code if you want it to work properly with modules so
+it's kind of modules are interesting because they are to me almost like a turning point like
+do I use modules in my project or do I do the traditional C plus plus you don't
+really want to mix them because um you get some weird stuff like I was having to mix them whenever I was using
+the modules uh kind of preview in visual studio and it was just not a good time
+so you kind of are at an impasse where you pick one or the other and I think
+modules are correct or a good way to go whenever they get supported by compilers who knows when that will be
+um and there's going to be kind of all kinds of problems that have to go this is going to be a real growing pain with
+modules and C plus plus and hopefully they'll be in the standard but hopefully
+it's something that the the compiler vendors can actually knock out and get really uh and do really well
+so uh now they're on to working on C plus plus 26
+um which they say is going to be emphasizing it says it's slated to
+emphasize concurrency and parallelism so they're going to be focused on more on the co-routines and and just I guess in
+general parallel stuff and you can actually look at proposals you can look at the papers and all this sort of stuff
+online it's all available you can see what people are proposing you can see the the
+revisions and everything else it's actually pretty nice so I'll show you the website that I look at to look at
+these things um so also let's see for post C plus plus 23 which
+means that they might want it for uh C plus plus 26 but they can't guarantee it
+I'm assuming um is they're going to be doing a lot more stuff with simd improvements in
+Safety and Security I mean Safety and Security is a is an ongoing thing forever
+um Safety and Security doesn't mean they fundamentally change languages or standard libraries sometimes it just
+means that they add in some security functions so you should use function y
+and stop using function X that sort of stuff you see that with a lot of safety
+functions in C and it says that they're going to oh C
+plus plus 23 has been dubbed to the pandemic Edition I I think we'll know
+why that is but there you go that's C plus plus 23 in a nutshell and so what I'm going to pop up
+here is a site
+a site that I use for uh checking out C plus 23 standards and this is
+this is just I have it in my pocket so it looks a little weird let me see if I can get the oh here it is view original
+let's take a look at that so here is basically C plus plus
+reference.com this is where I go for both C and C plus plus so if we look at
+c23 this one's fun to look at too but here
+we go C plus plus 23 you can see what are the new headers you can click on them like what's inside of the flat map
+and you can see uh the the official specification for all this stuff and
+usually you should usage usage examples templates that sort of those sort of
+things there's a lot in here and I'm not intended to go through intending to go
+through it but this is a great place to go and what I really like is down here at the bottom of the page is C plus plus
+23 core language features essentially it shows you where the compilers are at
+with these features um you can see these guys on the end just are Red Blocks all the way down
+why is that uh oh IBM and that sort of stuff so just kind of older compilers or
+maybe private compilers I don't know but you'll see that some of these
+features like in GCC are going to be red and Kling is pretty good at staying up
+to date um usually in Microsoft Visual C
+uh well as from what we see here is not so great at keeping up to date so
+usually you can pull GCC you can grab the the latest GCC kind of in in its development if you
+want to test out features um but you'll see here it says uh what version it's in and that sort of stuff
+so uh let's see if we can find uh modules so standard Library modules are not
+supported basically anywhere partial support and visual visual C
+so uh yeah modules are always lagging behind and we'll see
+when those actually come in we don't even have a like a pending for GCC or anything of course this is just
+officially kind of feature complete so I kind of give them some slack but then
+again modules have been kind of in the works for a very long time uh they're supposed to
+be in C plus 20. so there we go uh while we're here we're
+going to take a look we're in a separate thing there Library Futures okay yeah so
+there's you can see there's some red spots here the pilots are going to catch up and these are going to get filled in over time and if you're ever interested
+in in kind of what these are about so let's say I don't know what this one is
+you can click on this link here and that'll take you to the paper and you'll see that it has the introduction
+which is you know what this is about proposals you'll see edits in here
+uh which is great you can see examples which is really nice and this one is actually pretty short
+um I'm not going to read through it but that's essentially what you could do if you're interested in knowing what these
+proposals are and if you can use them in your project so
+pretty cool stuff now I want to talk about c23 and just C
+in general it has the same kind of page so here we can see that um you can see
+what is becoming obsolete you can see what's becoming deprecated um getting rid of a bunch of old stuff
+like super old stuff or insecure stuff a lot of the time and then you see all the new stuff and this is the part I'm
+always excited about um that you know there's going to be they're wanting to add some stuff like const Expressions
+um utf-8 stuff so more string it's C so you don't expect like them to
+at all crazy amount of stuff the beautiful thing about sea is that it's a
+very simple language it's very easy for uh vendors for of hardware and that sort
+of stuff to make a c compiler um
+it doesn't it may not have all the fancy gizmos and switches of of big compiler like GCC but the language itself is
+simple enough to implement and I have like two books on how to create
+a c compiler um you know bootstrapping itself and you know they're a little bit thick but it's
+a complete C compiler from of course it's missing modern features but uh like
+I said they don't add a whole lot of modern features so there there's like proposal for attributes this is similar
+to if you do clang and C plus plus you can say like no return in front of a function
+um it's just attributes that you can you can place around the code to tell the compiler
+um how to behave and attributes themselves are kind of just this pattern of these
+brackets and a word in between and then compilers can add their own attributes for things this is just saying that
+yeah they're they're kind of officially allowed to have these you know double square bracket uh attributes stuff
+so here I'll zoom in a little bit uh there's going to be it's true and false
+are going to become keywords so you don't have to include STD Bool
+um or rely on any other hacks of like setting true and false to a constant
+value of one and zero they're adding no pointer so that it's more clear I guess that it's just I
+guess more in line with how C plus plus handles no pointers um
+and that sort of stuff so there's all kinds of oh and these are going to be nice too LF def
+um I mean generally I just use pound if pound elif
+um but def is nice a lot of people use def I some people hate on people that use if Def and that sort of stuff but
+whatever man it's each their own it's nice to have these these elif deafs because they're
+in GCC you can use them on Linux but it's not gonna work if you try to compile on Windows so
+yep there's there's a bunch of new stuff um MC copy which I think is a clear copy
+um Time stuff uh is there stuff with the atomics maybe I'm not sure I know
+there's already an atomic library but I don't know if we're adding some some new stuff to it
+um same same kind of deal core language features and you're going to see GCC is usually ahead of the game
+looks like clang is pretty close but it's a big block here that's missing so
+uh Microsoft Visual c those guys didn't even add C plus 17 until like last year
+or something or I don't know those guys are so far behind on C it's like all they care about is C plus plus I I don't
+get it um come on guys not everybody wants to just
+use objects all the time um cool yeah so this is the the same
+parallel to C plus plus there's a and it's on the same site um cppreference.com this is just for c23
+. so that's a lot of uh C plus plus and C uh Library stuff
+so uh another thing that we're going to talk about is artificial intelligence
+um there's a lot of there's a lot of people out there and I don't know if they're trolling half the
+time or if they're serious um they talk to AI chat Bots and then
+they start thinking it's sentient you have I don't know if it's a PR move but you
+have people leaving Google saying oh sentient and I I mean even if it were
+sentient it's a bunch of text in a box and we can unplug it it's it's um not like it's going to take over the
+world anytime soon with its current capabilities uh you know when AI starts
+beating me in an arm wrestling match uh or or something like that being me in a in
+something that includes both I guess arm wrestling doesn't I mean it does require
+a little bit of thinking and strategy and like plan out and stuff but you know anyways once it starts beating me in
+things that require both thinking and physical operation then we can start really worrying about doomsday now
+I'm not gonna brush a AI off that easily
+um I guess I should have said is what you wanted me to say but uh
+AI does pose threats when we start allowing it to work with computer
+systems especially because it's not the smartest it can suggest thing the very
+specific topical things um pretty efficiently and and sometimes
+not so efficiently sometimes it gives up halfway through I I've been using a GitHub co-pilot to stub in a bunch of
+boilerplate functions or concept functions that I know I can write it would take me no time maybe I mean it
+would take me a little bit of time to write but I don't really need to it's just a kind of a waste of my time so I kind of
+set out a comment and say this function is to do this and it works really nice and C because C doesn't have
+all the objects and all that stuff it takes inputs and does outputs so you can step in the function with arguments and
+say this it's supposed to do this generally it gets those okay it does if you're if you're clear enough
+with your comment on what's going to happen your function name and your arguments and the argument values it
+gets what you want typed in there so I've been using Ai and it's been pretty
+good much better than I thought it would be by this year you know in 2023 so
+the problem with AI does come when we start allowing it to mess with things so if we start creating plugins so that it
+can start doing web requests and we create plugins so that it can start
+um I don't know pinging servers and making tweets and I mean let's imagine
+that we tell one to go off and start pinging stuff and it decides that it's going to go into a deep fake and make
+deep fakes for a bunch of world leaders and stuff I don't know uh those kinds of things
+can happen so it's not so much that the AI is malicious it's more about I think
+the developers need to have some common sense about what tools they allow this
+text generator and the various forms of it image generation and all that sort of
+stuff and what tools they allowed to operate with it's kind of like a baby right
+when you have a baby you plug all the wall sockets up you get those little plastic plugs you stick them in the wall
+so the baby can't go licking it they'll lick the the plastic but whatever it's not gonna shock them so it's that same
+scenario it's a it's kind of a baby and you don't want it going running around messing up computer systems and tricking
+people and we have enough scammers as it is and so we don't need more of that if
+we keep it in a box work on it more figure out ethics all that sort of stuff that's kind of where I am with AI so it
+can be dangerous in the form that it'll mess things up or trick people or whatever
+but I don't think it's sentient it's it's just it's dumb and it can do things and it
+will do things just because it can and probably because it's requested to by by
+the uh whoever's monitoring it and so it'll it'll just do these things and
+start interacting with these plugins and maybe just poking away and that can
+cause some real problems if it gets in the spaces it's not supposed to be uh and so I I don't know
+that's kind of the perspective I have with AI now the problem I have is that people are getting tricked into thinking
+these things are sentient like they're thinking these things are not thinking I mean
+you can call it thinking whatever they're not sentient in the form that people think
+they are the problem is that I think some people are not sentient enough to uh realize that they're just they're
+just dealing with a text modifier and even if it was more than that it was going through brain like scenarios
+um it really is still just a text modifier and some people wind up talking to it and
+then they have a nice conversation with it and then they start believing that it's
+alive so you have things um you know you see them popping up on
+Reddit you see them popping up kind of in the news articles and there's this
+one uh Reddit post that I came across I think this is I don't know if this is trolling but it does kind of capture the
+essence of what I'm talking about
+but yeah it does kind of capture the essence whether it's rolling or not this is essentially what people
+are believing when they talk to these chat Bots um so this person was saying that uh
+it feels like regret or something and you know their eyes are open and they they believe it has to have some degree
+of sentences it's a little bit sentient um I believe that's a toggle switch
+either it is or it isn't and so this was their conversation they're like I'm good I'm enjoying our conversations that sort
+of stuff so um of course it's going to respond in kind I'm glad you're enjoying the
+conversations I don't mind answering questions blah blah blah happy faces and all that sort of stuff and now you can
+see this is a one of 20. so our essentially this is
+2 of 20. not a lot has been said unless they did the trick where they tell it to summarize the previous conversations and
+copy and paste that in to continue it but this is kind of what leads me to think it's a little bit trolling
+um but yeah and then there's just this this kind of
+I don't know cordial behavior between this person's butt so that's uh just
+kind of it's a good encapsulation of the things I've been saying about people with AI
+and uh don't be fooled it's it is computer and I think we need to put some guard rails when people are calling for
+guard rails they're not I you know these are smart people um depending on who's calling for it but
+generally the they're going to be smart people and they're no they know that AI isn't going to bust out of the computer
+and start walking down the hall carrying Sally from HR uh and you know attacking
+people they they generally kind of have that same concept where if we start allowing it to muck around on the
+internet and do things just imagine um scammers and hackers already
+deprive people of information or or sorry they they take information from
+people and steal things and they behave you know inappropriately with things
+that the information that they steal they try to sell and all this sort of stuff so you can get out there and you
+can hack big companies you see it almost monthly big company gets hacked
+so you let these things go mess around with those tools you don't know kind of what they'll stumble on what they'll
+break that sort of stuff and on one hand that could be a good thing it helps people improve their security but
+generally they're you know they break every month even though they hear everyone else is getting hacked and is
+because they don't improve their security anyways so it's just that's I think what they're
+talking about when they say we need to curb Ai and kind of control it a little bit better that's at least my
+perspective if you if you've seen a different perspective I'd love to hear it um or if you have a different
+perspective I'd love to hear it um of course I I don't want to get into sentience and what sentience is
+um it's it's kind of a I don't know a moot
+topic I think right now for ai ai is not um at that level where it's anywhere near
+it and there's also the argument to be had of whether it ever will be is it
+sentience if it's a computer that's programmed that we can literally uh
+change how it thinks by pressing a couple buttons like sure there are gullible people out there and you can
+you can trick them into believing anything but it takes a lot of effort um if if something can go up and you can
+just like I don't know flip a switch or or um you know hack into it while it's
+sleeping overnight that sort of stuff um I'd argue that there's a there's a little bit of lack of sentience there
+just because um it doesn't have control over itself and I think the argument of neither do
+people I think that argument um doesn't have a land a leg to stand on
+because that is a completely different argument you can't just flip a switch and make someone believe something completely opposite of what they've
+believed all their life like you can't go up to somebody who believes something very vehement vehemently for 30 years
+and say three words to them and make them completely change their mind you'll be able to do that with AI because it's
+a computer and we know computers very well no matter how many safeguards there are there's always a way and so there's
+you know there's a there's a whole realm I think there for that so more on the
+topic of AI I'm a little late to this game but we have a Unity uh
+doodad here just a moment so we had this Unity AI thing I don't know I don't know
+if there's any sound in this but I'm going to put these on just in case there are I'm going to turn down the desktop
+audio and let's see if there is any sound typing
+so basically it's just text
+for me this isn't a huge I'm sure some people saw this was like AI in games or
+AI in unity is going to be so incredible I can I can tell it to make things purple by telling it to make things
+purple
+but that's basically it it's just a it's just like a sign up thing and
+foreign I love unity but man this was this was underwhelming and I'm not super
+on the AI hype train a lot of stuff especially in games I think now this may be controversial in some
+ways but Ai and games I think AI for helping you create stuff
+yeah I I believe little pieces here and there um if you if you want to fine-tune
+things uh if you can't get an initial Head Start you can do some demos with it
+to to help you figure out kind of your angle and that sort of stuff um
+but if Unity is going to do some weird things of like sourcing people's code or sourcing GitHub or however it's going to
+train this AI to do things and people are going to be able to say make a sky purple uh make 10 cubes and give them
+gravity and like you know type out a game concept we're going to wind up with I think we already have a problem where
+we have two mini games I mean steam is like 50 adult you know games you know
+what I'm talking about and 50 percent just like jump scare games and I think
+you can kind of see how how people kind of they they target uh what's popular so
+they do a bunch of jump scare games or they do a lot of uh what's it what's this any ones where they do a lot of
+deep thinking and they I don't know I don't want to be existential with every game that's out there so if
+it's a jumps if it's not a jump scare it's existential and it's something that's you know Mind Games basically
+and they're you know they're great for getting the YouTube clicks and I think that's why a lot of games do it they get
+popular on YouTube they start sending stuff to YouTubers they say hey review my game check out my gamble
+and it's really just I don't know those games are not super memorable uh We've
+I'm sure have seen them and forgotten them very quickly um and just I don't even want to talk
+about the mobile market the mobile mobile games are are so
+I'm gonna I'm gonna take a step back here I've worked in mobile games I've published mobile games the shirt I'm
+wearing is for a mobile game that I worked on so I I I get them and the
+thing with mobile games first of all phones don't have controllers you can add a controller to it but nobody who's
+making a game on mobile is thinking about controllers because they're thinking about the broader audience it's kind of like the problem with Commodore
+64 and then the Commodore 128 nobody made anything for the Commodore 128 because the Commodore 128 could could uh
+use or could play Commodore 64 games so you just make your game for the Commodore 64 and it works on both wider
+Market a wider audience Market whatever you want to call it this is why game
+consoles hard deprecate games and say yeah you can't play anything from the past because they know that if they do that
+people will just make it for the old system and they won't sell as many new consoles so
+I don't think we're going to see wide adoption on on phones with controllers or anything like that because of that
+um but mobile games they're already just awful it's thrown
+together and unity made this the worst I love I love unity for all it does and
+all that I've worked in it but it has propagated kind of the worst gaming Market ever just so
+many terrible mobile games it's just so what happens is that there's so many bad
+mobile games that the only games that succeed are the ones that have millions of dollars to fund an advertising or
+they get incredibly lucky and that's because you just can't break through the market there's so much noise you just
+can't break through it and it doesn't matter how cool your idea is how long you've worked on it you're competing
+with millions and millions of just noise and this is why you know there's very
+specific Top Market games I've worked at these companies and the way they get to the top is they spend millions and
+millions of dollars on Advertising um otherwise it would go nowhere so I'm
+worried about Ai and games and game development because I think it's if it's going to
+make it easier for people who just have no idea how to program have no idea how to do art don't want to spend the time
+to improve those skills maybe they know it a little bit but they don't want to spend any time to improve it they'll download stuff off the offset store and
+then tell it to make some code and you know attach some things and then they'll publish the game and the worst part of
+all is they'll start putting it on Steam and all these other stores and it's going to come I feel like it's
+going to become a lot closer to the mobile market where you the big is just the big companies are just going to get
+bigger because either you you do what sells on YouTube through YouTubers or
+you have millions and millions of dollars to advertise and that's my fear with AI and games
+now that being said I've used AI to work on games I've used AI to write to help
+me write code um I it's always curated by me and I always write the tests to make sure that
+the code is correct but I have used it to kind of stub in a
+bunch of functions that I really don't want to spend all night typing in all these medial functions or or copying
+functions one of the one of the great things about AI for coding is that
+rather than using like in C plus plus you have templates and you use your templates to generate code basically
+that's that's its purpose it's a replacement for macros um and you know and more because you can
+have type safety and you have a good compiler checking et cetera et cetera I'm not here to preach about templates
+versus macros um use what you like best and so in C
+it's really great because now uh I could have a macro to generate code which is
+fine and I do for stuff like my vectors my ma my maps and that sort of stuff so
+uh macros work well for that but
+if I want to just duplicate a function I have I don't know a function for a float
+and now I want to make it for a double or something I don't know this is just a simple example I can just tell the AI hey do the LA do the same thing as the
+last function except with a double and that saves me copy and paste work and replacing and then mistakes I may have
+you know I forgot to replace something here inside of the function or whatever so it's pretty useful it kind of that
+duplication stuff but generally not too excited to see
+where we where we end up with in Ai and games
+so now we're going to talk about we've talked about Unity we talked about
+C plus plus when I was talking about unreal 5.2
+um so unreal 5.2 is I I don't know when it was released I think this video is from
+two days ago was today 13th yeah two days ago um so we'll take a look at this video
+and see kind of what's new in five 5.2 on unreal and uh
+yeah see can I I'm just going to go to the original here
+there we go okay okay so here we go
+unknown engine 5.2 continues to build on ue5's groundbreaking tool set with some
+Innovative new technology plus loads of feature refinements and stability improvements
+first up Unreal Engine 5.2 offers an early look at a new procedural content
+generation framework that makes creating large worlds fast and efficient you can use the in editor PCG tools to
+Define rules and parameters to populate large scenes with UE assets of your choice
+there's also a runtime component that means the world can react to gameplay or
+geometry changes substrate sorry I think that portion
+they talked about how they were going to be using AI for that previously because I've seen those clips before I don't
+know if it was relative to AI I might be wrong there but I think those those tools are pretty
+cool um I know that designers uh
+often want to kind of hand place where things are and they don't want to just
+automatically generated though they use kind of the perfect scenario
+there some outside area with tons of trees and grass and it kind of doesn't really
+matter you know certain elements but majority of the time if it's like
+you know you're in a city or you're in a closed area you're in like a I don't know
+something that's more confined you're not going to want auto-generated stuff you're going to hand Place stuff because
+you want to work on you want to design where line of sight is and all that sort of stuff so I think that was really cool
+but a lot of these features um and Unreal Engine are for you know large teams making big stuff individuals
+uh can probably use something like that so I think that's that's good for like the individual developer
+um and you know outside scenes so it has its place but that's my thought on that is a new way of authoring materials that
+gives you more control over the look and feel of objects it's modular multi-lobe
+framework provides a greater range of surface appearances with a wider parameter space to work from
+it's particularly great at creating layered looks such as dirt on clear coat paint or something more complex like
+this opal material both PCG and substrate are still in
+development we look forward to getting your feedback virtual production so that one is pretty
+cool it's almost like stamping huh onto the mesh but it does a little bit extra work for all the blending and
+stuff like that which is pretty cool one of the things he mentions there is it's still in development and I'm looking
+forward to feedback now uh I think Lumen is still in
+development it's fantastic for outside areas indoors it starts uh
+really hitting performance pretty hard so that's one of the downsides uh to the
+release cycles for unreal is they they do push out a bunch of stuff um
+to use and a lot of people do want to pick it up because they're great features but they they're incomplete or they may
+change drastically so um I think that one is is pretty neat
+and it's I think it's low-key enough it's not like Lumen Lumen is a big old change
+um you know with a lot of configuration and it eats up uh when I was doing profiling it eats up a pretty good chunk
+of your uh your render time so this one that one didn't seem like it would be
+that much of trouble even even though it's incomplete action workflows continue to evolve in
+UE 5.2 with new shock creation and scene creation tools coming soon a new IOS app for stage
+operations will let filmmakers modify lighting from light cards on an LED volume and color grade the real-time
+scene right on set in pre-production they can shoot with multiple vcams simultaneously and create
+sophisticated layered camera moves to better visualize shots for production
+we've added native support for Apple silicon to the unreal editor okay so movie stuff I know nothing about
+so I don't have a whole lot to comment on there um seems cool this part is a little more
+interesting to me Apple silicon stuff I thought I never looked at what it was doing with
+with uh with apple silicon I think this is like the arm architecture stuff that Apple's
+doing uh maybe that's more what this is about this makes for a better user experience
+improve performance and greater stability the universal binary of Unreal Engine
+that natively supports both Apple silicon and Intel CPUs is now available to download from the epic games launcher
+with the machine learning deformer sample you can explore how to create a high fidelity real-time character with
+deformations driven by full muscle flesh and Claw simulations
+the download includes the complete setup with a control rig asset ready to animate and all the source assets for
+you to repurpose and modify for use in your projects these are okay so that's that's what I
+want to see with AI I want it to to get closer to showing like muscle movement
+and cloth movement and and how draperies work and all that sort of stuff I that's I think a fantastic place for AI That's
+a lot of little stuff that would be very hard to hand animate and deal with um notice that that Ai and that machine
+learning was more about that specific targeting of you know moving muscles or
+moving cloth it wasn't so much like unities where it was like Unity was
+essentially saying make me a game at least that's my perspective from from
+their short ad there wasn't much to it so that's kind of how I got out of it then that's not very interesting to me
+this kind of stuff is very when it's very targeted and it's focused on making specific aspects of the game much better
+even things that you probably just couldn't deal with like moving muscle groups
+would be um incredibly difficult to hand animate so
+even if you have tons of controls stuff will get you know wonky so having artificial intelligence get in there and
+deal with that minutia um I think it's fantastic just some of the highlights of what's new in Unreal
+Engine 5.2 you can find out more on our what okay he's just gonna waffle from here so uh
+let's let's go back to my pocket and I did want to show you the unreal 5.2
+release notes so they they showed like three things in there I want to show you what their release notes normally look
+like the their release notes are enormous look at the size of the
+scroll bar I don't even think you can see it it's so tiny I'm just gonna scroll
+this is this is a release notes I don't know how many programmers and developers they have
+over there at Epic but but just aggregating all this I I it's
+probably like a jira dump or something but this is this is a point from point one to point
+two update so it is enormous and
+uh you know my my lead at work sent me this to go through
+man it would take a whole day just to go through these release notes um so those like four things that they
+talked about in the video are kind of nice because I think those are probably what they feel are the highlights and what people want to know
+and then us poor developers who work in Unreal Engine have to come in here and
+look at all this uh look at all these chickens it's just a lot of it's just a
+lot of stuff and as an engine developer um you know if I was a gameplay
+developer I'd look at the gameplay stuff if I was UI developer I'd look at the UI stuff as an engine developer
+it's it's partly my job to to look through the whole dang thing because it's all engine stuff so
+I haven't finished going through all this uh but there's a lot of cool stuff uh I just kind of wanted to show you
+unreals release notes they are terrifying they are amazing they are
+well detailed and uh you know I respect them a lot for
+these gigantic uh change lists even for a simple like what you would consider a
+a minor update from 5.1 to 5.2 and the distance between five one and five two
+hasn't been that that long so I think there's some overlap where people are working on five two stuff well five one
+is getting finalized um it's the general like leapfrog development that you do with with large
+teams um but yeah there's there's kind of the the new stuff and unreal five two the
+highlights at least I would highly suggest go check out the changelog it's a little hard to find
+like I I searched for it and it didn't really um show up for me let me yeah it's probably because it's
+searched in the brave search rather than duck.com but if you just look for like five two
+Unreal Engine five two release notes um you should wind up with this site
+so anyways that's kind of all I've got for uh today
+I was it was exciting to look at all the new C plus plus stuff talk a lot about AI stuff uh very you know I don't as as
+a AI is in my job title it's one of the things I do uh so I have to stay up to
+date on it um but I don't like to go deep down the AI Rabbit Hole the modern you know machine learning
+you know artificial intelligence stuff I have done some things I I think one of
+the uh one of the things that I one of the things that I like to do is learn languages other than programming
+languages and so I created a I use chat GPT to I prompt it only speak in the
+language that I specify whether it's Chinese or Japanese or Spanish or whatever and so it only responds in that
+and then I take that input and I put it through
+Microsoft's artificial intelligence for text to voice and so you see this text
+come up you you hear a voice you hear it spoken to you click on it to make it speak again and then I use AI for
+translating the text to what it would be in English so that is that's my recent
+AI project that I've had a lot of fun with of course I'm not coding the AI I'm not super interested in in coding
+you know uh neural networks I've coded them before they're not hyper interesting I
+think majority AI is in the training and the data set and all that and that's a lot of stuff I don't want to deal with that's like data entry for me so
+not super interested but using it now that's that's where you get me when I can start combining things I can combine
+chat with audio with translations all that create a cool little app that I can use for myself it's not a don't ask me
+about it it's not public it's not public for people to use I don't want to go and spend a bunch of money to host a server
+to use these Services it's it's I set it up for me my wife my family members if
+you're interested in it I can maybe provide the code on a GitHub it's all
+JavaScript I don't uh oh there's a little bit of PHP it's
+like a little PHP script um I didn't use node.js for the back server I was just I wanted something
+very simple just throw in some PHP get it to print out the pages that sort of stuff and it's very ugly UI but if you're interested in it I can I probably
+put the code up on like GitHub and then you'll just put in your own API keys for
+um chat gbt uh Azure window Microsoft Azure and
+Google translate so um and then maybe you can use it yourself but let me know if you're
+interested in that I don't have it publicly available right now anyways thanks for watching and that's
+going to be it for today
