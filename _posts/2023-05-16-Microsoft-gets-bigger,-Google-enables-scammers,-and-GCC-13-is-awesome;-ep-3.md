@@ -1,7 +1,7 @@
 ---
 header:
-  og_image: /assets/images/teasers/episode-3.png
-  teaser: /assets/images/teasers/episode-3.png
+  og_image: /assets/images/teasers/episode-3.jpg
+  teaser: /assets/images/teasers/episode-3.jpg
 categories: Episodes
 tags:
   - microsoft
