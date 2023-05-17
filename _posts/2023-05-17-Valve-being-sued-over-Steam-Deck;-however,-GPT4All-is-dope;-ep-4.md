@@ -1,7 +1,7 @@
 ---
 header:
-  og_image: /assets/images/teasers/episode-4.png
-  teaser: /assets/images/teasers/episode-4.png
+  og_image: /assets/images/teasers/episode-4.jpg
+  teaser: /assets/images/teasers/episode-4.jpg
 categories: Episodes
 tags:
   - valve
