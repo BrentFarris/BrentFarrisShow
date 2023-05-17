@@ -1,0 +1,385 @@
+hello and welcome to the first episode of whatever this might be I think I'm going
+to call it overnight assembly because I like assembly programming uh it's it's
+one of those just languages that are just a lot of fun to to program in and I do it at night so maybe that's
+what I'll call it generally what I want to talk about here maybe is
+my perspective as a programmer on technology and computers and games and
+and code and repositories and libraries and
+game engines and whatever else I I have a lot of opinions about a lot of things but I
+also like to get the opinions of others and kind of grow my understanding
+it is very common for programmers to be very biased about things
+we all have worked with programmers I've worked with them for about 15 years and
+we all have strong opinions about a lot of things so I want to try not to be
+strongly opinionated um I've I've changed a lot of my opinions over the years so and I feel
+like they're going to change a lot more as we go or as I go uh on programming
+so uh yeah that's that's kind of the general overview I also want to talk
+about games that love games I have thousands of old games and new games I have a I have a whole collection
+um of almost every system maybe maybe half the systems I don't want to say that
+it's something that I don't have just I collect a lot of the ones I'm interested in and I go on a spree of those type of
+games for a while so I just wound up with tons of games some duplicates that I need to get rid of but
+um and a lot of there there are quite a few games that I don't like because you get the games that you do want instead
+of a lot anyways that's it's a topic for for another day so
+I'll be talking about old games new games old computers new computers technology
+who knows uh just general things that that kind of I find interesting in the game
+development and software development field so who am I I'm Brent I've been
+programming since about 2009 I went to school for animation and uh
+so I know how to animate I know how to rig and 3D model I love I draw even I do a lot of brush pen drawing and that sort
+of stuff but mostly I program I program a lot I've programmed too much
+Lots I have a huge graveyard of projects uh because I I program essentially the
+thing that I find most find most interesting in the project and then I
+put it off into the into the GitHub graveyard it's a huge list of just things I'll probably
+never touch again but it's there if I want to um so I'm currently a professional
+programmer I've been programming for almost 15 years I I've been
+in web development game programming mobile programming console programming
+Indie programming PC all this stuff I've programmed stuff for the Game Boy I've
+programmed a little bit on the Game Boy Advance I've programmed a lot of third-party consoles they're just you
+know people just release um so just kind of I just like programming on a bunch of different
+things and I I love low level code and I love the ease of high level code so I
+I'm not partial to anything I bounce around quite often um I'm currently a game engine programmer
+uh in a artificial intelligence programmer professionally so that's what I'm paid
+to do so uh yeah sometimes it is hard to explain uh
+the things I'm interested in because I go all over the places you just saw um but here's a not so complete just
+list off the top of my head that I wrote down to kind of explain the things that I bounce around in
+because there's gonna be languages and Frameworks and all this sort of stuff just to kind of give a background of where I'm coming from and where a lot of
+my opinions on the future episodes you're gonna be from the kind of the source of my mindset so
+let's see I've programmed in C C plus plus x86 x64 the assembly languages arm
+assembly including thumb 6502 like 60 the c64 and the NES variant of that the
+z80 uh the Game Boy variant specifically assembly code c-sharp I've done bios
+programming glsl Java JavaScript python Lua HTML CSS XML you know those various
+like markup languages bash Power Cell open jail DirectX DirecTV direct right
+Cuda I did Cuda for Ray tracing um this little Ray tracing project I did I
+got like a 720p um rendering of like this Ray tracing at
+30 frames per second um it was very simple scene lots of spheres because fears are easy and uh I
+got that done on a non unlike a 1070 or something it was pretty nice
+um I've dealt with sdl and scriptum Android and Android and ndk uh wasapi if you
+don't know what that is is uh the windows audio I forgot what the S stands for
+it's not stack it's like sampling or something um API and I did that for a Voiceover IP
+thing and I was using C and I was integrating with it it was very much a C plus plus library but um I was able to get like the guid for
+the various devices and there's a lot of guid stuff you just got to get those in order to tell Windows hey this is what I
+want to do so I've dealt with that that was a very interesting um kind of random project I did
+uh I've done Network programming [Music] um on Unity long time ago I made Forge
+networking um I since archived did I just didn't have the time to to support that it got
+really popular at one point um and I refactored it to alloy but I
+never I never could finish it way too much stuff in life including having kids so it's it made it make that makes things a
+little complicated to kind of do a hobby project like that um so I've done a lot of multi-threading
+websockets MySQL redis memcached you know the various databases of dealt with vertical databases as long as well as
+like horizontal scaling databases like nosql and all that um you know lots of sqlite is basically
+the same thing why not even put on this list Frameworks like Net nodejs game engines I've done a lot of unity I've
+done quite a bit of unreal four and five now and Godot is something I just
+recently started messing around with I've programmed my own game images so that's that's kind of my perspective
+I jump around a lot I've done a lot of assembly and low level stuff but a lot of high level stuff and game engines
+like unreal and that sort of stuff so I love jumping around oh and lots of web
+I've done lots of web uh JavaScript stuff JavaScript games all that sort of stuff but it's I love to prototype in
+JavaScript it's just so fast and easy when I have some libraries that I I just use I've been using modules a lot lately
+which is a lot of fun I do like modules quite a bit um rolling them up into a single file
+and all that is annoying but modules are a lot of fun I can I can definitely say that
+um so that's kind of all of that and I kind of mentioned this uh but the most important thing about me
+is that I'm a father and a husband that's uh that's what makes my life happy
+um so other than that uh that's that's kind of my whole background
+and uh kind of my perspective on opinions now uh one thing that I'm not
+uh unfortunately is one of those ex-google employees I'm sure you've seen
+all of those YouTube videos out there that are like ex Google employee blah blah blah blah
+blah it says something like that um and they I don't know if they do that for like click bait or clout or
+something like that um Google has a lot of employees so I mean there's a lot of extra employees now that they're all getting fired I'm
+sorry it's not as I'm not attacking anyone with that I just um yeah it's just I
+I'm not one of those I'm not like a I've never worked at a gigantic company mainly because I don't want to the lower
+uh the more smaller companies they can sometimes pay
+more and also you get a lot of equity so you can get a lot in the long run out of it um versus like those big companies
+and frankly I've had a lot of friends who who've gone to those big companies and it's just boring they say that they
+like Big Chill outside they like disappear for a week and nobody even notices they
+they just uh they hardly like do any work and if they do it's something super minor kind of
+just maintaining stuff there's there's a small group of people that actually like do the hard work and of course if you're
+a programmer which you likely are I don't know who would be watching this that doesn't like the program or is interested in games you know the
+industry has a lot of leads and managers and those sorts of people that don't really program a lot you can have like a
+lead in a lead engineer and they don't do a lot of programming the one that I
+work with does a lot of programming but typically especially the big places they you can get some that have that hardly
+ever program ever even on the free time [Music] so I'm not one of those
+ex Google employee says XYZ um
+like I I like to do work and I like to participate in the team and
+um you know maybe there's a role somewhere at one of those places that is more research based or something like
+that that I can take advantage of and have a lot of fun with um but you know maybe in the core like
+operating system part of the business I'm not sure but you know uh
+yeah I don't have any one of those flashy name tags um I've released lots of games with
+companies mobile currently working on a console game so there's
+I've bounced around a lot uh so I I kind of want to learn more about
+a lot of other fields I've done I I just so many things rolling my mind
+whenever I think about those but we'll probably go over a lot of these in future episodes just things that are
+interesting in programming and computers and Tech and all that sort of stuff so
+yeah speaking of those like X Google employee gives you advice on
+how to get hired or whatever kind of videos I don't ever click on them I
+don't know why they keep sending them to me but it's I don't know if you see them maybe it's just me and I
+I don't I don't know I get a few of them I always have to like hide the channel or whatever because
+they pop up just it's almost like clockwork
+another thing that I like to do is I like to program very small I like I like very small
+programs I like very fast programs I like elegant code and elegant functions
+very small functions that sort of stuff and if you look at what these big
+companies produce they produce simple libraries and their apps they
+have tens of thousands of classes that make a I don't know if it's like code
+generation or what but they've got tens of thousands of classes which is insane to me that's a lot of that's a lot of
+something half of them probably don't know what it is half of them are probably third-party libraries which is
+even worse but yeah and their size is huge hundreds of
+megabytes um so and even worse like if you think about a lot of these apps a lot of
+people complain about Google a lot about their apps like on the experience of of
+YouTube on iPhone is different from Android which is different from Android tablet which is different from the web
+and you'd imagine when we use web technology across devices I know it's a
+little bit more complicated with the iOS ecosystem and how they want to handle with all that and web views and you know
+all that sort of stuff it gets annoying but you know they invested you know millions and millions of dollars in in
+V8 to kind of like build this platform they can work off of and their apps are
+just broken across I mean their function but they're just missing features across
+the different the the different devices and you know that's kind of crazy to me got so much money don't you think they
+can consolidate it I don't know I don't know kind of what they set up I do know how
+most teams operate I can see how it happens but yeah it's really fractured so
+that's another thing I don't really want to work with is when you go to those big companies and you got to deal with
+you know across disciplines and all this other stuff as it's called cross disciplines
+and you've got to deal with all of like you can't merge two things and you got
+to do deal with the bureaucracy I like small teams where you can just move around you can say I want to work
+on that and they said cool we can figure out you know if it works with our product let's figure out how and get you over there that's what I like about
+smaller companies too it's just it's really nice um so yeah I mean
+so it's not just Google and software companies like that is game companies too
+working on game companies and kind of seeing the games that are produced is crazy of course it's not a fair
+comparison to say look at games from the 90s and 80s and they have so little bugs
+compared to Modern games and they have you know they're so much faster and smaller blah blah it's not fair because
+there's a lot of stuff in modern games a crazy amount of stuff in modern games so I give it some slack there
+um I I do believe that the programmers were much more disciplined in the past because they had to be working with
+low-level code just with no other option so there are differences and similarities
+in some aspects but games man like the minimum requirements for games is is pretty dang high of course luckily
+computers are getting way cheap now so pretty much anyone can can muscle
+through and punch through the wall of of system requirements these days like you
+can run tons of AAA games on something like a steam deck so um you know sure they have all the
+compute power to really muscle through it but they make some weird decisions like why is why are games like 200
+gigabytes that's crazy so we we come up with this Frame scaling technology it
+was FSR is that sort of stuff and then you still put 4K Textures in your game and your game is being
+rendered at like 720p pretty much most the time or 1080p but you're putting 4K Textures in
+um and then we don't know how what's what's the amount of people that do 4K that have 4K monitors versus you know
+1080p monitors and I would imagine that you can kind of detect that and you can have steam kind of upgrade the game
+based on you know what kind of monitor they have but you can't if you have a 4K texture and you're displaying it on a
+1080p monitor let's just you it doesn't even it's it's crazy like
+it's bigger than the screen and resolution and so then you add FSR in the mix and now the 4K monitors aren't
+even rendering at 4K and to make the most of it of course you
+know this is being a little pedantic because you can have one texture that goes across multiple objects and you
+want that to be 4K in order to optimize your memory and how much you're loading it at runtime yes I get that
+um but man I how many textures are actually that versus you know a giant 4K
+Rock texture that they just splatter on rocks uh it's kind of funny I guess for
+stretching and stuff I don't know I really think there's a huge waste in memory there
+um and it's kind of you know it's so it's not just Google and big software
+companies that just absolutely waste your your CPU and your storage it's
+games too A lot of times and I think those can be better optimized but you know what
+the game is about money the game of making games is about making money for I
+mean mostly it's having fun is sometimes what the designers care about even
+though they've got to make the investors happy but 4K textures are kind of going crazy
+right now I think we can probably reduce a lot of that and rely more on the FSR stuff
+um and it's just uh you know I think I think that's uh you know that's a whole rant there uh
+there's there's also when it comes to wasting and we're going to combine the two now we're going to
+take software and we're going to combine it with games and what they both do wrong one of the
+things I hate hate is a strong word once one of the things I strongly dislike is
+uh Json I I mean it's fantastic and the argument is always
+what if we need to read it and modify it
+and the funny thing about that is they try to compress Json so it becomes unreadable it's just unreal unreadable
+garbled mess because you're trying to reduce the string sizes as you try to compress this data
+and so you lose the readability and it's still bloated and then your CPU has to pay the cost of parsing it well first of
+all serializing it so it takes this binary data it serializes it and it's got to pay somebody else's poor computer
+is going to take the cost of deserializing it and parsing it turning it back into an uh you know
+binary objects and then you have to also transport it across the wire then we
+have to use compression algorithms so we're using more CPU to compress that those strings which they can get pretty
+compressed just for the standard zip algorithm and then you and you want to send that and then you
+got to decompress it so you know I have this I have this Theory
+that Json files alone like if you if you took
+all of the the energy all of the the power that we use in our computers and
+our smartphones to parse and read and do all of that and transmit and zip Json
+data you could probably give an entire small country somewhere
+power for free because that's how much is being wasted and then you can take
+all you can add up all the heat that the CPUs generate by parsing and doing all that just a cumulative over like a month
+or something every device that does it and you could probably heat an entire small country with that amount of heat
+so it's a waste it's a it's a weird thing to think about you know um
+you We complain a lot about oh you know crypto mining using tons of
+energy blah blah blah uh it's it's bad for the environment well you know what
+else is bad for the environment uh using Json files for everything when you can
+simply and and easily just serialize binary where you just take binary
+make it basically into a file and send it you can do whatever compression you want if you want to but binary is already
+smaller Json so yeah all the crypto miners wasting tons of power right
+across across the planet yeah you know what else is wasting power Json deserialization my goodness Json
+deserialization and 4K textures let's get those reduced and let's let's save the environment from from just taking
+those out of the out of the picture so uh yeah that's that's kind of my
+perspective on on how did I get on this let's talk about Google people on YouTube uh or ex-google
+people uh so anyways yeah it's just super wasteful the entire industry is
+very wasteful in how they do things and I I know we don't all use C but in C you
+can just take a struct or even a a compound struct of plain old data let's say there's no pointers or even if you
+just write a little function to get rid of the pointers um I I mean I would I would argue that
+if you're going to be serializing data and there's going to be pointers in there um if you have to have them in there you
+should separate them into their own structure so you can easily strip it out or put it as like a head and then do the
+offset so you can find the offset of where the Pod starts pod for plain old data
+and then just write it but and see you can just take that struct and just
+right to a file or across the network you don't have to do any compression or
+serialization or anything like that you just here's a struct it's a set of data and then send it off and
+that's how much energy you would save from doing that is is quite tremendous
+but I know we don't all use C and I know C is I didn't say it but C is my
+favorite language is just I love it because I can use it in a lot of things like Game Boy advanced programming so
+it's just nice and flat and I don't have to worry about objects I'm a very simple man but
+let's say you're doing C plus plus and I do a lot of C plus plus obviously my my day job is programming in c plus
+um so in C plus plus yes you do have a little bit of a problem because you don't have
+an ABI you don't have a standard for ABI so you don't know if application binary
+interface basically the byte order of a class or a struct
+so uh just I guess I can explain that real quick for those of you who don't know and see you have this flat API and
+um now I I don't want to get too much into alignment and all that sort of stuff
+um because you do have to do some work there if you're if you're dealing with things like that if you if you're
+say serial if you're sending something from like a 64-bit computer over to a 16-bit computer you're definitely going
+to have to do a little bit of work [Music] on that but let's say that you set up
+your struct with the proper alignment and all that and see you could just send it straight across and knowing that maybe your smallest or minimum spec is
+16 is going to be a did I say bite 16 bits so
+you can uh let's say that you want to do that uh I've lost my train of thought on
+that alignment and let's say you have all that you can send it straight across now one of the problems you have in C
+plus plus is that it doesn't have that ABI across compilers and even compiler versions like you if you use clang
+X and then you use cling y it's not guaranteed that the name mangling or the
+which doesn't matter in this in this argument but the API is going to be the same and that's because mainly I think
+it's because of the V table a v table is a piece is a is a block of
+your your class for virtual classes where they can they point to the
+function it should call when you call a function as you know you can create a virtual function you can override those
+functions in the child classes or the derivatives whatever you want to call them
+now that that V table could be at the top it could be split right in the middle of the the binary data it could
+be like at the end of the class um there's no telling where that is so just like serializing and sending it off
+is going to be a little bit of a problem and that's where serialization labor libraries start coming in
+um you have other languages where you don't have access to the raw binary of
+the class um without you know turning on special Flags or whatever for the compiler like in c-sharp or say JavaScript or
+something like that so sending things straight over
+like you do in C is not as easy and so I do understand that part of where we get into this
+this whole let's Json serialize it because then I can write my program in c-sharp and then have a JavaScript
+client be able to read the data and I don't have to worry about I don't have to worry about indian-ness or I don't
+have to worry about you know the alignment or anything like that um so yeah there it does kind of reduce
+the cost of of effort up front to to do those kind of like just use the Json
+library but it's so wasteful I think that if you just it it's really
+programs programs companies have this weird thing where they think
+that it takes months to do something as simple as serializing some bites they're
+like well I don't know what that fits into the schedule um man that's a whole other thing let's not go
+on that but yeah I I do understand that you know
+it's a it's a cost analysis um no company I can tell you this I've worked at so many different companies no
+company they none of them care about how much uh Power you're drawing from a wall
+socket to run their program as long as it's fast and it gets the uh the player
+or the client what they need um now this is a different argument for
+mobile and mobile they sometimes do care because they want good battery life I don't want to say
+excellent battery life otherwise they wouldn't use engines that drain battery life they would you know write their own
+stuff um but they they do care a little bit there so I'll give them credit that on
+that so this brings us to to things like
+uh gosh what's what's it called protobuf okay protobuf um does help you with it that binary
+seller is serialization now I didn't I didn't go through the entirety of the class or all the classes to determine
+whether the binary serialization is efficient um I assume it's efficient because it's
+open source and a lot of people looked at it and probably have contributed and I do I I know I prefixed this earlier
+about Google employees and all that sort of stuff it's not to say they're bad programmers
+um it's just uh you know there are some bad programs that come out of Google a
+lot of bad programs that come out of Google and it's not the fault of the programmer most of the time is The Fault
+the you know the company um so they do have good programmers that do
+study this stuff and take the effort and they do the research and all this other stuff which is very important to everybody especially when you open
+source it so no complaints from me there but purple buff is like hundreds of
+thousands of lines of code to serialize some bytes and that is huge
+um I have this I have this this thought about libraries and even
+programmers just inside of a company uh programmers are often stuck to doing
+a specific type of work on these big companies so
+I like to say that if you took a person and you paid them a pretty good amount of money
+and you give them a rock in the corner of a room and you said
+your job is to manage this rock the best thing that person could do
+is not do anything the rock is going to be completely fine but chances are you're going to come back two weeks
+later and the rock is going to have a little house set up with a little dinner table and it's kind of a it's going to
+be laying inside of a little bed with a blanket over it and then once you ask the developer how he's going you're
+going to say oh well you see I've optimized the living situation for this rock and I've also you know created a
+Giro workflow so that we can keep track of its schedule and that's just how people are when you
+pay them a good amount of money and tell them to do something they overdo it every time because
+um maybe it's because they're bored and they need something to do and the task wasn't interesting enough so they go way
+off the wall or maybe they're trying to prove something you know they're they they want a higher salary or maybe a
+different position so they they're really kind of um you know they really kind of Polish The
+Rock so to speak so I feel that's the case for a lot of libraries you you set
+a library out there let's say a logging Library and it does sufficiently what you need
+it to do for your program so then all of a sudden
+everyone I don't know it gets picked up by by somebody on a YouTube video or something and then everybody's using
+Olson you have half a million people downloading or half million downloads on your library
+you all of a sudden turn over and say man there's a lot of people downloading this Library
+I need to improve it and so you start going in there and you start adding tons and tons of features that are not
+needed at all remember that you got you know half a half a million downloads already that means it does what people
+want and of course they're going to come and complain the other part is and as this is not the fault of the the person
+polishing the rock this is the Fault to the people who are using their libraries people often think that if a library is
+not updated in the past like month or half a year it's all of a sudden just broken it just you can't use this it's it's just ugh it
+doesn't work anymore like code just the code just rotted itself out of existence for setting from setting there for too
+long I don't know and there's a lot of pressure on that to keep them updating and doing things like that now
+also you have open source so you have you know hundreds of people sending issues and also pull requests and you
+start accepting things and it just bloats and so this is what happens with libraries and I don't think protobuf is
+any exception to this I just want to serialize some bytes and so protobuf is
+is is quite big here I'll let me let me look up the
+protobuf [Music] here so we have the protocol buffers
+and I'll actually just is this the main library looks like it
+it was updated five hours ago this thing worked like five years ago or whatever when I was
+using it um but it's still being updated you know five years later it's in serious
+business taking some bites and putting them into a file across the network and I know I'm simplifying it I've done tons of network
+stuff I get it um half the time you don't even use protobuf for Network stuff so there's
+there's that um but we're gonna I'm just gonna I'm gonna grab this guy hold on I've got
+to turn off the thing on my computer that talks to me whenever I copy text okay so I'm gonna grab this guy
+and we will go ahead and
+go ahead and clone it down somewhere um
+put it in in a document documents
+go to get get clone that guy so we'll clone it down and let's take a
+look at where the source code is for this guy and of course a lot of the source code is going to be in you know language
+wrappers and that's that might be where you know half the updates are coming from is language rappers I don't know
+but you got C sharp Java python Ruby rust blah blah so it's probably gonna be in the source
+folder and in this Google Proto buff here
+so it's still download but let's take a little
+ubunt uh local instance here and let's uh go over to
+uh let's go to what is it Mount see users
+Grant documents get and this is going to be inside of Proto buff
+and then if we go inside of this folder so let's see the source
+to use Google so you have Proto buff so here we are
+inside of Proto buff and we're going to do a little experiment here if I type it right so
+we're going to find dot um we need a little reg X I have this
+written down because I am not uh you know the most incredible person
+um remembering all these uh Unix or Linux commands one of the
+beautiful things about Linux is that programs do a single thing they do it well and I I love that that's that's a
+the best design decision anyone could have in fact I think I can you know let
+me copy I think I could just copy this text and paste it into the terminal here
+I know I can whoop it looks like I got a weird binary
+thing at the beginning there let me see if it's because the way I copied it no here let's just go to
+you can't see it off screen but I have this inside of a little word or something okay
+okay F there we go so I'm going to do this regex to to just get all the headers CCC files and CPP files because
+this is a C plus plus repository I could do print zero instead of print
+so that I can do x x Arc zero I want to do basically a line count I'm going to
+count the lines in this project so just to serialize bytes in one
+language uh is over a quarter million lines of code and I don't know if some of those
+lines are comments or whatever but this I've written a game engine that that
+uses Vulcan and all all in C so I've got to do the Vulcan library in C and then
+it works with entities and it has it just it has all the Transformations
+and all that sort of stuff including the shaders and it's less code is less lines
+of code than this and it has tons of comments too so a quarter over a quarter million uh lines of code is a lot of
+code for serializing some bytes now that's kind of where I'm coming from on this and if we go to the rappers
+hopefully um they're not as they're not as big let's take a look at
+let's say C sharp um there's a lot of batch files in here Keys v test okay here we go Source okay
+so C sharp source and then of course we've got
+what are all these uh tests and let's just do the whole thing we only life is
+short um so this is much easier we can just do
+CS files so this one alone is 142 139 and this is
+a wrapper to like call I don't know if they re-implemented the code in C sharp or if they're calling the C plus plus
+code here not a percent sure but still it's it's a lot of
+it's a lot of code to write some bytes so that's kind of
+my perspective on you know big companies their code bases libraries
+um I thought this is a nice simple way to to start off whatever series I'm doing
+here um let's just talk about some code I like code and I'm not like I said I'm not
+complaining about all this it all functions I've used it it's it makes things a lot easier
+companies should use them rather than rolling their own because most likely
+you're going to make a mistake if you roll your own and you've got to deal with all that debugging and stuff I'm just putting out I uh hypothesis
+hypotheses or or ideas here about how much power is wasted and kind of how how
+programmers um you know polish rocks and I polish rocks
+all the time so uh yeah and I I think that's
+um yeah that's that's all I got for for our
+my view on just coding programming
+third-party libraries I don't I don't know exactly what I'm going to go over and kind of future with these few future
+future podcasts I guess these are um now I understand what I'm sure what
+I'm going to go over I can go over uh you know assembly for Game Boy games I can kind of dive into
+other people's code I can just talk about games in general and game design I have a lot of ideas or thoughts on game
+design um and and try not to ramble on them here and I've got uh you know
+lots of thoughts of how we connect software together from you know straight from the the hardware in the CNC plus
+plus area or you know whatever language level low level language that you use or
+like all the way up to how it communicates with a web server
+um yeah I think that there's just a lot to think about a lot to talk about and a
+lot to have fun with um so this is like the first episode of of
+this podcast and I don't know how many people are gonna watch it and people are even gonna see it but if
+you guys do exist uh feel free to to like throw out some ideas of what to talk about
+because um like I said it doesn't it doesn't have to be just about code I love code I could talk about code all day I and it's
+been like 40 minutes I didn't even notice this time flew by um but I could talk about games and game
+design old games collecting games I collect a lot of games I could talk about art um
+art as it relates to programming or games or or just art in general I like to draw some I have a lot of thoughts on
+on that sort of stuff so uh yeah it'd be really interesting to see if anybody has
+some ideas of what to look over um I I thought this was
+a lot of fun I like talking about code this is awesome anyways see you guys
