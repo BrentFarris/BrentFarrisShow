@@ -15,7 +15,6 @@ tags:
 ---
 
 {% include video id="Fq0GxBzE-rk" provider="youtube" %}
-
 This is an introduction to the podcast, what to expect, and who I am. I'll also go over why I don't work for a big company and some things I dislike about software bloat. There are tons of issues like JSON serialization and gigantic libraries to do very simple tasks, like protobuf.
 
 ### Summary
