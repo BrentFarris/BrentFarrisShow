@@ -15,7 +15,6 @@ tags:
 ---
 
 {% include video id="Cm7qaqfWA5I" provider="youtube" %}
-
 There is no need to accidentally expose your private information and fantasies on streams or in videos. A single frame of flashing it is all that is needed to ruin lives and careers. I'll go over some ways that you can protect yourself in Windows to not get embarrassed like Atrioc, the Twitch streamer that showed deep fake content on his stream when he did an alt tab.
 
 ## The code used in this episode
