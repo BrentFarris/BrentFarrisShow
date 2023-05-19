@@ -1,0 +1,1628 @@
+1
+00:00:00,000 --> 00:00:02,000
+all right welcome back today we've got a few news stories we're going to talk about Google Chrome both with misspelled
+
+2
+00:00:06,000 --> 00:00:08,000
+URLs third-party cookies we're going to talk about how you shouldn't feel so bad about not
+
+3
+00:00:12,000 --> 00:00:14,000
+finishing projects I'm going to talk about augmented reality I love augmented reality chat GPT has an iOS app.net for
+
+4
+00:00:18,000 --> 00:00:20,000
+previews here and just general just general text stuff it's going to be
+
+5
+00:00:24,000 --> 00:00:26,000
+exciting hopefully I can sync up my audio right this time I think I've had some issues in the past but we shall see
+
+6
+00:00:32,000 --> 00:00:34,000
+chat GPT it's out on iOS I don't know if you heard about it everybody's talking about it there's tons of people tweeting
+
+7
+00:00:39,000 --> 00:00:41,000
+about it and articles being made it's this big old hubbub I don't have an
+
+8
+00:00:44,000 --> 00:00:46,000
+iPhone uh it's not on Android and well
+
+9
+00:00:49,000 --> 00:00:51,000
+my wife has an iPhone so for those of you who don't have an iPhone and have an
+
+10
+00:00:54,000 --> 00:00:56,000
+Android like me or just not even a smartphone at all maybe you have a dumb phone a Linux phone who knows
+
+11
+00:01:01,000 --> 00:01:03,000
+I'm going to spoil it for you you launch the app it asks you for your date of
+
+12
+00:01:07,000 --> 00:01:09,000
+birth and then it asks you for your phone number now the date of birth thing
+
+13
+00:01:14,000 --> 00:01:16,000
+might be some requirement by Apple for artificial intelligence stuff blah blah blah the phone number thing is annoying
+
+14
+00:01:21,000 --> 00:01:23,000
+I already have a an account with with open AI I use their apis for just random
+
+15
+00:01:29,000 --> 00:01:31,000
+toy projects of my own nothing nothing public but
+
+16
+00:01:35,000 --> 00:01:37,000
+the iOS version of chat chip is it's basically just the web version except
+
+17
+00:01:41,000 --> 00:01:43,000
+harder to use I think that's the easiest way to explain it I guess it's in your pocket and it's on
+
+18
+00:01:47,000 --> 00:01:49,000
+your phone so it's easier for people who don't have desktops or laptops or anything that's of that nature
+
+19
+00:01:54,000 --> 00:01:56,000
+there is a voice input button you press that and a big old voice thing pops up
+
+20
+00:02:00,000 --> 00:02:02,000
+it's not Siri it's just a big old voice thing it's probably their whisper or
+
+21
+00:02:05,000 --> 00:02:07,000
+whatever whatever their API is called for voice to text
+
+22
+00:02:11,000 --> 00:02:13,000
+so you press that you talk into it you press it again the it the big old Circle
+
+23
+00:02:16,000 --> 00:02:18,000
+that it makes and it just puts the text in the input box doesn't even send it so
+
+24
+00:02:21,000 --> 00:02:23,000
+I don't see the difference between typing with voice to text normally with Siri versus pressing that other than that one
+
+25
+00:02:28,000 --> 00:02:30,000
+maybe is more accurate I don't know uh I didn't exactly
+
+26
+00:02:35,000 --> 00:02:37,000
+over test this thing so I checked that out that was underwhelming and then you can normally type in text and then it'll
+
+27
+00:02:41,000 --> 00:02:43,000
+respond it does respond pretty quick my wife she typed in the prompt or she
+
+28
+00:02:48,000 --> 00:02:50,000
+talked in the prompt to hit send and it was almost immediate that it responded which is a little faster than just a
+
+29
+00:02:54,000 --> 00:02:56,000
+normal question on the web version so maybe there's that browse through the
+
+30
+00:03:00,000 --> 00:03:02,000
+settings I kind of looked around the app it's very Bare Bones it's mostly just
+
+31
+00:03:07,000 --> 00:03:09,000
+chat GPD where you get to talk to chat GPT so it really doesn't seem any
+
+32
+00:03:12,000 --> 00:03:14,000
+different from the web version so if you're on Android you're not missing out on anything if you just open up the web
+
+33
+00:03:18,000 --> 00:03:20,000
+version of chat gbt that's essentially what it is except in the web version
+
+34
+00:03:24,000 --> 00:03:26,000
+if you use the web version on your desktop you are familiar with the UI scheme and where things are so I guess
+
+35
+00:03:31,000 --> 00:03:33,000
+there's a perk there but yeah I was I was a little interested in what was going to go on with the chat
+
+36
+00:03:37,000 --> 00:03:39,000
+GPT iOS and a little disappointed it would have been at least it would have
+
+37
+00:03:43,000 --> 00:03:45,000
+been cool if you could have a conversation back and forth you talk to it it talks back to you you didn't have
+
+38
+00:03:49,000 --> 00:03:51,000
+to press send every time you use their voice to text a little extra features like that would have went a long way so
+
+39
+00:03:56,000 --> 00:03:58,000
+in my opinion the Bing chat GPT
+
+40
+00:04:01,000 --> 00:04:03,000
+is better on phones you can talk to it and it talks back with references and
+
+41
+00:04:07,000 --> 00:04:09,000
+all this other sort of nonsense that you maybe or may not want and you can set as temperament so
+
+42
+00:04:14,000 --> 00:04:16,000
+if you really want an app to use on your phone to talk to http or type to it I
+
+43
+00:04:19,000 --> 00:04:21,000
+would use the Bing chat one just in general now if you like chat GPT for like
+
+44
+00:04:24,000 --> 00:04:26,000
+storytelling and long longer form conversations so it doesn't cut you off of course you're not going to get that
+
+45
+00:04:31,000 --> 00:04:33,000
+with the bing one the bing one Cuts you off pretty quick as soon as it starts to notice it's building up a temper so
+
+46
+00:04:37,000 --> 00:04:39,000
+that's that's what the chat GPT official
+
+47
+00:04:42,000 --> 00:04:44,000
+IOS app is a little underwhelming oh well it's what we got
+
+48
+00:04:48,000 --> 00:04:50,000
+in a smaller amount of news that not many people may have heard of yet is
+
+49
+00:04:55,000 --> 00:04:57,000
+that Google Chrome is going to be detecting typos inside of the URL box
+
+50
+00:05:00,000 --> 00:05:02,000
+and it says that it will make suggestions of what it thought you meant
+
+51
+00:05:08,000 --> 00:05:10,000
+now I think this can be abused where you could go to type in something and it's
+
+52
+00:05:14,000 --> 00:05:16,000
+going to overly be aggressive and suggest you things
+
+53
+00:05:20,000 --> 00:05:22,000
+that are Google services or Google Affiliated services or websites that highly integrate with Google and make a
+
+54
+00:05:26,000 --> 00:05:28,000
+lot of Google ad Revenue so I think there is room for it to be abused however in principle The Very base
+
+55
+00:05:34,000 --> 00:05:36,000
+concept of detecting a URL
+
+56
+00:05:40,000 --> 00:05:42,000
+mistype and suggesting you a correction I think is a good idea
+
+57
+00:05:46,000 --> 00:05:48,000
+why do I think it's a good idea it's because I don't spell things good I
+
+58
+00:05:51,000 --> 00:05:53,000
+sometimes I I type like a normal person or I type in the standard way I should
+
+59
+00:05:58,000 --> 00:05:60,000
+say you know index fingers on the F and the J and thumbs on the space bar all that nonsense
+
+60
+00:06:04,000 --> 00:06:06,000
+so even though I do that I wind up tripping up or missing a key or my
+
+61
+00:06:10,000 --> 00:06:12,000
+fingers going in a way where I just I try to hit a number for example and I
+
+62
+00:06:15,000 --> 00:06:17,000
+hit the wrong number and things get a little offset it's very rare but it happens enough for me to worry about it
+
+63
+00:06:23,000 --> 00:06:25,000
+so often what I do is rather than typing in direct URL
+
+64
+00:06:28,000 --> 00:06:30,000
+say some specific website I will
+
+65
+00:06:33,000 --> 00:06:35,000
+even if I've typed it a thousand times even if it auto fills it and says this is the one that you're likely going to
+
+66
+00:06:39,000 --> 00:06:41,000
+do because you did it previously I still will type it in as a search
+
+67
+00:06:45,000 --> 00:06:47,000
+query and when I do a search query I have I have the ability to select the link
+
+68
+00:06:53,000 --> 00:06:55,000
+that I want I can just click on it and that makes me feel a little more secure in what I'm typing so it's become a
+
+69
+00:07:00,000 --> 00:07:02,000
+habit of mine to just search for for whatever site I'm going to now if
+
+70
+00:07:07,000 --> 00:07:09,000
+it's a simple site that I've used a million times say like a YouTube or Twitter or or whatever have you or my
+
+71
+00:07:14,000 --> 00:07:16,000
+own sites that I've set up I'm not likely going to do that kind of roundabout effort but if it's a site I
+
+72
+00:07:21,000 --> 00:07:23,000
+use occasionally like bills or things of that nature where I
+
+73
+00:07:29,000 --> 00:07:31,000
+may check it every month or or I may go to it a few times a week or something like that not bills but you know just
+
+74
+00:07:36,000 --> 00:07:38,000
+general stuff then I will type it in to a search box and then click on the link rather than
+
+75
+00:07:42,000 --> 00:07:44,000
+typing it out because the last thing I want to do is for that tiny little text at the top of the URL
+
+76
+00:07:48,000 --> 00:07:50,000
+on a distance screen for me for me to put an L instead of an i or something and hit enter
+
+77
+00:07:55,000 --> 00:07:57,000
+and it takes me to some phishing site which is cloned whatever website they know I'm trying to go to
+
+78
+00:08:00,000 --> 00:08:02,000
+and so you know call me a little bit uh of a worrywart in that way but
+
+79
+00:08:09,000 --> 00:08:11,000
+it makes sure that I don't mess up and do something that I'm going to regret because those people they'll they'll
+
+80
+00:08:16,000 --> 00:08:18,000
+steal your whole life away if you if you let them so I think the general concept of
+
+81
+00:08:23,000 --> 00:08:25,000
+when you type something a URL bar it gives you suggestions I think it's a fantastic idea I wish other browsers uh
+
+82
+00:08:31,000 --> 00:08:33,000
+like Brave or DuckDuckGo or whatever Firefox I I wish they would all do it
+
+83
+00:08:38,000 --> 00:08:40,000
+but that they would suggest meaningful sites I can see that Google
+
+84
+00:08:45,000 --> 00:08:47,000
+does have an incentive they don't just make features especially ones as low-key as this
+
+85
+00:08:51,000 --> 00:08:53,000
+uh for free so of course they're going to use it for some sort of advertising or or pushing certain types of products
+
+86
+00:08:58,000 --> 00:08:60,000
+over others which is going to be annoying but the base ideas there and I think that everything should adopt it I
+
+87
+00:09:04,000 --> 00:09:06,000
+think it's a great way to solve a problem and put my mind to ease I don't
+
+88
+00:09:09,000 --> 00:09:11,000
+know if I'll Trust it to start but maybe it'll get me over my habit of having to
+
+89
+00:09:15,000 --> 00:09:17,000
+search for sites and go based off of search engines so we'll we'll find out
+
+90
+00:09:20,000 --> 00:09:22,000
+on that augmented reality it's it's a specific type of virtual reality
+
+91
+00:09:28,000 --> 00:09:30,000
+that I enjoy more than virtual reality so you'll find people who are in the
+
+92
+00:09:34,000 --> 00:09:36,000
+augmented reality camp and really want to be in that space and then you'll find the people in the virtual reality camp
+
+93
+00:09:40,000 --> 00:09:42,000
+and really want to be in that space now of course people could be interested in both however you usually have people who
+
+94
+00:09:49,000 --> 00:09:51,000
+are weighted more towards one than the other for me it's augmented reality I really love the idea of augmented
+
+95
+00:09:55,000 --> 00:09:57,000
+reality having the space around you and being in the real world and augmenting it
+
+96
+00:10:01,000 --> 00:10:03,000
+that's awesome that's something straight out of you know iRobot or or Minority
+
+97
+00:10:06,000 --> 00:10:08,000
+Report or whatever you know all those those cool Sci-Fi movies so being able
+
+98
+00:10:11,000 --> 00:10:13,000
+to put a video and pin it to a wall and just like walk around and have it stuck to that wall where you left it
+
+99
+00:10:18,000 --> 00:10:20,000
+and place things and pin them to the world is I don't know it's just kind of a really neat concept to me virtual
+
+100
+00:10:25,000 --> 00:10:27,000
+reality kind of absorbs your senses and that it puts you
+
+101
+00:10:30,000 --> 00:10:32,000
+into a 3D World so it it's fun and and all that but it really isn't something
+
+102
+00:10:36,000 --> 00:10:38,000
+you could do for all day I can see augmented reality in some ways be an
+
+103
+00:10:42,000 --> 00:10:44,000
+all-day thing for work or or whatever something that just because you're still part of the real world you're just
+
+104
+00:10:47,000 --> 00:10:49,000
+putting things around in it and that I think is where the appeal is for
+
+105
+00:10:53,000 --> 00:10:55,000
+me now the one problem I have with augmented reality is a lot of the game developers it's not a problem with
+
+106
+00:11:00,000 --> 00:11:02,000
+augmented reality per se is a problem with the ideas people are having a lot of the time people are having these
+
+107
+00:11:06,000 --> 00:11:08,000
+ideas of board games you can put a a board game on a table and you have these
+
+108
+00:11:11,000 --> 00:11:13,000
+3D characters and special effects and meteorites and Dragons come down and moving and that's kind of cool for a
+
+109
+00:11:18,000 --> 00:11:20,000
+movie aspect but what about games that involve moving around and puzzle solving
+
+110
+00:11:24,000 --> 00:11:26,000
+and you know different parts it's not just stuck on a table and a lot of other augmented reality is
+
+111
+00:11:31,000 --> 00:11:33,000
+kind of I don't know what to call it it's the Nintendo DS effect where they give you those cards and then you can
+
+112
+00:11:37,000 --> 00:11:39,000
+look at them and a little character pops out same kind of concept as the the board game now that being said
+
+113
+00:11:44,000 --> 00:11:46,000
+there's this cool project somebody's messing around with and I really like it it's basically portals it's there's not
+
+114
+00:11:50,000 --> 00:11:52,000
+a whole lot to it you've got two portals and you can smack the objects around between these portals so you pass it
+
+115
+00:11:57,000 --> 00:11:59,000
+into that portal it'll come out the other one on the other side and you can pass it through and that's a really neat concept because now you're getting out
+
+116
+00:12:03,000 --> 00:12:05,000
+of the space of tabletop things and you're getting into the space of
+
+117
+00:12:09,000 --> 00:12:11,000
+objects moving within your space and you're interacting with them with your hand in this scenario so of course you
+
+118
+00:12:17,000 --> 00:12:19,000
+have the challenge of not being able to feel the objects so it's it's a little difficult to to
+
+119
+00:12:24,000 --> 00:12:26,000
+perceive but this guy seems to be handling it just fine he's
+
+120
+00:12:31,000 --> 00:12:33,000
+I think it does a palm check from the looks of it kind of like a like a flat plane is where the hand is and that's
+
+121
+00:12:39,000 --> 00:12:41,000
+what he's kind of using to bash this stuff around it's really cool so this is the kind of stuff I'm hoping to
+
+122
+00:12:45,000 --> 00:12:47,000
+see more in the future I want to see more games like this imagine escape room kind of scenario where you
+
+123
+00:12:52,000 --> 00:12:54,000
+can multiplayer with a friend things could be hidden in the room or you can find levers and pull them and things
+
+124
+00:12:58,000 --> 00:12:60,000
+other things changing the room it's just I think there's a lot of cool things we can do with this kind of
+
+125
+00:13:05,000 --> 00:13:07,000
+concept and get out of the gimmick realm of augmented reality
+
+126
+00:13:11,000 --> 00:13:13,000
+so if you guys have any suggestions or concepts augmented reality let me know if you like virtual reality more than
+
+127
+00:13:20,000 --> 00:13:22,000
+augmented reality I'd love to hear your Arguments for it I I think that
+
+128
+00:13:25,000 --> 00:13:27,000
+you know there's a lot of things in that space you can think of all the games that are out there you can
+
+129
+00:13:31,000 --> 00:13:33,000
+think of as Zuckerberg land whatever it's called I can't remember
+
+130
+00:13:37,000 --> 00:13:39,000
+metaverse so there's a lot of stuff out there for VR so it does have substance I'd like to
+
+131
+00:13:44,000 --> 00:13:46,000
+see a lot more kind of go into augmented reality and I have another
+
+132
+00:13:49,000 --> 00:13:51,000
+time I have another thing in this topic of augmented reality and it's this article here let's see let
+
+133
+00:13:56,000 --> 00:13:58,000
+me open it up it's mainly just text I want to see if I can
+
+134
+00:14:03,000 --> 00:14:05,000
+get a picture of the person using it so
+
+135
+00:14:09,000 --> 00:14:11,000
+this this is on the verge this lady is using this augmented reality set from
+
+136
+00:14:16,000 --> 00:14:18,000
+what it looks like it's a keyboard looks like it has a track pad and it's connected to these glasses now this
+
+137
+00:14:23,000 --> 00:14:25,000
+isn't anything new there's actually quite a few products out there for glasses that connect to some kind of
+
+138
+00:14:30,000 --> 00:14:32,000
+device whether it's your phone or a laptop and project screens and all that but in this one it's neat because it
+
+139
+00:14:36,000 --> 00:14:38,000
+looks like it doesn't have a screen at all it's just some glasses I guess this is the protective case that
+
+140
+00:14:42,000 --> 00:14:44,000
+you can put the glasses underneath you can close this perhaps a keyboard and a trackpad and oh this this camera must be
+
+141
+00:14:51,000 --> 00:14:53,000
+for maybe gestures or something like that uh but
+
+142
+00:14:56,000 --> 00:14:58,000
+I I haven't fully fully figured out everything that's
+
+143
+00:15:02,000 --> 00:15:04,000
+going on in this thing there's a second person using it and I guess this is either a projected example or it's
+
+144
+00:15:10,000 --> 00:15:12,000
+potentially a mock-up of what this dude sees it's the same device
+
+145
+00:15:16,000 --> 00:15:18,000
+I think this might be a mock-up of what they're saying but like this is this is really cool this is
+
+146
+00:15:23,000 --> 00:15:25,000
+you don't have a screen that you're kind of staring at you can put it at a nice viewing distance if you're like me and
+
+147
+00:15:29,000 --> 00:15:31,000
+you have eyes with two different that require two vastly different lenses for
+
+148
+00:15:36,000 --> 00:15:38,000
+glasses this is fantastic because you can get the effect of having things more clear
+
+149
+00:15:44,000 --> 00:15:46,000
+through this digital medium and what I mean by that is for example it's hard to
+
+150
+00:15:49,000 --> 00:15:51,000
+explain I have so in my right eye it's it's much more blurry than my left eye
+
+151
+00:15:55,000 --> 00:15:57,000
+my left eye is actually pretty good my right eye is incredibly blurry his accident when I was a child there is a
+
+152
+00:16:01,000 --> 00:16:03,000
+when I look at the viewfinder in a camera with my blurry eye it's clear as
+
+153
+00:16:07,000 --> 00:16:09,000
+day it's I can see everything around it's like wearing super glasses so
+
+154
+00:16:13,000 --> 00:16:15,000
+augmented reality I feel like has a fantastic benefit of being able to make
+
+155
+00:16:19,000 --> 00:16:21,000
+those screens clearer because you'll be able to adjust the
+
+156
+00:16:24,000 --> 00:16:26,000
+kind of the lenses and their focus and all that sort of stuff so it's just uh I
+
+157
+00:16:31,000 --> 00:16:33,000
+don't know it's going to be wonderful I can't wait for it I I'd really like to try this this device out I'm sure it's
+
+158
+00:16:36,000 --> 00:16:38,000
+going to be super expensive so I'm probably not going to try anytime soon but the moment this sort of device becomes more commercial and consumer
+
+159
+00:16:43,000 --> 00:16:45,000
+grade it's probably going to be something that I mess with even if I look like a dork with the glasses on I mean whatever it
+
+160
+00:16:50,000 --> 00:16:52,000
+doesn't matter especially if I'm in privacy of my own home uh I mean
+
+161
+00:16:55,000 --> 00:16:57,000
+what does it matter so super excited about augmented reality super excited about seeing these things coming to
+
+162
+00:17:00,000 --> 00:17:02,000
+augmented reality the concepts and and all of these new gadgets uh I don't know
+
+163
+00:17:06,000 --> 00:17:08,000
+I'm just really hyped about this unfinished projects this is something
+
+164
+00:17:12,000 --> 00:17:14,000
+that plagues developers of all kinds as a game developer I know it plagues me
+
+165
+00:17:19,000 --> 00:17:21,000
+constantly to to never finish projects and I've seen a
+
+166
+00:17:25,000 --> 00:17:27,000
+lot of Articles there's articles and and basically every single development news
+
+167
+00:17:34,000 --> 00:17:36,000
+blog site in existence who is either talking about
+
+168
+00:17:40,000 --> 00:17:42,000
+the graveyard of all of the projects that they've never finished or they talk
+
+169
+00:17:46,000 --> 00:17:48,000
+about ideas on how to actually finish projects now
+
+170
+00:17:52,000 --> 00:17:54,000
+I I do feel somewhat incomplete when I have this big
+
+171
+00:17:59,000 --> 00:17:61,000
+idea for a project big grandiose idea got all the bells and whistles one of the problems I have is that I maybe
+
+172
+00:18:06,000 --> 00:18:08,000
+replay the entire Concept in my head so many times that it gets boring and I
+
+173
+00:18:11,000 --> 00:18:13,000
+move on to something else but you know that's the way it works now
+
+174
+00:18:16,000 --> 00:18:18,000
+some some advice on Dead projects there'll always be another project and
+
+175
+00:18:24,000 --> 00:18:26,000
+we have all come up with ideas that we gave up on that somebody else wound up finishing and making tons of money on
+
+176
+00:18:29,000 --> 00:18:31,000
+it's it's happened to all of us at least three or four of my projects Somebody went out and made millions of dollars
+
+177
+00:18:36,000 --> 00:18:38,000
+doing the same thing except they've completed it so it has extra things that I made I didn't think of
+
+178
+00:18:43,000 --> 00:18:45,000
+so I generally I think it's good to
+
+179
+00:18:48,000 --> 00:18:50,000
+first calm down and relax life is long life is short
+
+180
+00:18:55,000 --> 00:18:57,000
+there are many more important things than finishing projects your kids are having kids in the at all
+
+181
+00:19:02,000 --> 00:19:04,000
+that's a fantastic thing that I know you think it's probably a cliche if you
+
+182
+00:19:08,000 --> 00:19:10,000
+don't have kids to think that everybody ugh everyone says that and then they have kids also and they're all about
+
+183
+00:19:14,000 --> 00:19:16,000
+kids now it does give a completely new meaning to life and a whole new purpose
+
+184
+00:19:20,000 --> 00:19:22,000
+and just by its very nature but I'm not here to talk about that I'm
+
+185
+00:19:25,000 --> 00:19:27,000
+just here to say that's one of many things it could be the the studies you
+
+186
+00:19:31,000 --> 00:19:33,000
+have with friends or the groups that you go and meet up on or the random projects you do with groups or your work or your
+
+187
+00:19:38,000 --> 00:19:40,000
+church or there's so many things in the list of of more important things than
+
+188
+00:19:43,000 --> 00:19:45,000
+finishing your project don't let finishing your projects or Dead projects or graveyards of projects
+
+189
+00:19:50,000 --> 00:19:52,000
+make you feel bad I don't feel bad for all the projects that I've not completed and it is a lot my GitHub is enormous I
+
+190
+00:19:58,000 --> 00:19:60,000
+have to scroll a long way to look through and find an old project
+
+191
+00:20:03,000 --> 00:20:05,000
+and that's you know one of the best things that come out of not completing projects
+
+192
+00:20:11,000 --> 00:20:13,000
+and just doing the Parts you like and then going on to something else or any of that is
+
+193
+00:20:18,000 --> 00:20:20,000
+that it's iteration you learn from it each time you do that you make some progress on either a new idea or you
+
+194
+00:20:25,000 --> 00:20:27,000
+become a better developer just in general whether you learn some art learn some programming or what have you
+
+195
+00:20:32,000 --> 00:20:34,000
+now I know that I've learned tons of stuff as far as networking and art and
+
+196
+00:20:38,000 --> 00:20:40,000
+tools for art and game engines and code and code paradigms and good structure
+
+197
+00:20:44,000 --> 00:20:46,000
+and everything else because sometimes my projects are just about doing a project that fits a code
+
+198
+00:20:50,000 --> 00:20:52,000
+standard that I've never done before and those Dead projects all add up you
+
+199
+00:20:55,000 --> 00:20:57,000
+know in your mind and it gives you that history that you can then use later
+
+200
+00:21:01,000 --> 00:21:03,000
+so all the articles that I see a lot of people either complaining about
+
+201
+00:21:06,000 --> 00:21:08,000
+how it makes them feel absolutely terrible they get burned out and they take breaks I've talked about this
+
+202
+00:21:12,000 --> 00:21:14,000
+before I've never been burned out burnt out and in the past 15 years and I I
+
+203
+00:21:17,000 --> 00:21:19,000
+don't see myself getting burned out on programming in the next 15 either or until I die I'll probably probably die
+
+204
+00:21:23,000 --> 00:21:25,000
+with my hands on the keyboard typing out some line of code or something so
+
+205
+00:21:28,000 --> 00:21:30,000
+don't let it get to you I I it's just something that I think has been creeping
+
+206
+00:21:33,000 --> 00:21:35,000
+up a lot it's crept up a lot over the past couple years since 2020 because a lot of people have been trying to
+
+207
+00:21:40,000 --> 00:21:42,000
+to make some kind of projects now there's a lot of programmers out there and there's a lot of people making
+
+208
+00:21:45,000 --> 00:21:47,000
+projects you can't expect to be the guy that's that's what I tell
+
+209
+00:21:51,000 --> 00:21:53,000
+um my friends and some of my family who feel depressed whenever they didn't complete something or they can't stick
+
+210
+00:21:56,000 --> 00:21:58,000
+to a regiment is you don't need to be the guy the guy is
+
+211
+00:22:03,000 --> 00:22:05,000
+out there in the world and he'll do great things but the Grass Is Always Greener that person wishes they're you
+
+212
+00:22:08,000 --> 00:22:10,000
+and you wish there you wish you were them it's just how it goes just enjoy the process of coming up with
+
+213
+00:22:15,000 --> 00:22:17,000
+ideas writing them down drawing them sketching them making flow charts coding
+
+214
+00:22:22,000 --> 00:22:24,000
+up stuff trying out new engines and new languages just enjoy it it's would you rather be sitting around watching TV all
+
+215
+00:22:29,000 --> 00:22:31,000
+day I'm sure that a lot of people who listen to podcasts like this are thinking about something or they want to
+
+216
+00:22:35,000 --> 00:22:37,000
+work on something or they have it in the background there's it's just a it's another form of entertainment I
+
+217
+00:22:42,000 --> 00:22:44,000
+would like to I think is what I'm getting at is when you do these projects it's
+
+218
+00:22:48,000 --> 00:22:50,000
+entertaining and that's what it should be and that's the whole point of doing them is to have fun so don't have high
+
+219
+00:22:55,000 --> 00:22:57,000
+expectations for your project just do the things that you love about it if you're tired of it move on it's
+
+220
+00:23:02,000 --> 00:23:04,000
+it's that simple and obviously we're pretty good at that because we have graveyards of projects now don't we
+
+221
+00:23:08,000 --> 00:23:10,000
+so three quick articles that I came across today one is Twitter blue
+
+222
+00:23:14,000 --> 00:23:16,000
+subscribers now can upload to our videos I think it was an hour before if you're
+
+223
+00:23:19,000 --> 00:23:21,000
+into Twitter blue then you get longer videos it's good to see that they're
+
+224
+00:23:25,000 --> 00:23:27,000
+adding features to Twitter blue I know it was a big old stink I have no opinion I I don't think that
+
+225
+00:23:33,000 --> 00:23:35,000
+I don't like to make everything a political argument I think some things just you know let sleeping dogs lie so
+
+226
+00:23:42,000 --> 00:23:44,000
+I in principle because it attempts to move
+
+227
+00:23:50,000 --> 00:23:52,000
+away from advertising and collecting your data even though they continue to do that I think if
+
+228
+00:23:56,000 --> 00:23:58,000
+Twitter was able to get the subscriber backing that they needed they would
+
+229
+00:24:01,000 --> 00:24:03,000
+probably phase out ads just as a feature if you do Twitter blue it'll completely
+
+230
+00:24:06,000 --> 00:24:08,000
+remove ads so I think that adding these new features
+
+231
+00:24:11,000 --> 00:24:13,000
+to Twitter blue is is great it's great to see that they're adding them I mean this isn't a huge one it's just
+
+232
+00:24:17,000 --> 00:24:19,000
+extending the frame uh the frame the the time length of videos but not bad
+
+233
+00:24:22,000 --> 00:24:24,000
+hopefully we'll see some more and I'm interested to see how that how that goes so the next one is the steam deck the
+
+234
+00:24:30,000 --> 00:24:32,000
+steam deck is has a full HD uh plus display upgrade and here's the article
+
+235
+00:24:39,000 --> 00:24:41,000
+on that from XDA Developers it's a hundred dollars
+
+236
+00:24:45,000 --> 00:24:47,000
+and it upgrades to 1920 by 1200 for the
+
+237
+00:24:51,000 --> 00:24:53,000
+resolution from what it currently is which is 1280 by 800. I'm assuming the HD Plus the plus is the added pixels on
+
+238
+00:24:59,000 --> 00:24:61,000
+the on the vertical because it's not 1920 by 1080. now I checked through this ad and I
+
+239
+00:25:06,000 --> 00:25:08,000
+didn't see anything about how it affects your battery life I assume if you're going to be driving a higher density
+
+240
+00:25:14,000 --> 00:25:16,000
+display you're probably going to wind up using more battery for me personally
+
+241
+00:25:20,000 --> 00:25:22,000
+I wouldn't pay a hundred dollars for this upgrade because I hold the steam
+
+242
+00:25:26,000 --> 00:25:28,000
+deck at a comfortable distance from my face and I can play it it feels good everything looks fine the size of the
+
+243
+00:25:33,000 --> 00:25:35,000
+screen it plays well with the with the resolution if you're one of those people
+
+244
+00:25:38,000 --> 00:25:40,000
+who are more affected by seeing the pixels and the density maybe this
+
+245
+00:25:44,000 --> 00:25:46,000
+upgrade is for you I don't know I I it's it's definitely cool if somebody does this upgrade please let me know how you
+
+246
+00:25:52,000 --> 00:25:54,000
+feel about it does it drain your battery you know I I do want to see more steam
+
+247
+00:25:57,000 --> 00:25:59,000
+deck mods because I love the steam deck I have a steam deck I bought my wife the steam deck it's a great device I know
+
+248
+00:26:03,000 --> 00:26:05,000
+there's New Alternatives now with Asus I think but uh the steam deck is nice because it's a
+
+249
+00:26:10,000 --> 00:26:12,000
+it's sold a lot and it's a constant kind of a fixed type of device right now so
+
+250
+00:26:16,000 --> 00:26:18,000
+the dimensions and all that and their uniform and so a lot of cool kind of
+
+251
+00:26:21,000 --> 00:26:23,000
+gadgets and add-ons and those sorts of things can be added for it so yeah check this out if it's something that
+
+252
+00:26:27,000 --> 00:26:29,000
+interests you steam Deck full HD Plus display and a hundred dollars doesn't
+
+253
+00:26:33,000 --> 00:26:35,000
+seem that bad for a display upgrade I don't know I don't upgrade displays it's
+
+254
+00:26:38,000 --> 00:26:40,000
+cheaper than a monitor a 1080p monitor so maybe maybe that's worth it
+
+255
+00:26:45,000 --> 00:26:47,000
+and then the third and the third quick story that I have is stability AI
+
+256
+00:26:50,000 --> 00:26:52,000
+releases stable stable Studio an open source
+
+257
+00:26:56,000 --> 00:26:58,000
+future of dream studio so this is an image generation uh AI I haven't used it but
+
+258
+00:27:04,000 --> 00:27:06,000
+maybe once or twice just to play around with it you go to the site you have some tokens it's kind of like the Bing it's
+
+259
+00:27:10,000 --> 00:27:12,000
+kind of like the being I think being used as Dolly from openai where you get some tokens and you can
+
+260
+00:27:17,000 --> 00:27:19,000
+generate some some pictures based on using those tokens and then you buy more tokens for Bing you search more and get
+
+261
+00:27:23,000 --> 00:27:25,000
+tokens that you can use so our coins I don't know what Bing calls them but the
+
+262
+00:27:29,000 --> 00:27:31,000
+stability AI has released a GitHub repository let me see if I can load it
+
+263
+00:27:35,000 --> 00:27:37,000
+up here here's their their landing page about it open they
+
+264
+00:27:42,000 --> 00:27:44,000
+have stable studio if I click on this it'll take me to GitHub now this was exciting at first because I
+
+265
+00:27:49,000 --> 00:27:51,000
+thought oh we're getting closer to more local AI which is what I want I want private local AI I don't want
+
+266
+00:27:55,000 --> 00:27:57,000
+cloud-based AI I think that's let's just asking for disaster I want
+
+267
+00:28:02,000 --> 00:28:04,000
+local private Ai and I want to be able to send my local private AI to go on the
+
+268
+00:28:07,000 --> 00:28:09,000
+internet to do things for me anonymously so I don't have to go on there and and drudge through the the madness that is
+
+269
+00:28:17,000 --> 00:28:19,000
+coming from all the AI stuff that's about to spawn on the Internet or already has a spawn on the internet now
+
+270
+00:28:25,000 --> 00:28:27,000
+this is not a step closer to private local AI it's nice that they made it it
+
+271
+00:28:30,000 --> 00:28:32,000
+seems like it's just taking their their web studio uh
+
+272
+00:28:36,000 --> 00:28:38,000
+app web app and allowing you to run it locally now it does not run the the
+
+273
+00:28:43,000 --> 00:28:45,000
+image generation locally you are required to use your API key for
+
+274
+00:28:48,000 --> 00:28:50,000
+stability AI so it's basically saying instead of using their website
+
+275
+00:28:54,000 --> 00:28:56,000
+and costing them money to host the website you host it and still pay for
+
+276
+00:29:00,000 --> 00:29:02,000
+the API key and that makes sense everybody's got to make their money right it's a capitalist Society no
+
+277
+00:29:05,000 --> 00:29:07,000
+problem with that I want these guys to continue I want them to thrive I want them to explore and you know go to the
+
+278
+00:29:12,000 --> 00:29:14,000
+New Frontier of of artificial intelligence but I'm more interested in private local personal AI things that
+
+279
+00:29:20,000 --> 00:29:22,000
+that's it's kind of like I know that man it's probably a pipe dream because
+
+280
+00:29:26,000 --> 00:29:28,000
+you know you imagine that your your phone is your private local device but
+
+281
+00:29:31,000 --> 00:29:33,000
+it's not you have apple watching everything you do knowing everything you're doing how fast you're going
+
+282
+00:29:37,000 --> 00:29:39,000
+obviously they do the emergency alerts and hiding behind the auspices of
+
+283
+00:29:43,000 --> 00:29:45,000
+protecting lives is a great way to spy on people honestly they think they've
+
+284
+00:29:48,000 --> 00:29:50,000
+got it they've got the they've got the formula right there for that but I I really want to see more
+
+285
+00:29:56,000 --> 00:29:58,000
+private just locally AI that's mine and I doubt we're going to see it we're going to see
+
+286
+00:30:02,000 --> 00:30:04,000
+companies that come up with private local AI devices and maybe there will be some that are
+
+287
+00:30:07,000 --> 00:30:09,000
+genuine but the biggest the biggest hitters like I bet you this will be something Google and Microsoft and Apple
+
+288
+00:30:14,000 --> 00:30:16,000
+and everybody else does they'll probably tie it to the phone and it's not private
+
+289
+00:30:20,000 --> 00:30:22,000
+and local if it uses their web services or tracks what you do or or any of that
+
+290
+00:30:25,000 --> 00:30:27,000
+sort of nonsense so I do I'm a hopeful person I'm mostly an
+
+291
+00:30:30,000 --> 00:30:32,000
+optimist for all of life everything I try to see the the Silver Lining everything and I see wonderful things
+
+292
+00:30:37,000 --> 00:30:39,000
+with private local ai ai that I can tell to do things or come up with ideas or go on
+
+293
+00:30:45,000 --> 00:30:47,000
+the internet do things for me all that sort of stuff I think that's a wonderful thing and capturing memories like you
+
+294
+00:30:51,000 --> 00:30:53,000
+know we use phones to take pictures and videos but if I can store them an AI and AI can replay them and then when I'm
+
+295
+00:30:57,000 --> 00:30:59,000
+dead potentially be something that I can my kids can review or they could just
+
+296
+00:31:04,000 --> 00:31:06,000
+throw it away it doesn't matter to me however they want to grieve that's fine with me but I just think it'd be really
+
+297
+00:31:10,000 --> 00:31:12,000
+cool to do more local private Ai and unfortunately this sounded like it was but really it's
+
+298
+00:31:17,000 --> 00:31:19,000
+just I think it's just the web I actually tested it it use yarn fire up the web API and then it just does API
+
+299
+00:31:23,000 --> 00:31:25,000
+requests to their service so I think you might be able to hook it up to something like
+
+300
+00:31:33,000 --> 00:31:35,000
+it definitely isn't going to be a one-click solution right now I'll have to look more into it and let
+
+301
+00:31:39,000 --> 00:31:41,000
+you know what what I find but maybe that's the future is it takes this web API front end that or this web front end
+
+302
+00:31:46,000 --> 00:31:48,000
+that allows you to to query an AI and then you can change the back end that would be pretty pretty
+
+303
+00:31:53,000 --> 00:31:55,000
+dope but I don't know if that's what it is we shall find out so that's three
+
+304
+00:31:59,000 --> 00:31:61,000
+kind of quick stories and yeah let me know what you think Google is back at
+
+305
+00:32:05,000 --> 00:32:07,000
+its shenanigans so there's there's been an there's been an
+
+306
+00:32:13,000 --> 00:32:15,000
+announcement that Google is going to be turning off third-party cookies for one percent of chrome users
+
+307
+00:32:19,000 --> 00:32:21,000
+by uh q1 of 2024. so
+
+308
+00:32:25,000 --> 00:32:27,000
+anybody may be thinking about this and say well that's awesome you know cookies are annoying they track US they they
+
+309
+00:32:32,000 --> 00:32:34,000
+their way of of saving little bits of data and seeing us
+
+310
+00:32:38,000 --> 00:32:40,000
+cross sites and all this other sort of craziness especially when you start embedding say Google logins or Facebook
+
+311
+00:32:45,000 --> 00:32:47,000
+logins or whatever Integrations with third-party stuff then they can start tracking the people who
+
+312
+00:32:52,000 --> 00:32:54,000
+come to your website or your web application or your mobile app or any of those
+
+313
+00:32:58,000 --> 00:32:60,000
+so yeah at first it sounds this is fantastic now
+
+314
+00:33:04,000 --> 00:33:06,000
+those of us who think about security and use browsers that are more secure
+
+315
+00:33:11,000 --> 00:33:13,000
+um all right you know like Firefox or Brave
+
+316
+00:33:17,000 --> 00:33:19,000
+we use those browsers because they automatically block cookies or you may have privacy Badger or you may have you
+
+317
+00:33:23,000 --> 00:33:25,000
+know any of the various other plugins to block cookies and and stop
+
+318
+00:33:29,000 --> 00:33:31,000
+trackers and you may use duck.com or DuckDuckGo as it's called
+
+319
+00:33:35,000 --> 00:33:37,000
+the funny news for funny funny story about that Google actually
+
+320
+00:33:41,000 --> 00:33:43,000
+registered duck.com a while back a long time ago to prevent DuckDuckGo from registering
+
+321
+00:33:48,000 --> 00:33:50,000
+it I think there was a whole lawsuit about it but DuckDuckGo now finally owns
+
+322
+00:33:54,000 --> 00:33:56,000
+duck.com which is awesome it's good that they're not into that weird battle and it's a
+
+323
+00:33:59,000 --> 00:33:61,000
+lot easier to type duck.com than it is to type DuckDuckGo .com or whatever so
+
+324
+00:34:05,000 --> 00:34:07,000
+anyways that aside you may be thinking this is a great idea Google that sounds
+
+325
+00:34:11,000 --> 00:34:13,000
+great now what a lot of people point out is that Google as we've stated earlier
+
+326
+00:34:19,000 --> 00:34:21,000
+is is in the practice of favoring themselves and their third
+
+327
+00:34:27,000 --> 00:34:29,000
+party partners and people who use their services and ultimately make the money obviously they're a corporation they
+
+328
+00:34:34,000 --> 00:34:36,000
+want to make money they're going to do that so in general the background of this is
+
+329
+00:34:40,000 --> 00:34:42,000
+Google has been talking about getting rid of these is the third party
+
+330
+00:34:45,000 --> 00:34:47,000
+cookies notice it's called third-party cookies since 2020 and in three years that's not happened
+
+331
+00:34:52,000 --> 00:34:54,000
+at all now uh what Google is announcing is that in Chrome build 115 which is going to be
+
+332
+00:35:00,000 --> 00:35:02,000
+released in July which is a couple months from now it will include the Privacy sandbox
+
+333
+00:35:07,000 --> 00:35:09,000
+feature flag and you can go into the the Privacy sandbox so you can go into the
+
+334
+00:35:12,000 --> 00:35:14,000
+settings the flags of chrome and you can turn it on at that point to block those
+
+335
+00:35:19,000 --> 00:35:21,000
+cookies the goal is that this is a temporary thing for people and and they're just
+
+336
+00:35:26,000 --> 00:35:28,000
+going to have it integrated normally so it's going to be a good benefit to
+
+337
+00:35:32,000 --> 00:35:34,000
+stop tracking but it's going to be a bad thing because they don't mention anything about their cookies and of
+
+338
+00:35:38,000 --> 00:35:40,000
+course it's their browser they can see every site you go to so it seems a little unfair to to block everybody else
+
+339
+00:35:43,000 --> 00:35:45,000
+but you're special like uh I think that just one-ups the
+
+340
+00:35:49,000 --> 00:35:51,000
+browser Wars uh which is which is probably one of the reasons Microsoft has hit so hard with Bing and
+
+341
+00:35:55,000 --> 00:35:57,000
+Bing chat recently and you know it's been pretty effective from what I can tell
+
+342
+00:36:01,000 --> 00:36:03,000
+so now in order for Microsoft to do the tracking that they want or need they
+
+343
+00:36:07,000 --> 00:36:09,000
+have to have people in their browser so just do yourself a favor get out of
+
+344
+00:36:12,000 --> 00:36:14,000
+the browser Wars of the big companies get off of chrome you don't have to get off of chromium
+
+345
+00:36:17,000 --> 00:36:19,000
+basically every browser but Firefox is chromium you can you can have multiple browsers
+
+346
+00:36:24,000 --> 00:36:26,000
+installed I have Brave is my default browser right now and I have Firefox which is my default browser on Linux and
+
+347
+00:36:30,000 --> 00:36:32,000
+so I interchange them it just it it's more convenient and
+
+348
+00:36:37,000 --> 00:36:39,000
+I don't know I don't know why it's convenient it's convenient on Linux because it usually comes with Firefox built in I guess
+
+349
+00:36:43,000 --> 00:36:45,000
+maybe that's why but use browsers like those which already do the blocking and they're not
+
+350
+00:36:49,000 --> 00:36:51,000
+biased because they block Google and they block Microsoft just the same and
+
+351
+00:36:54,000 --> 00:36:56,000
+maybe they'll block Google harder than the rest and that's okay with me because Google is a tyrant with tracking so
+
+352
+00:37:01,000 --> 00:37:03,000
+yeah swap your browsers this is a cool story but
+
+353
+00:37:07,000 --> 00:37:09,000
+really it seems like it's just a way for for Google to take more control from
+
+354
+00:37:13,000 --> 00:37:15,000
+other people who aren't Google and it's maybe a way for them to bully people into using their services like AdSense
+
+355
+00:37:20,000 --> 00:37:22,000
+and all those other uh their their web tracking stuff add words
+
+356
+00:37:25,000 --> 00:37:27,000
+webmaster tools it's probably a way of bullying people to stick with them which
+
+357
+00:37:30,000 --> 00:37:32,000
+is unfortunate so just go to another browser ignore Google and the rest so
+
+358
+00:37:35,000 --> 00:37:37,000
+that's my advice on that piece of news good to see but plenty of other browsers
+
+359
+00:37:41,000 --> 00:37:43,000
+have already beaten you to it and plenty of plugins have two so it's good for the the less technical
+
+360
+00:37:47,000 --> 00:37:49,000
+people I guess as you may know I am a programmer by day and by night and by
+
+361
+00:37:54,000 --> 00:37:56,000
+weekend and always I'm always a programmer but at night I Moonlight as a
+
+362
+00:38:00,000 --> 00:38:02,000
+podcaster so now we're going to talk a little bit about code .net 8 is being released if you haven't
+
+363
+00:38:08,000 --> 00:38:10,000
+heard this is all all the.net people rejoice I I find that this one is mostly just
+
+364
+00:38:17,000 --> 00:38:19,000
+kind of like build stuff which is cool better build stuff easier build stuff
+
+365
+00:38:23,000 --> 00:38:25,000
+the the that's that's always nice when you focus on that and you don't add ridiculous parts to your languages like
+
+366
+00:38:29,000 --> 00:38:31,000
+C sharp I love C sharp but man do they add some confusing things in there uh
+
+367
+00:38:36,000 --> 00:38:38,000
+nullables are a really cool concept for example and they're good if you
+
+368
+00:38:42,000 --> 00:38:44,000
+start your project with nulls or nullables are non-nullables but
+
+369
+00:38:48,000 --> 00:38:50,000
+but if you add it in the middle of a project it really just wrecks things and
+
+370
+00:38:53,000 --> 00:38:55,000
+I've I've had people add them into the middle of projects before and it becomes Madness so some of the features are cool
+
+371
+00:39:01,000 --> 00:39:03,000
+just in isolation I suppose so this one seems to be mostly
+
+372
+00:39:09,000 --> 00:39:11,000
+this is from from somebody on dev.2 which I think is a Dev blogging site
+
+373
+00:39:16,000 --> 00:39:18,000
+um so there's Ms build output upgrade
+
+374
+00:39:21,000 --> 00:39:23,000
+there is tweaks to the output path there's nougat
+
+375
+00:39:27,000 --> 00:39:29,000
+stuff um package signing for Linux
+
+376
+00:39:32,000 --> 00:39:34,000
+dependencies auditing I don't know what this is I handle
+
+377
+00:39:39,000 --> 00:39:41,000
+vulnerable packages like a pro oh I guess this is just old packages or haven't been updated in a while
+
+378
+00:39:45,000 --> 00:39:47,000
+uh embrace the power of you uh oh YouTube span formattable so utf-8's been
+
+379
+00:39:54,000 --> 00:39:56,000
+in c-sharp for a long time so you should have been embracing the power of utf-8 all along by the way I
+
+380
+00:40:01,000 --> 00:40:03,000
+embraced the power of utf-8 in my C code which I have to write functions for
+
+381
+00:40:06,000 --> 00:40:08,000
+utf-8 myself so you should be using it in a language that fully supports it but it looks like it's getting some added
+
+382
+00:40:14,000 --> 00:40:16,000
+niceties which is always nice to say the least
+
+383
+00:40:21,000 --> 00:40:23,000
+let's see ahead of time compiler so uh did you know I've done
+
+384
+00:40:27,000 --> 00:40:29,000
+any preview for console ahead of time now one of the problems like with iOS is
+
+385
+00:40:34,000 --> 00:40:36,000
+it does not allow for support of just-in-time compilers it doesn't like they don't want you
+
+386
+00:40:40,000 --> 00:40:42,000
+adding scripting stuff in there or anything like that you got to have pre-compiled ahead of time all the way
+
+387
+00:40:46,000 --> 00:40:48,000
+and this is one of the reasons Unity had to swap and create il-2 CPP to convert
+
+388
+00:40:52,000 --> 00:40:54,000
+everything from c-sharp IL to C plus plus now there's a lot there's a
+
+389
+00:40:58,000 --> 00:40:60,000
+misconception that people have that that just magically makes your code faster it does not I don't know if you've seen the
+
+390
+00:41:03,000 --> 00:41:05,000
+generated C plus code it is madness now it may be faster in certain algorithms
+
+391
+00:41:09,000 --> 00:41:11,000
+because the compiler that compiles the C plus I don't know exactly which one they use it's probably clang
+
+392
+00:41:16,000 --> 00:41:18,000
+can pick up on code patterns and optimize a lot of the code in that way so
+
+393
+00:41:21,000 --> 00:41:23,000
+there are areas where it can get faster but in general it might actually be slower than the standard c-sharp stuff
+
+394
+00:41:29,000 --> 00:41:31,000
+so anyways that's that's a whole tangent on just in time compiler sorry about that we've got some Json deserialized
+
+395
+00:41:36,000 --> 00:41:38,000
+stuff more Json stuff and some logging updates so this is kind of I think a
+
+396
+00:41:42,000 --> 00:41:44,000
+a quality of life upgrade not not a whole bunch of new
+
+397
+00:41:47,000 --> 00:41:49,000
+system libraries or any of that I don't think it really needs a whole lot more there's quite a bit in C sharp to take
+
+398
+00:41:53,000 --> 00:41:55,000
+advantage of you can't really use everything in one project there's so much stuff so those of you who like dot net are
+
+399
+00:42:01,000 --> 00:42:03,000
+probably gonna like this I will uh put the put the link to this article I'm sure you can find any there's tons of
+
+400
+00:42:07,000 --> 00:42:09,000
+net eight uh things out there I just thought this was nice because it was a kind of a
+
+401
+00:42:13,000 --> 00:42:15,000
+little breakdown with with animated images so yeah I'll put this on Twitter I'll
+
+402
+00:42:19,000 --> 00:42:21,000
+put this in the description for you to check it out but net eight is here okay
+
+403
+00:42:25,000 --> 00:42:27,000
+so that's going to do it for today hopefully uh hopefully that was informative let me know if you have any
+
+404
+00:42:31,000 --> 00:42:33,000
+ideas for things you want me to talk about or maybe some cool stories in Tech
+
+405
+00:42:37,000 --> 00:42:39,000
+or programming or game development or just any of those kind of fields that you think I'd like just Cinema my way I
+
+406
+00:42:45,000 --> 00:42:47,000
+love going over this kind of stuff so thanks for watching and until next time
+
+407
+00:42:50,000 --> 00:42:52,000
+bye for now
+
