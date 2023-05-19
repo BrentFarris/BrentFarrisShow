@@ -1,7 +1,7 @@
 ---
 header:
-  og_image: /assets/images/teasers/episode-5.jpg
-  teaser: /assets/images/teasers/episode-5.jpg
+  og_image: /assets/images/teasers/episode-6.jpg
+  teaser: /assets/images/teasers/episode-6.jpg
 categories: Episodes
 tags:
   - ChatGPT
