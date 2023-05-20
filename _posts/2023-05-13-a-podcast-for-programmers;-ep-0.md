@@ -22,5 +22,5 @@ The speaker's name is Brent. He is a professional programmer with 15 years of ex
 
 ### Transcript
 <div class="transcript">
-  {% include /transcripts/episode-0.srt %}
+  {% include transcripts/episode-0.srt %}
 </div>
