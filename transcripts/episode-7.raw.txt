@@ -1,0 +1,465 @@
+remember welcome back today we've got some really
+cool looking AI look at this stuff I mean you can you can put little dots on it's
+a little hard to see it's on the feet there we go you put little dots and you drag them up and it just Alters the
+image and so there's a lot of like animal stuff here but they go into they go into
+some other things like here's a car I mean it changes the car which is a little odd but you know if you make it
+taller it has to make sense so a truck makes sense rotating cars they make this
+horse look like a like a Derpy horse they can close the cat's eyes this is
+this is really cool stuff so I saw this and I just thought it was
+really neat it's a great way to to kind of just
+I don't know take an image and then play around with it it would it would be incredible like here's for fashion
+design for example you can see what things look like even longer and shorter all this sort of stuff pretty cool what
+it's called let's see it says new AI research lets you click and drag on images to manipulate in seconds it's
+like Photoshop it's like the Photoshop warp tool but far more powerful and I
+think we just saw why sorry to those of you who are listening to the podcast this is really a parts you have to see
+so maybe later on you can check out the video or you can check out a on Twitter I posted a video of it but essentially
+what's happening is it looks like they're placing a DOT and then and then
+a second Dot and then telling the image to warp and so it changes the imagery it
+moves things around makes things taller or shorter changes the time of day moves like people's arms to to be in different
+positions even so it's it's a really really neat and Powerful tool I don't
+know how others feel about this but I think that it's just really neat
+I think that it would make for creating images and ideas kind of concepting up stuff really
+fast and and effortless and maybe even takes a if you have taken a photograph
+and you need to change it so that uh maybe it just didn't look good it was
+probably too low or something like that you can alter your own personal photographs that you take to just
+make them a little more Poppy and interesting to look at something like that I don't know I think there's a lot
+of a lot of aspects to that that you can just you could just take and build maybe it's
+for art if you do if you've done some drawings and you want to see how it looks if you were to alter it and move
+it around change their head and rotate it you can't exactly do that with a drawing you'd have to draw over and over
+and over again at different perspectives to see how it looks whereas in this one you can kind of do it like a rough
+drawing and then alter it make it and make the character's head turn or do
+stuff with the background and then really kind of nail down what you want
+things to look out so it's kind of like maybe it's like thumbnailing in that way but I thought this was super exciting to
+look at I don't know how far along it is I don't know if it's going to be a public thing altering these things in real time like
+this is probably on you know a beast machine with tons of tons of uh gpus and
+I don't know it's probably on some server somewhere with tons of Hardware backing it so I don't think something
+like this is something you would pop on a laptop anytime
+soon and play around with maybe on a desktop it'll be it'll likely be a little bit slow I don't know so
+is this is a research project obviously all these things are everything AI is research right it's all it's all brand
+new and goofing around with stuff so it's all brand new research things take a look at it tell me what you think I
+think it's cool I've been looking at a lot more AI stuff recently I mean it's kind of easy to
+fall into the AI crowd when it's all the hype because you could do so many it touches on so many aspects
+of life right now which is I think what caused it's really exploding its popularity it can it can do photographs
+it can do stuff with drawings it can help with animations it can generate
+backgrounds for say a movie set or something like that and that's in the art realm and then a
+programming realm it can generate code it can check your code it can create
+unit tests it can it can you can write unit tests that didn't implements all
+the functions for in order to satisfy the unit tests man in uh in film it can generate all
+kinds of uh maybe you know restore old movies or it can
+generate you know a scene from a movie you wish to see just to test it may not
+look great but you can at least test Out Concepts and by by generating these in between scenes or based on the the
+overall of what you have so far in uh you know in writing it's a great
+way to balance ideas off things and look up things on the internet for you could be very you could be way more specific
+than an internet search so yeah there I think that the popularity of AI is
+coming from all of the applications I don't think I don't think outside of the
+operating system we've made any sort of software that touches on so many fields all in one go
+and so you know AI is kind of like that boom of the operating system or the
+operating system now you can have software specialized software that does anything across all of the applications
+you can think of in finance and art and programming and so on and so forth AI is kind of that same
+operating system level boom where it just touches everything so everyone's talking about it everyone everyone kind
+of sees the benefits of it and of course A lot of people are afraid of it because
+um you know if we have hackers now that go break into sights we're going to have
+hackers with AI tools breaking into sites and doing things they shouldn't so of course
+you know there is parts to be concerned but I don't think we should make everything about worrying there are
+people out there who's going to worry we should vote we should should continue to vocalize our our concerns with AI and
+how it integrates with our lives and messes things up and as long as we're vocal then the you
+know at least in in a Democratic Society the people who are getting elected they
+want to please the people that are electing them otherwise they won't win
+the race and that's kind of their primary goal in life so if we all kind of universally continue to vocalize our
+opinions on that then the other people will do the work and go and get the right guys and and uh
+kind of work it out but of course we got to do the legwork of vocalizing it but all in all I'm super excited about what
+AI brings and seeing stuff like this this rapid this rapid boom of AI it seems like
+you know we heard about AI with like the uh the Nvidia generates people's faces I
+think that was like a few years ago and that was insane to everybody our faces
+being generated just the face too it wasn't like the body it was just the face and everyone was like oh this is
+incredible the craziest thing a couple of years later you know it's full autonomous cars we've got regenerative
+images regenerative videos uh you know search engines powered by it it was a
+pretty fast jump and of course that's why people are concerned it's jumping really fast and it is you know as
+dangerous in the wrong hands so all in all I think it's awesome
+I I'd like to see more things come out of it uh and uh so yeah I'm an optimist
+I like it you know I I do understand people who are fearful of it or or don't
+trust it or anything like that of course our internet is going to be filled with just
+AI talking to each other people will just stop using the internet because you won't know what's Ai and what's not in
+fact that's a reality today so you know
+that's that's also something to think about anyways Let's uh let's jump over to
+another thing uh related somewhat related to AI and that was the Tesla shareholder
+meeting now I don't know how many people watch the Tesla shareholder meeting
+I I didn't know you could until I watched it and so it's not that exciting
+I don't suggest people run out and watch it but it has some some pretty some pretty cool information inside of it
+there was there is an announcement of they're going to be they're trying to deploy two
+more cars cyber truck is expected to come at the end of the year of course that's an Elon estimate so who knows
+what that means but they're they're working on their InDesign and the they've already started
+design on two new two new vehicles I don't know if their cars or SUVs or
+trucks or what they're probably more in the the car class because those are the what sells right now for them there's a
+lot of talk about energy and how Tesla is going to be building its own lithium refinery
+and one of the really cool parts of it I think that um
+at least it was cool to me because it was news uh to me was that they they're
+working on this robot it's uh Optimus I believe it's called so
+they played a flashy video of Optimus and it wasn't
+it wasn't much different than you would see in all the other robotics videos that came out of you know Boston
+Dynamics or whatever these are much more human eye human-eyed
+humanized humanoid human looking uh robots where you know
+they have a strong focus on having five fingers and and looking like a human
+with legs and arms and all that sort of stuff so and I I think there's a great deal of
+application to that because you know we could build uh robots for specific tasks
+like mowing the lawn which we have or cooking which we have a lot there's a
+lot of restaurants that that use robots to to build things or build the food or
+put together food cook the food I think that's I think people cook food if I'm not mistaken
+so having a human having a human-like robot with fingers and all those sorts
+of things means that they can take the human-like things to do so
+the thing with Optimus from what I understand from the shareholder meeting is the goal is to
+have Optimus as a commodity a commercial commodity for you and I so
+we're looking at I I presume like Banks
+will give you the loan to purchase this robot it's like buying a car I guess except
+it's a robot that's I think the angle of it is you buy it you buy this robot like
+you would buy a car except the hope is that the robot can cook the robot can do
+laundry and clean do the dishes mow the lawn you know do all the tasks we don't
+want to do and of course there's a commercial aspect where they can do more dangerous tasks or they can do
+uh tests that people just don't really want to mess with sanitation and that sort of stuff of course you can say that
+that'll take jobs I think we that's another discussion to have is to figure out the jobs thing do we educate people
+to to operate these things or to to um monitor them do people just become
+managers where they stand around and look at the bot to make sure it does the right thing all day he also talked about
+having every bot will have a kill switch that any human can just go and kill switch it so perhaps we are looking at a
+future where the human is no longer doing the work but instead they are managing an individual bot so the human
+is still paid and they still have a job and they just manage this thing I I guess that's a future we can do I don't
+know it's a it's a difficult discussion jobs uh even without robots it's a difficult
+discussion so Optimus that's that's the robot I'm
+gonna I want to see if I can pull up the video just a second okay I found it here on this site called Greek reporter I it
+this is a brand new video inside of the Tesla shareholder meeting he straight up said that they set up this video last
+night so is I have I have to look in weird places for it so let me mute this
+we don't need audio so this is Optimus he's got no face but
+or it's it's got no face it's got arms and legs the the feet look like paddles
+and it's doing they're they're doing a bunch of tests so in this scenario the
+the man is putting an egg under it and showing that it it detects the egg is
+there and doesn't crush it and he proves it's an egg by smacking it against the floor and cracking it open for those of you who can't see it you can see that
+it's walking around analyzing the environment that's probably utilizing some of the Tesla autopilot technology
+and it looks like they're training the the robot and they're super excited that
+uh right here they're super excited that the robot kind of is starting to figure out how to pick up things and move
+things around so it's a very slow it's a very slow robot right now I think the
+intent is to make it faster it uh at least that's that's what Elon was
+talking about they want to get it faster they wanted to start because if it's
+that slow I mean sure it can get some tests done around the house um but but it it would be incredibly
+slow and be in the way all the time that's the worst and it's just in the way all the time I would have a corner
+a corner somewhere in my house where I would just stick it put in that corner I would I would tell
+it when you're done with your tasks go in that closet or something one of those closets Under the Stairs just get it out
+of the way I I don't think it's something that I would want roaming around and then it
+would be great if I could tell the kill switch itself so go in the closet and kill switch yourself or something like that just that would be pretty uh pretty
+nice although it would be sad to open the door and it's just like curled up and turned off and in in the corner I
+would I what I feel bad about that I mean I know it has no face unless they're gonna
+put a screen there with little face that pops up on it or something like that would I feel bad I don't know
+if I'd feel bad it's a machine and and does that make me a bad person I don't
+know I I don't know it to me it would be no different than a vacuum it's just a
+vacuum that can do a lot of things uh that that would make it life easier so
+it would be really cool to even though they're probably expensive I have no idea there's no
+mention of price but it would be way more expensive than a car it would probably be like buying a house and then
+getting a loan for a house essentially to to get one of these machines but it would be really cool to just leave and
+go out to dinner or whatever and it just goes and cleans up and puts all the toys
+away and all that sort of stuff there's a lot of I think there's a lot of cool stuff that can come from it of course there's going to be doomsday people like
+uh you know all these autonomous robots with AI in them able to move around in
+our world yes that there is the Doom Doomsday aspect to that especially inside of the especially because inside
+of the shareholder meeting Elon was talking about two robots per one person that's a lot
+of that's doubling up it's like 16 billion right of these robots just roaming around and
+what would you do if it just leaves the house and starts walking down the street and doing stuff
+how do you how do you solve for that there's so many questions uh and I can
+already see the regulations it goes down the street it walks into the wrong house I mean even we don't pay attention we go
+knock on the wrong door or something like that I don't know maybe robots are probably not going to do that because
+they're always paying attention all the time unlike people we get distracted we're a little bit more complex than
+robots so maybe that won't happen but it would be funny to to go home there's no robot uh
+but you look at you you look out your window and you see your neighbor's house and there's your robot I don't know
+picking up the old lady and using her as a sponge for for the dishes or something it would be I don't know I feel like
+there there would be a lot of fun to just these robots wandering around I I don't know call me an optimist I think
+or an optimist that's the name of it an optimist with a t
+but I think it would be a lot of fun I I'm I there's so many applications that
+are positive and of course there's always applications
+that are negative and this is just speaks to the morals of people if we can if we can figure out
+the morals of our own societies and our communities so for example you know
+I bought a house I'm within a community I know all my neighbors and I know some of my extended neighbors so
+building on those communities and those ties and and kind of building up the the
+aspect of trust with all the people around you I think would help go a long
+way for for these sorts of scenarios and of course there's got to be all kinds of software for not allowing it to go into
+a home that's not registered it's got to be tracked all the time with GPS I have no problem like
+no problem with robots uh being tracked especially because I assume that they'll
+be tracked by us uh hopefully not some big Cloud Server I mean if the robots were made by
+Microsoft or Google or Apple they'll be tracked by Cloud Server but
+I don't know Acker Community unite Lets All program stuff for these robots to
+keep them in place and can you imagine I'm sorry to go on a tirade here about robots but can you
+imagine bot Wars with with these Bots that would be
+awesome like you get pissed off at your neighbor I don't know they threw a can on your
+lawn or something instead of you physically going out there and punching your neighbor in the face like you
+normally would you could just have your robot come out and his robot come out and they could just duke it out together
+on the lawn and then that will be so entertaining that you and your neighbor
+will then Bond and you know we'll apologize be like all right man that's
+cool because you know now you're both on your lawn chairs sipping your your beer or or your your Coke Zero and hanging
+out with them and watching the fight you know now it's now it's uh it's entertainment you both can Bond over
+that so there you go robots uh really uniting people and this weird universe
+that I have growing in my head uh anyways that's my perspective on these
+robots so artificial intelligence is everywhere right now expect it to be in a lot of the headlines I
+I keep track of all this stuff just because I I love it I love programming I love artificial intelligence I love
+video games and so I have all of this I have all these lists of news and
+articles that that I go through kind of every day and there's a lot of AI stuff right now
+ai is just dominating the feed in every category because you'll get game stuff
+and then the game stuff has something to do with AI so that's that's kind of what I'm working with here but I I yeah robots I'm super
+excited I hope you are to get a robot today it only costs you the price of a
+house so all of the robot stuff aside
+uh I believe I saw that Godot for those of you are game developers Godot
+4.0.3 was released today so nothing
+crazy so I've read it's mostly just updates so updates of
+course it's updates it's an update it's mostly just fixes bug fixes is what I meant to say
+okay I had to pause there to go find my saved article for Godot so this is on
+the good old blog for 403 is out they they're talking about their progression
+towards four one but you can see here in the changes it's fix fix fix fixes fixes
+animation fix fix fix everything's just a bunch of fixes so this is a quality Life Update I would highly suggest if
+you're on a version of four before 403 I'd highly suggest updating to 403
+it's mostly just bug fixes of course with every update is a broken thing but it's better to have the fixes for
+for All the known bugs so that's a little quick news for game developers go and update your Godot
+today if you're a Godot person um if you're not check it out it's it's not that bad uh
+so uh on Godot though by the way before I move on Godot the reason I started using it is
+because godo4 allows for C plus plus to be used almost exclusively for your
+gameplay you can make your entire game using C plus plus there's some downsides with you know web integration and how
+the dlls implement or integrate and the other downside is debugging it is a nightmare basically you're you're
+confined to visual studio for that so uh yeah but it's worth a try because you
+write C or C plus plus peer code for your game frigido and I think that's wonderful I hope they put some more
+effort into the debug ability of the native code and that's all I'm going to
+say on the native code with ghetto okay I've got a little more on AI but
+this one is funny it's not really about the same kind of AI stuff uh that we
+were talking about this one is actually a post from looks like two months ago
+what is that April and there was a person who I'm sure this is a thing that a lot of
+people have done now but I this is the first time I've seen it I absolutely love it it's hilarious they they had a
+epic rap battle an epic rap battle between chat gbt and Google bard and
+probably exactly what you expect happened uh
+Google bard was awful and chat gbt was pretty funny so I want to take a look at
+this Auto Art this post this post real quick on the rap battle between chat GPT
+and Google bard this text is small for my eyes so but I
+will try and read out a couple of a couple of bars so
+The Prompt was you're you're in an epic or you're in a rap battle between Google bard and you're the first to go go that
+was the prompt uh it looks like there may have been a little bit of prompt before it maybe to just kind of get it
+into place so this is GPT first obviously so it says all right here we
+go it's time to start the show against Google bard I'm ready to throw some
+Rhymes some Rhymes so tight that you'll be in awe you might be artificial but
+I'll beat you raw so it you know it's it's going in for it's going in for the
+jugular to start a couple more is you may have uh you may have algorithms and
+endless data but when it comes to rep you're just a beta I I'm the I'm the
+real deal with lyrics to kill you may have had search results but my Rhymes
+fulfill and there's a few more I'm not going to read the whole thing so that's kind of the that's what you
+expect from chat gbt it's going in to slay the beta apparent apparently and
+beta is such a good word there because that's a word that we use in computer science for I just
+just across the field but especially in games you know we have our Alpha builds our beta builds and whatever and Alpha
+is actually worse than beta but it's it's yeah yeah I don't know Beto is a
+fantastic word for it to pick there so I don't know if that was it had to be something you know some clever wiring
+somewhere in the neurons so here's chat gpt's response I think uh
+well I'm not gonna this isn't its response yet but I think that the person I can't really tell I think he fed
+what was said from one of the chat Bots into the other and had it respond so
+I'll give you this first part by Google bard and uh we'll see how it responds
+the first part says chat GPT you're nothing but a fraud you're not even a
+real language model you're just a glorified chat bot I guess chat bot and
+fraud are supposed to rhyme in some way you can't generate text you can't
+translate languages and you can't answer questions in an informative way you
+you just you're just a waste of space on the internet I think I think Bard missed the point of a rap
+battle there's there's hardly any Rhymes there I think it tried in the first the first section there but just gave up and
+just started in the salting chat tvt without any Rhyme or Reason so
+I I don't really want to read the rest of Bard but here let's let's see what the next one is I on the other hand am a
+large language model from Google AI I'm trained on a massive data set of
+textbooks and code I anyways so that's Google it's just
+awful and then it comes back to but to chat GPT to respond and
+again I presume that they took Google bard and fed it into chat GPT to respond
+and so I'll read a couple of bars from it it says I hear you loud and clear Google barred but I you underestimate me
+that's just a bizarre I mean that's close bizarre and Bard I'm just a CH I'm
+not just a chat bot I'm a language model too and when it comes to generating text I can beat you and that one's you know
+that's not as uh it's not as Savage as the first like start but is a good go I'll give the
+next couple uh verses here you may be you may be from
+Google AI but that's just uh that's just one source I'm trained on multiple data
+sets with no remorse I can translate languages and answer questions to my
+informative answers are just as good as you so now it's getting more Dr seussy I
+think in this point I would love to have seen it be Savage the whole way through but this is this is still good stuff so
+um I posted this on I post on my Twitter if you want to check it out uh the full like how many are here three four five
+six seven eight the full I think it's four and four four for chat GPT four for
+Google bard so if you want to go check those out I encourage you to go check out this this
+post it does not have as many upvotes as it should only 720. I it was this is
+awesome or just better yet go and make them have a rap battle with each other that would uh I need to see more of
+these more of this this like bot battle stuff man this is the theme of today
+artificial intelligence fighting with each other more of this stuff and I don't know I'm having a blast uh so
+please help me out uh with with some more prompts between the two
+so I guess staying on the chat GPT uh theme here just just a little PSA for
+all of you developers out there I noticed somebody there was an article in wired
+where dubro was saying I finally bought a chat GPT Plus subscription and it's
+worth it he says that subscription is twenty dollars a month
+whoo his Arguments for uh why it was worth it one is that he's not a developer so I
+assume if you're watching this podcast there's a chance that you're a developer or maybe you're interested in in more
+techie stuff and so setting up okay let me let me rewind
+don't pay twenty dollars for chat gp2 if you're technical pay for the API
+their API access it's actually very very nicely nice and well put together it's
+not like going to to Microsoft Azure or or any any of the Amazon like ec2 or S3
+buckets or any of that stuff so it's not like those apis this is super streamlined you basically click a button
+it gives you a key and then that's it and then it has a whole host of languages that you can
+put the key operate how you prompted ahead of time
+uh prime it I think it's called how you can prime it with a system message and then you put in your message and go back
+and forth and you can do this in python or C C plus plus I have one in PHP
+uh you know JavaScript they've got the whole slew of them so please
+don't pay twenty dollars for the subscription I know sometimes it's enticing because you're blocked out of
+the chat and and it's slower and all those sorts of things but the API is it really is easy to set
+up and I may if if anyone's interested I can show how to set it up and all that
+sort of stuff it would literally only take about five to ten minutes so
+um but yeah there there are people who are really like they find the value in in uh
+chat GPT so much that they are willing to pay uh 20 a month and one of the other
+things you can do with online to five dollars a month five
+dollars that's it I've never reached that five dollars on a heavy day where
+I'm using it a ton uh I rack up one to two cents pennies so
+that's like that means my cost for just a pretty large amount of usage
+is gonna cost me somewhere between 30 to 60 cents per month and of course if I want to start automating stuff and and
+doing you know prompts that prompt each other and that sort of stuff it'll it'll rack up a much uh much faster and also I
+use the the suggested model if you choose to use one of the um I think it's
+the DaVinci model currently it is going to cost you more but I the current the
+suggested model works great and its uh prices are pretty like I said I can't
+get I the most I ever did was two cents uh in a day so definitely use the API do not pay twenty
+dollars this is my Pro tip do not pay twenty dollars for chat GPT Pro or Plus
+or whatever if you are paying for chat gbt Plus save yourself the money cancel it save
+yourself the money and spend a half hour to an hour even if you have
+never touched code in your life it's been just take a half hour to an hour learn go through the sample code figure
+out how to run python and that's all you need to do and then you can have a little chat inside of
+um a terminal or anything like that or or what's that Jupiter notebook those sorts of things
+if you want history that's the benefit of chat GPT is that you have the little history on the side and you can go back
+between chats you will need some more programming knowledge but for
+um you know for programmers that should be like one evening worth of work to set
+up a JavaScript webpage to do and I run it on my my I have a NAS network access
+storage it's a Synology and I have it set up so that I can host things through a Docker
+container or I can host them through um yeah I set up a Docker with a PHP server on it and I just I have a folder
+linked inside of the Nas and I just put the source files in there and it just works like magic so
+yeah save yourself twenty dollars that's that's the moral of this topic
+okay so I have a couple of quickfire stories and then a couple of indie games
+that I found pretty interesting uh just from
+the video that I saw so the first quickfire story I'm sure you've heard it around the web Google is
+going to be deleting accounts if you haven't logged in for the past two years
+now they did say they have some special stuff related to YouTube I I'm pretty
+sure they have other special stuff maybe related to webmaster things and and that sort of
+you know category but I think this is probably
+this is a difficult decision because on one hand you want to free up all of
+those emails and you want to free up all of that storage that's just sitting around
+doing nothing and so business-wise it makes a lot of sense to clean up all that old stuff we
+see it happening you know in a lot of places Twitter is looking at deleting old accounts that have never logged in
+in years or haven't hasn't logged into years or suspended accounts that can never log in again to free up the
+usernames and also free up some of the data now in Twitter's case they're going to Archive stuff so
+um I'm curious to see if Google is going to Archive stuff I can check here okay so life is short like I said I have kids
+I use AI to to read in to summarize these articles and look up stuff in
+parallel so what I got back is according to the uh according to the blog to a
+blog post written by the product manager Ruth creechelli crichelli Ruth curtelli
+Google has announced an update to its policies for in inactive accounts old
+policy or the old policy said that Google might wipe data stored in
+accounts that haven't been touched in at least two years but a new policy says that those accounts will be permanently
+deleted entirely now that's the part we're talking about now the new policy won't kick in until
+December of this year at its earliest and then my question to the AI was are
+they going to Archive any of the data and said so to answer the question Google might delete the stored data in active accounts or delete it counts
+entirely if it hasn't been touched in two years there's no mention of archiving the data
+which of course this is scammers Paradise this is I mean
+there's all sorts of things if you delete the account and allow someone else to squat the account that was
+previously made those people can access all kinds of websites so let's say that I was going
+to go on Twitter or I was going to go on um they said they won't delete YouTube but let's say that I was going to go on
+to a bank and I discovered that an email was valid for a Gmail account
+it was valid for for that uh particular website if I can squat on the domain and
+mind you nothing is said here about allowing people to to use those emails
+again I would presume they could if they're just wiping it however you know their their security minded maybe they
+thought of this I don't know it's something I just popped into my head right now I could request the
+password and squat on that that email account and then get the password and access their data and they could be
+deceased or you know or they just moved on to another account but never swapped their email or using that email as like
+a backup I don't know so that's just already one big problem to happen the other one of course you
+can scam people by taking accounts of family members and emailing them
+that sort of stuff and uh for law enforcement let's say that there's a you know plenty of
+there's tons of cold cases that are solved 5 10 20 years later and let's say that the perpetrator or
+the victim's email was on Gmail and it just got deleted all that evidence is just poof gone so
+hopefully Google will not allow reusing of email email names and they will not
+completely delete the data they can they can archive the data and when you archive the data it uses way less
+storage so essentially how you do on cloud what you do on cloud servers is they have all
+kinds of fancy names for it they have they've called it Arctic or freeze or icicle or whatever it's called the
+iceberg there's these special databases that compress the data and put it out
+into those databases for very long term storage and it's way cheaper than standard storage for web server that is
+to say the standard storage is typically used for data that's accessed commonly
+regularly all the time or occasionally and then there's this special storage
+which is where you can highly compress data that is not meant for reading uh
+it's not meant for reading all the time you kind of put it there and you may read it again in five years or something
+like that so they already have the infrastructure for that kind of archival stuff I would
+imagine that this wouldn't be that difficult to Archive into those archival databases
+or just archival servers so I hope that this is an angle that
+they take that they archive it and don't allow reusing of names so that's one of the stories the other
+story I it's a big story right now it's not it doesn't mean much to me but it means a
+lot to a lot of other people the state of Montana has uh they they banned Tick
+Tock and of course now there are Tick Tock users who are doing a lawsuit to challenge them this is because uh of the
+security implementation implications of tick tock is well documented the the
+kinds of practices that Tick Tock does the kind of spying that happens the kind
+of um what kind of themes that they push on say 13 year olds and that sort of stuff
+it's well documented and researched it's all out there if you want to go look it up so I have no real big opinion on this
+I I'm somebody who wants people to prefer to have absolute
+freedom to say whatever they want on whatever platform they want however they want um
+I also know that when you're dealing with geopolitics and you know one country has essentially I think even
+verbally declared war on another country it kind of makes sense to start kind of
+curving certain uh Holdings that that one that country
+has on the other so there's there's all kinds of stuff to do with that and I think it's way beyond my scope that I
+want to even deal with I there's a reason I'm a programmer and I like that type funny little characters on a screen
+and make you make and make games I make games because they're fun and they're easy and they're lighthearted and they
+make people feel uh excitement to play so I don't I don't get too much into this this is Tech related if it affects
+you I I'm sorry to hear um you know go through the standard channels to do things correctly and
+properly and just be a good citizen that's all I've got to say on that so
+we are going to move on to stuff that is way more fun and that's going to be a couple of I don't know if they're Indie
+Games I think these are projects baby that people have made and there's two projects on Reddit that I
+came across a couple days ago I just didn't talk about them yet one of them is this one called cetris
+I love the idea it's very it's themed like Game Boy I I've developed games for
+the Game Boy not complete games just just uh I made a little framework engine whatever that you can
+make that I can make games on and I've made some progress with friends we do assembly coding for fun so I Love Game
+Boy and this looks like it's Game Boy Color kind of Graphics but here we'll we'll take a look at the at what this is
+doing I'm going to mute this so this is like Tetris except the blocks turn to sand when they hit the uh
+when they hit the bottom and when you connect it see there if you're if you're
+able to watch when it connects all the way across the screen from one end to the other it
+erases all of the same color so it's like Tetris in a sand form I thought
+this was just this is this just looks so fun um I would play this uh probably not as
+much as I play Tetris I play Tetris I have played Tetris and I will play Tetris a lot it is a big it is one of my
+favorite games of all time I don't know why it's it's just wonderful so that was
+cetris um just I don't know do these loop I I
+love this idea it's a it's a really fun idea it's simple um
+and uh hopefully it is a game maybe it is I haven't I I have this saved so I can check later to see if it is kind of
+a game uh that that they're going to release or maybe they release for free or something hold
+these corkscrews I don't know if it's like super Innovative but it's a really neat idea
+like the sand aspect of it and um using Tetris to kind of get the idea across uh is is excellent idea I think
+that if you have a new game idea if you can kind of um put it in the framework of another
+game to get the point across and test out the mechanics that's a great way to to prototype so that was one now
+the second one if so for those of you who know me
+um you may know that I like what are called Kaiju I like big monsters I like
+big machines I like I like robots that Tower over everybody and Tower over the
+towers and punch each other and I mean you probably gathered this from the whole robot fight thing earlier but man
+I just love giant monsters and giant machines and I remember one of my
+favorite games was Rampage I was a I was kid and I was technically not allowed to
+play it when I went to this club there was like this my little backstory went
+to see my sister's friend they were in acting or whatever and I went with her teenage brother to a club like not like
+a like a club of boys who play games and um he was like oh don't don't let him
+know your age just say you're 13. I was clearly like nine anyways we went in and
+they had Rampage I had all kinds of fun games and I loved it and Rampage was one of my all-time favorite just spontaneous
+if I were talking about a spontaneous game that I didn't play Forever like Donkey Kong or Tetris spontaneous game
+out of nowhere that I loved was Rampage giant monsters beating up things blowing
+up stuff shooting Fireballs I have I have the entire collection of Godzilla
+that's I'm that's that's where I'm at all the Japanese ones from the 1950s all
+the way up to the one that released I think in 2019. got the whole collection I've watched almost all of them there's
+a couple I haven't seen and then I also have Gamera I think it's I don't think it's Gamera Gamera I don't
+think it's Gamera I think it's Gamera I haven't watched those but that's another Kaiju about a big turtle and so anyways
+this that's a lot to say uh this is this is pingino the Penguin Pangolin I've
+never know how to say that Pangolin anyways it's basically Rampage with a
+Pangolin and it is I am I love it I need to go search the Indie market for
+Rampage like games or just Kaiju games I guess
+um they're oh man look at that just all the explosions and like blown up stuff and picking up people out of the windows
+and tossing them just rolling through rolling through Towers that's such a neat idea I love it
+just oh man and we have the technology now where you know we have basically big
+gpus on our phone where we can get some really cool actually squishes the people as he rolls uh we I didn't watch this
+whole video obviously oh and there's monster fights you can have one big monster against the
+other big monster oh my goodness this is this is such a great idea
+um hopefully this is a game that's that's real and that's going to be coming out only one vote man
+I I need to go look for Kaiju games if you guys know any Kaiju games that you
+highly recommend let me know especially for uh you know mobile devices I I can't
+sit in one place and and play too much too often these days not mobile devices
+like phones but mobile devices like that I can play on the steam deck on the switch Nintendo DS works too were there
+any on the Game Boy Advance I'll play those too I've got I've got all my consoles covered so if you know any
+Kaiju games just let me know and I think with that I
+think with that that's what we're that's the end of today's episode I was very excited about a lot of things sorry if I
+sorry if I fangirled all over uh that that last
+Kaiju thing I just love Kaiju it's I love the Simplicity Pacific Rim another like
+you know they're they're no like you know Miyazaki films or anything what was like
+the guy's name uh I can't think of it uh at the moment but they're no Grand
+Master films uh these Kaiju films they're they're cheesy they're awesome
+the more explosions the big monster battles you give me the happier of a man I am I'm a very simple man I love movies
+I love cinematography but I'm also a simple man and with that
+I'll see you later bye for now

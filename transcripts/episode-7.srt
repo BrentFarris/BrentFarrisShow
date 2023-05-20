@@ -1,0 +1,1860 @@
+1
+00:00:00,000 --> 00:00:02,000
+remember welcome back today we've got some really
+
+2
+00:00:06,000 --> 00:00:08,000
+cool looking AI look at this stuff I mean you can you can put little dots on it's
+
+3
+00:00:12,000 --> 00:00:14,000
+a little hard to see it's on the feet there we go you put little dots and you drag them up and it just Alters the
+
+4
+00:00:18,000 --> 00:00:20,000
+image and so there's a lot of like animal stuff here but they go into they go into
+
+5
+00:00:23,000 --> 00:00:25,000
+some other things like here's a car I mean it changes the car which is a little odd but you know if you make it
+
+6
+00:00:29,000 --> 00:00:31,000
+taller it has to make sense so a truck makes sense rotating cars they make this
+
+7
+00:00:35,000 --> 00:00:37,000
+horse look like a like a Derpy horse they can close the cat's eyes this is
+
+8
+00:00:41,000 --> 00:00:43,000
+this is really cool stuff so I saw this and I just thought it was
+
+9
+00:00:48,000 --> 00:00:50,000
+really neat it's a great way to to kind of just
+
+10
+00:00:54,000 --> 00:00:56,000
+I don't know take an image and then play around with it it would it would be incredible like here's for fashion
+
+11
+00:00:59,000 --> 00:00:61,000
+design for example you can see what things look like even longer and shorter all this sort of stuff pretty cool what
+
+12
+00:01:06,000 --> 00:01:08,000
+it's called let's see it says new AI research lets you click and drag on images to manipulate in seconds it's
+
+13
+00:01:15,000 --> 00:01:17,000
+like Photoshop it's like the Photoshop warp tool but far more powerful and I
+
+14
+00:01:20,000 --> 00:01:22,000
+think we just saw why sorry to those of you who are listening to the podcast this is really a parts you have to see
+
+15
+00:01:26,000 --> 00:01:28,000
+so maybe later on you can check out the video or you can check out a on Twitter I posted a video of it but essentially
+
+16
+00:01:34,000 --> 00:01:36,000
+what's happening is it looks like they're placing a DOT and then and then
+
+17
+00:01:40,000 --> 00:01:42,000
+a second Dot and then telling the image to warp and so it changes the imagery it
+
+18
+00:01:47,000 --> 00:01:49,000
+moves things around makes things taller or shorter changes the time of day moves like people's arms to to be in different
+
+19
+00:01:54,000 --> 00:01:56,000
+positions even so it's it's a really really neat and Powerful tool I don't
+
+20
+00:02:02,000 --> 00:02:04,000
+know how others feel about this but I think that it's just really neat
+
+21
+00:02:08,000 --> 00:02:10,000
+I think that it would make for creating images and ideas kind of concepting up stuff really
+
+22
+00:02:15,000 --> 00:02:17,000
+fast and and effortless and maybe even takes a if you have taken a photograph
+
+23
+00:02:23,000 --> 00:02:25,000
+and you need to change it so that uh maybe it just didn't look good it was
+
+24
+00:02:31,000 --> 00:02:33,000
+probably too low or something like that you can alter your own personal photographs that you take to just
+
+25
+00:02:39,000 --> 00:02:41,000
+make them a little more Poppy and interesting to look at something like that I don't know I think there's a lot
+
+26
+00:02:46,000 --> 00:02:48,000
+of a lot of aspects to that that you can just you could just take and build maybe it's
+
+27
+00:02:52,000 --> 00:02:54,000
+for art if you do if you've done some drawings and you want to see how it looks if you were to alter it and move
+
+28
+00:02:58,000 --> 00:02:60,000
+it around change their head and rotate it you can't exactly do that with a drawing you'd have to draw over and over
+
+29
+00:03:05,000 --> 00:03:07,000
+and over again at different perspectives to see how it looks whereas in this one you can kind of do it like a rough
+
+30
+00:03:10,000 --> 00:03:12,000
+drawing and then alter it make it and make the character's head turn or do
+
+31
+00:03:16,000 --> 00:03:18,000
+stuff with the background and then really kind of nail down what you want
+
+32
+00:03:21,000 --> 00:03:23,000
+things to look out so it's kind of like maybe it's like thumbnailing in that way but I thought this was super exciting to
+
+33
+00:03:29,000 --> 00:03:31,000
+look at I don't know how far along it is I don't know if it's going to be a public thing altering these things in real time like
+
+34
+00:03:35,000 --> 00:03:37,000
+this is probably on you know a beast machine with tons of tons of uh gpus and
+
+35
+00:03:42,000 --> 00:03:44,000
+I don't know it's probably on some server somewhere with tons of Hardware backing it so I don't think something
+
+36
+00:03:48,000 --> 00:03:50,000
+like this is something you would pop on a laptop anytime
+
+37
+00:03:54,000 --> 00:03:56,000
+soon and play around with maybe on a desktop it'll be it'll likely be a little bit slow I don't know so
+
+38
+00:04:02,000 --> 00:04:04,000
+is this is a research project obviously all these things are everything AI is research right it's all it's all brand
+
+39
+00:04:09,000 --> 00:04:11,000
+new and goofing around with stuff so it's all brand new research things take a look at it tell me what you think I
+
+40
+00:04:16,000 --> 00:04:18,000
+think it's cool I've been looking at a lot more AI stuff recently I mean it's kind of easy to
+
+41
+00:04:24,000 --> 00:04:26,000
+fall into the AI crowd when it's all the hype because you could do so many it touches on so many aspects
+
+42
+00:04:32,000 --> 00:04:34,000
+of life right now which is I think what caused it's really exploding its popularity it can it can do photographs
+
+43
+00:04:39,000 --> 00:04:41,000
+it can do stuff with drawings it can help with animations it can generate
+
+44
+00:04:44,000 --> 00:04:46,000
+backgrounds for say a movie set or something like that and that's in the art realm and then a
+
+45
+00:04:51,000 --> 00:04:53,000
+programming realm it can generate code it can check your code it can create
+
+46
+00:04:56,000 --> 00:04:58,000
+unit tests it can it can you can write unit tests that didn't implements all
+
+47
+00:05:02,000 --> 00:05:04,000
+the functions for in order to satisfy the unit tests man in uh in film it can generate all
+
+48
+00:05:09,000 --> 00:05:11,000
+kinds of uh maybe you know restore old movies or it can
+
+49
+00:05:14,000 --> 00:05:16,000
+generate you know a scene from a movie you wish to see just to test it may not
+
+50
+00:05:21,000 --> 00:05:23,000
+look great but you can at least test Out Concepts and by by generating these in between scenes or based on the the
+
+51
+00:05:27,000 --> 00:05:29,000
+overall of what you have so far in uh you know in writing it's a great
+
+52
+00:05:34,000 --> 00:05:36,000
+way to balance ideas off things and look up things on the internet for you could be very you could be way more specific
+
+53
+00:05:40,000 --> 00:05:42,000
+than an internet search so yeah there I think that the popularity of AI is
+
+54
+00:05:46,000 --> 00:05:48,000
+coming from all of the applications I don't think I don't think outside of the
+
+55
+00:05:51,000 --> 00:05:53,000
+operating system we've made any sort of software that touches on so many fields all in one go
+
+56
+00:06:00,000 --> 00:06:02,000
+and so you know AI is kind of like that boom of the operating system or the
+
+57
+00:06:05,000 --> 00:06:07,000
+operating system now you can have software specialized software that does anything across all of the applications
+
+58
+00:06:12,000 --> 00:06:14,000
+you can think of in finance and art and programming and so on and so forth AI is kind of that same
+
+59
+00:06:18,000 --> 00:06:20,000
+operating system level boom where it just touches everything so everyone's talking about it everyone everyone kind
+
+60
+00:06:24,000 --> 00:06:26,000
+of sees the benefits of it and of course A lot of people are afraid of it because
+
+61
+00:06:31,000 --> 00:06:33,000
+um you know if we have hackers now that go break into sights we're going to have
+
+62
+00:06:36,000 --> 00:06:38,000
+hackers with AI tools breaking into sites and doing things they shouldn't so of course
+
+63
+00:06:42,000 --> 00:06:44,000
+you know there is parts to be concerned but I don't think we should make everything about worrying there are
+
+64
+00:06:49,000 --> 00:06:51,000
+people out there who's going to worry we should vote we should should continue to vocalize our our concerns with AI and
+
+65
+00:06:55,000 --> 00:06:57,000
+how it integrates with our lives and messes things up and as long as we're vocal then the you
+
+66
+00:07:02,000 --> 00:07:04,000
+know at least in in a Democratic Society the people who are getting elected they
+
+67
+00:07:10,000 --> 00:07:12,000
+want to please the people that are electing them otherwise they won't win
+
+68
+00:07:15,000 --> 00:07:17,000
+the race and that's kind of their primary goal in life so if we all kind of universally continue to vocalize our
+
+69
+00:07:23,000 --> 00:07:25,000
+opinions on that then the other people will do the work and go and get the right guys and and uh
+
+70
+00:07:29,000 --> 00:07:31,000
+kind of work it out but of course we got to do the legwork of vocalizing it but all in all I'm super excited about what
+
+71
+00:07:37,000 --> 00:07:39,000
+AI brings and seeing stuff like this this rapid this rapid boom of AI it seems like
+
+72
+00:07:43,000 --> 00:07:45,000
+you know we heard about AI with like the uh the Nvidia generates people's faces I
+
+73
+00:07:50,000 --> 00:07:52,000
+think that was like a few years ago and that was insane to everybody our faces
+
+74
+00:07:55,000 --> 00:07:57,000
+being generated just the face too it wasn't like the body it was just the face and everyone was like oh this is
+
+75
+00:08:02,000 --> 00:08:04,000
+incredible the craziest thing a couple of years later you know it's full autonomous cars we've got regenerative
+
+76
+00:08:09,000 --> 00:08:11,000
+images regenerative videos uh you know search engines powered by it it was a
+
+77
+00:08:15,000 --> 00:08:17,000
+pretty fast jump and of course that's why people are concerned it's jumping really fast and it is you know as
+
+78
+00:08:22,000 --> 00:08:24,000
+dangerous in the wrong hands so all in all I think it's awesome
+
+79
+00:08:28,000 --> 00:08:30,000
+I I'd like to see more things come out of it uh and uh so yeah I'm an optimist
+
+80
+00:08:34,000 --> 00:08:36,000
+I like it you know I I do understand people who are fearful of it or or don't
+
+81
+00:08:40,000 --> 00:08:42,000
+trust it or anything like that of course our internet is going to be filled with just
+
+82
+00:08:46,000 --> 00:08:48,000
+AI talking to each other people will just stop using the internet because you won't know what's Ai and what's not in
+
+83
+00:08:52,000 --> 00:08:54,000
+fact that's a reality today so you know
+
+84
+00:08:57,000 --> 00:08:59,000
+that's that's also something to think about anyways Let's uh let's jump over to
+
+85
+00:09:04,000 --> 00:09:06,000
+another thing uh related somewhat related to AI and that was the Tesla shareholder
+
+86
+00:09:12,000 --> 00:09:14,000
+meeting now I don't know how many people watch the Tesla shareholder meeting
+
+87
+00:09:19,000 --> 00:09:21,000
+I I didn't know you could until I watched it and so it's not that exciting
+
+88
+00:09:25,000 --> 00:09:27,000
+I don't suggest people run out and watch it but it has some some pretty some pretty cool information inside of it
+
+89
+00:09:31,000 --> 00:09:33,000
+there was there is an announcement of they're going to be they're trying to deploy two
+
+90
+00:09:37,000 --> 00:09:39,000
+more cars cyber truck is expected to come at the end of the year of course that's an Elon estimate so who knows
+
+91
+00:09:43,000 --> 00:09:45,000
+what that means but they're they're working on their InDesign and the they've already started
+
+92
+00:09:51,000 --> 00:09:53,000
+design on two new two new vehicles I don't know if their cars or SUVs or
+
+93
+00:09:56,000 --> 00:09:58,000
+trucks or what they're probably more in the the car class because those are the what sells right now for them there's a
+
+94
+00:10:04,000 --> 00:10:06,000
+lot of talk about energy and how Tesla is going to be building its own lithium refinery
+
+95
+00:10:10,000 --> 00:10:12,000
+and one of the really cool parts of it I think that um
+
+96
+00:10:15,000 --> 00:10:17,000
+at least it was cool to me because it was news uh to me was that they they're
+
+97
+00:10:21,000 --> 00:10:23,000
+working on this robot it's uh Optimus I believe it's called so
+
+98
+00:10:28,000 --> 00:10:30,000
+they played a flashy video of Optimus and it wasn't
+
+99
+00:10:33,000 --> 00:10:35,000
+it wasn't much different than you would see in all the other robotics videos that came out of you know Boston
+
+100
+00:10:39,000 --> 00:10:41,000
+Dynamics or whatever these are much more human eye human-eyed
+
+101
+00:10:46,000 --> 00:10:48,000
+humanized humanoid human looking uh robots where you know
+
+102
+00:10:53,000 --> 00:10:55,000
+they have a strong focus on having five fingers and and looking like a human
+
+103
+00:10:58,000 --> 00:10:60,000
+with legs and arms and all that sort of stuff so and I I think there's a great deal of
+
+104
+00:11:06,000 --> 00:11:08,000
+application to that because you know we could build uh robots for specific tasks
+
+105
+00:11:13,000 --> 00:11:15,000
+like mowing the lawn which we have or cooking which we have a lot there's a
+
+106
+00:11:20,000 --> 00:11:22,000
+lot of restaurants that that use robots to to build things or build the food or
+
+107
+00:11:25,000 --> 00:11:27,000
+put together food cook the food I think that's I think people cook food if I'm not mistaken
+
+108
+00:11:30,000 --> 00:11:32,000
+so having a human having a human-like robot with fingers and all those sorts
+
+109
+00:11:38,000 --> 00:11:40,000
+of things means that they can take the human-like things to do so
+
+110
+00:11:44,000 --> 00:11:46,000
+the thing with Optimus from what I understand from the shareholder meeting is the goal is to
+
+111
+00:11:51,000 --> 00:11:53,000
+have Optimus as a commodity a commercial commodity for you and I so
+
+112
+00:11:58,000 --> 00:11:60,000
+we're looking at I I presume like Banks
+
+113
+00:12:04,000 --> 00:12:06,000
+will give you the loan to purchase this robot it's like buying a car I guess except
+
+114
+00:12:10,000 --> 00:12:12,000
+it's a robot that's I think the angle of it is you buy it you buy this robot like
+
+115
+00:12:16,000 --> 00:12:18,000
+you would buy a car except the hope is that the robot can cook the robot can do
+
+116
+00:12:21,000 --> 00:12:23,000
+laundry and clean do the dishes mow the lawn you know do all the tasks we don't
+
+117
+00:12:27,000 --> 00:12:29,000
+want to do and of course there's a commercial aspect where they can do more dangerous tasks or they can do
+
+118
+00:12:33,000 --> 00:12:35,000
+uh tests that people just don't really want to mess with sanitation and that sort of stuff of course you can say that
+
+119
+00:12:40,000 --> 00:12:42,000
+that'll take jobs I think we that's another discussion to have is to figure out the jobs thing do we educate people
+
+120
+00:12:47,000 --> 00:12:49,000
+to to operate these things or to to um monitor them do people just become
+
+121
+00:12:53,000 --> 00:12:55,000
+managers where they stand around and look at the bot to make sure it does the right thing all day he also talked about
+
+122
+00:13:00,000 --> 00:13:02,000
+having every bot will have a kill switch that any human can just go and kill switch it so perhaps we are looking at a
+
+123
+00:13:07,000 --> 00:13:09,000
+future where the human is no longer doing the work but instead they are managing an individual bot so the human
+
+124
+00:13:16,000 --> 00:13:18,000
+is still paid and they still have a job and they just manage this thing I I guess that's a future we can do I don't
+
+125
+00:13:21,000 --> 00:13:23,000
+know it's a it's a difficult discussion jobs uh even without robots it's a difficult
+
+126
+00:13:28,000 --> 00:13:30,000
+discussion so Optimus that's that's the robot I'm
+
+127
+00:13:34,000 --> 00:13:36,000
+gonna I want to see if I can pull up the video just a second okay I found it here on this site called Greek reporter I it
+
+128
+00:13:42,000 --> 00:13:44,000
+this is a brand new video inside of the Tesla shareholder meeting he straight up said that they set up this video last
+
+129
+00:13:48,000 --> 00:13:50,000
+night so is I have I have to look in weird places for it so let me mute this
+
+130
+00:13:53,000 --> 00:13:55,000
+we don't need audio so this is Optimus he's got no face but
+
+131
+00:13:59,000 --> 00:13:61,000
+or it's it's got no face it's got arms and legs the the feet look like paddles
+
+132
+00:14:06,000 --> 00:14:08,000
+and it's doing they're they're doing a bunch of tests so in this scenario the
+
+133
+00:14:12,000 --> 00:14:14,000
+the man is putting an egg under it and showing that it it detects the egg is
+
+134
+00:14:18,000 --> 00:14:20,000
+there and doesn't crush it and he proves it's an egg by smacking it against the floor and cracking it open for those of you who can't see it you can see that
+
+135
+00:14:25,000 --> 00:14:27,000
+it's walking around analyzing the environment that's probably utilizing some of the Tesla autopilot technology
+
+136
+00:14:33,000 --> 00:14:35,000
+and it looks like they're training the the robot and they're super excited that
+
+137
+00:14:39,000 --> 00:14:41,000
+uh right here they're super excited that the robot kind of is starting to figure out how to pick up things and move
+
+138
+00:14:45,000 --> 00:14:47,000
+things around so it's a very slow it's a very slow robot right now I think the
+
+139
+00:14:50,000 --> 00:14:52,000
+intent is to make it faster it uh at least that's that's what Elon was
+
+140
+00:14:56,000 --> 00:14:58,000
+talking about they want to get it faster they wanted to start because if it's
+
+141
+00:15:02,000 --> 00:15:04,000
+that slow I mean sure it can get some tests done around the house um but but it it would be incredibly
+
+142
+00:15:10,000 --> 00:15:12,000
+slow and be in the way all the time that's the worst and it's just in the way all the time I would have a corner
+
+143
+00:15:16,000 --> 00:15:18,000
+a corner somewhere in my house where I would just stick it put in that corner I would I would tell
+
+144
+00:15:22,000 --> 00:15:24,000
+it when you're done with your tasks go in that closet or something one of those closets Under the Stairs just get it out
+
+145
+00:15:28,000 --> 00:15:30,000
+of the way I I don't think it's something that I would want roaming around and then it
+
+146
+00:15:34,000 --> 00:15:36,000
+would be great if I could tell the kill switch itself so go in the closet and kill switch yourself or something like that just that would be pretty uh pretty
+
+147
+00:15:42,000 --> 00:15:44,000
+nice although it would be sad to open the door and it's just like curled up and turned off and in in the corner I
+
+148
+00:15:50,000 --> 00:15:52,000
+would I what I feel bad about that I mean I know it has no face unless they're gonna
+
+149
+00:15:56,000 --> 00:15:58,000
+put a screen there with little face that pops up on it or something like that would I feel bad I don't know
+
+150
+00:16:03,000 --> 00:16:05,000
+if I'd feel bad it's a machine and and does that make me a bad person I don't
+
+151
+00:16:08,000 --> 00:16:10,000
+know I I don't know it to me it would be no different than a vacuum it's just a
+
+152
+00:16:15,000 --> 00:16:17,000
+vacuum that can do a lot of things uh that that would make it life easier so
+
+153
+00:16:20,000 --> 00:16:22,000
+it would be really cool to even though they're probably expensive I have no idea there's no
+
+154
+00:16:26,000 --> 00:16:28,000
+mention of price but it would be way more expensive than a car it would probably be like buying a house and then
+
+155
+00:16:32,000 --> 00:16:34,000
+getting a loan for a house essentially to to get one of these machines but it would be really cool to just leave and
+
+156
+00:16:40,000 --> 00:16:42,000
+go out to dinner or whatever and it just goes and cleans up and puts all the toys
+
+157
+00:16:45,000 --> 00:16:47,000
+away and all that sort of stuff there's a lot of I think there's a lot of cool stuff that can come from it of course there's going to be doomsday people like
+
+158
+00:16:52,000 --> 00:16:54,000
+uh you know all these autonomous robots with AI in them able to move around in
+
+159
+00:16:59,000 --> 00:16:61,000
+our world yes that there is the Doom Doomsday aspect to that especially inside of the especially because inside
+
+160
+00:17:06,000 --> 00:17:08,000
+of the shareholder meeting Elon was talking about two robots per one person that's a lot
+
+161
+00:17:13,000 --> 00:17:15,000
+of that's doubling up it's like 16 billion right of these robots just roaming around and
+
+162
+00:17:21,000 --> 00:17:23,000
+what would you do if it just leaves the house and starts walking down the street and doing stuff
+
+163
+00:17:27,000 --> 00:17:29,000
+how do you how do you solve for that there's so many questions uh and I can
+
+164
+00:17:33,000 --> 00:17:35,000
+already see the regulations it goes down the street it walks into the wrong house I mean even we don't pay attention we go
+
+165
+00:17:40,000 --> 00:17:42,000
+knock on the wrong door or something like that I don't know maybe robots are probably not going to do that because
+
+166
+00:17:47,000 --> 00:17:49,000
+they're always paying attention all the time unlike people we get distracted we're a little bit more complex than
+
+167
+00:17:53,000 --> 00:17:55,000
+robots so maybe that won't happen but it would be funny to to go home there's no robot uh
+
+168
+00:17:59,000 --> 00:17:61,000
+but you look at you you look out your window and you see your neighbor's house and there's your robot I don't know
+
+169
+00:18:05,000 --> 00:18:07,000
+picking up the old lady and using her as a sponge for for the dishes or something it would be I don't know I feel like
+
+170
+00:18:12,000 --> 00:18:14,000
+there there would be a lot of fun to just these robots wandering around I I don't know call me an optimist I think
+
+171
+00:18:18,000 --> 00:18:20,000
+or an optimist that's the name of it an optimist with a t
+
+172
+00:18:24,000 --> 00:18:26,000
+but I think it would be a lot of fun I I'm I there's so many applications that
+
+173
+00:18:30,000 --> 00:18:32,000
+are positive and of course there's always applications
+
+174
+00:18:36,000 --> 00:18:38,000
+that are negative and this is just speaks to the morals of people if we can if we can figure out
+
+175
+00:18:45,000 --> 00:18:47,000
+the morals of our own societies and our communities so for example you know
+
+176
+00:18:52,000 --> 00:18:54,000
+I bought a house I'm within a community I know all my neighbors and I know some of my extended neighbors so
+
+177
+00:18:59,000 --> 00:18:61,000
+building on those communities and those ties and and kind of building up the the
+
+178
+00:19:05,000 --> 00:19:07,000
+aspect of trust with all the people around you I think would help go a long
+
+179
+00:19:11,000 --> 00:19:13,000
+way for for these sorts of scenarios and of course there's got to be all kinds of software for not allowing it to go into
+
+180
+00:19:18,000 --> 00:19:20,000
+a home that's not registered it's got to be tracked all the time with GPS I have no problem like
+
+181
+00:19:27,000 --> 00:19:29,000
+no problem with robots uh being tracked especially because I assume that they'll
+
+182
+00:19:33,000 --> 00:19:35,000
+be tracked by us uh hopefully not some big Cloud Server I mean if the robots were made by
+
+183
+00:19:39,000 --> 00:19:41,000
+Microsoft or Google or Apple they'll be tracked by Cloud Server but
+
+184
+00:19:45,000 --> 00:19:47,000
+I don't know Acker Community unite Lets All program stuff for these robots to
+
+185
+00:19:50,000 --> 00:19:52,000
+keep them in place and can you imagine I'm sorry to go on a tirade here about robots but can you
+
+186
+00:19:57,000 --> 00:19:59,000
+imagine bot Wars with with these Bots that would be
+
+187
+00:20:03,000 --> 00:20:05,000
+awesome like you get pissed off at your neighbor I don't know they threw a can on your
+
+188
+00:20:09,000 --> 00:20:11,000
+lawn or something instead of you physically going out there and punching your neighbor in the face like you
+
+189
+00:20:14,000 --> 00:20:16,000
+normally would you could just have your robot come out and his robot come out and they could just duke it out together
+
+190
+00:20:20,000 --> 00:20:22,000
+on the lawn and then that will be so entertaining that you and your neighbor
+
+191
+00:20:26,000 --> 00:20:28,000
+will then Bond and you know we'll apologize be like all right man that's
+
+192
+00:20:31,000 --> 00:20:33,000
+cool because you know now you're both on your lawn chairs sipping your your beer or or your your Coke Zero and hanging
+
+193
+00:20:39,000 --> 00:20:41,000
+out with them and watching the fight you know now it's now it's uh it's entertainment you both can Bond over
+
+194
+00:20:44,000 --> 00:20:46,000
+that so there you go robots uh really uniting people and this weird universe
+
+195
+00:20:51,000 --> 00:20:53,000
+that I have growing in my head uh anyways that's my perspective on these
+
+196
+00:20:56,000 --> 00:20:58,000
+robots so artificial intelligence is everywhere right now expect it to be in a lot of the headlines I
+
+197
+00:21:02,000 --> 00:21:04,000
+I keep track of all this stuff just because I I love it I love programming I love artificial intelligence I love
+
+198
+00:21:09,000 --> 00:21:11,000
+video games and so I have all of this I have all these lists of news and
+
+199
+00:21:15,000 --> 00:21:17,000
+articles that that I go through kind of every day and there's a lot of AI stuff right now
+
+200
+00:21:21,000 --> 00:21:23,000
+ai is just dominating the feed in every category because you'll get game stuff
+
+201
+00:21:27,000 --> 00:21:29,000
+and then the game stuff has something to do with AI so that's that's kind of what I'm working with here but I I yeah robots I'm super
+
+202
+00:21:36,000 --> 00:21:38,000
+excited I hope you are to get a robot today it only costs you the price of a
+
+203
+00:21:42,000 --> 00:21:44,000
+house so all of the robot stuff aside
+
+204
+00:21:48,000 --> 00:21:50,000
+uh I believe I saw that Godot for those of you are game developers Godot
+
+205
+00:21:56,000 --> 00:21:58,000
+4.0.3 was released today so nothing
+
+206
+00:22:01,000 --> 00:22:03,000
+crazy so I've read it's mostly just updates so updates of
+
+207
+00:22:09,000 --> 00:22:11,000
+course it's updates it's an update it's mostly just fixes bug fixes is what I meant to say
+
+208
+00:22:14,000 --> 00:22:16,000
+okay I had to pause there to go find my saved article for Godot so this is on
+
+209
+00:22:22,000 --> 00:22:24,000
+the good old blog for 403 is out they they're talking about their progression
+
+210
+00:22:28,000 --> 00:22:30,000
+towards four one but you can see here in the changes it's fix fix fix fixes fixes
+
+211
+00:22:34,000 --> 00:22:36,000
+animation fix fix fix everything's just a bunch of fixes so this is a quality Life Update I would highly suggest if
+
+212
+00:22:40,000 --> 00:22:42,000
+you're on a version of four before 403 I'd highly suggest updating to 403
+
+213
+00:22:47,000 --> 00:22:49,000
+it's mostly just bug fixes of course with every update is a broken thing but it's better to have the fixes for
+
+214
+00:22:54,000 --> 00:22:56,000
+for All the known bugs so that's a little quick news for game developers go and update your Godot
+
+215
+00:23:02,000 --> 00:23:04,000
+today if you're a Godot person um if you're not check it out it's it's not that bad uh
+
+216
+00:23:09,000 --> 00:23:11,000
+so uh on Godot though by the way before I move on Godot the reason I started using it is
+
+217
+00:23:16,000 --> 00:23:18,000
+because godo4 allows for C plus plus to be used almost exclusively for your
+
+218
+00:23:22,000 --> 00:23:24,000
+gameplay you can make your entire game using C plus plus there's some downsides with you know web integration and how
+
+219
+00:23:29,000 --> 00:23:31,000
+the dlls implement or integrate and the other downside is debugging it is a nightmare basically you're you're
+
+220
+00:23:35,000 --> 00:23:37,000
+confined to visual studio for that so uh yeah but it's worth a try because you
+
+221
+00:23:42,000 --> 00:23:44,000
+write C or C plus plus peer code for your game frigido and I think that's wonderful I hope they put some more
+
+222
+00:23:48,000 --> 00:23:50,000
+effort into the debug ability of the native code and that's all I'm going to
+
+223
+00:23:54,000 --> 00:23:56,000
+say on the native code with ghetto okay I've got a little more on AI but
+
+224
+00:24:00,000 --> 00:24:02,000
+this one is funny it's not really about the same kind of AI stuff uh that we
+
+225
+00:24:07,000 --> 00:24:09,000
+were talking about this one is actually a post from looks like two months ago
+
+226
+00:24:13,000 --> 00:24:15,000
+what is that April and there was a person who I'm sure this is a thing that a lot of
+
+227
+00:24:19,000 --> 00:24:21,000
+people have done now but I this is the first time I've seen it I absolutely love it it's hilarious they they had a
+
+228
+00:24:26,000 --> 00:24:28,000
+epic rap battle an epic rap battle between chat gbt and Google bard and
+
+229
+00:24:34,000 --> 00:24:36,000
+probably exactly what you expect happened uh
+
+230
+00:24:40,000 --> 00:24:42,000
+Google bard was awful and chat gbt was pretty funny so I want to take a look at
+
+231
+00:24:47,000 --> 00:24:49,000
+this Auto Art this post this post real quick on the rap battle between chat GPT
+
+232
+00:24:54,000 --> 00:24:56,000
+and Google bard this text is small for my eyes so but I
+
+233
+00:25:01,000 --> 00:25:03,000
+will try and read out a couple of a couple of bars so
+
+234
+00:25:07,000 --> 00:25:09,000
+The Prompt was you're you're in an epic or you're in a rap battle between Google bard and you're the first to go go that
+
+235
+00:25:14,000 --> 00:25:16,000
+was the prompt uh it looks like there may have been a little bit of prompt before it maybe to just kind of get it
+
+236
+00:25:21,000 --> 00:25:23,000
+into place so this is GPT first obviously so it says all right here we
+
+237
+00:25:28,000 --> 00:25:30,000
+go it's time to start the show against Google bard I'm ready to throw some
+
+238
+00:25:33,000 --> 00:25:35,000
+Rhymes some Rhymes so tight that you'll be in awe you might be artificial but
+
+239
+00:25:39,000 --> 00:25:41,000
+I'll beat you raw so it you know it's it's going in for it's going in for the
+
+240
+00:25:45,000 --> 00:25:47,000
+jugular to start a couple more is you may have uh you may have algorithms and
+
+241
+00:25:53,000 --> 00:25:55,000
+endless data but when it comes to rep you're just a beta I I'm the I'm the
+
+242
+00:26:00,000 --> 00:26:02,000
+real deal with lyrics to kill you may have had search results but my Rhymes
+
+243
+00:26:05,000 --> 00:26:07,000
+fulfill and there's a few more I'm not going to read the whole thing so that's kind of the that's what you
+
+244
+00:26:11,000 --> 00:26:13,000
+expect from chat gbt it's going in to slay the beta apparent apparently and
+
+245
+00:26:17,000 --> 00:26:19,000
+beta is such a good word there because that's a word that we use in computer science for I just
+
+246
+00:26:23,000 --> 00:26:25,000
+just across the field but especially in games you know we have our Alpha builds our beta builds and whatever and Alpha
+
+247
+00:26:29,000 --> 00:26:31,000
+is actually worse than beta but it's it's yeah yeah I don't know Beto is a
+
+248
+00:26:35,000 --> 00:26:37,000
+fantastic word for it to pick there so I don't know if that was it had to be something you know some clever wiring
+
+249
+00:26:42,000 --> 00:26:44,000
+somewhere in the neurons so here's chat gpt's response I think uh
+
+250
+00:26:48,000 --> 00:26:50,000
+well I'm not gonna this isn't its response yet but I think that the person I can't really tell I think he fed
+
+251
+00:26:56,000 --> 00:26:58,000
+what was said from one of the chat Bots into the other and had it respond so
+
+252
+00:27:03,000 --> 00:27:05,000
+I'll give you this first part by Google bard and uh we'll see how it responds
+
+253
+00:27:08,000 --> 00:27:10,000
+the first part says chat GPT you're nothing but a fraud you're not even a
+
+254
+00:27:15,000 --> 00:27:17,000
+real language model you're just a glorified chat bot I guess chat bot and
+
+255
+00:27:21,000 --> 00:27:23,000
+fraud are supposed to rhyme in some way you can't generate text you can't
+
+256
+00:27:26,000 --> 00:27:28,000
+translate languages and you can't answer questions in an informative way you
+
+257
+00:27:33,000 --> 00:27:35,000
+you just you're just a waste of space on the internet I think I think Bard missed the point of a rap
+
+258
+00:27:40,000 --> 00:27:42,000
+battle there's there's hardly any Rhymes there I think it tried in the first the first section there but just gave up and
+
+259
+00:27:46,000 --> 00:27:48,000
+just started in the salting chat tvt without any Rhyme or Reason so
+
+260
+00:27:54,000 --> 00:27:56,000
+I I don't really want to read the rest of Bard but here let's let's see what the next one is I on the other hand am a
+
+261
+00:28:01,000 --> 00:28:03,000
+large language model from Google AI I'm trained on a massive data set of
+
+262
+00:28:07,000 --> 00:28:09,000
+textbooks and code I anyways so that's Google it's just
+
+263
+00:28:13,000 --> 00:28:15,000
+awful and then it comes back to but to chat GPT to respond and
+
+264
+00:28:19,000 --> 00:28:21,000
+again I presume that they took Google bard and fed it into chat GPT to respond
+
+265
+00:28:26,000 --> 00:28:28,000
+and so I'll read a couple of bars from it it says I hear you loud and clear Google barred but I you underestimate me
+
+266
+00:28:34,000 --> 00:28:36,000
+that's just a bizarre I mean that's close bizarre and Bard I'm just a CH I'm
+
+267
+00:28:40,000 --> 00:28:42,000
+not just a chat bot I'm a language model too and when it comes to generating text I can beat you and that one's you know
+
+268
+00:28:49,000 --> 00:28:51,000
+that's not as uh it's not as Savage as the first like start but is a good go I'll give the
+
+269
+00:28:56,000 --> 00:28:58,000
+next couple uh verses here you may be you may be from
+
+270
+00:29:02,000 --> 00:29:04,000
+Google AI but that's just uh that's just one source I'm trained on multiple data
+
+271
+00:29:08,000 --> 00:29:10,000
+sets with no remorse I can translate languages and answer questions to my
+
+272
+00:29:15,000 --> 00:29:17,000
+informative answers are just as good as you so now it's getting more Dr seussy I
+
+273
+00:29:21,000 --> 00:29:23,000
+think in this point I would love to have seen it be Savage the whole way through but this is this is still good stuff so
+
+274
+00:29:29,000 --> 00:29:31,000
+um I posted this on I post on my Twitter if you want to check it out uh the full like how many are here three four five
+
+275
+00:29:37,000 --> 00:29:39,000
+six seven eight the full I think it's four and four four for chat GPT four for
+
+276
+00:29:42,000 --> 00:29:44,000
+Google bard so if you want to go check those out I encourage you to go check out this this
+
+277
+00:29:48,000 --> 00:29:50,000
+post it does not have as many upvotes as it should only 720. I it was this is
+
+278
+00:29:54,000 --> 00:29:56,000
+awesome or just better yet go and make them have a rap battle with each other that would uh I need to see more of
+
+279
+00:30:01,000 --> 00:30:03,000
+these more of this this like bot battle stuff man this is the theme of today
+
+280
+00:30:06,000 --> 00:30:08,000
+artificial intelligence fighting with each other more of this stuff and I don't know I'm having a blast uh so
+
+281
+00:30:14,000 --> 00:30:16,000
+please help me out uh with with some more prompts between the two
+
+282
+00:30:21,000 --> 00:30:23,000
+so I guess staying on the chat GPT uh theme here just just a little PSA for
+
+283
+00:30:30,000 --> 00:30:32,000
+all of you developers out there I noticed somebody there was an article in wired
+
+284
+00:30:36,000 --> 00:30:38,000
+where dubro was saying I finally bought a chat GPT Plus subscription and it's
+
+285
+00:30:43,000 --> 00:30:45,000
+worth it he says that subscription is twenty dollars a month
+
+286
+00:30:49,000 --> 00:30:51,000
+whoo his Arguments for uh why it was worth it one is that he's not a developer so I
+
+287
+00:30:56,000 --> 00:30:58,000
+assume if you're watching this podcast there's a chance that you're a developer or maybe you're interested in in more
+
+288
+00:31:03,000 --> 00:31:05,000
+techie stuff and so setting up okay let me let me rewind
+
+289
+00:31:09,000 --> 00:31:11,000
+don't pay twenty dollars for chat gp2 if you're technical pay for the API
+
+290
+00:31:15,000 --> 00:31:17,000
+their API access it's actually very very nicely nice and well put together it's
+
+291
+00:31:21,000 --> 00:31:23,000
+not like going to to Microsoft Azure or or any any of the Amazon like ec2 or S3
+
+292
+00:31:31,000 --> 00:31:33,000
+buckets or any of that stuff so it's not like those apis this is super streamlined you basically click a button
+
+293
+00:31:37,000 --> 00:31:39,000
+it gives you a key and then that's it and then it has a whole host of languages that you can
+
+294
+00:31:43,000 --> 00:31:45,000
+put the key operate how you prompted ahead of time
+
+295
+00:31:51,000 --> 00:31:53,000
+uh prime it I think it's called how you can prime it with a system message and then you put in your message and go back
+
+296
+00:31:57,000 --> 00:31:59,000
+and forth and you can do this in python or C C plus plus I have one in PHP
+
+297
+00:32:03,000 --> 00:32:05,000
+uh you know JavaScript they've got the whole slew of them so please
+
+298
+00:32:09,000 --> 00:32:11,000
+don't pay twenty dollars for the subscription I know sometimes it's enticing because you're blocked out of
+
+299
+00:32:15,000 --> 00:32:17,000
+the chat and and it's slower and all those sorts of things but the API is it really is easy to set
+
+300
+00:32:23,000 --> 00:32:25,000
+up and I may if if anyone's interested I can show how to set it up and all that
+
+301
+00:32:29,000 --> 00:32:31,000
+sort of stuff it would literally only take about five to ten minutes so
+
+302
+00:32:34,000 --> 00:32:36,000
+um but yeah there there are people who are really like they find the value in in uh
+
+303
+00:32:42,000 --> 00:32:44,000
+chat GPT so much that they are willing to pay uh 20 a month and one of the other
+
+304
+00:32:48,000 --> 00:32:50,000
+things you can do with online to five dollars a month five
+
+305
+00:32:55,000 --> 00:32:57,000
+dollars that's it I've never reached that five dollars on a heavy day where
+
+306
+00:33:00,000 --> 00:33:02,000
+I'm using it a ton uh I rack up one to two cents pennies so
+
+307
+00:33:07,000 --> 00:33:09,000
+that's like that means my cost for just a pretty large amount of usage
+
+308
+00:33:15,000 --> 00:33:17,000
+is gonna cost me somewhere between 30 to 60 cents per month and of course if I want to start automating stuff and and
+
+309
+00:33:21,000 --> 00:33:23,000
+doing you know prompts that prompt each other and that sort of stuff it'll it'll rack up a much uh much faster and also I
+
+310
+00:33:28,000 --> 00:33:30,000
+use the the suggested model if you choose to use one of the um I think it's
+
+311
+00:33:34,000 --> 00:33:36,000
+the DaVinci model currently it is going to cost you more but I the current the
+
+312
+00:33:39,000 --> 00:33:41,000
+suggested model works great and its uh prices are pretty like I said I can't
+
+313
+00:33:45,000 --> 00:33:47,000
+get I the most I ever did was two cents uh in a day so definitely use the API do not pay twenty
+
+314
+00:33:53,000 --> 00:33:55,000
+dollars this is my Pro tip do not pay twenty dollars for chat GPT Pro or Plus
+
+315
+00:33:58,000 --> 00:33:60,000
+or whatever if you are paying for chat gbt Plus save yourself the money cancel it save
+
+316
+00:34:05,000 --> 00:34:07,000
+yourself the money and spend a half hour to an hour even if you have
+
+317
+00:34:10,000 --> 00:34:12,000
+never touched code in your life it's been just take a half hour to an hour learn go through the sample code figure
+
+318
+00:34:19,000 --> 00:34:21,000
+out how to run python and that's all you need to do and then you can have a little chat inside of
+
+319
+00:34:25,000 --> 00:34:27,000
+um a terminal or anything like that or or what's that Jupiter notebook those sorts of things
+
+320
+00:34:31,000 --> 00:34:33,000
+if you want history that's the benefit of chat GPT is that you have the little history on the side and you can go back
+
+321
+00:34:37,000 --> 00:34:39,000
+between chats you will need some more programming knowledge but for
+
+322
+00:34:43,000 --> 00:34:45,000
+um you know for programmers that should be like one evening worth of work to set
+
+323
+00:34:49,000 --> 00:34:51,000
+up a JavaScript webpage to do and I run it on my my I have a NAS network access
+
+324
+00:34:55,000 --> 00:34:57,000
+storage it's a Synology and I have it set up so that I can host things through a Docker
+
+325
+00:35:02,000 --> 00:35:04,000
+container or I can host them through um yeah I set up a Docker with a PHP server on it and I just I have a folder
+
+326
+00:35:10,000 --> 00:35:12,000
+linked inside of the Nas and I just put the source files in there and it just works like magic so
+
+327
+00:35:16,000 --> 00:35:18,000
+yeah save yourself twenty dollars that's that's the moral of this topic
+
+328
+00:35:22,000 --> 00:35:24,000
+okay so I have a couple of quickfire stories and then a couple of indie games
+
+329
+00:35:28,000 --> 00:35:30,000
+that I found pretty interesting uh just from
+
+330
+00:35:34,000 --> 00:35:36,000
+the video that I saw so the first quickfire story I'm sure you've heard it around the web Google is
+
+331
+00:35:42,000 --> 00:35:44,000
+going to be deleting accounts if you haven't logged in for the past two years
+
+332
+00:35:47,000 --> 00:35:49,000
+now they did say they have some special stuff related to YouTube I I'm pretty
+
+333
+00:35:53,000 --> 00:35:55,000
+sure they have other special stuff maybe related to webmaster things and and that sort of
+
+334
+00:35:59,000 --> 00:35:61,000
+you know category but I think this is probably
+
+335
+00:36:06,000 --> 00:36:08,000
+this is a difficult decision because on one hand you want to free up all of
+
+336
+00:36:11,000 --> 00:36:13,000
+those emails and you want to free up all of that storage that's just sitting around
+
+337
+00:36:17,000 --> 00:36:19,000
+doing nothing and so business-wise it makes a lot of sense to clean up all that old stuff we
+
+338
+00:36:24,000 --> 00:36:26,000
+see it happening you know in a lot of places Twitter is looking at deleting old accounts that have never logged in
+
+339
+00:36:30,000 --> 00:36:32,000
+in years or haven't hasn't logged into years or suspended accounts that can never log in again to free up the
+
+340
+00:36:36,000 --> 00:36:38,000
+usernames and also free up some of the data now in Twitter's case they're going to Archive stuff so
+
+341
+00:36:44,000 --> 00:36:46,000
+um I'm curious to see if Google is going to Archive stuff I can check here okay so life is short like I said I have kids
+
+342
+00:36:52,000 --> 00:36:54,000
+I use AI to to read in to summarize these articles and look up stuff in
+
+343
+00:36:57,000 --> 00:36:59,000
+parallel so what I got back is according to the uh according to the blog to a
+
+344
+00:37:04,000 --> 00:37:06,000
+blog post written by the product manager Ruth creechelli crichelli Ruth curtelli
+
+345
+00:37:12,000 --> 00:37:14,000
+Google has announced an update to its policies for in inactive accounts old
+
+346
+00:37:17,000 --> 00:37:19,000
+policy or the old policy said that Google might wipe data stored in
+
+347
+00:37:22,000 --> 00:37:24,000
+accounts that haven't been touched in at least two years but a new policy says that those accounts will be permanently
+
+348
+00:37:29,000 --> 00:37:31,000
+deleted entirely now that's the part we're talking about now the new policy won't kick in until
+
+349
+00:37:35,000 --> 00:37:37,000
+December of this year at its earliest and then my question to the AI was are
+
+350
+00:37:42,000 --> 00:37:44,000
+they going to Archive any of the data and said so to answer the question Google might delete the stored data in active accounts or delete it counts
+
+351
+00:37:48,000 --> 00:37:50,000
+entirely if it hasn't been touched in two years there's no mention of archiving the data
+
+352
+00:37:55,000 --> 00:37:57,000
+which of course this is scammers Paradise this is I mean
+
+353
+00:38:01,000 --> 00:38:03,000
+there's all sorts of things if you delete the account and allow someone else to squat the account that was
+
+354
+00:38:07,000 --> 00:38:09,000
+previously made those people can access all kinds of websites so let's say that I was going
+
+355
+00:38:14,000 --> 00:38:16,000
+to go on Twitter or I was going to go on um they said they won't delete YouTube but let's say that I was going to go on
+
+356
+00:38:21,000 --> 00:38:23,000
+to a bank and I discovered that an email was valid for a Gmail account
+
+357
+00:38:28,000 --> 00:38:30,000
+it was valid for for that uh particular website if I can squat on the domain and
+
+358
+00:38:34,000 --> 00:38:36,000
+mind you nothing is said here about allowing people to to use those emails
+
+359
+00:38:41,000 --> 00:38:43,000
+again I would presume they could if they're just wiping it however you know their their security minded maybe they
+
+360
+00:38:47,000 --> 00:38:49,000
+thought of this I don't know it's something I just popped into my head right now I could request the
+
+361
+00:38:53,000 --> 00:38:55,000
+password and squat on that that email account and then get the password and access their data and they could be
+
+362
+00:38:58,000 --> 00:38:60,000
+deceased or you know or they just moved on to another account but never swapped their email or using that email as like
+
+363
+00:39:05,000 --> 00:39:07,000
+a backup I don't know so that's just already one big problem to happen the other one of course you
+
+364
+00:39:12,000 --> 00:39:14,000
+can scam people by taking accounts of family members and emailing them
+
+365
+00:39:17,000 --> 00:39:19,000
+that sort of stuff and uh for law enforcement let's say that there's a you know plenty of
+
+366
+00:39:25,000 --> 00:39:27,000
+there's tons of cold cases that are solved 5 10 20 years later and let's say that the perpetrator or
+
+367
+00:39:32,000 --> 00:39:34,000
+the victim's email was on Gmail and it just got deleted all that evidence is just poof gone so
+
+368
+00:39:39,000 --> 00:39:41,000
+hopefully Google will not allow reusing of email email names and they will not
+
+369
+00:39:46,000 --> 00:39:48,000
+completely delete the data they can they can archive the data and when you archive the data it uses way less
+
+370
+00:39:53,000 --> 00:39:55,000
+storage so essentially how you do on cloud what you do on cloud servers is they have all
+
+371
+00:40:00,000 --> 00:40:02,000
+kinds of fancy names for it they have they've called it Arctic or freeze or icicle or whatever it's called the
+
+372
+00:40:07,000 --> 00:40:09,000
+iceberg there's these special databases that compress the data and put it out
+
+373
+00:40:13,000 --> 00:40:15,000
+into those databases for very long term storage and it's way cheaper than standard storage for web server that is
+
+374
+00:40:20,000 --> 00:40:22,000
+to say the standard storage is typically used for data that's accessed commonly
+
+375
+00:40:27,000 --> 00:40:29,000
+regularly all the time or occasionally and then there's this special storage
+
+376
+00:40:32,000 --> 00:40:34,000
+which is where you can highly compress data that is not meant for reading uh
+
+377
+00:40:40,000 --> 00:40:42,000
+it's not meant for reading all the time you kind of put it there and you may read it again in five years or something
+
+378
+00:40:46,000 --> 00:40:48,000
+like that so they already have the infrastructure for that kind of archival stuff I would
+
+379
+00:40:52,000 --> 00:40:54,000
+imagine that this wouldn't be that difficult to Archive into those archival databases
+
+380
+00:40:58,000 --> 00:40:60,000
+or just archival servers so I hope that this is an angle that
+
+381
+00:41:04,000 --> 00:41:06,000
+they take that they archive it and don't allow reusing of names so that's one of the stories the other
+
+382
+00:41:10,000 --> 00:41:12,000
+story I it's a big story right now it's not it doesn't mean much to me but it means a
+
+383
+00:41:15,000 --> 00:41:17,000
+lot to a lot of other people the state of Montana has uh they they banned Tick
+
+384
+00:41:22,000 --> 00:41:24,000
+Tock and of course now there are Tick Tock users who are doing a lawsuit to challenge them this is because uh of the
+
+385
+00:41:30,000 --> 00:41:32,000
+security implementation implications of tick tock is well documented the the
+
+386
+00:41:37,000 --> 00:41:39,000
+kinds of practices that Tick Tock does the kind of spying that happens the kind
+
+387
+00:41:43,000 --> 00:41:45,000
+of um what kind of themes that they push on say 13 year olds and that sort of stuff
+
+388
+00:41:49,000 --> 00:41:51,000
+it's well documented and researched it's all out there if you want to go look it up so I have no real big opinion on this
+
+389
+00:41:56,000 --> 00:41:58,000
+I I'm somebody who wants people to prefer to have absolute
+
+390
+00:42:02,000 --> 00:42:04,000
+freedom to say whatever they want on whatever platform they want however they want um
+
+391
+00:42:07,000 --> 00:42:09,000
+I also know that when you're dealing with geopolitics and you know one country has essentially I think even
+
+392
+00:42:15,000 --> 00:42:17,000
+verbally declared war on another country it kind of makes sense to start kind of
+
+393
+00:42:21,000 --> 00:42:23,000
+curving certain uh Holdings that that one that country
+
+394
+00:42:26,000 --> 00:42:28,000
+has on the other so there's there's all kinds of stuff to do with that and I think it's way beyond my scope that I
+
+395
+00:42:33,000 --> 00:42:35,000
+want to even deal with I there's a reason I'm a programmer and I like that type funny little characters on a screen
+
+396
+00:42:39,000 --> 00:42:41,000
+and make you make and make games I make games because they're fun and they're easy and they're lighthearted and they
+
+397
+00:42:44,000 --> 00:42:46,000
+make people feel uh excitement to play so I don't I don't get too much into this this is Tech related if it affects
+
+398
+00:42:51,000 --> 00:42:53,000
+you I I'm sorry to hear um you know go through the standard channels to do things correctly and
+
+399
+00:42:59,000 --> 00:42:61,000
+properly and just be a good citizen that's all I've got to say on that so
+
+400
+00:43:05,000 --> 00:43:07,000
+we are going to move on to stuff that is way more fun and that's going to be a couple of I don't know if they're Indie
+
+401
+00:43:12,000 --> 00:43:14,000
+Games I think these are projects baby that people have made and there's two projects on Reddit that I
+
+402
+00:43:18,000 --> 00:43:20,000
+came across a couple days ago I just didn't talk about them yet one of them is this one called cetris
+
+403
+00:43:26,000 --> 00:43:28,000
+I love the idea it's very it's themed like Game Boy I I've developed games for
+
+404
+00:43:32,000 --> 00:43:34,000
+the Game Boy not complete games just just uh I made a little framework engine whatever that you can
+
+405
+00:43:38,000 --> 00:43:40,000
+make that I can make games on and I've made some progress with friends we do assembly coding for fun so I Love Game
+
+406
+00:43:46,000 --> 00:43:48,000
+Boy and this looks like it's Game Boy Color kind of Graphics but here we'll we'll take a look at the at what this is
+
+407
+00:43:53,000 --> 00:43:55,000
+doing I'm going to mute this so this is like Tetris except the blocks turn to sand when they hit the uh
+
+408
+00:43:59,000 --> 00:43:61,000
+when they hit the bottom and when you connect it see there if you're if you're
+
+409
+00:44:05,000 --> 00:44:07,000
+able to watch when it connects all the way across the screen from one end to the other it
+
+410
+00:44:10,000 --> 00:44:12,000
+erases all of the same color so it's like Tetris in a sand form I thought
+
+411
+00:44:16,000 --> 00:44:18,000
+this was just this is this just looks so fun um I would play this uh probably not as
+
+412
+00:44:22,000 --> 00:44:24,000
+much as I play Tetris I play Tetris I have played Tetris and I will play Tetris a lot it is a big it is one of my
+
+413
+00:44:30,000 --> 00:44:32,000
+favorite games of all time I don't know why it's it's just wonderful so that was
+
+414
+00:44:36,000 --> 00:44:38,000
+cetris um just I don't know do these loop I I
+
+415
+00:44:41,000 --> 00:44:43,000
+love this idea it's a it's a really fun idea it's simple um
+
+416
+00:44:46,000 --> 00:44:48,000
+and uh hopefully it is a game maybe it is I haven't I I have this saved so I can check later to see if it is kind of
+
+417
+00:44:53,000 --> 00:44:55,000
+a game uh that that they're going to release or maybe they release for free or something hold
+
+418
+00:44:59,000 --> 00:44:61,000
+these corkscrews I don't know if it's like super Innovative but it's a really neat idea
+
+419
+00:45:05,000 --> 00:45:07,000
+like the sand aspect of it and um using Tetris to kind of get the idea across uh is is excellent idea I think
+
+420
+00:45:13,000 --> 00:45:15,000
+that if you have a new game idea if you can kind of um put it in the framework of another
+
+421
+00:45:18,000 --> 00:45:20,000
+game to get the point across and test out the mechanics that's a great way to to prototype so that was one now
+
+422
+00:45:27,000 --> 00:45:29,000
+the second one if so for those of you who know me
+
+423
+00:45:33,000 --> 00:45:35,000
+um you may know that I like what are called Kaiju I like big monsters I like
+
+424
+00:45:39,000 --> 00:45:41,000
+big machines I like I like robots that Tower over everybody and Tower over the
+
+425
+00:45:44,000 --> 00:45:46,000
+towers and punch each other and I mean you probably gathered this from the whole robot fight thing earlier but man
+
+426
+00:45:51,000 --> 00:45:53,000
+I just love giant monsters and giant machines and I remember one of my
+
+427
+00:45:59,000 --> 00:45:61,000
+favorite games was Rampage I was a I was kid and I was technically not allowed to
+
+428
+00:46:04,000 --> 00:46:06,000
+play it when I went to this club there was like this my little backstory went
+
+429
+00:46:12,000 --> 00:46:14,000
+to see my sister's friend they were in acting or whatever and I went with her teenage brother to a club like not like
+
+430
+00:46:18,000 --> 00:46:20,000
+a like a club of boys who play games and um he was like oh don't don't let him
+
+431
+00:46:25,000 --> 00:46:27,000
+know your age just say you're 13. I was clearly like nine anyways we went in and
+
+432
+00:46:30,000 --> 00:46:32,000
+they had Rampage I had all kinds of fun games and I loved it and Rampage was one of my all-time favorite just spontaneous
+
+433
+00:46:37,000 --> 00:46:39,000
+if I were talking about a spontaneous game that I didn't play Forever like Donkey Kong or Tetris spontaneous game
+
+434
+00:46:45,000 --> 00:46:47,000
+out of nowhere that I loved was Rampage giant monsters beating up things blowing
+
+435
+00:46:51,000 --> 00:46:53,000
+up stuff shooting Fireballs I have I have the entire collection of Godzilla
+
+436
+00:46:57,000 --> 00:46:59,000
+that's I'm that's that's where I'm at all the Japanese ones from the 1950s all
+
+437
+00:47:02,000 --> 00:47:04,000
+the way up to the one that released I think in 2019. got the whole collection I've watched almost all of them there's
+
+438
+00:47:08,000 --> 00:47:10,000
+a couple I haven't seen and then I also have Gamera I think it's I don't think it's Gamera Gamera I don't
+
+439
+00:47:16,000 --> 00:47:18,000
+think it's Gamera I think it's Gamera I haven't watched those but that's another Kaiju about a big turtle and so anyways
+
+440
+00:47:23,000 --> 00:47:25,000
+this that's a lot to say uh this is this is pingino the Penguin Pangolin I've
+
+441
+00:47:31,000 --> 00:47:33,000
+never know how to say that Pangolin anyways it's basically Rampage with a
+
+442
+00:47:37,000 --> 00:47:39,000
+Pangolin and it is I am I love it I need to go search the Indie market for
+
+443
+00:47:44,000 --> 00:47:46,000
+Rampage like games or just Kaiju games I guess
+
+444
+00:47:50,000 --> 00:47:52,000
+um they're oh man look at that just all the explosions and like blown up stuff and picking up people out of the windows
+
+445
+00:47:55,000 --> 00:47:57,000
+and tossing them just rolling through rolling through Towers that's such a neat idea I love it
+
+446
+00:48:02,000 --> 00:48:04,000
+just oh man and we have the technology now where you know we have basically big
+
+447
+00:48:08,000 --> 00:48:10,000
+gpus on our phone where we can get some really cool actually squishes the people as he rolls uh we I didn't watch this
+
+448
+00:48:15,000 --> 00:48:17,000
+whole video obviously oh and there's monster fights you can have one big monster against the
+
+449
+00:48:21,000 --> 00:48:23,000
+other big monster oh my goodness this is this is such a great idea
+
+450
+00:48:28,000 --> 00:48:30,000
+um hopefully this is a game that's that's real and that's going to be coming out only one vote man
+
+451
+00:48:34,000 --> 00:48:36,000
+I I need to go look for Kaiju games if you guys know any Kaiju games that you
+
+452
+00:48:39,000 --> 00:48:41,000
+highly recommend let me know especially for uh you know mobile devices I I can't
+
+453
+00:48:46,000 --> 00:48:48,000
+sit in one place and and play too much too often these days not mobile devices
+
+454
+00:48:51,000 --> 00:48:53,000
+like phones but mobile devices like that I can play on the steam deck on the switch Nintendo DS works too were there
+
+455
+00:48:58,000 --> 00:48:60,000
+any on the Game Boy Advance I'll play those too I've got I've got all my consoles covered so if you know any
+
+456
+00:49:05,000 --> 00:49:07,000
+Kaiju games just let me know and I think with that I
+
+457
+00:49:10,000 --> 00:49:12,000
+think with that that's what we're that's the end of today's episode I was very excited about a lot of things sorry if I
+
+458
+00:49:16,000 --> 00:49:18,000
+sorry if I fangirled all over uh that that last
+
+459
+00:49:21,000 --> 00:49:23,000
+Kaiju thing I just love Kaiju it's I love the Simplicity Pacific Rim another like
+
+460
+00:49:27,000 --> 00:49:29,000
+you know they're they're no like you know Miyazaki films or anything what was like
+
+461
+00:49:34,000 --> 00:49:36,000
+the guy's name uh I can't think of it uh at the moment but they're no Grand
+
+462
+00:49:39,000 --> 00:49:41,000
+Master films uh these Kaiju films they're they're cheesy they're awesome
+
+463
+00:49:46,000 --> 00:49:48,000
+the more explosions the big monster battles you give me the happier of a man I am I'm a very simple man I love movies
+
+464
+00:49:53,000 --> 00:49:55,000
+I love cinematography but I'm also a simple man and with that
+
+465
+00:49:59,000 --> 00:49:61,000
+I'll see you later bye for now
+
