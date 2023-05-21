@@ -28,3 +28,7 @@ The popularity of AI is coming from all of its applications across many fields s
 
 Brent is excited about what AI brings and seeing its rapid boom. He thinks that AI is awesome because it touches on so many aspects of life right now which is what caused its popularity. However, he acknowledges that there are concerns about AI such as hackers using AI tools to break into sites and do things they shouldn’t. He thinks we should continue to vocalize our opinions on AI and how it integrates with our lives so that we can work it out together.
 
+### Transcript
+<pre class="transcript">
+{% include transcripts/episode-7.srt %}
+</pre>
