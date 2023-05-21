@@ -38,4 +38,3 @@ Brent talks about programming and how to optimize code to make it faster. He sug
 <pre class="transcript">
 {% include transcripts/episode-1.srt %}
 </pre>
-
