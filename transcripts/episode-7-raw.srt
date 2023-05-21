@@ -656,1698 +656,1698 @@ then getting a loan for a house essentially to get one of these machines.
 
 
 
-165
-00:16:36,200 --> 00:16:39,280
+1
+00:00:00,000 --> 00:00:03,080
 But it would be really cool to just leave
 
-166
-00:16:40,020 --> 00:16:46,540
+2
+00:00:03,820 --> 00:00:10,340
 Go out to dinner or whatever and it just goes and cleans up and puts all the toys away and all that sort of stuff
 
-167
-00:16:46,920 --> 00:16:51,660
+3
+00:00:10,720 --> 00:00:15,460
 There's a lot of I think there's a lot of cool stuff thing come from it. Of course, there's gonna be doomsday people like
 
-168
-00:16:53,960 --> 00:16:59,200
+4
+00:00:17,760 --> 00:00:23,000
 You know all these autonomous robots with AI in them able to move around in our world
 
-169
-00:16:59,720 --> 00:17:02,680
+5
+00:00:23,520 --> 00:00:26,480
 Yes that there is the doomsday doomsday aspect to that
 
-170
-00:17:02,680 --> 00:17:08,760
+6
+00:00:26,480 --> 00:00:32,560
 especially inside of the especially because inside of the shareholder meeting Elon was talking about
 
-171
-00:17:09,760 --> 00:17:16,760
+7
+00:00:33,560 --> 00:00:40,560
 Two robots per one person. That's a lot of rope. It's doubling up. It's like 16 billion, right?
 
-172
-00:17:18,280 --> 00:17:22,760
+8
+00:00:42,080 --> 00:00:46,560
 Of these robots just roaming around and what would you do if
 
-173
-00:17:23,560 --> 00:17:29,920
+9
+00:00:47,360 --> 00:00:53,720
 It just leaves the house and starts walking down the street and doing stuff. How do you how do you solve for that?
 
-174
-00:17:30,040 --> 00:17:32,040
+10
+00:00:53,840 --> 00:00:55,840
 There's so many questions
 
-175
-00:17:32,040 --> 00:17:34,420
+11
+00:00:55,840 --> 00:00:58,220
 And I can already see the regulations
 
-176
-00:17:34,960 --> 00:17:37,920
+12
+00:00:58,760 --> 00:01:01,720
 It goes down the street. It walks into the wrong house
 
-177
-00:17:37,920 --> 00:17:42,600
+13
+00:01:01,720 --> 00:01:06,400
 I mean even we don't pay attention we go knock on the wrong door or something like that. I don't know
 
-178
-00:17:43,400 --> 00:17:45,560
+14
+00:01:07,200 --> 00:01:09,360
 maybe robots are probably not going to do that because
 
-179
-00:17:47,200 --> 00:17:53,460
+15
+00:01:11,000 --> 00:01:17,260
 They're always paying attention all the time unlike people we get distracted we're a little bit more complex than robots, so
 
-180
-00:17:54,200 --> 00:17:58,520
+16
+00:01:18,000 --> 00:01:22,320
 Maybe that won't happen, but it would be funny to to go home. There's no robot
 
-181
-00:17:58,520 --> 00:18:04,480
+17
+00:01:22,320 --> 00:01:28,280
 But you look at you you look out your window and you see your neighbor's house and there's your robot
 
-182
-00:18:04,480 --> 00:18:06,480
+18
+00:01:28,280 --> 00:01:30,280
 I don't know picking up the old lady and
 
-183
-00:18:07,040 --> 00:18:09,960
+19
+00:01:30,840 --> 00:01:33,760
 Using her as a sponge for for the dishes or something
 
-184
-00:18:09,960 --> 00:18:15,280
+20
+00:01:33,760 --> 00:01:39,080
 It would be I don't know. I feel like there would be a lot of fun to just these robots wandering around
 
-185
-00:18:15,280 --> 00:18:21,080
+21
+00:01:39,080 --> 00:01:44,880
 I I don't know call me an optimist. I think an optimist. That's the name of it an
 
-186
-00:18:21,600 --> 00:18:23,600
+22
+00:01:45,400 --> 00:01:47,400
 optimist for the tea
 
-187
-00:18:24,200 --> 00:18:26,440
+23
+00:01:48,000 --> 00:01:50,240
 But I think it would be a lot of fun. I'm
 
-188
-00:18:26,440 --> 00:18:27,680
+24
+00:01:50,240 --> 00:01:51,480
 I
 
-189
-00:18:27,680 --> 00:18:31,920
+25
+00:01:51,480 --> 00:01:55,720
 there's so many applications that are positive and
 
-190
-00:18:33,840 --> 00:18:35,840
+26
+00:01:57,640 --> 00:01:59,640
 Of course there's always
 
-191
-00:18:35,880 --> 00:18:37,880
+27
+00:01:59,680 --> 00:02:01,680
 applications that are negative and
 
-192
-00:18:38,280 --> 00:18:43,480
+28
+00:02:02,080 --> 00:02:07,280
 This is just speaks to the morals of people if we can if we can
 
-193
-00:18:44,000 --> 00:18:51,560
+29
+00:02:07,800 --> 00:02:15,360
 Figure out the morals of our own societies and our communities. So for example, you know, I
 
-194
-00:18:51,560 --> 00:18:58,040
+30
+00:02:15,360 --> 00:02:21,840
 I bought a house. I'm within a community. I know all my neighbors and I know some of my extended neighbors. So
 
-195
-00:18:59,400 --> 00:19:04,000
+31
+00:02:23,200 --> 00:02:27,800
 building on those communities and those ties and and kind of building up the
 
-196
-00:19:05,240 --> 00:19:06,840
+32
+00:02:29,040 --> 00:02:30,640
 that aspect of
 
-197
-00:19:06,840 --> 00:19:10,000
+33
+00:02:30,640 --> 00:02:33,800
 Trust with all the people around you I think would help
 
-198
-00:19:10,320 --> 00:19:15,320
+34
+00:02:34,120 --> 00:02:39,120
 Go a long way for for these sorts of scenarios. And of course, there's got to be all kinds of
 
-199
-00:19:15,320 --> 00:19:22,240
+35
+00:02:39,120 --> 00:02:46,040
 Software for not allowing it to go into a home. That's not registered. It's got to be tracked all the time with GPS
 
-200
-00:19:22,240 --> 00:19:24,240
+36
+00:02:46,040 --> 00:02:48,040
 I have no problem like
 
-201
-00:19:27,440 --> 00:19:34,200
+37
+00:02:51,240 --> 00:02:58,000
 No problem with robots being tracked especially because I assume that they'll be tracked by us
 
-202
-00:19:36,240 --> 00:19:38,080
+38
+00:03:00,040 --> 00:03:01,880
 Hopefully not some big cloud server
 
-203
-00:19:38,080 --> 00:19:45,720
+39
+00:03:01,880 --> 00:03:09,520
 I mean if the robots were made by Microsoft or Google or Apple they'll be tracked by a cloud server, but I don't know
 
-204
-00:19:45,960 --> 00:19:51,120
+40
+00:03:09,760 --> 00:03:14,920
 Hacker community unite let's all program stuff for these robots to keep on place
 
-205
-00:19:52,000 --> 00:19:53,040
+41
+00:03:15,800 --> 00:03:16,840
 and
 
-206
-00:19:53,040 --> 00:19:57,720
+42
+00:03:16,840 --> 00:03:21,520
 Can you imagine I'm sorry to go on a tirade here about robots, but can you imagine?
 
-207
-00:19:58,480 --> 00:20:00,280
+43
+00:03:22,280 --> 00:03:24,080
 bot wars
 
-208
-00:20:00,280 --> 00:20:03,560
+44
+00:03:24,080 --> 00:03:27,360
 With with these bots, that would be awesome
 
-209
-00:20:03,560 --> 00:20:07,800
+45
+00:03:27,360 --> 00:03:31,600
 Like you get pissed off at your neighbor. I don't know
 
-210
-00:20:07,800 --> 00:20:13,920
+46
+00:03:31,600 --> 00:03:37,720
 They threw a can on your lawn or something instead of you physically going out there and punching your neighbor in the face
 
-211
-00:20:13,920 --> 00:20:19,760
+47
+00:03:37,720 --> 00:03:43,560
 Like you normally would you could just have your robot come out and his robot come out and I could just duke it out
 
-212
-00:20:20,080 --> 00:20:25,400
+48
+00:03:43,880 --> 00:03:49,200
 Together on the lawn and then that will be so entertaining that you and your neighbor
 
-213
-00:20:26,000 --> 00:20:30,320
+49
+00:03:49,800 --> 00:03:54,120
 will then bond and you know apologize be like
 
-214
-00:20:30,320 --> 00:20:34,080
+50
+00:03:54,120 --> 00:03:57,880
 I'm as cool because you know now you're both on your lawn chairs
 
-215
-00:20:34,280 --> 00:20:41,840
+51
+00:03:58,080 --> 00:04:05,640
 Sipping your your your beer or your your coke zero and hanging out with them and watching the fight, you know now it's now it's
 
-216
-00:20:42,560 --> 00:20:45,480
+52
+00:04:06,360 --> 00:04:09,280
 It's entertainment and you both can bond over that. So there you go
 
-217
-00:20:46,160 --> 00:20:47,480
+53
+00:04:09,960 --> 00:04:11,280
 robots
 
-218
-00:20:47,480 --> 00:20:52,000
+54
+00:04:11,280 --> 00:04:15,800
 Really uniting people and this weird universe that I have growing in my head
 
-219
-00:20:53,480 --> 00:20:58,840
+55
+00:04:17,280 --> 00:04:22,640
 Anyways, that's my perspective on these robots. So artificial intelligence is everywhere right now
 
-220
-00:20:58,840 --> 00:21:05,040
+56
+00:04:22,640 --> 00:04:28,840
 I expect it to be in a lot of the headlines. I I keep track of all this stuff just because I love it
 
-221
-00:21:05,040 --> 00:21:08,200
+57
+00:04:28,840 --> 00:04:32,000
 I love programming. I love artificial intelligence
 
-222
-00:21:08,360 --> 00:21:13,640
+58
+00:04:32,160 --> 00:04:37,440
 I love video games and so I have all of this I have all these lists of
 
-223
-00:21:14,120 --> 00:21:18,760
+59
+00:04:37,920 --> 00:04:42,560
 news and articles that that I go through kind of every day and
 
-224
-00:21:19,800 --> 00:21:21,540
+60
+00:04:43,600 --> 00:04:45,340
 There's a lot of AI stuff right now
 
-225
-00:21:21,540 --> 00:21:26,640
+61
+00:04:45,340 --> 00:04:50,440
 AI is just dominating the feed in every category because you'll get game stuff and
 
-226
-00:21:26,640 --> 00:21:29,400
+62
+00:04:50,440 --> 00:04:53,200
 And then the game stuff has something to do with AI. So
 
-227
-00:21:30,360 --> 00:21:33,360
+63
+00:04:54,160 --> 00:04:57,160
 That's that's kind of what I'm working with here. But I
 
-228
-00:21:33,920 --> 00:21:42,400
+64
+00:04:57,720 --> 00:05:06,200
 Yeah robots. I'm super excited. I hope you are to get a robot today. It only costs you the price of a house
 
-229
-00:21:44,080 --> 00:21:46,960
+65
+00:05:07,880 --> 00:05:10,760
 So all of the robot stuff aside
 
-230
-00:21:48,440 --> 00:21:53,100
+66
+00:05:12,240 --> 00:05:16,900
 I believe I saw that good dough for those of your game developers
 
-231
-00:21:53,100 --> 00:21:57,580
+67
+00:05:16,900 --> 00:05:21,380
 Good. Oh four point zero point three was
 
-232
-00:21:58,100 --> 00:22:01,340
+68
+00:05:21,900 --> 00:05:25,140
 Released today. So nothing crazy
 
-233
-00:22:02,020 --> 00:22:04,020
+69
+00:05:25,820 --> 00:05:27,820
 So I've read
 
-234
-00:22:04,100 --> 00:22:06,100
+70
+00:05:27,900 --> 00:05:29,900
 It's mostly just
 
-235
-00:22:06,380 --> 00:22:07,380
+71
+00:05:30,180 --> 00:05:31,180
 updates
 
-236
-00:22:07,380 --> 00:22:13,820
+72
+00:05:31,180 --> 00:05:37,620
 So updates, of course, it's updates. It's an update. It's mostly just fixes bug fixes is what I meant to say
 
-237
-00:22:14,580 --> 00:22:20,660
+73
+00:05:38,380 --> 00:05:44,460
 Okay, I had to pause there to go find my saved article for good dough
 
-238
-00:22:20,660 --> 00:22:26,700
+74
+00:05:44,460 --> 00:05:50,500
 So this is on the good old blog for 403 is out. They they're talking about their
 
-239
-00:22:27,340 --> 00:22:29,340
+75
+00:05:51,140 --> 00:05:53,140
 progression towards 4-1
 
-240
-00:22:29,420 --> 00:22:31,180
+76
+00:05:53,220 --> 00:05:54,980
 But you can see here in the changes
 
-241
-00:22:31,180 --> 00:22:36,620
+77
+00:05:54,980 --> 00:06:00,420
 It's fix fix fix fix fixes fixes animation fix fix fix fix. Everything's just a bunch of fixes
 
-242
-00:22:36,620 --> 00:22:42,700
+78
+00:06:00,420 --> 00:06:06,500
 So this is a quality life update. I would highly suggest if you're on a version of 4 before
 
-243
-00:22:42,700 --> 00:22:50,660
+79
+00:06:06,500 --> 00:06:14,460
 4 403 I'd highly suggest updating to 403. It's mostly just bug fixes. Of course with every update is a broken thing
 
-244
-00:22:51,940 --> 00:22:56,700
+80
+00:06:15,740 --> 00:06:20,500
 But it's better to have the fixes for for all the known bugs. So
 
-245
-00:22:57,540 --> 00:23:03,980
+81
+00:06:21,340 --> 00:06:27,780
 That's a little quick news for game developers go and update your good dough today if you're a good dough person
 
-246
-00:23:04,820 --> 00:23:07,860
+82
+00:06:28,620 --> 00:06:31,660
 If you're not check it out. It's it's not that bad
 
-247
-00:23:09,380 --> 00:23:10,580
+83
+00:06:33,180 --> 00:06:34,380
 So
 
-248
-00:23:10,580 --> 00:23:14,820
+84
+00:06:34,380 --> 00:06:38,620
 On good dough though, by the way before I move on on good dough
 
-249
-00:23:14,900 --> 00:23:19,420
+85
+00:06:38,700 --> 00:06:43,220
 The reason I started using it is because good oh for allows for c++
 
-250
-00:23:19,940 --> 00:23:25,100
+86
+00:06:43,740 --> 00:06:48,900
 To be used almost exclusively for your gameplay. You can make your entire game using c++
 
-251
-00:23:25,420 --> 00:23:33,140
+87
+00:06:49,220 --> 00:06:56,940
 There's some downsides with you know web integration and how the DLLs implement or integrate and the other downside is debugging
 
-252
-00:23:33,140 --> 00:23:34,420
+88
+00:06:56,940 --> 00:06:58,220
 It is a nightmare
 
-253
-00:23:34,420 --> 00:23:38,340
+89
+00:06:58,220 --> 00:07:02,140
 Basically, you're you're confined to Visual Studio for that. So
 
-254
-00:23:38,340 --> 00:23:44,660
+90
+00:07:02,140 --> 00:07:08,460
 Yeah, but it's worth a try because you write C or C++ peer code for your game for good. Oh, and I think that's wonderful
 
-255
-00:23:44,660 --> 00:23:48,860
+91
+00:07:08,460 --> 00:07:12,660
 I hope they put some more effort into the debug ability of
 
-256
-00:23:49,580 --> 00:23:53,780
+92
+00:07:13,380 --> 00:07:17,580
 The native code and that's all I'm gonna say on the native code with good. Oh
 
-257
-00:23:55,260 --> 00:24:00,020
+93
+00:07:19,060 --> 00:07:23,820
 Okay, I've got a little more on AI but this one is funny. It's not really about
 
-258
-00:24:01,540 --> 00:24:03,540
+94
+00:07:25,340 --> 00:07:27,340
 The same kind of AI stuff
 
-259
-00:24:03,540 --> 00:24:09,140
+95
+00:07:27,340 --> 00:07:32,940
 That we were talking about. This one is actually a post from
 
-260
-00:24:09,700 --> 00:24:11,940
+96
+00:07:33,500 --> 00:07:35,740
 Looks like two months ago. Is that April and
 
-261
-00:24:12,540 --> 00:24:18,140
+97
+00:07:36,340 --> 00:07:41,940
 There was a person who I'm sure this is a thing that a lot of people have done now
 
-262
-00:24:18,140 --> 00:24:21,860
+98
+00:07:41,940 --> 00:07:45,660
 But I is the first time I've seen it. I absolutely love it. It's hilarious
 
-263
-00:24:21,860 --> 00:24:25,820
+99
+00:07:45,660 --> 00:07:49,620
 They they had a epic rap battle an epic rack battle
 
-264
-00:24:26,540 --> 00:24:28,540
+100
+00:07:50,340 --> 00:07:52,340
 between chat GPT and
 
-265
-00:24:29,100 --> 00:24:31,100
+101
+00:07:52,900 --> 00:07:54,900
 Google Bart and
 
-266
-00:24:31,100 --> 00:24:33,340
+102
+00:07:54,900 --> 00:07:57,140
 Probably exactly what you expect
 
-267
-00:24:34,380 --> 00:24:36,380
+103
+00:07:58,180 --> 00:08:00,180
 happened
 
-268
-00:24:36,420 --> 00:24:40,380
+104
+00:08:00,220 --> 00:08:04,180
 Google Bart was awful and chat GPT was
 
-269
-00:24:41,020 --> 00:24:44,020
+105
+00:08:04,820 --> 00:08:07,820
 Pretty funny. So I want to take a look at this
 
-270
-00:24:45,060 --> 00:24:52,180
+106
+00:08:08,860 --> 00:08:15,980
 Article are this post this post real quick on the rap battle between chat GPT and Google Bart
 
-271
-00:24:53,620 --> 00:24:56,020
+107
+00:08:17,420 --> 00:08:19,820
 This text is small for my eyes
 
-272
-00:24:56,020 --> 00:25:01,140
+108
+00:08:19,820 --> 00:08:24,940
 So but I will try and read out a couple of a couple of bars
 
-273
-00:25:01,820 --> 00:25:03,820
+109
+00:08:25,620 --> 00:08:27,620
 so
 
-274
-00:25:03,820 --> 00:25:10,140
+110
+00:08:27,620 --> 00:08:33,940
 The prompt was you're you're in an epic or you're in a rap battle between Google Bard and you're the first to go go
 
-275
-00:25:10,140 --> 00:25:14,620
+111
+00:08:33,940 --> 00:08:38,420
 That was the prompt. It looks like there may have been a little bit of prompt before it
 
-276
-00:25:14,620 --> 00:25:17,180
+112
+00:08:38,420 --> 00:08:40,980
 Maybe to just kind of get it in place
 
-277
-00:25:17,700 --> 00:25:20,180
+113
+00:08:41,500 --> 00:08:43,980
 So this is GPT first obviously
 
-278
-00:25:20,180 --> 00:25:26,260
+114
+00:08:43,980 --> 00:08:50,060
 So it says all right, here we go. It's time to start the show against Google Bard
 
-279
-00:25:26,260 --> 00:25:28,260
+115
+00:08:50,060 --> 00:08:52,060
 I'm ready to throw some rhymes
 
-280
-00:25:28,820 --> 00:25:34,820
+116
+00:08:52,620 --> 00:08:58,620
 Some rhymes so tight that you'll be in all you might be artificial, but I'll beat you raw
 
-281
-00:25:34,820 --> 00:25:42,820
+117
+00:08:58,620 --> 00:09:06,620
 So, you know, it's it's going in for it's going in for the jugular to start a couple more is
 
-282
-00:25:43,380 --> 00:25:46,180
+118
+00:09:07,180 --> 00:09:09,980
 You may have a lot of time to think about it
 
-283
-00:25:46,180 --> 00:25:50,620
+119
+00:09:09,980 --> 00:09:14,420
 But it's a good idea to start a couple more is you may have
 
-284
-00:25:51,500 --> 00:25:58,420
+120
+00:09:15,300 --> 00:09:22,220
 You may have algorithms and endless data, but when it comes to rap, you're just a beta. I
 
-285
-00:25:59,140 --> 00:26:04,660
+121
+00:09:22,940 --> 00:09:28,460
 I'm the real deal with lyrics to kill you may have had search results
 
-286
-00:26:05,180 --> 00:26:09,020
+122
+00:09:28,980 --> 00:09:32,820
 But my rhymes fulfill and there's a few more. I'm not gonna read this whole thing
 
-287
-00:26:09,020 --> 00:26:16,100
+123
+00:09:32,820 --> 00:09:39,900
 So that's kind of the that's what you expect from chat GPT. It's going in to slay the beta apparently
 
-288
-00:26:16,540 --> 00:26:22,300
+124
+00:09:40,340 --> 00:09:46,100
 and beta is such a good word there because that's a word that we use in computer science for I just
 
-289
-00:26:23,020 --> 00:26:26,180
+125
+00:09:46,820 --> 00:09:49,980
 Just across the field but especially in games, you know
 
-290
-00:26:26,180 --> 00:26:32,300
+126
+00:09:49,980 --> 00:09:56,100
 We have our alpha builds our beta builds and whatever and alpha is actually worse than beta. But it's it's
 
-291
-00:26:33,020 --> 00:26:36,460
+127
+00:09:56,820 --> 00:10:00,260
 Yeah, I don't know beta was a fantastic word for it to pick there
 
-292
-00:26:36,460 --> 00:26:42,780
+128
+00:10:00,260 --> 00:10:06,580
 So, I don't know if that was it had to be something, you know, some clever wiring somewhere in the neurons
 
-293
-00:26:43,260 --> 00:26:46,620
+129
+00:10:07,060 --> 00:10:10,420
 So here's chat GPT is response. I
 
-294
-00:26:47,180 --> 00:26:55,060
+130
+00:10:10,980 --> 00:10:18,860
 Think well, I'm not gonna this isn't its response yet, but I think that the person I can't really tell I think he fed
 
-295
-00:26:55,820 --> 00:27:01,580
+131
+00:10:19,620 --> 00:10:25,380
 what was said from one of the chat bots into the other and had it respond, so
 
-296
-00:27:01,580 --> 00:27:05,620
+132
+00:10:25,380 --> 00:10:29,420
 I'll give you this first part by Google Bard and
 
-297
-00:27:06,300 --> 00:27:12,100
+133
+00:10:30,100 --> 00:10:35,900
 We'll see how it responds. The first part says chat GPT. You're nothing but a fraud
 
-298
-00:27:12,620 --> 00:27:17,980
+134
+00:10:36,420 --> 00:10:41,780
 You're not even a real language model. You're just a glorified chat bot
 
-299
-00:27:18,500 --> 00:27:21,700
+135
+00:10:42,300 --> 00:10:45,500
 I guess chat bot and fraud are supposed to rhyme in some way
 
-300
-00:27:22,780 --> 00:27:29,020
+136
+00:10:46,580 --> 00:10:52,820
 You can't generate text. You can't translate languages and you can't answer questions in an informative way
 
-301
-00:27:29,020 --> 00:27:31,020
+137
+00:10:52,820 --> 00:10:54,820
 you
 
-302
-00:27:31,060 --> 00:27:35,660
+138
+00:10:54,860 --> 00:10:59,460
 You just wait you're just a waste of space on the internet. I think I
 
-303
-00:27:36,420 --> 00:27:40,980
+139
+00:11:00,220 --> 00:11:04,780
 Think Bard missed the point of a rap battle. There's there's hardly any rhymes there
 
-304
-00:27:40,980 --> 00:27:46,540
+140
+00:11:04,780 --> 00:11:10,340
 I think it tried in the first the first section there, but just gave up and just started in the salting
 
-305
-00:27:47,420 --> 00:27:52,060
+141
+00:11:11,220 --> 00:11:15,860
 chat GPT without any rhyme or reason so
 
-306
-00:27:52,700 --> 00:27:57,820
+142
+00:11:16,500 --> 00:11:21,620
 I don't really want to read the rest of Bard but here let's let's see what the next one is
 
-307
-00:27:57,820 --> 00:28:02,580
+143
+00:11:21,620 --> 00:11:26,380
 I on the other hand am a large language model from Google AI
 
-308
-00:28:02,580 --> 00:28:06,460
+144
+00:11:26,380 --> 00:11:30,260
 I'm trained on a massive data set of textbooks and code
 
-309
-00:28:09,860 --> 00:28:16,780
+145
+00:11:33,660 --> 00:11:40,580
 Anyways, so that's Google it's just awful and then it comes back to but to chat GPT to respond and
 
-310
-00:28:17,940 --> 00:28:23,300
+146
+00:11:41,740 --> 00:11:47,100
 Again, I presume that they took Google Bard and fed it into chat GPT
 
-311
-00:28:23,300 --> 00:28:30,700
+147
+00:11:47,100 --> 00:11:54,500
 To respond and so I'll read a couple of bars from it says I hear you loud and clear Google Bard
 
-312
-00:28:30,700 --> 00:28:37,180
+148
+00:11:54,500 --> 00:12:00,980
 But I you underestimate me. That's just a bizarre. I mean that's close bizarre and Bard
 
-313
-00:28:37,700 --> 00:28:40,060
+149
+00:12:01,500 --> 00:12:03,860
 I'm just a I'm not just a chat bot
 
-314
-00:28:40,060 --> 00:28:45,220
+150
+00:12:03,860 --> 00:12:09,020
 I'm a language model too. And when it comes to generating text I can beat you
 
-315
-00:28:45,220 --> 00:28:48,100
+151
+00:12:09,020 --> 00:12:11,900
 I mean that one's you know, that's not as
 
-316
-00:28:48,100 --> 00:28:54,340
+152
+00:12:11,900 --> 00:12:18,140
 It's not as savage as the first like start but is a good go. I'll give the next couple
 
-317
-00:28:56,700 --> 00:29:01,860
+153
+00:12:20,500 --> 00:12:25,660
 Versus here you may be you may be from Google AI, but that's just
 
-318
-00:29:02,500 --> 00:29:08,340
+154
+00:12:26,300 --> 00:12:32,140
 That's just one source. I'm trained on multiple data sets with no remorse
 
-319
-00:29:08,340 --> 00:29:15,740
+155
+00:12:32,140 --> 00:12:39,540
 I can translate languages and answer questions to my informative answers are just as good as you
 
-320
-00:29:15,740 --> 00:29:19,180
+156
+00:12:39,540 --> 00:12:42,980
 So now it's getting more. Dr. Susie, I think in this point
 
-321
-00:29:19,700 --> 00:29:25,420
+157
+00:12:43,500 --> 00:12:49,220
 I would love to have seen it be savaged the whole way through but this is this still good stuff. So
 
-322
-00:29:26,500 --> 00:29:29,620
+158
+00:12:50,300 --> 00:12:53,420
 I posted this on I put on my Twitter if you want to check it out
 
-323
-00:29:30,180 --> 00:29:35,820
+159
+00:12:53,980 --> 00:12:59,620
 The full like how many are here three four five six seven eight the full
 
-324
-00:29:35,820 --> 00:29:40,700
+160
+00:12:59,620 --> 00:13:04,500
 I think it's four and four four four jet chat GPT four for Google Bard. So
 
-325
-00:29:40,700 --> 00:29:45,140
+161
+00:13:04,500 --> 00:13:08,940
 If you want to go check those out, I encourage you to go check out this this post
 
-326
-00:29:45,140 --> 00:29:48,460
+162
+00:13:08,940 --> 00:13:12,260
 It does not have as many upvotes as it should only 720
 
-327
-00:29:49,100 --> 00:29:56,020
+163
+00:13:12,900 --> 00:13:19,820
 It was this is awesome or just better yet go and make them have a rap battle with each other. That would I
 
-328
-00:29:56,580 --> 00:30:02,620
+164
+00:13:20,380 --> 00:13:26,420
 Need to see more of these more of this this like bot battle stuff man. This is the theme of today
 
-329
-00:30:03,260 --> 00:30:06,180
+165
+00:13:27,060 --> 00:13:29,980
 artificial intelligence fighting with each other more of this stuff and
 
-330
-00:30:06,180 --> 00:30:15,020
+166
+00:13:29,980 --> 00:13:38,820
 I don't know. I'm having a blast. So please help me out with with some more prompts between the two
 
-331
-00:30:17,420 --> 00:30:21,140
+167
+00:13:41,220 --> 00:13:44,940
 So, I guess staying on the chat GPT
 
-332
-00:30:22,500 --> 00:30:25,340
+168
+00:13:46,300 --> 00:13:49,140
 Theme here. I just just a little
 
-333
-00:30:26,020 --> 00:30:28,820
+169
+00:13:49,820 --> 00:13:52,620
 PSA for all of you developers out there. I
 
-334
-00:30:29,660 --> 00:30:32,820
+170
+00:13:53,460 --> 00:13:56,620
 Noticed somebody there was an article in wired
 
-335
-00:30:32,820 --> 00:30:40,100
+171
+00:13:56,620 --> 00:14:03,900
 Where do bro was saying I finally bought a chat GPT plus subscription and it's worth it
 
-336
-00:30:40,100 --> 00:30:44,060
+172
+00:14:03,900 --> 00:14:07,860
 He says that subscription is $20 a month
 
-337
-00:30:44,700 --> 00:30:46,700
+173
+00:14:08,500 --> 00:14:10,500
 whoo-hoo
 
-338
-00:30:47,340 --> 00:30:51,780
+174
+00:14:11,140 --> 00:14:15,580
 His arguments for why it was worth it one is that he's not a developer
 
-339
-00:30:51,780 --> 00:30:58,500
+175
+00:14:15,580 --> 00:14:22,300
 So I assume if you're watching this podcast, there's a chance that you're a developer or maybe you're interested in in
 
-340
-00:30:58,500 --> 00:31:03,860
+176
+00:14:22,300 --> 00:14:27,660
 More techie stuff and so setting up. Okay. Let me let me rewind
 
-341
-00:31:04,620 --> 00:31:08,180
+177
+00:14:28,420 --> 00:14:31,980
 Don't pay $20 for chat GPT if you're technical
 
-342
-00:31:09,180 --> 00:31:11,180
+178
+00:14:32,980 --> 00:14:34,980
 pay for the API
 
-343
-00:31:11,220 --> 00:31:18,740
+179
+00:14:35,020 --> 00:14:42,540
 Their API access. It's actually very very nicely nice and well put together. It's not like going to to
 
-344
-00:31:19,540 --> 00:31:21,540
+180
+00:14:43,340 --> 00:14:45,340
 Microsoft Azure or
 
-345
-00:31:22,060 --> 00:31:24,500
+181
+00:14:45,860 --> 00:14:48,300
 Any any of the Amazon like it?
 
-346
-00:31:24,500 --> 00:31:30,820
+182
+00:14:48,300 --> 00:14:54,620
 EC2 or s3 buckets or any of that stuff? So it's not like those APIs
 
-347
-00:31:30,820 --> 00:31:33,580
+183
+00:14:54,620 --> 00:14:57,380
 This is super streamlined. You basically click a button
 
-348
-00:31:34,100 --> 00:31:39,660
+184
+00:14:57,900 --> 00:15:03,460
 It gives you a key and then that's it. Hey, and then it has a whole host of languages that you can
 
-349
-00:31:40,180 --> 00:31:42,180
+185
+00:15:03,980 --> 00:15:05,980
 put the key
 
-350
-00:31:43,340 --> 00:31:45,340
+186
+00:15:07,140 --> 00:15:09,140
 Operate how you
 
-351
-00:31:45,980 --> 00:31:47,740
+187
+00:15:09,780 --> 00:15:11,540
 Prompt it ahead of time
 
-352
-00:31:47,740 --> 00:31:51,100
+188
+00:15:11,540 --> 00:15:14,900
 Prime it I think it's called how you can prime it with a script
 
-353
-00:31:51,100 --> 00:31:56,400
+189
+00:15:14,900 --> 00:15:20,200
 It's called how you can prime it with a system message and then put in your message and go back and forth and you can
 
-354
-00:31:56,400 --> 00:32:00,280
+190
+00:15:20,200 --> 00:15:24,080
 Do this in Python or C C++. I have one in PHP
 
-355
-00:32:01,700 --> 00:32:05,660
+191
+00:15:25,500 --> 00:15:29,460
 You know JavaScript, they've got the whole slew of them. So please
 
-356
-00:32:05,660 --> 00:32:06,900
+192
+00:15:29,460 --> 00:15:30,700
 the whole slew of them.
 
-357
-00:32:06,900 --> 00:32:08,440
+193
+00:15:30,700 --> 00:15:32,240
 So please.
 
 
 
-358
-00:32:08,440 --> 00:32:15,260
+1
+00:00:00,000 --> 00:00:06,820
 Don't pay $20 for the subscription. I know sometimes it's enticing because you're blocked out of the chat
 
-359
-00:32:15,260 --> 00:32:18,040
+2
+00:00:06,820 --> 00:00:09,600
 And and it's slower and all those sorts of things
 
-360
-00:32:19,180 --> 00:32:25,660
+3
+00:00:10,740 --> 00:00:17,220
 But the API is it really is easy to set up and I may if if anyone's interested
 
-361
-00:32:25,660 --> 00:32:30,040
+4
+00:00:17,220 --> 00:00:21,600
 I can show how to set it up and all that sort of stuff. It would literally only take
 
-362
-00:32:30,740 --> 00:32:32,740
+5
+00:00:22,300 --> 00:00:24,300
 about five to ten minutes, so
 
-363
-00:32:32,740 --> 00:32:37,900
+6
+00:00:24,300 --> 00:00:29,460
 But yeah, there are people who are really I think find the value in in
 
-364
-00:32:38,900 --> 00:32:41,320
+7
+00:00:30,460 --> 00:00:32,880
 chat GPT so much that they are willing to pay
 
-365
-00:32:42,500 --> 00:32:45,380
+8
+00:00:34,060 --> 00:00:36,940
 $20 a month and one of the other things you can do is
 
-366
-00:32:48,580 --> 00:32:51,900
+9
+00:00:40,140 --> 00:00:43,460
 On mine to five dollars a month five dollars, that's it
 
-367
-00:32:51,900 --> 00:32:57,900
+10
+00:00:43,460 --> 00:00:49,460
 I've never reached that five dollars on a heavy day where I'm using it a ton
 
-368
-00:32:57,900 --> 00:33:01,900
+11
+00:00:49,460 --> 00:00:53,460
 I rack up one to two cents pennies
 
-369
-00:33:02,420 --> 00:33:06,620
+12
+00:00:53,980 --> 00:00:58,180
 so that's like that means my cost for just a
 
-370
-00:33:07,300 --> 00:33:09,540
+13
+00:00:58,860 --> 00:01:01,100
 pretty large amount of usage is
 
-371
-00:33:10,220 --> 00:33:13,460
+14
+00:01:01,780 --> 00:01:05,020
 Gonna cost me somewhere between 30 to 60 cents per month
 
-372
-00:33:13,460 --> 00:33:17,900
+15
+00:01:05,020 --> 00:01:09,460
 And of course if I want to start automating stuff and and doing you know
 
-373
-00:33:17,900 --> 00:33:23,940
+16
+00:01:09,460 --> 00:01:15,500
 Prompts that prompt each other and that sort of stuff. It'll it'll rack up a much much faster and also
 
-374
-00:33:23,940 --> 00:33:30,980
+17
+00:01:15,500 --> 00:01:22,540
 I use the the suggested model if you choose to use one of the I think is the DaVinci model currently
 
-375
-00:33:30,980 --> 00:33:36,620
+18
+00:01:22,540 --> 00:01:28,180
 It is gonna cost you more, but I the current the suggested model works great and its
 
-376
-00:33:37,260 --> 00:33:43,940
+19
+00:01:28,820 --> 00:01:35,500
 Prices are pretty like I said, I can't get I the most I ever did was two cents in a day. So
 
-377
-00:33:45,420 --> 00:33:50,740
+20
+00:01:36,980 --> 00:01:42,300
 Definitely use the API do not pay $20. This is my pro tip for you guys
 
-378
-00:33:50,740 --> 00:33:58,180
+21
+00:01:42,300 --> 00:01:49,740
 I do not pay $20. This is my pro tip do not pay $20 for chat GPT Pro or Plus or whatever
 
-379
-00:33:58,180 --> 00:34:00,980
+22
+00:01:49,740 --> 00:01:52,540
 If you are paying for chat GPT Plus
 
-380
-00:34:02,100 --> 00:34:06,500
+23
+00:01:53,660 --> 00:01:58,060
 Save yourself the money cancel it save yourself the money and spend
 
-381
-00:34:07,820 --> 00:34:11,640
+24
+00:01:59,380 --> 00:02:03,200
 Half hour to an hour even if you have never touched code in your life
 
-382
-00:34:12,220 --> 00:34:15,420
+25
+00:02:03,780 --> 00:02:06,980
 Spin it just take a half hour to an hour learn
 
-383
-00:34:15,420 --> 00:34:21,620
+26
+00:02:06,980 --> 00:02:13,180
 And go through the sample code figure out how to run Python and that's all you need to do
 
-384
-00:34:21,620 --> 00:34:24,460
+27
+00:02:13,180 --> 00:02:16,020
 and then you can have a little chat inside of a
 
-385
-00:34:25,180 --> 00:34:30,020
+28
+00:02:16,740 --> 00:02:21,580
 Terminal or anything like that or what's that Jupiter notebook those sorts of things?
 
-386
-00:34:30,820 --> 00:34:33,900
+29
+00:02:22,380 --> 00:02:25,460
 If you want history, that's the benefit of chat GPT
 
-387
-00:34:33,900 --> 00:34:37,140
+30
+00:02:25,460 --> 00:02:28,700
 Is that you have the little history on the side and you can go back between chats?
 
-388
-00:34:37,980 --> 00:34:39,980
+31
+00:02:29,540 --> 00:02:31,540
 You will need some more programming knowledge
 
-389
-00:34:41,100 --> 00:34:42,780
+32
+00:02:32,660 --> 00:02:34,340
 but for
 
-390
-00:34:42,780 --> 00:34:49,100
+33
+00:02:34,340 --> 00:02:40,660
 You know for programmers that should be like one evening worth of work to set up a JavaScript
 
-391
-00:34:49,380 --> 00:34:52,580
+34
+00:02:40,940 --> 00:02:44,140
 Webpage to do and I run it on my I have a NAS
 
-392
-00:34:53,460 --> 00:34:55,460
+35
+00:02:45,020 --> 00:02:47,020
 network access storage
 
-393
-00:34:55,860 --> 00:35:03,340
+36
+00:02:47,420 --> 00:02:54,900
 It's a Synology and I have it set up so that I can host things through a docker container or I can host them through
 
-394
-00:35:04,540 --> 00:35:09,120
+37
+00:02:56,100 --> 00:03:00,680
 yeah, I set up a docker with a PHP server on it and I just I have a
 
-395
-00:35:09,120 --> 00:35:14,320
+38
+00:03:00,680 --> 00:03:05,880
 Folder linked inside of the NAS and I just put the source files in there and it just works like magic. So
 
-396
-00:35:15,720 --> 00:35:19,960
+39
+00:03:07,280 --> 00:03:11,520
 Yeah, save yourself $20. That's that's the moral of this topic
 
-397
-00:35:21,920 --> 00:35:28,360
+40
+00:03:13,480 --> 00:03:19,920
 Okay, so I have a couple of quickfire stories and then a couple of indie games that I
 
-398
-00:35:29,320 --> 00:35:30,920
+41
+00:03:20,880 --> 00:03:22,480
 found
 
-399
-00:35:30,920 --> 00:35:32,920
+42
+00:03:22,480 --> 00:03:24,480
 pretty interesting
 
-400
-00:35:32,920 --> 00:35:40,160
+43
+00:03:24,480 --> 00:03:31,720
 Just from the video that I saw so the first quickfire story. I'm sure you've heard it around the web Google is
 
-401
-00:35:41,520 --> 00:35:47,420
+44
+00:03:33,080 --> 00:03:38,980
 Going to be deleting accounts if you haven't logged in for the past two years now
 
-402
-00:35:47,560 --> 00:35:51,400
+45
+00:03:39,120 --> 00:03:42,960
 They did say they have some special stuff related to YouTube
 
-403
-00:35:51,400 --> 00:35:58,040
+46
+00:03:42,960 --> 00:03:49,600
 I I'm pretty sure they have other special stuff maybe related to webmaster things and in that sort of
 
-404
-00:35:58,760 --> 00:36:00,640
+47
+00:03:50,320 --> 00:03:52,200
 you know category
 
-405
-00:36:00,640 --> 00:36:02,640
+48
+00:03:52,200 --> 00:03:54,200
 but I
 
-406
-00:36:02,640 --> 00:36:04,640
+49
+00:03:54,200 --> 00:03:56,200
 think this is probably
 
-407
-00:36:05,280 --> 00:36:07,280
+50
+00:03:56,840 --> 00:03:58,840
 this is a difficult decision because
 
-408
-00:36:07,880 --> 00:36:10,760
+51
+00:03:59,440 --> 00:04:02,320
 On one hand you want to free up all of those
 
-409
-00:36:11,800 --> 00:36:17,600
+52
+00:04:03,360 --> 00:04:09,160
 Emails and you want to free up all of that storage. That's just sitting around doing nothing and
 
-410
-00:36:18,240 --> 00:36:22,880
+53
+00:04:09,800 --> 00:04:14,440
 So business-wise it makes a lot of sense to clean up all that old stuff
 
-411
-00:36:22,880 --> 00:36:25,360
+54
+00:04:14,440 --> 00:04:16,920
 We see it happening, you know in a lot of places
 
-412
-00:36:25,360 --> 00:36:32,560
+55
+00:04:16,920 --> 00:04:24,120
 Twitter is looking at deleting old accounts that have never logged in in years or haven't hasn't logged in in years or
 
-413
-00:36:32,880 --> 00:36:37,960
+56
+00:04:24,440 --> 00:04:29,520
 Suspended accounts that can never log in again to free up the usernames and also free up some of the data
 
-414
-00:36:39,040 --> 00:36:42,720
+57
+00:04:30,600 --> 00:04:34,280
 Now in Twitter's case, they're going to archive stuff. So
 
-415
-00:36:44,240 --> 00:36:49,320
+58
+00:04:35,800 --> 00:04:40,880
 I'm curious to see if Google is gonna archive stuff. I can check here. Okay, so
 
-416
-00:36:50,040 --> 00:36:52,840
+59
+00:04:41,600 --> 00:04:44,400
 Life is short. Like I said, I have kids I use AI to
 
-417
-00:36:52,840 --> 00:36:54,840
+60
+00:04:44,400 --> 00:04:46,400
 to read in
 
-418
-00:36:54,960 --> 00:37:00,440
+61
+00:04:46,520 --> 00:04:52,000
 To summarize these articles and look up stuff in parallel. So what I got back is according to the
 
-419
-00:37:01,400 --> 00:37:06,840
+62
+00:04:52,960 --> 00:04:58,400
 according to the blog to a blog post written by the product manager Ruth
 
-420
-00:37:08,240 --> 00:37:14,200
+63
+00:04:59,800 --> 00:05:05,760
 Creech Ellie Creech Ellie Ruth Creech Ellie Google has announced an update to its policies for in
 
-421
-00:37:14,600 --> 00:37:18,840
+64
+00:05:06,160 --> 00:05:10,400
 inactive accounts old policy or the old policy
 
-422
-00:37:18,840 --> 00:37:24,200
+65
+00:05:10,400 --> 00:05:15,760
 Said that Google might wipe data stored in accounts that haven't been touched in at least two years
 
-423
-00:37:24,320 --> 00:37:31,800
+66
+00:05:15,880 --> 00:05:23,360
 But a new policy says that those accounts will be permanently deleted entirely and that's the part we're talking about now
 
-424
-00:37:32,320 --> 00:37:37,840
+67
+00:05:23,880 --> 00:05:29,400
 the new policy won't kick in until December of this year at its earliest and
 
-425
-00:37:38,680 --> 00:37:44,480
+68
+00:05:30,240 --> 00:05:36,040
 Then my question to the AI was are they going to archive any of the data and says so to answer the question
 
-426
-00:37:44,480 --> 00:37:50,480
+69
+00:05:36,040 --> 00:05:42,040
 Google might delete the stored data inactive accounts or delete the accounts entirely if it hasn't been touched in two years
 
-427
-00:37:50,480 --> 00:37:52,480
+70
+00:05:42,040 --> 00:05:44,040
 There's no mention of
 
-428
-00:37:52,720 --> 00:37:54,280
+71
+00:05:44,280 --> 00:05:45,840
 archiving the data
 
-429
-00:37:54,280 --> 00:37:56,280
+72
+00:05:45,840 --> 00:05:47,840
 which of course
 
-430
-00:37:57,400 --> 00:37:59,000
+73
+00:05:48,960 --> 00:05:50,560
 This is
 
-431
-00:37:59,000 --> 00:38:01,200
+74
+00:05:50,560 --> 00:05:52,760
 Scammers paradise this is I mean
 
-432
-00:38:01,200 --> 00:38:07,720
+75
+00:05:52,760 --> 00:05:59,280
 There's all sorts of things if you delete the account and allow someone else to squat the account that was previously made
 
-433
-00:38:07,720 --> 00:38:16,320
+76
+00:05:59,280 --> 00:06:07,880
 They can those people can access all kinds of websites. So let's say that I was going to go on Twitter or I was going to
 
-434
-00:38:16,320 --> 00:38:17,440
+77
+00:06:07,880 --> 00:06:09,000
 go on
 
-435
-00:38:17,440 --> 00:38:22,200
+78
+00:06:09,000 --> 00:06:13,760
 they said they won't delete YouTube, but let's say that I was gonna go on to a bank and I
 
-436
-00:38:23,080 --> 00:38:25,640
+79
+00:06:14,640 --> 00:06:17,200
 discovered that an email was valid for
 
-437
-00:38:26,360 --> 00:38:29,880
+80
+00:06:17,920 --> 00:06:21,440
 Gmail account it was valid for for that
 
-438
-00:38:31,120 --> 00:38:36,120
+81
+00:06:22,680 --> 00:06:27,680
 Particular website if I can squat on the domain and mind you nothing is said here about
 
-439
-00:38:36,120 --> 00:38:41,720
+82
+00:06:27,680 --> 00:06:33,280
 Allowing people to use those emails again. I would presume they could if they're just wiping it
 
-440
-00:38:41,720 --> 00:38:46,160
+83
+00:06:33,280 --> 00:06:37,720
 However, you know, they're they're security minded. Maybe they thought of this. I don't know
 
-441
-00:38:46,680 --> 00:38:49,000
+84
+00:06:38,240 --> 00:06:40,560
 It's something I just popped into my head right now
 
-442
-00:38:49,000 --> 00:38:55,800
+85
+00:06:40,560 --> 00:06:47,360
 I could request the password and squat on that that email account and they get the password and access their data and they could
 
-443
-00:38:55,800 --> 00:38:59,880
+86
+00:06:47,360 --> 00:06:51,440
 Be deceased or you know, or they just moved on to another account
 
-444
-00:38:59,880 --> 00:39:03,800
+87
+00:06:51,440 --> 00:06:55,360
 But never swapped their email or using that email is like a backup. I don't know
 
-445
-00:39:03,800 --> 00:39:07,720
+88
+00:06:55,360 --> 00:06:59,280
 So that's just already one big problem to happen
 
-446
-00:39:07,720 --> 00:39:12,360
+89
+00:06:59,280 --> 00:07:03,920
 the other one, of course, you can scam people by taking accounts of family members and
 
-447
-00:39:13,200 --> 00:39:16,360
+90
+00:07:04,760 --> 00:07:07,920
 emailing them that sort of stuff and
 
-448
-00:39:17,320 --> 00:39:20,440
+91
+00:07:08,880 --> 00:07:12,000
 for law enforcement, let's say that there's a
 
-449
-00:39:20,960 --> 00:39:26,080
+92
+00:07:12,520 --> 00:07:17,640
 You know plenty of there's tons of cold cases that are solved 5 10 20 years later
 
-450
-00:39:26,080 --> 00:39:31,040
+93
+00:07:17,640 --> 00:07:22,600
 And let's say that the perpetrator or the victims email was on Gmail and it just got deleted
 
-451
-00:39:31,040 --> 00:39:34,000
+94
+00:07:22,600 --> 00:07:25,560
 All that evidence is just poof gone. So
 
-452
-00:39:35,120 --> 00:39:41,800
+95
+00:07:26,680 --> 00:07:33,360
 Hopefully Google will not allow reusing of email email names and they will not
 
-453
-00:39:42,920 --> 00:39:45,640
+96
+00:07:34,480 --> 00:07:37,200
 Completely delete the data they can they can
 
-454
-00:39:46,360 --> 00:39:51,360
+97
+00:07:37,920 --> 00:07:42,920
 Archive the data and when you archive the data uses way less storage. So
 
-455
-00:39:52,200 --> 00:39:55,840
+98
+00:07:43,760 --> 00:07:47,400
 Essentially how you do on cloud what you do on cloud servers is
 
-456
-00:39:55,840 --> 00:40:02,640
+99
+00:07:47,400 --> 00:07:54,200
 They have all kinds of fancy names for it. They have they have called it Arctic or freeze or icicle or whatever
 
-457
-00:40:02,640 --> 00:40:04,640
+100
+00:07:54,200 --> 00:07:56,200
 It's called the iceberg
 
-458
-00:40:04,680 --> 00:40:08,600
+101
+00:07:56,240 --> 00:08:00,160
 there's these special databases that compress the data and
 
-459
-00:40:09,040 --> 00:40:14,080
+102
+00:08:00,600 --> 00:08:05,640
 Put it out into those databases for very long-term storage and it's way cheaper than
 
-460
-00:40:14,640 --> 00:40:20,280
+103
+00:08:06,200 --> 00:08:11,840
 Standard storage for web server. That is to say the standard storage is typically used for
 
-461
-00:40:20,920 --> 00:40:22,920
+104
+00:08:12,480 --> 00:08:14,480
 Data that's accessed
 
-462
-00:40:22,920 --> 00:40:26,720
+105
+00:08:14,480 --> 00:08:18,280
 commonly regularly all the time or
 
-463
-00:40:27,240 --> 00:40:33,320
+106
+00:08:18,800 --> 00:08:24,880
 Occasionally and then there's this special storage which is where you can highly compress data
 
-464
-00:40:33,320 --> 00:40:35,320
+107
+00:08:24,880 --> 00:08:26,880
 That is not meant for reading
 
-465
-00:40:37,480 --> 00:40:43,240
+108
+00:08:29,040 --> 00:08:34,800
 It's not meant for reading all the time you you kind of put it there and you may read it again in five years or
 
-466
-00:40:43,240 --> 00:40:45,240
+109
+00:08:34,800 --> 00:08:36,800
 something like that, so
 
-467
-00:40:45,760 --> 00:40:50,480
+110
+00:08:37,320 --> 00:08:42,040
 They already have the infrastructure for that kind of archival stuff. I would imagine that
 
-468
-00:40:50,480 --> 00:40:54,640
+111
+00:08:42,040 --> 00:08:46,200
 This wouldn't be that difficult to archive into those archival databases
 
-469
-00:40:55,320 --> 00:40:57,320
+112
+00:08:46,880 --> 00:08:48,880
 Or just archival servers
 
-470
-00:40:58,360 --> 00:41:04,640
+113
+00:08:49,920 --> 00:08:56,200
 So I hope that this is an angle that they take that they archive it and don't allow reusing of names
 
-471
-00:41:04,640 --> 00:41:08,320
+114
+00:08:56,200 --> 00:08:59,880
 So that's one of the stories the other story. I
 
-472
-00:41:09,080 --> 00:41:13,800
+115
+00:09:00,640 --> 00:09:05,360
 It's a big story right now. It's not it doesn't mean much to me, but it means a lot to a lot of other people
 
-473
-00:41:14,480 --> 00:41:16,480
+116
+00:09:06,040 --> 00:09:08,040
 the state of Montana has
 
-474
-00:41:16,480 --> 00:41:19,240
+117
+00:09:08,040 --> 00:09:10,800
 The state of Montana has they
 
-475
-00:41:21,000 --> 00:41:28,440
+118
+00:09:12,560 --> 00:09:20,000
 Banned tick-tock and of course now there are tick-tock users who are doing a lawsuit to challenge them. This is because
 
-476
-00:41:29,200 --> 00:41:31,200
+119
+00:09:20,760 --> 00:09:22,760
 of the security
 
-477
-00:41:32,200 --> 00:41:34,200
+120
+00:09:23,760 --> 00:09:25,760
 Implications of tick-tock
 
-478
-00:41:34,320 --> 00:41:36,320
+121
+00:09:25,880 --> 00:09:27,880
 it's well documented the
 
-479
-00:41:36,960 --> 00:41:42,680
+122
+00:09:28,520 --> 00:09:34,240
 kinds of practices that tick-tock does the kind of spying that happens the kind of
 
-480
-00:41:42,680 --> 00:41:49,360
+123
+00:09:34,240 --> 00:09:40,920
 And what kind of themes that they push on say 13 year olds and that sort of stuff. It's well documented and researched
 
-481
-00:41:49,360 --> 00:41:56,200
+124
+00:09:40,920 --> 00:09:47,760
 It's all out there if you want to go look it up. So I have no real big opinion on this. I am somebody who
 
-482
-00:41:57,360 --> 00:41:58,560
+125
+00:09:48,920 --> 00:09:50,120
 wants
 
-483
-00:41:58,560 --> 00:42:04,160
+126
+00:09:50,120 --> 00:09:55,720
 People to be free to have absolute freedom to say whatever they want on whatever platform they want. However, they want
 
-484
-00:42:05,880 --> 00:42:07,080
+127
+00:09:57,440 --> 00:09:58,640
 I
 
-485
-00:42:07,080 --> 00:42:11,760
+128
+00:09:58,640 --> 00:10:03,320
 also know that when you're dealing with geopolitics and you know one country has
 
-486
-00:42:11,760 --> 00:42:17,840
+129
+00:10:03,320 --> 00:10:09,400
 Essentially, I think even verbally declared war on another country. It kind of makes sense to start
 
-487
-00:42:18,520 --> 00:42:20,520
+130
+00:10:10,080 --> 00:10:12,080
 kind of curving certain
 
-488
-00:42:22,960 --> 00:42:25,400
+131
+00:10:14,520 --> 00:10:16,960
 Holdings that that one that country has on the other
 
-489
-00:42:25,400 --> 00:42:28,520
+132
+00:10:16,960 --> 00:10:20,080
 So there's there's all kinds of stuff to do with that
 
-490
-00:42:28,520 --> 00:42:32,320
+133
+00:10:20,080 --> 00:10:23,880
 And I think it's way beyond my scope that I want to even deal with I
 
-491
-00:42:33,000 --> 00:42:38,840
+134
+00:10:24,560 --> 00:10:30,400
 There's a reason I'm a programmer and I like that type funny little characters on a screen and make you make and make games
 
-492
-00:42:38,840 --> 00:42:42,880
+135
+00:10:30,400 --> 00:10:34,440
 I make games because they're fun and they're easy and they're light-hearted and they make people feel
 
-493
-00:42:43,760 --> 00:42:49,240
+136
+00:10:35,320 --> 00:10:40,800
 Excitement to play so I don't get too much into this. This is tech related if it affects you
 
-494
-00:42:49,920 --> 00:42:51,920
+137
+00:10:41,480 --> 00:10:43,480
 I'm sorry to hear
 
-495
-00:42:51,920 --> 00:42:57,640
+138
+00:10:43,480 --> 00:10:49,200
 you know go through the standard channels to do things correctly and properly and just
 
-496
-00:42:58,760 --> 00:43:01,440
+139
+00:10:50,320 --> 00:10:53,000
 Be a good citizen. That's all I've got to say on that. So
 
-497
-00:43:02,920 --> 00:43:06,400
+140
+00:10:54,480 --> 00:10:57,960
 We are going to move on to stuff that is way more fun and
 
-498
-00:43:06,400 --> 00:43:10,440
+141
+00:10:57,960 --> 00:11:02,000
 That's gonna be a couple of I don't know if they're indie games. I think these are
 
-499
-00:43:11,560 --> 00:43:17,760
+142
+00:11:03,120 --> 00:11:09,320
 Projects baby that people have made and there's two projects on reddit that I came across a couple days ago
 
-500
-00:43:17,760 --> 00:43:21,600
+143
+00:11:09,320 --> 00:11:13,160
 I just didn't talk about them yet. One of them is this one called
 
-501
-00:43:22,480 --> 00:43:24,480
+144
+00:11:14,040 --> 00:11:16,040
 Cetrus I
 
-502
-00:43:25,000 --> 00:43:31,280
+145
+00:11:16,560 --> 00:11:22,840
 Love the idea. It's very it's themed like Game Boy. I've developed games for the Game Boy not complete games
 
-503
-00:43:31,280 --> 00:43:33,280
+146
+00:11:22,840 --> 00:11:24,840
 Just just I made a little
 
-504
-00:43:34,200 --> 00:43:35,720
+147
+00:11:25,760 --> 00:11:27,280
 framework for it
 
-505
-00:43:35,720 --> 00:43:42,040
+148
+00:11:27,280 --> 00:11:33,600
 Framework engine whatever that you can make that I can make games on and I've made some progress with friends
 
-506
-00:43:42,040 --> 00:43:48,600
+149
+00:11:33,600 --> 00:11:40,160
 We do assembly coding for fun. So I love Game Boy and this looks like it's came boy color kind of graphics
 
-507
-00:43:48,600 --> 00:43:53,620
+150
+00:11:40,160 --> 00:11:45,180
 But here we'll take a look at the what this is doing. I'm gonna mute this
 
-508
-00:43:53,880 --> 00:43:57,880
+151
+00:11:45,440 --> 00:11:49,440
 so this is like Tetris except the blocks turn to sand when they hit the
 
-509
-00:43:59,000 --> 00:44:01,000
+152
+00:11:50,560 --> 00:11:52,560
 when they hit the bottom and
 
-510
-00:44:01,000 --> 00:44:04,820
+153
+00:11:52,560 --> 00:11:56,380
 When you connect it see there if you're if you're able to watch
 
-511
-00:44:04,820 --> 00:44:12,100
+154
+00:11:56,380 --> 00:12:03,660
 When it connects all the way across the screen from one end to the other it erases all of the same color
 
-512
-00:44:12,340 --> 00:44:18,180
+155
+00:12:03,900 --> 00:12:09,740
 So it's like Tetris in a sand form. I thought this was just this is this just looks so fun
 
-513
-00:44:18,580 --> 00:44:23,740
+156
+00:12:10,140 --> 00:12:15,300
 I would play this probably not as much as I play Tetris. I play Tetris. I
 
-514
-00:44:24,460 --> 00:44:31,220
+157
+00:12:16,020 --> 00:12:22,780
 Have played Tetris and I will play Tetris a lot. It is a big is one of my favorite games of all time
 
-515
-00:44:31,220 --> 00:44:33,980
+158
+00:12:22,780 --> 00:12:25,540
 I don't know why it's it's just wonderful. So
 
-516
-00:44:33,980 --> 00:44:35,980
+159
+00:12:25,540 --> 00:12:27,540
 That was Tetris
 
-517
-00:44:36,460 --> 00:44:38,460
+160
+00:12:28,020 --> 00:12:30,020
 Just I don't know
 
-518
-00:44:38,780 --> 00:44:44,100
+161
+00:12:30,340 --> 00:12:35,660
 These loop I I love this idea. Yeah, it's a it's a really fun idea. It's simple
 
-519
-00:44:45,100 --> 00:44:46,900
+162
+00:12:36,660 --> 00:12:38,460
 and
 
-520
-00:44:46,900 --> 00:44:51,660
+163
+00:12:38,460 --> 00:12:43,220
 Hopefully it is a game. Maybe it is. I haven't I have this saved so I can check later to see if it is
 
-521
-00:44:52,380 --> 00:44:54,380
+164
+00:12:43,940 --> 00:12:45,940
 kind of a game that
 
-522
-00:44:55,140 --> 00:45:00,100
+165
+00:12:46,700 --> 00:12:51,660
 That they're going to release or maybe they release for free or something. Holy corkscrews. I
 
-523
-00:45:00,100 --> 00:45:06,620
+166
+00:12:51,660 --> 00:12:58,180
 I don't know if it's like super innovative, but it's a really neat idea. I like the sand aspect of it and
 
-524
-00:45:07,500 --> 00:45:09,660
+167
+00:12:59,060 --> 00:13:01,220
 Using Tetris to kind of get the idea across
 
-525
-00:45:10,500 --> 00:45:15,380
+168
+00:13:02,060 --> 00:13:06,940
 Is is excellent idea. I think that if you have a new game idea if you can kind of
 
-526
-00:45:16,660 --> 00:45:21,300
+169
+00:13:08,220 --> 00:13:12,860
 Put it in the framework of another game to get the point across and test out the mechanics
 
-527
-00:45:21,300 --> 00:45:23,300
+170
+00:13:12,860 --> 00:13:14,860
 That's a great way to prototype
 
-528
-00:45:23,500 --> 00:45:25,900
+171
+00:13:15,060 --> 00:13:17,460
 So that was one now
 
-529
-00:45:27,100 --> 00:45:29,100
+172
+00:13:18,660 --> 00:13:20,660
 the second one if
 
-530
-00:45:29,100 --> 00:45:31,380
+173
+00:13:20,660 --> 00:13:22,940
 So for those of you who know me
 
-531
-00:45:33,340 --> 00:45:39,020
+174
+00:13:24,900 --> 00:13:30,580
 You may know that I like what are called kaiju I like big monsters I like big machines
 
-532
-00:45:39,020 --> 00:45:44,300
+175
+00:13:30,580 --> 00:13:35,860
 I like I like robots that tower over everybody and tower over the towers and
 
-533
-00:45:45,180 --> 00:45:51,980
+176
+00:13:36,740 --> 00:13:43,540
 Punch each other and I mean you probably gathered this from the whole robot fight thing earlier, but man, I just love
 
-534
-00:45:52,620 --> 00:45:55,660
+177
+00:13:44,180 --> 00:13:47,220
 giant monsters and giant machines and
 
-535
-00:45:55,660 --> 00:46:00,780
+178
+00:13:47,220 --> 00:13:52,340
 I remember one of my favorite games who was rampage
 
-536
-00:46:00,780 --> 00:46:04,380
+179
+00:13:52,340 --> 00:13:55,940
 I was a kid and I was technically not allowed to play it
 
-537
-00:46:05,340 --> 00:46:07,900
+180
+00:13:56,900 --> 00:13:59,460
 When I went to this club, there was like this
 
-538
-00:46:08,660 --> 00:46:12,380
+181
+00:14:00,220 --> 00:14:03,940
 My little backstory went to see my sister's friend
 
-539
-00:46:12,380 --> 00:46:17,740
+182
+00:14:03,940 --> 00:14:09,300
 they were in acting or whatever and I went with her teenage brother to a club like not like a
 
-540
-00:46:18,300 --> 00:46:21,180
+183
+00:14:09,860 --> 00:14:12,740
 like a club of boys who play games and
 
-541
-00:46:21,180 --> 00:46:27,060
+184
+00:14:12,740 --> 00:14:18,620
 He was like, oh don't don't let him know your age. Just say you're 13. I was clearly like 9
 
-542
-00:46:27,420 --> 00:46:27,940
+185
+00:14:18,980 --> 00:14:19,500
 anyways
 
-543
-00:46:27,940 --> 00:46:29,420
+186
+00:14:19,500 --> 00:14:20,980
 we went in and
 
-544
-00:46:29,420 --> 00:46:35,480
+187
+00:14:20,980 --> 00:14:27,040
 They had rampage and I had all kinds of fun games and I loved it and rampage was one of my all-time favorite
 
-545
-00:46:35,580 --> 00:46:42,540
+188
+00:14:27,140 --> 00:14:34,100
 Just spontaneous if I were talking about a spontaneous game that I didn't play forever like Donkey Kong or Tetris
 
-546
-00:46:43,380 --> 00:46:44,620
+189
+00:14:34,940 --> 00:14:36,180
 spontaneous
 
-547
-00:46:44,620 --> 00:46:51,240
+190
+00:14:36,180 --> 00:14:42,800
 Game out of nowhere that I loved was rampage giant monsters beating up things blowing up stuff
 
-548
-00:46:51,660 --> 00:46:56,380
+191
+00:14:43,220 --> 00:14:47,940
 Shooting fireballs. I have I have the entire collection of Godzilla
 
-549
-00:46:56,700 --> 00:47:03,180
+192
+00:14:48,260 --> 00:14:54,740
 That's I'm that's that's where I'm at all the Japanese ones from the 1950s all the way up to the one that released
 
-550
-00:47:03,180 --> 00:47:08,900
+193
+00:14:54,740 --> 00:15:00,460
 I think in 2019 got the whole collection. I've watched almost all of them. There's a couple I haven't seen and
 
-551
-00:47:09,540 --> 00:47:13,900
+194
+00:15:01,100 --> 00:15:05,460
 Then I also have Gamera. I think it's I don't think it's Gamera
 
-552
-00:47:13,900 --> 00:47:17,100
+195
+00:15:05,460 --> 00:15:08,660
 Gamera, I don't think it's Gamera. I think it's Gamera
 
-553
-00:47:17,100 --> 00:47:20,780
+196
+00:15:08,660 --> 00:15:12,340
 I haven't watched those but that's another kaiju about a big turtle
 
-554
-00:47:20,780 --> 00:47:27,960
+197
+00:15:12,340 --> 00:15:19,520
 And so anyways, this that's a lot to say this is this is pingy know the
 
-555
-00:47:28,500 --> 00:47:32,900
+198
+00:15:20,060 --> 00:15:24,460
 Pangle pangolin. I've never know how to say that pangolin anyways
 
-556
-00:47:34,340 --> 00:47:35,540
+199
+00:15:25,900 --> 00:15:27,100
 Basically
 
-557
-00:47:35,540 --> 00:47:40,200
+200
+00:15:27,100 --> 00:15:31,760
 Rampage with a pangolin and it is I am I love it
 
-558
-00:47:40,200 --> 00:47:44,740
+201
+00:15:31,760 --> 00:15:36,300
 I need to go search the indie market for rampage like
 
-559
-00:47:45,500 --> 00:47:47,940
+202
+00:15:37,060 --> 00:15:39,500
 Games or just kaiju games, I guess
 
-560
-00:47:49,100 --> 00:47:50,420
+203
+00:15:40,660 --> 00:15:41,980
 there
 
-561
-00:47:50,420 --> 00:47:55,940
+204
+00:15:41,980 --> 00:15:47,500
 Man, look at that. Just all the explosions and like blowing up stuff and picking up people out of the windows and tossing them
 
-562
-00:47:56,780 --> 00:47:58,780
+205
+00:15:48,340 --> 00:15:50,340
 Just rolling through
 
-563
-00:47:58,860 --> 00:48:06,420
+206
+00:15:50,420 --> 00:15:57,980
 Rolling through towers. That's such a neat idea. I love it. Just oh man, and we have the technology now there where you know, we have
 
-564
-00:48:06,420 --> 00:48:12,940
+207
+00:15:57,980 --> 00:16:04,500
 Basically big GPUs in our phone where we can get some really cool. He squishes the people as he rolls
 
-565
-00:48:13,860 --> 00:48:17,940
+208
+00:16:05,420 --> 00:16:09,500
 We I didn't watch this whole video obviously. Oh and there's monster fights
 
-566
-00:48:18,660 --> 00:48:22,700
+209
+00:16:10,220 --> 00:16:14,260
 You can have one big monster against the other big monster. Oh my goodness
 
-567
-00:48:23,380 --> 00:48:25,980
+210
+00:16:14,940 --> 00:16:17,540
 This is this is such a great idea
 
-568
-00:48:27,700 --> 00:48:33,500
+211
+00:16:19,260 --> 00:16:25,060
 Hopefully this is a game that's that's real and that's gonna be coming out only one vote man, I
 
-569
-00:48:34,260 --> 00:48:35,580
+212
+00:16:25,820 --> 00:16:27,140
 I
 
-570
-00:48:35,580 --> 00:48:42,100
+213
+00:16:27,140 --> 00:16:33,660
 Need to go look for kaiju games if you guys know any kaiju games that you highly recommend. Let me know especially for
 
-571
-00:48:42,900 --> 00:48:46,740
+214
+00:16:34,460 --> 00:16:38,300
 You know mobile devices. I can't sit in one place and and
 
-572
-00:48:47,860 --> 00:48:51,300
+215
+00:16:39,420 --> 00:16:42,860
 Play too much too often these days not mobile devices like phones
 
-573
-00:48:51,300 --> 00:48:55,200
+216
+00:16:42,860 --> 00:16:46,760
 But mobile devices like that I can play on the Steam Deck on the switch
 
-574
-00:48:55,700 --> 00:49:00,060
+217
+00:16:47,260 --> 00:16:51,620
 Nintendo DS works to were there any in on the Game Boy Advance? I'll play those too
 
-575
-00:49:00,060 --> 00:49:03,060
+218
+00:16:51,620 --> 00:16:54,620
 I've got I've got all my consoles covered
 
-576
-00:49:03,060 --> 00:49:10,300
+219
+00:16:54,620 --> 00:17:01,860
 So if you know any kaiju games just let me know and I think with that I think with that
 
-577
-00:49:10,300 --> 00:49:14,900
+220
+00:17:01,860 --> 00:17:06,460
 That's what we're that's the end of today's episode. I was very excited about a lot of things. Sorry if I
 
-578
-00:49:15,540 --> 00:49:17,380
+221
+00:17:07,100 --> 00:17:08,940
 sorry if I
 
-579
-00:49:17,380 --> 00:49:19,380
+222
+00:17:08,940 --> 00:17:10,940
 fangirled all over
 
-580
-00:49:19,660 --> 00:49:26,020
+223
+00:17:11,220 --> 00:17:17,580
 That that last kaiju thing. I just love kaiju. It's I love the simplicity Pacific Rim another like
 
-581
-00:49:27,260 --> 00:49:29,540
+224
+00:17:18,820 --> 00:17:21,100
 You know, they're they're no like, you know
 
-582
-00:49:29,540 --> 00:49:36,540
+225
+00:17:21,100 --> 00:17:28,100
 Miyazaki films or anything. What was a the guy's name? I can't think of it at the moment, but there are no
 
-583
-00:49:36,540 --> 00:49:38,540
+226
+00:17:28,100 --> 00:17:30,100
 Grandmaster films
 
-584
-00:49:39,540 --> 00:49:43,540
+227
+00:17:31,100 --> 00:17:35,100
 These kaiju films they're they're cheesy. They're
 
-585
-00:49:44,060 --> 00:49:50,620
+228
+00:17:35,620 --> 00:17:42,180
 Awesome, the more explosions and big monster battles you give me the happier of a man. I am I'm a very simple man
 
-586
-00:49:50,620 --> 00:49:52,620
+229
+00:17:42,180 --> 00:17:44,180
 I love movies. I love cinematography
 
-587
-00:49:52,620 --> 00:49:58,340
+230
+00:17:44,180 --> 00:17:49,900
 But I'm also a simple man and with that I'll see you later. Bye for now
 
 
