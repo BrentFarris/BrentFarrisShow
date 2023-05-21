@@ -1028,888 +1028,888 @@ I've done, and hopefully that helps somebody out there.
 
 
 
-258
-00:27:10,500 --> 00:27:23,860
+1
+00:00:00,000 --> 00:00:13,360
 So I want to talk about now Google. Google is one of those, they're not part of ICANN,
 
-259
-00:27:23,860 --> 00:27:30,860
+2
+00:00:13,360 --> 00:00:20,360
 I don't think. ICANN, the domain name, I don't know what to call them, the domain name consortium
 
-260
-00:27:30,860 --> 00:27:36,040
+3
+00:00:20,360 --> 00:00:25,540
 or something like that. But they are kind of, they are associated to it, which means
 
-261
-00:27:36,040 --> 00:27:41,540
+4
+00:00:25,540 --> 00:00:31,040
 they can come up with domain names. And one of the things that they decided to come up
 
-262
-00:27:41,540 --> 00:27:49,140
+5
+00:00:31,040 --> 00:00:38,640
 with, here I've even got the site here to show you. One of the things that they came
 
-263
-00:27:49,140 --> 00:28:00,900
+6
+00:00:38,640 --> 00:00:50,400
 up with is, here's the new domain names. Let me zoom in on this. Okay,.foo. Okay, I feel
 
-264
-00:28:00,900 --> 00:28:07,020
+7
+00:00:50,400 --> 00:00:56,520
 like that's some kind of programming joke maybe. Okay, that's fine. Let's see, what
 
-265
-00:28:07,020 --> 00:28:20,760
+8
+00:00:56,520 --> 00:01:10,260
 else? We've got.zip. Now, the eagle-eyed viewer out there will know that.zip is probably
 
-266
-00:28:20,760 --> 00:28:27,960
+9
+00:01:10,260 --> 00:01:17,460
 not a good idea for a domain extension. What are they called? Top level domain name or
 
-267
-00:28:27,960 --> 00:28:32,700
+10
+00:01:17,460 --> 00:01:22,200
 something like that, TLDN or something..zip is probably not a good idea. You probably
 
-268
-00:28:32,700 --> 00:28:37,620
+11
+00:01:22,200 --> 00:01:27,120
 shouldn't use super well-known extensions for your domain names. And now, this is the
 
-269
-00:28:37,620 --> 00:28:44,000
+12
+00:01:27,120 --> 00:01:33,500
 goofy part. Zip, this is their definition. This is what they told ICANN. And these are
 
-270
-00:28:44,000 --> 00:28:49,940
+13
+00:01:33,500 --> 00:01:39,440
 approved, I believe. Please note that the launch schedule for this is, this TLD has
 
-271
-00:28:49,940 --> 00:28:54,920
+14
+00:01:39,440 --> 00:01:44,420
 been modified since being announced. The schedule is published below and has been updated and
 
-272
-00:28:54,920 --> 00:29:04,360
+15
+00:01:44,420 --> 00:01:53,860
 approved by ICANN. Zip is a secure domain name for typing, for tying things together
 
-273
-00:29:04,360 --> 00:29:11,500
+16
+00:01:53,860 --> 00:02:01,000
 or moving really fast. Hosting content on a.zip domain means speed. This is kind of
 
-274
-00:29:11,500 --> 00:29:21,460
+17
+00:02:01,000 --> 00:02:10,960
 like zip and zippies, zip, zip, zip, zip. So, maybe they didn't realize that's also
 
-275
-00:29:21,460 --> 00:29:27,060
+18
+00:02:10,960 --> 00:02:16,560
 for the compressed file type. I feel like that's just problems waiting to happen. Like
 
-276
-00:29:27,060 --> 00:29:34,200
+19
+00:02:16,560 --> 00:02:23,700
 who, first of all, I would never make a domain name unless it's a joke as a.zip because
 
-277
-00:29:34,200 --> 00:29:39,400
+20
+00:02:23,700 --> 00:02:28,900
 you'll probably be put on all the spam lists and no one will probably click your link.
 
-278
-00:29:39,400 --> 00:29:43,460
+21
+00:02:28,900 --> 00:02:32,960
 They'll think that you're scamming them with a zip file. That's already one problem. And
 
-279
-00:29:43,460 --> 00:29:51,140
+22
+00:02:32,960 --> 00:02:40,640
 good on them too because I can tell you that.zip domains will probably be used to scam
 
-280
-00:29:51,140 --> 00:29:59,100
+23
+00:02:40,640 --> 00:02:48,600
 people a lot. You know, freemusic.zip and it'll download a zip file when you go to
 
-281
-00:29:59,100 --> 00:30:05,580
+24
+00:02:48,600 --> 00:02:55,080
 it. And then of course the kids or whoever is downloading this will then get a virus
 
-282
-00:30:05,580 --> 00:30:13,700
+25
+00:02:55,080 --> 00:03:03,200
 because they went to this.zip domain. And I know it's not any different than freemusic.com
 
-283
-00:30:13,700 --> 00:30:22,580
+26
+00:03:03,200 --> 00:03:12,080
 slash zip or slash whatever or freemusic.com and they get a zip file sent to you. But if
 
-284
-00:30:22,580 --> 00:30:28,740
+27
+00:03:12,080 --> 00:03:18,240
 something downloads when you go to a website, you are probably questioning it. Even a kid
 
-285
-00:30:28,740 --> 00:30:32,880
+28
+00:03:18,240 --> 00:03:22,380
 would be like, I didn't click on anything. But if you go to a.zip domain and it downloads
 
-286
-00:30:32,880 --> 00:30:38,480
+29
+00:03:22,380 --> 00:03:27,980
 something that's a zip file, you probably won't question it as much. I'm just saying.
 
-287
-00:30:38,480 --> 00:30:46,180
+30
+00:03:27,980 --> 00:03:35,680
 The other one is.mov. Let's see, this is a secure domain for moving pictures and other
 
-288
-00:30:46,180 --> 00:30:52,780
+31
+00:03:35,680 --> 00:03:42,280
 things that move. For anything that moves you,.move is the perfect domain. This is
 
-289
-00:30:52,780 --> 00:31:03,300
+32
+00:03:42,280 --> 00:03:52,800
 also a famous file extension. And if you download a.mov file by going to, I don't know, pocahontas.mov
 
-290
-00:31:03,300 --> 00:31:09,620
+33
+00:03:52,800 --> 00:03:59,120
 and it downloads a movie called Pocahontas and it's not really a movie file, it's something
 
-291
-00:31:09,620 --> 00:31:19,100
+34
+00:03:59,120 --> 00:04:08,600
 else, then you have another problem. I love.dad though..dad is a secure domain for
 
-292
-00:31:19,100 --> 00:31:27,340
+35
+00:04:08,600 --> 00:04:16,840
 dads. And I'm a dad. I can get behind.dad. That's awesome. So I can't get behind.zip.mov,
 
-293
-00:31:27,340 --> 00:31:38,680
+36
+00:04:16,840 --> 00:04:28,180
 but I can get behind.dad..phd,.professor. Hopefully these show off your teaching credentials.
 
-294
-00:31:38,680 --> 00:31:44,740
+37
+00:04:28,180 --> 00:04:34,240
 Hopefully these are locked. I don't know if any of these are locked. Like.edu and.gov
 
-295
-00:31:44,740 --> 00:31:49,820
+38
+00:04:34,240 --> 00:04:39,320
 are locked. You can't get them as an individual. You have to prove that you're an educational
 
-296
-00:31:49,820 --> 00:31:55,820
+39
+00:04:39,320 --> 00:04:45,320
 institution for.edu and you have to prove you're a government entity for.gov. And that's
 
-297
-00:31:55,820 --> 00:32:02,180
+40
+00:04:45,320 --> 00:04:51,680
 why those are successful and you can use a.edu for getting discounts and stuff is because
 
-298
-00:32:02,180 --> 00:32:06,860
+41
+00:04:51,680 --> 00:04:56,360
 they can trust that those are locked. I don't know if PhD and professor are locked, nor
 
-299
-00:32:06,860 --> 00:32:18,300
+42
+00:04:56,360 --> 00:05:07,800
 do I care. I don't think certain people in society should just get special, like individuals
 
-300
-00:32:18,300 --> 00:32:24,460
+43
+00:05:07,800 --> 00:05:13,960
 get special privileges for domain extensions. That seems a little weird. Especially when
 
-301
-00:32:24,460 --> 00:32:33,580
+44
+00:05:13,960 --> 00:05:23,080
 there's a lot of people with PhDs that study weird things and they have a PhD or they study
 
-302
-00:32:33,580 --> 00:32:37,060
+45
+00:05:23,080 --> 00:05:26,560
 one thing and then they start preaching about another and say they're a doctor. We have
 
-303
-00:32:37,060 --> 00:32:45,180
+46
+00:05:26,560 --> 00:05:34,680
 a lot of those on the internet. My wife shows me a bunch of them. Just these people masquerading
 
-304
-00:32:45,180 --> 00:32:51,100
+47
+00:05:34,680 --> 00:05:40,600
 as actual scientists or whatever and they're not. So these are a little weird. I can see
 
-305
-00:32:51,100 --> 00:32:58,060
+48
+00:05:40,600 --> 00:05:47,560
 these scamming people. I can see these scamming people with kind of just falsified stuff.
 
-306
-00:32:58,060 --> 00:33:04,420
+49
+00:05:47,560 --> 00:05:53,920
 And even so, there are a lot of doctors and PhD people out there that kind of, they don't
 
-307
-00:33:04,420 --> 00:33:08,340
+50
+00:05:53,920 --> 00:05:57,840
 have time to do the research. Let's say they're a doctor and they're a surgeon. They don't
 
-308
-00:33:08,340 --> 00:33:17,020
+51
+00:05:57,840 --> 00:06:06,520
 have time to research some other field of medical science. So they rely on others. And
 
-309
-00:33:17,020 --> 00:33:23,900
+52
+00:06:06,520 --> 00:06:13,400
 so if someone sent them, if they trust someone and that person's email got hacked and they
 
-310
-00:33:23,900 --> 00:33:27,940
+53
+00:06:13,400 --> 00:06:17,440
 sent them a fake thing and then this other person started propagating it, we shouldn't
 
-311
-00:33:27,940 --> 00:33:37,540
+54
+00:06:17,440 --> 00:06:27,040
 have like authority domains outside of.gov. So I don't know what ESQ is. I think we show
 
-312
-00:33:37,540 --> 00:33:48,660
+55
+00:06:27,040 --> 00:06:38,160
 you are a bar admissions, Lamar work experience lawyer. Okay. Yeah. So I'm not super down
 
-313
-00:33:48,660 --> 00:33:53,100
+56
+00:06:38,160 --> 00:06:42,600
 on lockdown domains outside of edu and gov. I think those were two good choices and the
 
-314
-00:33:53,100 --> 00:33:58,740
+57
+00:06:42,600 --> 00:06:48,240
 only two that I think should exist. Dot dad. That's the one that wins it. I bet you I can
 
-315
-00:33:58,740 --> 00:34:02,700
+58
+00:06:48,240 --> 00:06:52,200
 saw this list and all they saw was dot dad and it's like, yeah, whatever. I just let
 
-316
-00:34:02,700 --> 00:34:10,460
+59
+00:06:52,200 --> 00:06:59,960
 it go. We're getting dot dad there. Oh, Nexus. I skipped that one. It's like a hub. Interesting.
 
-317
-00:34:10,460 --> 00:34:14,740
+60
+00:06:59,960 --> 00:07:04,240
 Yeah. Zip and MOV are the ones I wanted to complain about and I have complained about
 
-318
-00:34:14,740 --> 00:34:31,620
+61
+00:07:04,240 --> 00:07:21,120
 them. So let's move on. So another topic that I've seen fairly recently is, I mean, it's,
 
-319
-00:34:31,620 --> 00:34:38,260
+62
+00:07:21,120 --> 00:07:27,760
 I've seen it recently, but I've seen it essentially the whole time I've done web development and
 
-320
-00:34:38,260 --> 00:34:43,420
+63
+00:07:27,760 --> 00:07:32,920
 that's people trying to figure out what database to use. Now, a lot of these sites are going
 
-321
-00:34:43,420 --> 00:34:49,300
+64
+00:07:32,920 --> 00:07:38,800
 to be one versus the other. So like graph database versus a relational database or a
 
-322
-00:34:49,300 --> 00:34:55,160
+65
+00:07:38,800 --> 00:07:44,660
 no SQL database versus a SQL database. I don't often see vertical databases in here or anything
 
-323
-00:34:55,160 --> 00:35:03,700
+66
+00:07:44,660 --> 00:07:53,200
 like that. So our memory cache databases, although my SQL has memory cache, it has,
 
-324
-00:35:03,700 --> 00:35:11,980
+67
+00:07:53,200 --> 00:08:01,480
 you can set it up to have memory cache as a storage mechanism. So anyways, the debate
 
-325
-00:35:11,980 --> 00:35:19,380
+68
+00:08:01,480 --> 00:08:08,880
 on which database to use, really you should be using many different databases for the
 
-326
-00:35:19,380 --> 00:35:26,020
+69
+00:08:08,880 --> 00:08:15,520
 different parts of your program that does different things with data. So you'll use,
 
-327
-00:35:26,020 --> 00:35:31,300
+70
+00:08:15,520 --> 00:08:20,800
 I think it's a, you'll use like a Redis for a leaderboard so that you can quickly sort
 
-328
-00:35:31,300 --> 00:35:38,700
+71
+00:08:20,800 --> 00:08:28,200
 and select things. You'll use a MySQL for long term concrete storage. You don't want
 
-329
-00:35:38,700 --> 00:35:46,140
+72
+00:08:28,200 --> 00:08:35,640
 messed up like accounts and no keeping track of very sensitive data like that. You'll use
 
-330
-00:35:46,140 --> 00:35:56,700
+73
+00:08:35,640 --> 00:08:46,200
 no SQL databases for game data and quick storage of save data or like where enemies kind of,
 
-331
-00:35:56,700 --> 00:36:00,220
+74
+00:08:46,200 --> 00:08:49,720
 I don't know if you have like timetables or something and you can put those in there.
 
-332
-00:36:00,220 --> 00:36:06,660
+75
+00:08:49,720 --> 00:08:56,160
 Just kind of transient data that's not so important that's okay to refill. And you'll
 
-333
-00:36:06,660 --> 00:36:14,380
+76
+00:08:56,160 --> 00:09:03,880
 use, you know, cache databases for very quick lookups. If especially this is you, you normally
 
-334
-00:36:14,380 --> 00:36:22,220
+77
+00:09:03,880 --> 00:09:11,720
 front cache like a MySQL relational database. You front cache it so that you can, if something's
 
-335
-00:36:22,220 --> 00:36:30,220
+78
+00:09:11,720 --> 00:09:19,720
 requested a lot from those structured databases, you can get to that information very quickly.
 
-336
-00:36:30,220 --> 00:36:36,180
+79
+00:09:19,720 --> 00:09:25,680
 Another one is, what did I mention, the graph database. So a graph database is great for
 
-337
-00:36:36,180 --> 00:36:42,260
+80
+00:09:25,680 --> 00:09:31,760
 data that is highly intertwined. Think friend graphs, I think we've all seen that. So you
 
-338
-00:36:42,260 --> 00:36:48,940
+81
+00:09:31,760 --> 00:09:38,440
 have a lot of, you know, data that's connected to, that's interconnected and it can have
 
-339
-00:36:48,940 --> 00:36:56,100
+82
+00:09:38,440 --> 00:09:45,600
 some blobs of information, you know, like account name and login date and, you know,
 
-340
-00:36:56,100 --> 00:37:00,780
+83
+00:09:45,600 --> 00:09:50,280
 friends and the friends is the graph or something like that. So use a graph for that kind of
 
-341
-00:37:00,780 --> 00:37:07,900
+84
+00:09:50,280 --> 00:09:57,400
 data. So what I'm getting at is stop arguing over database types. Use them all. They all
 
-342
-00:37:07,900 --> 00:37:12,460
+85
+00:09:57,400 --> 00:10:01,960
 have a specific purpose for specific things. There's not one that's going to be a magic
 
-343
-00:37:12,460 --> 00:37:17,780
+86
+00:10:01,960 --> 00:10:07,280
 bullet and there's not one that's going to solve all your problems. I know that if you
 
-344
-00:37:17,780 --> 00:37:24,500
+87
+00:10:07,280 --> 00:10:14,000
 use things like Firebase or whatever, they may only support a couple variants of databases,
 
-345
-00:37:24,500 --> 00:37:31,400
+88
+00:10:14,000 --> 00:10:20,900
 which is bad, but it does help with those types of like live apps or whatever. You should
 
-346
-00:37:31,400 --> 00:37:38,180
+89
+00:10:20,900 --> 00:10:27,680
 use the database that you need for the time you need it. Cool. You know, key value stores
 
-347
-00:37:38,180 --> 00:37:44,300
+90
+00:10:27,680 --> 00:10:33,800
 also. I know that NoSQL is often a key value store, but you can also just have a flat like
 
-348
-00:37:44,300 --> 00:37:50,620
+91
+00:10:33,800 --> 00:10:40,120
 key and value, whether it's a blob of binary data or whatever. So just pick the database
 
-349
-00:37:50,620 --> 00:37:57,580
+92
+00:10:40,120 --> 00:10:47,080
 that works for the task, not the program, not the whole app, for the task and you'll
 
-350
-00:37:57,580 --> 00:38:02,020
+93
+00:10:47,080 --> 00:10:51,520
 be happy. That's one of the downsides of web development. If you're a web developer, you've
 
-351
-00:38:02,020 --> 00:38:07,140
+94
+00:10:51,520 --> 00:10:56,640
 got to use different technologies all the time from the language to the stack to the
 
-352
-00:38:07,140 --> 00:38:15,860
+95
+00:10:56,640 --> 00:11:05,360
 operating system to the web browser size, whether it's a phone or a desktop window or
 
-353
-00:38:15,860 --> 00:38:20,700
+96
+00:11:05,360 --> 00:11:10,200
 if it's a database, it doesn't matter. You're using different tech all the time. It's the
 
-354
-00:38:20,700 --> 00:38:29,180
+97
+00:11:10,200 --> 00:11:18,680
 curse of the job. So that's my view on all the arguments I constantly see over the years
 
-355
-00:38:29,180 --> 00:38:35,440
+98
+00:11:18,680 --> 00:11:24,940
 of database selection. So don't fall into which database is better. Use the database
 
-356
-00:38:35,440 --> 00:38:41,140
+99
+00:11:24,940 --> 00:11:30,640
 that works for the specific type of data. It is not unreasonable to use all the databases
 
-357
-00:38:41,140 --> 00:38:51,100
+100
+00:11:30,640 --> 00:11:40,600
 because you need all those different types of data. And now I can't go on to the fun
 
-358
-00:38:51,100 --> 00:38:56,740
+101
+00:11:40,600 --> 00:11:46,240
 stuff without talking about artificial intelligence. It's all in the news, so of course there's
 
-359
-00:38:56,740 --> 00:39:03,540
+102
+00:11:46,240 --> 00:11:53,040
 a lot of news for it. Google has, you know, they had Google I.O. just recently. That's
 
-360
-00:39:03,540 --> 00:39:16,300
+103
+00:11:53,040 --> 00:12:05,800
 the developer conference for Google. However, it's also part them trying to please the investors
 
-361
-00:39:16,300 --> 00:39:23,360
+104
+00:12:05,800 --> 00:12:12,860
 and also consumers because a lot of people who are watching Google I.O. have never programmed
 
-362
-00:39:23,360 --> 00:39:27,600
+105
+00:12:12,860 --> 00:12:17,100
 in their life because they wanted to see the pixel fold. I'm not here to talk about the
 
-363
-00:39:27,600 --> 00:39:35,040
+106
+00:12:17,100 --> 00:12:24,540
 pixel fold. I'm here to talk about the goofiness of responsible AI. All these people are praising
 
-364
-00:39:35,040 --> 00:39:40,220
+107
+00:12:24,540 --> 00:12:29,720
 this responsible AI, and I think that it's, you know, it's good to have responsible AI.
 
-365
-00:39:40,220 --> 00:39:44,900
+108
+00:12:29,720 --> 00:12:34,400
 However, putting some metadata on a photo and embedding some data into a photo is not
 
-366
-00:39:44,900 --> 00:39:55,220
+109
+00:12:34,400 --> 00:12:44,720
 responsible AI. Responsible AI comes from the source, not the output. So I know that
 
-367
-00:39:55,220 --> 00:39:59,260
+110
+00:12:44,720 --> 00:12:48,760
 this is kind of one of the hot arguments on art and that sort of stuff. I'm not here to
 
-368
-00:39:59,260 --> 00:40:04,660
+111
+00:12:48,760 --> 00:12:54,160
 talk about artificial intelligence, reading people's art and stealing it or anything like
 
-369
-00:40:04,660 --> 00:40:12,140
+112
+00:12:54,160 --> 00:13:01,640
 that. I have no strong opinions on that. I love AI, and I also love art, and I want to
 
-370
-00:40:12,140 --> 00:40:22,940
+113
+00:13:01,640 --> 00:13:12,440
 see both of them flourish. So one of the things that felt goofy to me was the responsible
 
-371
-00:40:22,940 --> 00:40:28,660
+114
+00:13:12,440 --> 00:13:18,160
 AI stuff. And if you know the, if you're in the United States, you may know that all the
 
-372
-00:40:28,660 --> 00:40:33,620
+115
+00:13:18,160 --> 00:13:23,120
 tech leaders except Elon Musk went to the White House to talk about artificial intelligence
 
-373
-00:40:33,620 --> 00:40:38,340
+116
+00:13:23,120 --> 00:13:27,840
 and responsible artificial intelligence. So you had like Satya Nadella from Microsoft,
 
-374
-00:40:38,340 --> 00:40:44,780
+117
+00:13:27,840 --> 00:13:34,280
 you had whoever was from Google. I think the CEOs left and came back. I can't remember
 
-375
-00:40:44,780 --> 00:40:49,060
+118
+00:13:34,280 --> 00:13:38,560
 the names very well. And then of course all the other places, probably OpenAI and all
 
-376
-00:40:49,060 --> 00:40:57,820
+119
+00:13:38,560 --> 00:13:47,320
 that. It was a room full of, you know, tech people and the president. So they had this
 
-377
-00:40:57,820 --> 00:41:04,420
+120
+00:13:47,320 --> 00:13:53,920
 whole meetup about responsible AI. And what does responsible AI mean? Now, it's always
 
-378
-00:41:04,420 --> 00:41:10,420
+121
+00:13:53,920 --> 00:13:59,920
 kind of goofy to have corporations and CEOs who are beholden to their shareholders in
 
-379
-00:41:10,420 --> 00:41:19,260
+122
+00:13:59,920 --> 00:14:08,760
 those kinds of meetings to talk about their responsibilities to the human race at large.
 
-380
-00:41:19,260 --> 00:41:24,340
+123
+00:14:08,760 --> 00:14:13,840
 But you know, it is a good thing that they talk about it. And of course, they get warnings
 
-381
-00:41:24,340 --> 00:41:35,100
+124
+00:14:13,840 --> 00:14:24,600
 and say, hey, we're going to regulate this thing, probably. So stay in line. Anyways,
 
-382
-00:41:35,100 --> 00:41:41,500
+125
+00:14:24,600 --> 00:14:31,000
 the one thing that irked me about the AI thing, Google I O was their big push on detecting
 
-383
-00:41:41,500 --> 00:41:47,540
+126
+00:14:31,000 --> 00:14:37,040
 AI generated images. The image thing really got me because first of all, metadata, they're
 
-384
-00:41:47,540 --> 00:41:52,020
+127
+00:14:37,040 --> 00:14:41,520
 going to put metadata inside of images. That's fantastic because you know what, whenever
 
-385
-00:41:52,020 --> 00:41:59,260
+128
+00:14:41,520 --> 00:14:48,760
 you upload an image to any website worth their weight in salt, salt, sugar, worth their weight
 
-386
-00:41:59,260 --> 00:42:08,540
+129
+00:14:48,760 --> 00:14:58,040
 in gold, they strip meta tags. So meta is useless. It just gets discarded by all companies
 
-387
-00:42:08,540 --> 00:42:12,940
+130
+00:14:58,040 --> 00:15:02,440
 because well, first they read it, they read it for themselves. They want to get your GPS
 
-388
-00:42:12,940 --> 00:42:19,340
+131
+00:15:02,440 --> 00:15:08,840
 location, all that stuff that's in your photo. By the way, turn off GPS on your photos. Nobody
 
-389
-00:42:19,340 --> 00:42:29,900
+132
+00:15:08,840 --> 00:15:19,400
 uses the photos, where was I GPS thing on your phone. You're just giving people your
 
-390
-00:42:29,900 --> 00:42:35,260
+133
+00:15:19,400 --> 00:15:24,760
 position all the time. It's kind of strange. And who knows who can get access to that.
 
-391
-00:42:35,260 --> 00:42:39,580
+134
+00:15:24,760 --> 00:15:29,080
 But anyways, before they take that photo and send it off and propagate it to everybody,
 
-392
-00:42:39,580 --> 00:42:44,040
+135
+00:15:29,080 --> 00:15:33,540
 they completely strip meta tags just so that it does protect your personal information
 
-393
-00:42:44,040 --> 00:42:48,900
+136
+00:15:33,540 --> 00:15:38,400
 because photos, the meta for photos can have a lot of stuff in there that shouldn't. And
 
-394
-00:42:48,900 --> 00:42:54,300
+137
+00:15:38,400 --> 00:15:43,800
 also if you're a web developer, strip the meta. Do not just take people's photos and
 
-395
-00:42:54,300 --> 00:43:01,020
+138
+00:15:43,800 --> 00:15:50,520
 host them. Strip the meta. There's tons, you can just take a photo. If you're doing Node.js
 
-396
-00:43:01,020 --> 00:43:05,020
+139
+00:15:50,520 --> 00:15:54,520
 for example, there's a library where you just take the photo and when it takes the photo
 
-397
-00:43:05,020 --> 00:43:11,660
+140
+00:15:54,520 --> 00:16:01,160
 you can have it as part of one of the arguments to just strip the meta. And if you don't know
 
-398
-00:43:11,660 --> 00:43:16,460
+141
+00:16:01,160 --> 00:16:05,960
 how to do meta stripping or anything like that, the easiest way to do it if you're kind
 
-399
-00:43:16,460 --> 00:43:23,460
+142
+00:16:05,960 --> 00:16:12,960
 of new to coding or you're not well versed on how to access the metadata on a file, if
 
-400
-00:43:23,460 --> 00:43:28,340
+143
+00:16:12,960 --> 00:16:17,840
 you take the photo and then use like magics or whatever it's called, just any kind of
 
-401
-00:43:28,340 --> 00:43:33,980
+144
+00:16:17,840 --> 00:16:23,480
 image library and just crop it by like a, you don't even, I don't even think you have
 
-402
-00:43:33,980 --> 00:43:39,020
+145
+00:16:23,480 --> 00:16:28,520
 to change it at all, but you probably should just so that you know that it's working. Just
 
-403
-00:43:39,020 --> 00:43:46,580
+146
+00:16:28,520 --> 00:16:36,080
 like crop it or change something about it using the photo editing software or photo
 
-404
-00:43:46,580 --> 00:43:51,860
+147
+00:16:36,080 --> 00:16:41,360
 editing library and then save it. And that just strips the meta automatically because
 
-405
-00:43:51,860 --> 00:43:55,900
+148
+00:16:41,360 --> 00:16:45,400
 it's saving a new image. So strip the meta inside of the photos and videos please. Do
 
-406
-00:43:55,900 --> 00:44:03,140
+149
+00:16:45,400 --> 00:16:52,640
 not, do not, do not read it, do not take it, do not sell it, do not redistribute it. Strip
 
-407
-00:44:03,140 --> 00:44:11,340
+150
+00:16:52,640 --> 00:17:00,840
 the meta. So the second thing is, and this is probably the more clever one, but not exactly
 
-408
-00:44:11,340 --> 00:44:16,660
+151
+00:17:00,840 --> 00:17:06,160
 perfect. That's where you can encode data inside of an image without changing how the
 
-409
-00:44:16,660 --> 00:44:23,700
+152
+00:17:06,160 --> 00:17:13,200
 image looks. So you can inject data that's not metadata, you know, like, you know, into
 
-410
-00:44:23,700 --> 00:44:29,660
+153
+00:17:13,200 --> 00:17:19,160
 the interlaced into the pixels or interlaced into the header or anything like that of the
 
-411
-00:44:29,660 --> 00:44:38,140
+154
+00:17:19,160 --> 00:17:27,640
 file. Now that's obviously not something that gets stripped very easily, but if you open
 
-412
-00:44:38,140 --> 00:44:42,900
+155
+00:17:27,640 --> 00:17:32,400
 that photo inside of a photo editor and save it, that's just going to be gone. It's not
 
-413
-00:44:42,900 --> 00:44:46,820
+156
+00:17:32,400 --> 00:17:36,320
 encoded in the pixels. I mean, even if it is encoded in the pixels, it's just going
 
-414
-00:44:46,820 --> 00:44:51,580
+157
+00:17:36,320 --> 00:17:41,080
 to resave the pixels in a new way when you export from a photo program. So it's like
 
-415
-00:44:51,580 --> 00:44:55,740
+158
+00:17:41,080 --> 00:17:45,240
 the easiest thing to get rid of. So even if you use that library example where you just
 
-416
-00:44:55,740 --> 00:45:00,580
+159
+00:17:45,240 --> 00:17:50,080
 take it and crop it or whatever and then save it again, that little encoded data that was
 
-417
-00:45:00,580 --> 00:45:05,620
+160
+00:17:50,080 --> 00:17:55,120
 in there is now gone because it got resaved maybe as a different format or a format that
 
-418
-00:45:05,620 --> 00:45:12,220
+161
+00:17:55,120 --> 00:18:01,720
 doesn't support interlaced data inside of the pixels. So that's my rant on that. That
 
-419
-00:45:12,220 --> 00:45:18,260
+162
+00:18:01,720 --> 00:18:07,760
 was just lip service. The photos stuff, just pure lip service by Google on trying to make
 
-420
-00:45:18,260 --> 00:45:22,740
+163
+00:18:07,760 --> 00:18:12,240
 people think that they're thinking about ethical AI. In fact, in my opinion, that's a complete
 
-421
-00:45:22,740 --> 00:45:29,180
+164
+00:18:12,240 --> 00:18:18,680
 waste of money. You shouldn't be putting, you know, in fact, that doesn't even cost
 
-422
-00:45:29,180 --> 00:45:33,820
+165
+00:18:18,680 --> 00:18:23,320
 them that much money to put that in, you know, on the output of the image. Instead of investing
 
-423
-00:45:33,820 --> 00:45:39,780
+166
+00:18:23,320 --> 00:18:29,280
 money in ethical AI output and the file that gets outputted, you need to invest ethical
 
-424
-00:45:39,780 --> 00:45:45,980
+167
+00:18:29,280 --> 00:18:35,480
 AI in the input, how you train the system, what you do with the system. That's ethical.
 
-425
-00:45:45,980 --> 00:45:54,460
+168
+00:18:35,480 --> 00:18:43,960
 It's two different arguments. So don't believe the hype on when people talk about encoding
 
-426
-00:45:54,460 --> 00:46:02,620
+169
+00:18:43,960 --> 00:18:52,120
 will tell you if it's a AI inside of the image or AI generated in the image. It's nonsense.
 
-427
-00:46:02,620 --> 00:46:07,260
+170
+00:18:52,120 --> 00:18:56,760
 Invest in a service where I can upload a picture to Google and it has a memory of all the photos
 
-428
-00:46:07,260 --> 00:46:12,900
+171
+00:18:56,760 --> 00:19:02,400
 it generated so it can tell me if that photo was generated by AI. That right there doesn't
 
-429
-00:46:12,900 --> 00:46:18,740
+172
+00:19:02,400 --> 00:19:08,240
 need metadata. It doesn't need to put little tags inside of the binary. That just me send
 
-430
-00:46:18,740 --> 00:46:24,740
+173
+00:19:08,240 --> 00:19:14,240
 you it and you tell me whether it is. Just do that. That's probably way more useful.
 
-431
-00:46:24,740 --> 00:46:30,940
+174
+00:19:14,240 --> 00:19:20,440
 And then just make that an API I can call. So I guess that was kind of a rant on ethical
 
-432
-00:46:30,940 --> 00:46:38,620
+175
+00:19:20,440 --> 00:19:28,120
 AI. I'm going to talk about some fun stuff now. I've seen in like programming humor stuff,
 
-433
-00:46:38,620 --> 00:46:45,020
+176
+00:19:28,120 --> 00:19:34,520
 a lot of people are fighting over text editors. This is funny to me because we have people
 
-434
-00:46:45,020 --> 00:46:51,860
+177
+00:19:34,520 --> 00:19:41,360
 saying I use notepad. Of course we all use notepad to do some code. But they're all ragging
 
-435
-00:46:51,860 --> 00:46:56,540
+178
+00:19:41,360 --> 00:19:46,040
 on Visual Studio Code. I don't know why. Probably because Visual Studio Code came out and it
 
-436
-00:46:56,540 --> 00:47:01,020
+179
+00:19:46,040 --> 00:19:50,520
 became really popular because it's Node.js, you can host it in the web, it has all kinds
 
-437
-00:47:01,020 --> 00:47:07,260
+180
+00:19:50,520 --> 00:19:56,760
 of easy plugins, you can use web technology to write your plugins. And I've written like
 
-438
-00:47:07,260 --> 00:47:14,820
+181
+00:19:56,760 --> 00:20:04,320
 language servers and stuff like that for Visual Studio Code. It's nice. But you have all kinds
 
-439
-00:47:14,820 --> 00:47:23,220
+182
+00:20:04,320 --> 00:20:12,720
 of people talking about notepad or atom or my text editor runs inside of a terminal.
 
-440
-00:47:23,220 --> 00:47:29,180
+183
+00:20:12,720 --> 00:20:18,680
 Visual Studio Code doesn't. My text editor runs a web page within it and all this other
 
-441
-00:47:29,180 --> 00:47:36,900
+184
+00:20:18,680 --> 00:20:26,400
 stuff. So that's a lot of fun. Go into programming humor and please post some more text editor
 
-442
-00:47:36,900 --> 00:47:44,380
+185
+00:20:26,400 --> 00:20:33,880
 jokes because I love them. They're funny to me. I think nobody's taking it seriously.
 
-443
-00:47:44,380 --> 00:47:49,580
+186
+00:20:33,880 --> 00:20:39,080
 Of course there are people out there that are diards on their text editors. I can use
 
-444
-00:47:49,580 --> 00:47:53,340
+187
+00:20:39,080 --> 00:20:42,840
 anything. I can use notepad, I use C-Line, I use Visual Studio, I use Visual Studio Code,
 
-445
-00:47:53,340 --> 00:48:03,300
+188
+00:20:42,840 --> 00:20:52,800
 I use Nano, I sometimes use Vim, I use web div, editable divs. It doesn't matter to me.
 
-446
-00:48:03,300 --> 00:48:09,500
+189
+00:20:52,800 --> 00:20:59,000
 Text is text. It's whatever. As long as I can press tab and I get a tab, that's all
 
-447
-00:48:09,500 --> 00:48:19,260
+190
+00:20:59,000 --> 00:21:08,760
 I need. But those are kind of funny. So here's a, I have an example here of one. This is
 
-448
-00:48:19,260 --> 00:48:23,780
+191
+00:21:08,760 --> 00:21:13,280
 just one. I saw like seven of these. I think there's a thing going on right now where everyone's
 
-449
-00:48:23,780 --> 00:48:32,940
+192
+00:21:13,280 --> 00:21:22,440
 doing them. But go contribute to these. And now I'm going to talk about, I don't know
 
-450
-00:48:32,940 --> 00:48:39,500
+193
+00:21:22,440 --> 00:21:29,000
 anything about this indie game or anything else. I just know it looked kind of fun. So
 
-451
-00:48:39,500 --> 00:48:43,220
+194
+00:21:29,000 --> 00:21:32,720
 I thought I'd share it just because I kind of want to talk about indie games every now
 
-452
-00:48:43,220 --> 00:48:48,140
+195
+00:21:32,720 --> 00:21:37,640
 and then that piqued my interest. It may be a copy of another indie game. It may be a
 
-453
-00:48:48,140 --> 00:48:55,580
+196
+00:21:37,640 --> 00:21:45,080
 clone. It may be a stolen idea or whatever. The concept is pretty fun. I'm actually going
 
-454
-00:48:55,580 --> 00:49:00,020
+197
+00:21:45,080 --> 00:21:49,520
 to turn it off. It has some music. I don't know if it's copyright. But the idea is that
 
-455
-00:49:00,020 --> 00:49:05,020
+198
+00:21:49,520 --> 00:21:54,520
 you have these little paddles on the bottom and you got to slap the boxes that are coming
 
-456
-00:49:05,020 --> 00:49:12,340
+199
+00:21:54,520 --> 00:22:01,840
 down. And as you rotate them, the paddles on the bottom sticks in place. So you have
 
-457
-00:49:12,340 --> 00:49:16,180
+200
+00:22:01,840 --> 00:22:05,680
 the blue one on the right now. It can wind up all the way on the left. And I thought
 
-458
-00:49:16,180 --> 00:49:21,620
+201
+00:22:05,680 --> 00:22:11,120
 that was kind of a neat little puzzle game. I love puzzle games. I love first person shooters,
 
-459
-00:49:21,620 --> 00:49:26,260
+202
+00:22:11,120 --> 00:22:15,760
 puzzle games, RTS. I love all kinds of games. So I thought this one was kind of fun. So
 
-460
-00:49:26,260 --> 00:49:34,780
+203
+00:22:15,760 --> 00:22:24,280
 I kind of wanted to shout out. Whatever game this is. It's called Swap I guess. Pretty
 
-461
-00:49:34,780 --> 00:49:41,900
+204
+00:22:24,280 --> 00:22:31,400
 neat idea. It's fun. It's simple. Hopefully it's not just going to be a mobile game. Hopefully
 
-462
-00:49:41,900 --> 00:49:45,980
+205
+00:22:31,400 --> 00:22:35,480
 there's going to be more to it. I'm not super into mobile games. But it does have iOS and
 
-463
-00:49:45,980 --> 00:49:52,580
+206
+00:22:35,480 --> 00:22:42,080
 Android here. And it's coming on Steam. So I don't know. If you're a developer, add some
 
-464
-00:49:52,580 --> 00:50:02,580
+207
+00:22:42,080 --> 00:22:52,080
 cool desktop perks. Don't make your game lock down. Don't lock down its potential to mobile
 
-465
-00:50:02,580 --> 00:50:10,100
+208
+00:22:52,080 --> 00:22:59,600
 devices. And that's kind of another thing I guess I'll end on. If you're going to make
 
-466
-00:50:10,100 --> 00:50:17,780
+209
+00:22:59,600 --> 00:23:07,280
 a game and you're going to put it on different devices, one of the things that I don't like,
 
-467
-00:50:17,780 --> 00:50:24,260
+210
+00:23:07,280 --> 00:23:13,760
 for example, is old games like Grand Theft Auto, Vice City or something coming to mobile
 
-468
-00:50:24,260 --> 00:50:30,220
+211
+00:23:13,760 --> 00:23:19,720
 because the controls are clunky. And I didn't buy it because I didn't want to play it on
 
-469
-00:50:30,220 --> 00:50:38,100
+212
+00:23:19,720 --> 00:23:27,600
 phone. I have copies of Vice City on Xbox and PlayStation 2 I think it is over there
 
-470
-00:50:38,100 --> 00:50:46,180
+213
+00:23:27,600 --> 00:23:35,680
 somewhere. So I didn't spend any money on it. But I doubt it has good Bluetooth controller
 
-471
-00:50:46,180 --> 00:50:53,060
+214
+00:23:35,680 --> 00:23:42,560
 support. A lot of games on mobile don't. So if you put your game on Steam or whatever,
 
-472
-00:50:53,060 --> 00:50:58,060
+215
+00:23:42,560 --> 00:23:47,560
 make some controller support on mobile. Put in the extra effort. I know it kind of sucks.
 
-473
-00:50:58,060 --> 00:51:03,860
+216
+00:23:47,560 --> 00:23:53,360
 But let's make mobile games better by adding more support controls. Let's add a whole realm.
 
-474
-00:51:03,860 --> 00:51:09,820
+217
+00:23:53,360 --> 00:23:59,320
 Let's force Google and Apple to have a little tag on there that says, you know, controller
 
-475
-00:51:09,820 --> 00:51:13,060
+218
+00:23:59,320 --> 00:24:02,560
 required or something like that. Let's just make a whole category for it. That would be
 
-476
-00:51:13,060 --> 00:51:18,500
+219
+00:24:02,560 --> 00:24:08,000
 fantastic. I would love that. But anyways, yeah, that was a cool little indie game called
 
-477
-00:51:18,500 --> 00:51:24,940
+220
+00:24:08,000 --> 00:24:14,440
 Swap. Don't know much more than that video. That's all I've seen. So that's about it.
 
-478
-00:51:24,940 --> 00:51:44,940
+221
+00:24:14,440 --> 00:24:34,440
 Thanks for listening and I'll see you guys in the next one. Bye for now.
 
 
