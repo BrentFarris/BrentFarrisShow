@@ -21,3 +21,8 @@ Valve is being sued over the steam deck by patent trolls. People who make nothin
 
 ### Summary:
 Brent is the speaker in the video who talks about Valve getting sued for the Steam Deck and private chats, AI stuff, local AI stuff, clean code and GitHub. He also talks about patent trolls and secure messages. He mentions that Twitter recently released their secure messages and that he uses Signal for all his private messages with his family. He also talks about Telegram and how he likes the idea of it being locally stored on his device.
+
+### Transcript
+<pre class="transcript">
+{% include transcripts/episode-4.srt %}
+</pre>
