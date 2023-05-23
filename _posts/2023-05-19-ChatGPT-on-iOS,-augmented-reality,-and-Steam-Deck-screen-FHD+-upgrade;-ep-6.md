@@ -23,8 +23,3 @@ Brent talks about various news stories including Google Chrome’s ability to de
 Brent mentions that Chat GPT has an iOS app that is out now. The app asks for your date of birth and phone number when you launch it. It is essentially the same as the web version except it is harder to use. There is a voice input button that uses their whisper API for voice-to-text. You press it, talk into it, press it again, and it puts the text in the input box without sending it. Brent compares Chat GPT’s iOS app to Bing chat GPT and concludes that Bing chat GPT is better on phones because you can talk to it and it talks back with references and all this other sort of nonsense that you may or may not want. You can set its temperament too.
 
 Brent also talks about Google Chrome’s feature that detects typos inside the URL box and makes suggestions of what it thought you meant. He thinks this feature is useful because he sometimes types like a normal person or he types in the standard way he should say with index fingers on the F and the J and thumbs on the space bar, but he still winds up tripping up or missing a key or his fingers go in a way where he tries to hit a number for example and he hits the wrong number, so he searches for whatever site he’s going to instead of typing in direct URL.
-
-### Transcript
-<pre class="transcript">
-{% include transcripts/episode-6.srt %}
-</pre>
