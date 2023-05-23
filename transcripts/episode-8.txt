@@ -1,0 +1,648 @@
+0:00
+Welcome back! Not a whole lot of tech news over the weekend or Monday. I meant to put out a video on Monday but I was sidetracked training AI and learning Go.
+0:08
+But 1.3 billion dollars is how much Facebook is being fined. Which I think
+0:17
+they made 23 billion dollars like last year or maybe this year so far. I'm not
+0:25
+sure. Oh 28 billion. 28 billion in the first three months of this year. So yes
+0:32
+they've made 28 billion and they're being fined 1.3 billion. Of course 1.3
+0:38
+billion is probably the GDP of some small country. So it's a lot of money for somebody but not a lot of money for Facebook. Now why are they being fined
+0:49
+over a billion dollars? Well they're being fined because they were transmitting
+0:55
+data from the EU into the United States. Arguably the one of the at least top
+1:06
+five freest countries in the world. I know I know. But at the same time they are big corporations and I am a huge advocate of not giving your your
+1:15
+information to big corporations and also not giving them basically everything
+1:22
+about your life. Now whether you choose to do that willingly is a different question. A lot of people do use these services and upload their photos and
+1:31
+include geolocation and say that I'm okay whenever some natural disaster
+1:36
+happens and says and they do check-ins where they check into some place they've been. So they they have to know. People do have to know that that data is going out
+1:46
+to somebody like their friends. They're posting it to somewhere. Now I should I
+1:55
+should think that everything should have a little bit of security to it but our
+2:00
+privacy is a commodity to big companies and advertising agencies and AI training
+2:08
+people. People who train AI are definitely gonna be the new the new people who want your data by the way and Facebook is one of those people
+2:16
+training AI. In fact PyTorch one of the top two AI training frameworks is
+2:24
+developed by Facebook. In fact it's it's competing for number one spot with like
+2:30
+TensorFlow and they're constantly in flux with each other. So yeah data is is
+2:37
+a big thing and so the EU is is charging Facebook this 1.3 billion dollars
+2:45
+because it accuses it of violating privacy rules and snooping. Now of course
+2:51
+these companies have developed their architecture to not really care about what country you're in and they don't block off stuff you know unless it's in
+2:58
+China. They do really good job of filtering stuff real quick there.
+3:03
+Ultimately I'm not you know I'm not super up in arms about this. I do think
+3:09
+that company that that countries finding companies is a way of tax or something
+3:17
+like that. I don't I don't see what they're trying to get at here because let me let me just give you a little antidote about these big corporations. I
+3:25
+worked at a pretty big game company in the past and there was a problem where
+3:33
+people were using old iPads and there was a pretty significant amount of
+3:39
+people using these old iPads for the application that they were working on
+3:45
+and or that the application the game that we produced there there's tons of
+3:51
+people on this and so they were valuable we didn't want to just cut them off of being able to play. We wanted those people to continue playing because it
+4:00
+they generated revenue. Now the cost to developers to continue to try and
+4:06
+support these old iPads was pretty expensive. So one of the talks that the
+4:12
+company went about in was just sending every single customer on that version
+4:19
+iPad a new iPad. They were just gonna buy a new iPad for all of the customers that played the game using that old model and the reason this was a discussion is
+4:30
+because the one of the companies that was also equally large some employees
+4:35
+came from did this exact thing and it saved them on development costs and all this sort of stuff. Why is this important to the Facebook thing? 1.3 billion
+4:44
+dollars for being able to have access to all the information about people in the
+4:50
+EU? It's just what they would consider a cost of doing business. So I can see that
+4:58
+that the value to them to be able to keep this this data transfer going and
+5:05
+not segment their platform is it's worth the cost. So they're not this this 1.3
+5:13
+billion dollars isn't going to make them ultimately change how they do everything. Of course legislation will if they try to isolate all the
+5:20
+servers in Europe and I would argue that's a good way to close
+5:25
+off the internet and yes I know we're dealing with corporations but what if I
+5:31
+a humble American in freedom land decided that I wanted to set up a
+5:38
+company that was worldwide some language learning thing or I don't know some something to do your taxes. I guess tax is a bad thing because it's kind of
+5:47
+regional. Something I wanted to sell a game and my game had game servers. Now I
+5:55
+do want to set up a server over in the EU so that it's faster but I want to store all the data collectively in the United States with all my other data. I
+6:03
+want to aggregate it into a central location so it's faster for processing and searching. So if somebody wants to search for some result like they want to
+6:13
+look for a player on the other side of the planet they don't have to do a round-trip way over there it's all in one place and it's locally cached.
+6:20
+Anyways semantics aside it would be very difficult for me to kind of avoid that
+6:26
+law. It kind of makes the big bigger. It makes all the little people who want to
+6:32
+start up a business be cut out of the business because now they can't serve
+6:37
+anyone in Europe. It seems like you know big companies like you know Facebook and
+6:43
+Google and Microsoft and all of them will easily be able to to manage all of
+6:49
+that bureaucracy but the little guys won't. And that's usually how this legislation for these kinds of things go is it destroys the opportunity for small
+6:57
+companies and it doesn't hurt these big guys. They just get huge and they just it
+7:03
+just cuts out the competition for them to have to fight these battles. And of course they they just litigate you know and they do appeals and it takes forever
+7:11
+for them to pay and they wind up paying less and all this other stuff. So I don't really see the value in this kind of thing. So that was one of the things that
+7:19
+came up. And speaking of overseas servers and overseas data I also read that
+EU attacks privacy and encryption
+7:27
+there is a leaked document from from from Europe again. I love I love my
+7:35
+cousins in the Europe but you know some of the legislation is it's kind of crazy.
+7:40
+There was a document about how a lot of lawmakers want to ban end-to-end
+7:48
+encryption. They want to keep it but they want to ban it. They want to be able to read everybody's stuff to make sure they're not doing anything bad but they
+7:58
+also want it to stay secure. It feels like these people have no idea what technology is. They've used a phone and they think they're experts or something.
+8:08
+The article was it was specifically pointing at Spain because Spain really
+8:13
+wanted to just ban end-to-end encryption totally and this was a leaked document or something like that. But there is it talked about how many members of the EU
+8:23
+were doing proposals. So it says it reveals a strong strong support among
+8:29
+EU member states for proposals to scan private messages for illegal content.
+8:35
+Another part once this right here this is it's like a wolf in sheep's
+8:42
+clothing. Craft a highly controversial law to stop the spread of child sexual
+8:48
+abuse material in Europe. Now if Europe has a problem with child sexual abuse as
+8:54
+every country in the world does they should definitely go to the fullest
+8:59
+extensive law put those people in jail for life. I don't care what happens to those people. People who abuse children can rot for all I care. But this is often
+9:11
+a tactic that they used. You'll remember I iPhone did this. They they started
+9:16
+scanning people's libraries. If you had an iPhone I don't know if they still do it. I think they probably still do it. They scan all your photos
+9:23
+and then report you to somebody if you have any kind of suspect photos. And their machine learning algorithms are horrid. There's all kinds of
+9:31
+articles that came out when they launched it about people who would take pictures of their kids who were I don't know they fell off a slide or something
+9:40
+and they were taking a picture to send to their doctor and they were flagged and the police showed up there at their door saying that they were child abusers.
+9:48
+And so first of all it doesn't even work and second of all I don't think this is
+9:56
+the most effective way to catch them. I think that it's a an excuse. It's kind of like how politicians just make up crap. They make up random titles that have
+10:04
+nothing to do with bills in order to make everyone kind of get on the bandwagon with the name of the bill. It's the same kind of thing. Oh we want to
+10:11
+create technology to scan to scan people's phones just to make sure there isn't or any kind of child abuse. And that's not exactly real. I don't
+10:23
+think that's what it's for. I think it's a backdoor into people's private lives so that you can get more advertising money so that artificial intelligence
+10:30
+can be better trained and so on and so forth. And you're using these presumably
+10:35
+what would be high morals, these morals that anyone could agree to, but you're
+10:43
+kind of using it as a facade to what you're actually doing. So there's another
+10:50
+section in here that I highlighted. It said for years EU states have debated whether end-to-end encryption communication platforms such as WhatsApp
+10:58
+and Signal should be protected as a way for Europeans to
+11:03
+exercise a fundamental right to privacy or weakened to keep criminals from being
+11:09
+able to communicate outside of the reach of the law enforcement. Now I get it.
+11:16
+There's bad people everywhere and they're gonna find a way to talk. They'll use carrier pigeons and what are you gonna do? Scan the birds in the air? I
+11:21
+mean with drones you probably already are. But I don't know. I'm a big person
+11:26
+for privacy and security. For example when it comes to AI the reason I like I'm interested in AI and I work with AI and I train AI models now is because I'm
+11:36
+interested in a private personal artificial intelligence that is not run
+11:42
+by a company. Any company. It doesn't matter what if their name is OpenAI or not. Open sounds open but you know when you have tens of billions of dollars
+11:51
+coming in from Microsoft you kind of you are gonna lean in one direction. So you
+11:58
+know share a little too much information. So I am for all for personal encryption
+12:03
+and yes there is a cost to it. There's a cost to freedom. There's always a cost to freedom. We all know it. We all can read our history books. There's always a cost
+12:11
+to freedom and you know you can't you can't have both. Let's talk a little bit
+Government surveillance with AI
+12:18
+about government surveillance. This is something that has been coming up recently. It's a thing about governments wanting to use
+12:29
+artificial intelligence to not exactly track people but to track people and you
+12:36
+know predict things like when car crashes are going to happen or when somebody's doing something bad or whatever. Of course this is dystopian and
+12:44
+everyone knows the references to what this is like but it's not just communist
+12:51
+countries like China that are that are trying to impose these. It is freedom countries like Europe and even parts of the United States that want to monitor
+13:01
+people. Now of course every government in world history is afraid of its
+13:10
+own people in some way or another. The biggest danger is the danger within and you can see this in a lot of wars nobody at least recently nobody has
+13:20
+conquered another country. What they do is they go fight the war and then when they pull out the people inside bubble up and change how things operate. Now
+13:29
+that's kind of the MO of stuff. That's the MO of pretty much any nation even throughout history. So it does make sense that government bodies people who want
+13:41
+to stay employed and one of the ways that people stay employed in the
+13:47
+government is by monitoring the people and knowing what's going on at all times so that they can better prepare for disasters and you know that sort of
+13:56
+stuff. So I never buy it. I am I'm kind of in the camp of leave me alone I'll
+14:02
+leave you alone and we'll all be happy. Let us just let us all just talk on the
+14:11
+internet play some video games hang out. There's criminals there's always criminals but you know what there's more good people than there are criminals.
+14:18
+It's just just look at the ratio of people even in you know places that
+14:27
+have governments that aren't the greatest. There's still a huge ratio of good people. So that's kind of the perspective I have on governments
+14:38
+trying to invest in AI but but there are there are serious consequences to to
+14:44
+this concept of AI trained government systems whether it's in law enforcement
+14:51
+whether it's in you know tracking down people for tax evasion or whether it's
+14:59
+for I don't know just I don't want to walk into a building worrying about my face being scanned and sent off to to somebody and then me accidentally. I mean
+15:07
+how many how many people have been accidentally jailed even for a short
+15:12
+period of time because messed up you know somebody mistake the identity. Imagine how much more that would be you know AI is like oh well it's it looks
+15:21
+like the guy because there's I mean there's a lot of people that look like me and there's a lot of people that look like you. That's just how it is you know
+15:27
+we're all related in some way right. Like I have two parents my wife has two
+15:33
+parents that's already four so you can see where this is going and if you take
+15:38
+if you have two parents for each one of those people right you now have eight and it just it scales up really fast in just a few generations you would have
+15:48
+more people than all of human history has ever existed in just a few
+15:55
+generations. So yeah a lot of people look like each other it's just how it works.
+16:00
+You can you can maybe tell the difference or in a small group like in
+16:06
+a in a town or something you can really focus on someone and say ah this guy is
+16:12
+highly likely the guy because it looks like him on the camera. You deploy that like to an FBI database and I walk into a government facility where I live but
+16:22
+the crime was you know ten states over or something and it dings the FBI says
+16:27
+here's your guy because there's 300 million people here there's gonna be some mess-ups. So I really don't want to see the government getting more into AI
+16:38
+for policing or anything any other reason. I don't think there's any business for government to be an AI at all. I mean they can that that's why we
+16:49
+have the private sector right so they can pay somebody if your worry is that hey people are gonna be using AI to do bad things and you need to use AI to
+16:58
+combat it then you have the private sector. We pay taxes you waste our money
+17:05
+on the private sector and they create AI to combat it that's how it goes right the government doesn't create their war jets some big companies Lockheed Martin
+17:14
+and all those make it so that's just how it works so
+17:19
+Unfortunately, this is a reality of our lifetime, and it's another reason for us to have private,
+17:27
+local AI, our own personal AI that we can use to combat all of this nonsense.
+17:33
+We can use it to obfuscate stuff on the Internet,
+17:38
+make us more private, these sorts of things. Because it's not just about, I have nothing to hide.
+17:45
+The government hides stuff all the time. They have their secrets,
+17:50
+and I have my personal life that I don't really want people to know,
+17:56
+because then they can steal my identity, and they can verify a bunch of parts of my life.
+18:01
+If you're collecting stuff in the government or any other corporation,
+18:07
+mother's maiden name, father's middle name, favorite pet, you collect all that information.
+18:12
+If somebody bad gets a hold of it, and they decide to impersonate me, and my bank says, what's your mother's maiden name?
+18:19
+And they're just like, here it is. They can really ruin people's lives with that information,
+18:24
+and that's why it's important to keep as much as possible about our lives private.
+18:29
+That's the argument. You can't just say you have nothing to hide. That's the dumbest argument I've ever heard on the planet.
+18:38
+If people argue that, you're now armed with a counter-argument.
+18:44
+And that's a very valid counter-argument. Think about how much scamming is happening right now.
+18:49
+So it's a very valid counter-argument. You don't have anything to hide, yes,
+18:54
+but you should hide things, because there are people out there that want to abuse your public information,
+19:01
+not just for ads, but to take your money, maybe take your homes, and put you, you know...
+19:06
+I have known people that have had fraud happen to them, and it is devastating to their lives.
+19:12
+It is very difficult to get out of it. They go and they open up bank accounts,
+19:17
+they take all of your money from bank accounts, they then go to casinos and open up lines of credit,
+19:22
+and it just completely destroys your credit. How are you going to buy a house with bad credit because somebody stole your identity?
+19:29
+It's not unheard of. And the fact that I'm just one random person in the 300 million in the United States,
+19:34
+and I have a close personal friend who has had to deal with this,
+19:39
+and, you know, what are the odds? Pretty high, there's people out there now.
+19:46
+Now, you know, it's becoming easier with how much data is being collected.
+19:52
+A lot of that information could just be stolen from a big company that collected that information without telling you in the first place.
+19:58
+So, government, surveillance, and AI, no-no. Don't even... if you hear about it, just look into it.
+20:05
+Let's all rally together. It doesn't matter where you are on the political spectrum. I really don't care.
+20:10
+But we all can get behind this, right? No government surveillance with AI, please. Sounds like a fantastic idea.
+20:18
+And I'll leave it at that. Okay, so besides all of that,
+SanDisk wiping drives
+20:24
+some of the tech stories that came out, there's SanDisk Extreme SSDs.
+20:32
+I don't know if you heard about these. The 4-terabyte models, and I think the 16-terabyte models
+20:39
+they're usually touted as some of the best, you know, because they're so small and thin.
+20:45
+These tiny little drives that you can take with you have just been wiping people's data. It's just... just destroying it.
+20:52
+Just willy-nilly wipe the whole drive. If you want to put it back on, sure, go ahead. And then it slowly wipes it.
+20:58
+That's crazy. What's even crazier is it's not even faulty hardware. It's a faulty firmware.
+21:03
+So, a firmware, I think they're updating the firmware as we speak. There's an article here,
+21:11
+SanDisk to release firmware fix for failing Extreme and Extreme Pro V2 SSDs.
+21:18
+And both of these articles are from today. So, one is like, it's broken.
+21:24
+The other one's like, they're fixing it. So, yeah, I think it is a bit extreme if your little hard drive is wiping everything people put on it.
+21:34
+The whole point of an external drive is for you to be able to put some stuff on there,
+21:39
+transfer it somewhere else, keep it on there for a little while. I don't know. I would imagine if I put something on a drive,
+21:46
+I'd want it to be there the next month. It's not like a thumbstick or something. So, yeah, be aware of that.
+21:53
+If you have those, update your firmware
+21:59
+and make sure that your data is still on your drives. Now, I think that some more stuff related to AI and tech
+AI trainers trauma
+22:14
+is more of a moralistic problem. It's a training problem.
+22:19
+So, we have, there's been this problem with YouTube, with Vimeo, with any web video,
+22:27
+and also with text and stories and all this sort of stuff where somebody, there's a human somewhere
+22:35
+that has to look at this stuff. And it could be mutilation and murder
+22:41
+and all kinds of really bad things going on in these videos and these descriptions and text and stuff.
+22:48
+It goes to the web that need to be filtered by a person. Now, of course, we have a lot of AI that goes in
+22:54
+and detects a lot of that stuff, but somebody had to train it, the AI,
+22:59
+by looking explicitly at all this stuff. And I think that a lot of companies
+23:05
+outsource this to other countries just because it's cheaper.
+23:11
+And frankly, that's basically the only reason, I assume. And these people are, they get traumatized.
+23:19
+A lot of people, you know, there are a lot of people now with what kind of websites exist
+23:25
+that traumatize themselves for enjoyment. But a lot of these people who just wanna make some money for their family, who wanna work hard and, you know,
+23:33
+just provide, they have to do these kinds of jobs and it's traumatizing. They don't wanna be exposed to all this stuff.
+23:39
+And it's a hard question. I brought this one up because I am training some AI stuff and it's a hard question.
+23:45
+How do you avoid having to look at all this stuff, but also have to look at it in order to train things?
+23:51
+Now, it's my hope that one day we'll have an AI model specifically trained on all of this nastiness
+23:58
+so that it can deal with it. And that would be fantastic. And I think that we do have some that people are working on.
+24:06
+Ironically, there's a bunch of NSFW kind of models people are training and putting out there.
+24:13
+And those could be used potentially for detecting this kind of stuff. So I do wonder if there's a way that we can,
+24:22
+like, you know that story where the person got a paperclip and they wound up with a house in the end
+24:27
+because they traded the paperclip for a pencil and then traded the pencil for, I don't know,
+24:32
+some other thing. It was never money. And then they wound up with a car, a house, something big,
+24:37
+all from a paperclip. I feel like maybe we can make that paperclip AI and then kind of train it up in some way
+24:46
+that it trains itself and it trains the next one and the next one trains it. And we kind of go back and forth with this adversarial kind of training.
+24:53
+That way, we don't have to expose ourselves to all this. It's an interesting moral question.
+24:58
+I am curious to see what people think about how to solve it because I don't think we should expose people to all this stuff.
+25:04
+But at the same time, some people, there will have to be a human element to it and somebody has to make the sacrifice.
+25:10
+And of course, there's always been people throughout all of history that have made
+25:16
+a mental and physical sacrifice for the betterment of the people that come after for their children.
+25:21
+And so it could be the cost and somebody's got to pay it. It's an interesting problem to solve.
+25:28
+I think if somebody can accelerate solving that so that we can get people off of manually training
+25:34
+all these models on this really bad stuff that just shouldn't exist, the better.
+25:43
+So that's a lot of questions I have on that. But now we're going to move on to security stuff.
+25:54
+I have some security updates for people, but I also have some security warnings for people.
+26:02
+We already talked about people's secure data and transferring it to big corporations.
+26:09
+So why not add in some more? Amazon has now some palm scanning technology
+Amazon takes you money and your ID
+26:14
+that lets you buy a drink or groceries or anything else. You scan your palm and it purchases stuff
+26:23
+probably using Amazon Pay or verifies your identity and it also verifies your age and all that sort of stuff
+26:31
+if you want to buy things that are age restricted. And so
+26:37
+Amazon itself, it's kind of not surprising that they move into that.
+26:43
+They're a purchasing company where you buy commodities, and they're also a tech company with AWS and all their server stuff.
+26:52
+So it makes sense that they would continue to try and combine tech and payments.
+27:01
+So obviously, I don't even have to say it, though the big problem with this is you're associating your ID
+27:10
+and your now physical body even more with corporations.
+27:15
+And a lot of biometric tech is local, right? So you have IR cameras on your laptop for Windows Hello.
+27:25
+Who knows, they probably store it in some server somewhere. But you can unlock your computer without an internet connection using it.
+27:32
+So these biometric things exist, but now we're starting to talk about using them for purchases with corporations.
+27:44
+And that gets kind of weird. I feel like they already have enough data, but now they want your palm friends, your iris scans, your facial recognition,
+27:55
+your ID cards, they want your toe print at some point. And so it's getting a little much.
+28:02
+And I'd like to see some pushback on this sort of stuff. I want people to say, no, I'm not going to scan my palm.
+28:11
+I mean, what's the difference between scanning your palm and just taking out your phone and scanning your phone
+28:17
+whenever you use your card NFC reader?
+28:23
+So really, I don't see the advantage here. It's not like it makes things that much faster.
+28:28
+Most people already have their phones in their hands, so why not just bloop?
+28:34
+I mean, is it really that hard? Is it really that hard to pull your wallet out and scan a card
+28:41
+for a huge advantage in privacy? It seems kind of weird to me.
+28:47
+And I hope this isn't the way that everyone kind of pushes for, is more of this biometric identification.
+28:55
+I don't want to one day walk down the street and then some kind of billboard scans my face
+29:02
+and realizes who I am and then swaps to an advertisement for me. And then they'll be like, oh, it's super private.
+29:10
+Only at your viewing angle can you see these pixels that are designed. Everyone sees their own unique billboard.
+29:18
+I don't know. You can guarantee that's going to be some kind of nonsense that's going to come up. Yeah, I don't want to integrate my presence
+29:28
+into corporations and all that sort of stuff. I'm okay with all of this disappearing once I get put six feet under.
+29:37
+So it's fine with me. But yeah, a little bit of security there.
+29:43
+If you've seen these things at wherever Amazon is placing these, just say no and pull out your ID or your card or whatever.
+29:52
+It's a good idea just to say no sometimes.
+Samsung security bug
+29:57
+A little PSA for people who have Samsung phones, like I do, I have three different variants
+30:05
+just right here on this desk. I'm not a fanboy or anything. I just like Android phones and Samsung has nice phones.
+30:14
+So anyways, it affects Samsung devices running
+30:20
+for Android versions 11, 12, and 13. There's a...
+30:26
+Okay, so when you load up an app on your phone and on some computers, or I guess most computers,
+30:34
+it'll take that application and it will scramble it
+30:40
+in a way that you can't figure out where it's at. So traditionally on old school computers, your program would load and it would be put into a part of your RAM
+30:49
+and it would read instruction by instruction. And anything that knows where that program is
+30:56
+can actually alter it and mess with it. So they had to create ways of preventing access
+31:02
+from other programs, whether it's permissions or security, but also through obfuscation where it loads up your program
+31:10
+and it scrambles where it's at. Maybe it separates it out into different parts of memory or it has an addressing, this is where the app is,
+31:20
+but it goes through a layer that reroutes it, that reroutes to something else. And so it's hard to figure out where the app is.
+31:26
+So there's a bug on the Samsung devices on 11, 12, and 13 that doesn't do that rerouting for the application.
+31:34
+So this is not a big security risk for a lot of people. It's just keep your phone updated.
+31:40
+Let me see when this was. May 19th, so keep your phone updated. I think they'll be putting out a update in June, I think it said.
+31:50
+June 9th is when there are expected to be patches or they'd hope for patches.
+31:55
+So just look out for an update, keep your phone up to date. Not super critical of a bug.
+32:01
+You have to already be infected with something for it to abuse this. So not likely a target vector many people would,
+32:10
+many hackers would aim for. Another thing in security that happened recently
+PyPi repository security
+32:17
+is PyPi repositories. And if you don't know what this is, people use Python programming language.
+32:22
+And if you use any language, like C Sharp and NuGet or whatever, any kind of package manager for programmers,
+32:31
+we have this problem where programmers are lazy. And so they just download a bunch of packages to do stuff for them. They'll read the description and be like, ah, that's great.
+32:38
+Download it and start using it. And these packages do take time for people to audit their security.
+32:45
+And they use algorithms to find common ones. But if somebody just programmed up one and put it up
+32:51
+as a package, it could take some time before they are found.
+32:57
+And so this repository for PyPi, our many repositories
+33:03
+that were kind of linked to by PyPi, started having all kinds of malicious hardware.
+33:09
+They are malicious software, malicious packages or whatever you want to call them, were being uploaded.
+33:15
+And people were downloading these. One of them was downloaded 1,200 times before it got caught.
+33:22
+And PyPi actually had to shut down signups and everything else over the weekend for 17 hours
+33:27
+just to clean all this crap up. So don't download packages unless you know it's good
+33:33
+or you audited it yourself or it's been audited by a security professional or someone
+33:38
+you trust. So it's not that hard to write some code. Just don't just download anything.
+33:44
+There are a couple of examples where there was a package named Node.js Encrypt Agent and Node.js
+33:50
+Cookie Proxy Agent, which is a funny Node.js thing in Python. And that was the one that was downloaded 1,200 times
+33:57
+before it got caught. And then in March this year, there was another malicious package called Colorful with a U.
+34:06
+Colorful on PyPi. It was discovered being distributed.
+34:14
+It was malware. It was referred to as colorblind.
+34:20
+I guess they were using, what's it called, some accessibility verbiage.
+34:27
+And people were just downloading it. So yeah, if you are a programmer and you're out there programming
+34:34
+away, don't just download packages. Use vetted ones or write it yourself.
+34:40
+It's not that hard to write your own code. A lot of these, we're targeting people to try and copy from their clipboard
+34:45
+in order to get cryptocurrency wallets and that sort of stuff. Cryptocurrency is a big vector for people stealing stuff
+34:52
+because, poof, it's gone. Who's going to trace it? Nobody's going to know. So yeah, that's just an update for programmers
+35:00
+to keep an eye out for. And on the coding front, I just discovered
+Online programming popular?
+35:11
+people use online coding. Am I so old that I'm the offline coding guy?
+35:17
+I'm the guy that uses dinosaur code or something? There's articles about online coding
+35:25
+and the advantages of it. And then there's counter articles about why you should use offline coding.
+35:31
+And this was the first I've ever heard of this. I get that you can use the Visual Studio code, basically, inside of GitHub or whatever.
+35:39
+You could pay for their thing. I don't know why you would. I mean, you've got to use a computer to access it. Your computer can't be that bad.
+35:45
+No, it can't run Visual Studio code.
+35:50
+But apparently, this is the thing. Online coding.
+35:55
+If you are an online coder, tell me what that means. I read these articles, and I don't fully understand it.
+36:03
+Some of the arguments were offline coding is more secure. You don't have to worry about internet distractions.
+36:10
+It seems like it seems kind of, you know, I don't know.
+36:16
+Maybe new coders, coders who are learning to program or coming from another field, people who haven't drudged through the mud
+36:24
+and the sludge of programming to really say
+36:30
+that they have to use offline systems for development. Maybe it's those people.
+36:37
+Maybe it's web developers. It's just a lot easier to do stuff on the web. I don't know.
+36:42
+But yeah, use offline coding. In fact, turn off your internet when you code. Just code.
+36:48
+Have some, just breathe. Drink some tea or whatever it is you drink.
+36:53
+Soda, Coke Zero, and relax and do some code. It's therapeutic.
+37:00
+You don't need the internet to code. I know that you do like Stack Overflow. And of course, now you like your GitHub Copilot.
+37:08
+I mean, I like GitHub Copilot. I use it for just fooling around and learning languages
+37:15
+and stuff. So I mean, I get that appeal. But I've spent most of my time coding essentially
+37:21
+without an internet connection. So it's very nice. So that's about it that I have for today.
+37:31
+Not a whole lot of stuff. But it was a lot. I mean, it's kind of the stuff that happened recently.
+37:38
+And there's a lot of security stuff. Just pay attention to your security and pay attention to your privacy. Use apps like Signal to talk to your family and friends.
+37:47
+Just don't even log into Facebook, that sort of stuff. And have a good one.
+37:53
+So bye for now.
