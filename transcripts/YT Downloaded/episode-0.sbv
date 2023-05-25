@@ -1,0 +1,2036 @@
+0:00:00.000,0:00:05.680
+Hello, and welcome to the first episode of whatever this might be.
+
+0:00:05.680,0:00:11.480
+I think I'm going to call it overnight assembly, because I like assembly programming.
+
+0:00:11.480,0:00:16.760
+It's one of those languages that are just a lot of fun to program in, and I do it at
+
+0:00:16.760,0:00:20.160
+night, so maybe that's what I'll call it.
+
+0:00:20.160,0:00:26.840
+Generally, what I want to talk about here maybe is my perspective as a programmer on
+
+0:00:26.840,0:00:35.240
+technology and computers and games and code and repositories and libraries and game engines
+
+0:00:35.240,0:00:36.520
+and whatever else.
+
+0:00:36.520,0:00:43.360
+I have a lot of opinions about a lot of things, but I also like to get the opinions of others
+
+0:00:43.360,0:00:46.760
+and kind of grow my understanding.
+
+0:00:46.760,0:00:53.600
+It is very common for programmers to be very biased about things.
+
+0:00:53.600,0:00:59.000
+We all have worked with programmers, I've worked with them for about 15 years, and we
+
+0:00:59.000,0:01:01.320
+all have strong opinions about a lot of things.
+
+0:01:01.320,0:01:06.080
+So I want to try not to be strongly opinionated.
+
+0:01:06.080,0:01:11.120
+I've changed a lot of my opinions over the years, and I feel like they're going to change
+
+0:01:11.120,0:01:17.240
+a lot more as we go, or as I go, on programming.
+
+0:01:17.240,0:01:21.760
+So yeah, that's kind of the general overview.
+
+0:01:21.760,0:01:23.720
+I also want to talk about games, I love games.
+
+0:01:23.720,0:01:26.880
+I have thousands of old games and new games.
+
+0:01:26.880,0:01:34.080
+I have a whole collection of almost every system, maybe, maybe half the systems, I don't
+
+0:01:34.080,0:01:35.080
+want to say that.
+
+0:01:35.080,0:01:39.600
+There's some that I don't have, just I collect a lot of the ones I'm interested in, and I
+
+0:01:39.600,0:01:43.680
+go on a spree of those type of games for a while.
+
+0:01:43.680,0:01:48.280
+So I just wound up with tons of games, some duplicates that I need to get rid of, but
+
+0:01:48.280,0:01:53.920
+there are quite a few games that I don't like because you get the games that you do want
+
+0:01:53.920,0:01:54.920
+instead of a lot.
+
+0:01:54.920,0:02:02.160
+Anyways, that's a topic for another day, so I'll be talking about old games, new games,
+
+0:02:02.160,0:02:09.920
+old computers, new computers, technology, who knows, just general things that I find
+
+0:02:09.920,0:02:14.200
+interesting in the game development and software development field.
+
+0:02:14.200,0:02:15.560
+So who am I?
+
+0:02:15.560,0:02:16.560
+I'm Brent.
+
+0:02:16.560,0:02:19.200
+I've been programming since about 2009.
+
+0:02:19.200,0:02:23.840
+I went to school for animation, so I know how to animate.
+
+0:02:23.840,0:02:26.160
+I know how to rig and 3D model.
+
+0:02:26.160,0:02:32.240
+I draw even, I do a lot of brush pen drawing and that sort of stuff.
+
+0:02:32.240,0:02:33.240
+But mostly I program.
+
+0:02:33.240,0:02:34.240
+I program a lot.
+
+0:02:34.240,0:02:37.320
+I've programmed too much.
+
+0:02:37.320,0:02:45.000
+I have a huge graveyard of projects because I program essentially the thing that I find
+
+0:02:45.000,0:02:52.280
+most interesting in the project and then I put it off into the GitHub graveyard.
+
+0:02:52.280,0:02:57.640
+Just that huge list of just things I'll probably never touch again, but it's there if I want
+
+0:02:57.640,0:02:59.600
+to.
+
+0:02:59.600,0:03:02.080
+So I'm currently a professional programmer.
+
+0:03:02.080,0:03:05.080
+I've been programming for almost 15 years.
+
+0:03:05.080,0:03:13.400
+I've been in web development, game programming, mobile programming, console programming, indie
+
+0:03:13.400,0:03:15.640
+programming, PC, all this stuff.
+
+0:03:15.640,0:03:18.200
+I've programmed stuff for the Game Boy.
+
+0:03:18.200,0:03:20.400
+I've programmed a little bit on the Game Boy Advance.
+
+0:03:20.400,0:03:27.480
+I've programmed a lot of third party consoles that are just, you know, people just release.
+
+0:03:27.480,0:03:31.880
+So just kind of, I just like programming on a bunch of different things and I love low
+
+0:03:31.880,0:03:35.040
+level code and I love the ease of high level code.
+
+0:03:35.040,0:03:37.120
+So I'm not partial to anything.
+
+0:03:37.120,0:03:40.480
+I bounce around quite often.
+
+0:03:40.480,0:03:48.880
+I'm currently a game engine programmer and an artificial intelligence programmer professionally.
+
+0:03:48.880,0:03:50.760
+So that's what I'm paid to do.
+
+0:03:50.760,0:03:59.920
+So yeah, sometimes it is hard to explain the things I'm interested in because I go all
+
+0:03:59.920,0:04:02.800
+over the place as you just saw.
+
+0:04:02.800,0:04:08.280
+But here's a not so complete list off the top of my head that I wrote down to kind of
+
+0:04:08.280,0:04:10.520
+explain the things that I bounce around in.
+
+0:04:10.520,0:04:15.040
+So there's going to be languages and frameworks and all this sort of stuff just to kind of
+
+0:04:15.040,0:04:19.080
+give a background of where I'm coming from and where a lot of my opinions on the future
+
+0:04:19.080,0:04:21.480
+episodes are going to be from.
+
+0:04:21.480,0:04:26.320
+This is kind of the source of my mindset.
+
+0:04:26.320,0:04:35.100
+So let's see, I've programmed in C, C++, x86, x64, the assembly languages, ARM assembly
+
+0:04:35.100,0:04:44.320
+including Thumb, 6502, the C64 and the NES variant of that, the Z80, the Game Boy variant
+
+0:04:44.320,0:04:51.880
+specifically, assembly code, C Sharp, I've done BIOS programming, GLSL, Java, JavaScript,
+
+0:04:51.880,0:04:58.280
+Python, Lua, HTML, CSS, XML, you know, those various markup languages, Bash, PowerShell,
+
+0:04:58.280,0:05:01.200
+OpenGL, DirectX, Direct2D, DirectWrite.
+
+0:05:01.200,0:05:11.120
+CUDA, I did CUDA for ray tracing, this little ray tracing project I did, I got like a 720p
+
+0:05:11.120,0:05:14.680
+rendering of like this ray traced scene at 30 frames per second.
+
+0:05:14.680,0:05:19.400
+It was a very simple scene, lots of spheres because spheres are easy.
+
+0:05:19.400,0:05:27.680
+And I got that done on a non, on like a 1070 or something, it was pretty nice.
+
+0:05:27.680,0:05:34.120
+I've dealt with SDL and Scriptum, Android, and Android NDK, Wasapi, if you don't know
+
+0:05:34.120,0:05:41.360
+what that is, it's a Windows audio, I forgot what the S stands for, it's not stack, it's
+
+0:05:41.360,0:05:45.480
+like sampling or something, API.
+
+0:05:45.480,0:05:49.200
+And I did that for a voice over IP thing and I was using C and I was integrating with it,
+
+0:05:49.200,0:05:56.200
+it was very much a C++ library but I was able to get like the GUID for the various devices
+
+0:05:56.200,0:06:00.760
+and there's a lot of GUID stuff, you just gotta get those in order to tell Windows,
+
+0:06:00.760,0:06:02.960
+hey, this is what I want to do.
+
+0:06:02.960,0:06:09.320
+So I've dealt with that, it was a very interesting kind of random project I did.
+
+0:06:09.320,0:06:17.520
+I've done network programming on Unity a long time ago, I made Forge Networking, I've since
+
+0:06:17.520,0:06:21.040
+archived it, I just didn't have the time to support that.
+
+0:06:21.040,0:06:29.000
+It got really popular at one point and I refactored it to Alloy but I never could finish it, way
+
+0:06:29.000,0:06:34.360
+too much stuff in life, including having kids.
+
+0:06:34.360,0:06:38.480
+That makes things a little complicated to kind of do a hobby project like that.
+
+0:06:38.480,0:06:44.560
+So I've done a lot of multi-threading, WebSockets, MySQL, Redis, Memcached, the various databases,
+
+0:06:44.560,0:06:50.280
+I've dealt with vertical databases as well as horizontal scaling databases like NoSQL
+
+0:06:50.280,0:06:53.400
+and all that.
+
+0:06:53.400,0:06:57.360
+Lots of, SQLite is basically the same thing, why not even put it on this list?
+
+0:06:57.360,0:07:02.640
+Frameworks like.NET, Node.js, game engines, I've done a lot of Unity, I've done quite
+
+0:07:02.640,0:07:08.840
+a bit of Unreal 4 and 5 now, and Godot is something I just recently started messing
+
+0:07:08.840,0:07:13.360
+around with, I've programmed my own game engines.
+
+0:07:13.360,0:07:15.320
+So that's kind of my perspective.
+
+0:07:15.320,0:07:19.260
+I jump around a lot, I've done a lot of assembly and low-level stuff but a lot of high-level
+
+0:07:19.260,0:07:22.280
+stuff in game engines like Unreal and that sort of stuff.
+
+0:07:22.280,0:07:29.600
+So I love jumping around, oh and lots of web, I've done lots of web, JavaScript stuff, JavaScript
+
+0:07:29.600,0:07:32.600
+games, all that sort of stuff.
+
+0:07:32.600,0:07:35.960
+I love to prototype in JavaScript, it's just so fast and easy.
+
+0:07:35.960,0:07:40.840
+And I have some libraries that I just use, I've been using modules a lot lately, which
+
+0:07:40.840,0:07:41.840
+is a lot of fun.
+
+0:07:41.840,0:07:47.800
+I do like modules quite a bit, rolling them up into a single file and all that is annoying,
+
+0:07:47.800,0:07:53.360
+but modules are a lot of fun, I can definitely say that.
+
+0:07:53.360,0:07:58.840
+So that's kind of all of that, and I kind of mentioned this, but the most important
+
+0:07:58.840,0:08:04.960
+thing about me is that I'm a father and a husband, that's what makes my life happy.
+
+0:08:04.960,0:08:14.880
+So other than that, that's kind of my whole background and kind of my perspective on opinions.
+
+0:08:14.880,0:08:22.320
+Now one thing that I'm not, unfortunately, is one of those ex-Google employees.
+
+0:08:22.320,0:08:27.760
+I'm sure you've seen all of those YouTube videos out there that are like, ex-Google
+
+0:08:27.760,0:08:31.560
+employee blah blah blah blah blah, it says something like that.
+
+0:08:31.560,0:08:37.640
+I don't know if they do that for like Clickbait or Cloud or something like that.
+
+0:08:37.640,0:08:41.320
+Google has a lot of employees, so I mean there's a lot of ex-employees now that are all getting
+
+0:08:41.320,0:08:42.320
+fired.
+
+0:08:42.320,0:08:48.520
+I'm sorry, I'm not attacking anyone with that.
+
+0:08:48.520,0:08:55.920
+I'm not one of those, I've never worked at a gigantic company, mainly because I don't
+
+0:08:55.920,0:08:56.920
+want to.
+
+0:08:56.920,0:09:05.720
+The more smaller companies, they can sometimes pay more, and also you get a lot of equity,
+
+0:09:05.720,0:09:10.760
+so you can get a lot in the long run out of it, versus those big companies.
+
+0:09:10.760,0:09:15.600
+And frankly, I've had a lot of friends who've gone to those big companies, and it's just
+
+0:09:15.600,0:09:16.600
+boring.
+
+0:09:16.600,0:09:22.880
+They say that they chill outside, they disappear for a week, and nobody even notices.
+
+0:09:22.880,0:09:31.200
+They just hardly do any work, and if they do, it's something super minor, kind of just
+
+0:09:31.200,0:09:32.600
+maintaining stuff.
+
+0:09:32.600,0:09:36.440
+There's a small group of people that actually do the hard work.
+
+0:09:36.440,0:09:40.280
+And of course, if you're a programmer, which you likely are, I don't know who would be
+
+0:09:40.280,0:09:44.560
+watching this that doesn't like to program or is interested in games.
+
+0:09:44.560,0:09:48.680
+You know the industry has a lot of leads and managers and those sorts of people that don't
+
+0:09:48.680,0:09:49.680
+really program a lot.
+
+0:09:49.680,0:09:55.600
+You can have a lead engineer, and they don't do a lot of programming.
+
+0:09:55.600,0:10:00.280
+The one that I work with does a lot of programming, but typically, especially at the big places,
+
+0:10:00.280,0:10:05.480
+you can get some that hardly ever program, ever, even on their free time.
+
+0:10:05.480,0:10:13.560
+So I'm not one of those ex-Google employees says, XYZ.
+
+0:10:13.560,0:10:19.080
+I like to do work, and I like to participate in a team.
+
+0:10:19.080,0:10:23.760
+Maybe there's a role somewhere at one of those places that is more research-based or something
+
+0:10:23.760,0:10:28.940
+like that that I can take advantage of and have a lot of fun with.
+
+0:10:28.940,0:10:35.400
+But maybe in the core, like operating system part of the business, I'm not sure.
+
+0:10:35.400,0:10:40.920
+But I don't have any one of those flashy name tags.
+
+0:10:40.920,0:10:44.680
+I've released lots of games with companies, mobile.
+
+0:10:44.680,0:10:48.360
+I'm currently working on a console game.
+
+0:10:48.360,0:10:52.760
+So I've bounced around a lot.
+
+0:10:52.760,0:10:58.080
+So I kind of want to learn more about a lot of other fields.
+
+0:10:58.080,0:11:06.160
+I've done so many things roll in my mind whenever I think about those, but we'll probably go
+
+0:11:06.160,0:11:11.200
+over a lot of these in future episodes, just things that are interesting in programming
+
+0:11:11.200,0:11:15.240
+and computers and tech and all that sort of stuff.
+
+0:11:15.240,0:11:24.600
+So yeah, speaking of those ex-Google employee gives you advice on how to get hired or whatever
+
+0:11:24.600,0:11:29.000
+kind of videos, I don't ever click on them, I don't know why they keep sending them to
+
+0:11:29.000,0:11:30.000
+me.
+
+0:11:30.000,0:11:34.440
+But I don't know if you see them, maybe it's just me.
+
+0:11:34.440,0:11:37.880
+I don't know.
+
+0:11:37.880,0:11:38.880
+I get a few of them.
+
+0:11:38.880,0:11:45.840
+I always have to hide the channel or whatever because they pop up.
+
+0:11:45.840,0:11:49.200
+It's almost like clockwork.
+
+0:11:49.200,0:11:53.680
+Another thing that I like to do is I like to program very small.
+
+0:11:53.680,0:11:58.880
+I like very small programs, I like very fast programs, I like elegant code and elegant
+
+0:11:58.880,0:12:04.360
+functions, very small functions, that sort of stuff.
+
+0:12:04.360,0:12:10.000
+And if you look at what these big companies produce, they produce simple libraries and
+
+0:12:10.000,0:12:17.520
+their apps, they have tens of thousands of classes that make up, I don't know if it's
+
+0:12:17.520,0:12:21.780
+like code generation or what, but they've got tens of thousands of classes, which is
+
+0:12:21.780,0:12:23.440
+insane to me.
+
+0:12:23.440,0:12:26.760
+That's a lot of something.
+
+0:12:26.760,0:12:28.560
+Half of them probably don't know what it is.
+
+0:12:28.560,0:12:34.760
+Half of them are probably third-party libraries, which is even worse.
+
+0:12:34.760,0:12:39.320
+And their size is huge, hundreds of megabytes.
+
+0:12:39.320,0:12:43.760
+And even worse, if you think about a lot of these apps, a lot of people complain about
+
+0:12:43.760,0:12:47.360
+Google, a lot about their apps.
+
+0:12:47.360,0:12:53.300
+The experience of YouTube on iPhone is different from Android, which is different from Android
+
+0:12:53.300,0:12:55.800
+tablet, which is different from the web.
+
+0:12:55.800,0:13:01.280
+And you'd imagine when we use web technology across devices, I know it's a little bit more
+
+0:13:01.280,0:13:05.700
+complicated with the iOS ecosystem and how they want to handle with all that and web
+
+0:13:05.700,0:13:10.160
+views and all that sort of stuff, it gets annoying.
+
+0:13:10.160,0:13:17.180
+But they invested millions and millions of dollars in V8 to kind of build this platform
+
+0:13:17.180,0:13:18.180
+they can work off of.
+
+0:13:18.180,0:13:23.920
+And their apps are just broken across, I mean, their function, but they're just missing features
+
+0:13:23.920,0:13:27.520
+across the different devices.
+
+0:13:27.520,0:13:29.560
+You know, that's kind of crazy to me.
+
+0:13:29.560,0:13:30.560
+Got so much money.
+
+0:13:30.560,0:13:32.080
+Don't you think they can consolidate it?
+
+0:13:32.080,0:13:33.080
+I don't know.
+
+0:13:33.080,0:13:36.040
+I don't know kind of what they set up.
+
+0:13:36.040,0:13:37.760
+I do know how most teams operate.
+
+0:13:37.760,0:13:39.880
+I can see how it happens.
+
+0:13:39.880,0:13:42.400
+But yeah, it's really fractured.
+
+0:13:42.400,0:13:46.800
+So that's another thing I don't really want to work with is when you go to those big companies
+
+0:13:46.800,0:13:52.680
+and you got to deal with cross disciplines and all this other stuff, as it's called cross
+
+0:13:52.680,0:13:55.520
+disciplines.
+
+0:13:55.520,0:14:00.800
+And you got to deal with all of like, you can't merge two things and you got to deal
+
+0:14:00.800,0:14:03.600
+with the bureaucracy.
+
+0:14:03.600,0:14:05.800
+I like small teams where you can just move around.
+
+0:14:05.800,0:14:06.920
+You can say, I want to work on that.
+
+0:14:06.920,0:14:10.360
+And they said, cool, we can figure out, you know, if it works with our product, let's
+
+0:14:10.360,0:14:12.000
+figure out how we get you over there.
+
+0:14:12.000,0:14:13.680
+That's what I like about smaller companies too.
+
+0:14:13.680,0:14:17.320
+It's just, it's really nice.
+
+0:14:17.320,0:14:23.200
+So yeah, I mean, so it's not just Google and software companies like that.
+
+0:14:23.200,0:14:25.640
+It's game companies too.
+
+0:14:25.640,0:14:31.120
+Working in game companies and kind of seeing the games that are produced is crazy.
+
+0:14:31.120,0:14:37.040
+Of course, it's not a fair comparison to say, look at games from the 90s and 80s and they
+
+0:14:37.040,0:14:40.980
+have so little bugs compared to modern games and they have, you know, they're so much faster
+
+0:14:40.980,0:14:42.920
+and smaller, blah, blah, blah.
+
+0:14:42.920,0:14:46.680
+It's not fair because there's a lot of stuff in modern games, crazy amount of stuff in
+
+0:14:46.680,0:14:47.680
+modern games.
+
+0:14:47.680,0:14:50.960
+So I give it some slack there.
+
+0:14:50.960,0:14:55.120
+I do believe that the programmers were much more disciplined in the past because they
+
+0:14:55.120,0:15:00.420
+had to be working with low level code just with no other option.
+
+0:15:00.420,0:15:06.920
+So there are differences and similarities in some aspects, but games, man, like the
+
+0:15:06.920,0:15:10.240
+minimum requirements for games is pretty dang high.
+
+0:15:10.240,0:15:14.320
+Of course, luckily computers are getting way cheap now.
+
+0:15:14.320,0:15:22.380
+So pretty much anyone can muscle through and punch through the wall of system requirements
+
+0:15:22.380,0:15:23.380
+these days.
+
+0:15:23.380,0:15:26.640
+Like you can run tons of AAA games on something like a Steam Deck.
+
+0:15:26.640,0:15:34.200
+So you know, sure, they have all the compute power to really muscle through it, but they
+
+0:15:34.200,0:15:35.560
+make some weird decisions.
+
+0:15:35.560,0:15:39.000
+Like why are games like 200 gigabytes?
+
+0:15:39.000,0:15:40.520
+That's crazy.
+
+0:15:40.520,0:15:46.840
+So we come up with this frame scaling technology, FSR, that sort of stuff.
+
+0:15:46.840,0:15:51.320
+And then you still put 4K textures in your game and your game is being rendered at like
+
+0:15:51.320,0:15:57.180
+720p pretty much most of the time or 1080p, but you're putting 4K textures in.
+
+0:15:57.180,0:16:04.800
+And then we don't know what's the amount of people that have 4K monitors versus, you know,
+
+0:16:04.800,0:16:06.520
+1080p monitors.
+
+0:16:06.520,0:16:10.640
+And I would imagine that you can kind of detect that and you can have Steam kind of upgrade
+
+0:16:10.640,0:16:13.520
+the game based on, you know, what kind of monitor they have.
+
+0:16:13.520,0:16:19.440
+But you can't, if you have a 4K texture and you're displaying it on a 1080p monitor, that's
+
+0:16:19.440,0:16:22.880
+just, it doesn't even, it's crazy.
+
+0:16:22.880,0:16:26.720
+Like it's bigger than the screen in resolution.
+
+0:16:26.720,0:16:34.120
+And so then you add FSR in the mix and now the 4K monitors aren't even rendering at 4K.
+
+0:16:34.120,0:16:38.560
+And to make the most of it, of course, you know, this is being a little pedantic because
+
+0:16:38.560,0:16:43.920
+you can have one texture that goes across multiple objects and you want that to be 4K
+
+0:16:43.920,0:16:47.160
+in order to optimize your memory and how much you're loading at runtime.
+
+0:16:47.160,0:16:49.840
+Yes, I get that.
+
+0:16:49.840,0:16:55.440
+But man, how many textures are actually that versus, you know, a giant 4K rock texture
+
+0:16:55.440,0:16:57.400
+that they just splatter on rocks?
+
+0:16:57.400,0:17:01.720
+It's kind of funny, I guess for stretching and stuff.
+
+0:17:01.720,0:17:06.920
+I don't know, I really think there's a huge waste in memory there.
+
+0:17:06.920,0:17:13.200
+And it's kind of, you know, so it's not just Google and big software companies that just
+
+0:17:13.200,0:17:17.920
+absolutely waste your CPU and your storage.
+
+0:17:17.920,0:17:20.040
+It's games too, a lot of times.
+
+0:17:20.040,0:17:24.040
+And I think those can be better optimized, but you know what?
+
+0:17:24.040,0:17:26.080
+The game is about money.
+
+0:17:26.080,0:17:30.760
+The game of making games is about making money for, I mean, mostly.
+
+0:17:30.760,0:17:36.240
+It's having fun is sometimes what the designers care about, even though they've got to make
+
+0:17:36.240,0:17:38.120
+the investors happy.
+
+0:17:38.120,0:17:42.680
+But 4K textures are kind of going crazy right now.
+
+0:17:42.680,0:17:48.960
+I think we can probably reduce a lot of that and rely more on the FSR stuff.
+
+0:17:48.960,0:17:57.320
+It's just, you know, I think that's, yeah, there's a whole rant there.
+
+0:17:57.320,0:18:01.520
+There's also, when it comes to wasting, and we're going to combine the two now, we're
+
+0:18:01.520,0:18:05.440
+going to take software and we're going to combine it with games and what they both do
+
+0:18:05.440,0:18:07.040
+wrong.
+
+0:18:07.040,0:18:12.400
+One of the things I hate, hate is a strong word, one of the things I strongly dislike
+
+0:18:12.400,0:18:15.520
+is JSON.
+
+0:18:15.520,0:18:17.440
+I mean, it's fantastic.
+
+0:18:17.440,0:18:25.800
+And the argument is always, what if we need to read it and modify it?
+
+0:18:25.800,0:18:29.880
+But the funny thing about that is they try to compress JSON so it becomes unreadable.
+
+0:18:29.880,0:18:34.240
+It's just an unreadable garbled mess because you're trying to reduce the string sizes as
+
+0:18:34.240,0:18:37.600
+you try to compress this data.
+
+0:18:37.600,0:18:40.480
+So you lose the readability and it's still bloated.
+
+0:18:40.480,0:18:44.160
+And then your CPU has to pay the cost of parsing it.
+
+0:18:44.160,0:18:45.840
+Well, first of all, serializing it.
+
+0:18:45.840,0:18:50.480
+So it takes this binary data, serializes it, and it's got to pay somebody else's poor computer's
+
+0:18:50.480,0:18:58.120
+going to take the cost of deserializing it, parsing it, turning it back into binary objects.
+
+0:18:58.120,0:19:01.040
+And then you have to also transport it across the wire.
+
+0:19:01.040,0:19:06.280
+And then we have to use compression algorithms, so using more CPU to compress that, the strings,
+
+0:19:06.280,0:19:10.440
+which they can get pretty compressed just with a standard zip algorithm.
+
+0:19:10.440,0:19:14.120
+And then you want to send that, and then you've got to decompress it.
+
+0:19:14.120,0:19:28.960
+So I have this theory that JSON files alone, like if you took all of the energy, all of
+
+0:19:28.960,0:19:34.640
+the power that we use in our computers and our smartphones to parse and read and do all
+
+0:19:34.640,0:19:43.120
+of that and transmit and zip JSON data, you could probably give an entire small country
+
+0:19:43.120,0:19:47.920
+somewhere, power for free, because that's how much is being wasted.
+
+0:19:47.920,0:19:53.360
+And then you can add up all the heat that the CPUs generate by parsing and doing all
+
+0:19:53.360,0:19:58.040
+that, just that cumulative over like a month or something, every device that does it, and
+
+0:19:58.040,0:20:03.160
+you could probably heat an entire small country with that amount of heat.
+
+0:20:03.160,0:20:04.880
+So it's a waste.
+
+0:20:04.880,0:20:08.920
+It's a weird thing to think about.
+
+0:20:08.920,0:20:15.160
+We complain a lot about, oh, you know, crypto mining, using tons of energy, blah, blah,
+
+0:20:15.160,0:20:16.160
+blah.
+
+0:20:16.160,0:20:17.760
+It's bad for the environment.
+
+0:20:17.760,0:20:21.040
+Well, you know what else is bad for the environment?
+
+0:20:21.040,0:20:23.560
+Using JSON files for everything.
+
+0:20:23.560,0:20:32.120
+When you can simply and easily just serialize binary, where you just take binary, make it
+
+0:20:32.120,0:20:33.720
+basically into a file and send it.
+
+0:20:33.720,0:20:37.640
+And you can do whatever compression you want if you want to, but binary is already smaller
+
+0:20:37.640,0:20:39.000
+than JSON.
+
+0:20:39.000,0:20:42.840
+So yeah, all the crypto miners wasting tons of power
+
+0:20:42.840,0:20:44.840
+across the planet, yeah.
+
+0:20:46.060,0:20:47.360
+You know what else is wasting power?
+
+0:20:47.360,0:20:49.720
+JSON deserialization, my goodness.
+
+0:20:49.720,0:20:52.160
+JSON deserialization of 4K textures.
+
+0:20:52.160,0:20:55.160
+Let's get those reduced and let's save the environment
+
+0:20:55.160,0:20:58.580
+from just taking those out of the picture.
+
+0:20:58.580,0:21:02.080
+So yeah, that's kind of my perspective on,
+
+0:21:04.540,0:21:05.680
+how did I get on this?
+
+0:21:05.680,0:21:09.220
+Let's talk about Google people on YouTube,
+
+0:21:09.220,0:21:11.040
+or ex-Google people.
+
+0:21:11.040,0:21:14.220
+So anyways, yeah, it's just super wasteful.
+
+0:21:14.220,0:21:18.400
+The entire industry is very wasteful in how they do things.
+
+0:21:19.500,0:21:22.860
+And I know we don't all use C,
+
+0:21:22.860,0:21:25.920
+but in C you can just take a struct,
+
+0:21:25.920,0:21:28.640
+or even a compound struct of plain old data,
+
+0:21:28.640,0:21:29.680
+let's say there's no pointers,
+
+0:21:29.680,0:21:31.640
+or even if you just write a little function
+
+0:21:31.640,0:21:34.200
+to get rid of the pointers.
+
+0:21:34.200,0:21:36.800
+I mean, I would argue that if you're gonna be
+
+0:21:36.800,0:21:40.640
+serializing data and there's gonna be pointers in there,
+
+0:21:40.640,0:21:42.060
+if you have to have them in there,
+
+0:21:42.060,0:21:43.920
+you should separate them into their own structure
+
+0:21:43.920,0:21:45.640
+so you can easily strip it out,
+
+0:21:45.640,0:21:48.520
+or put it as like a head and then do the offset
+
+0:21:48.520,0:21:51.200
+so you can find the offset of where the POD starts,
+
+0:21:51.200,0:21:54.800
+POD for plain old data, and then just write it.
+
+0:21:54.800,0:21:57.000
+But in C you can just take that struct
+
+0:21:57.000,0:22:01.840
+and just write to a file or across the network.
+
+0:22:01.840,0:22:04.400
+You don't have to do any compression or serialization
+
+0:22:04.400,0:22:05.680
+or anything like that, you just,
+
+0:22:05.680,0:22:09.040
+here's a struct, it's a set of data, and send it off.
+
+0:22:09.040,0:22:13.440
+And that's how much energy you'd save
+
+0:22:13.440,0:22:15.400
+from doing that, it's quite tremendous.
+
+0:22:17.200,0:22:20.000
+But I know we don't all use C.
+
+0:22:20.000,0:22:21.840
+I know C is, I didn't say it,
+
+0:22:21.840,0:22:23.680
+but C is my favorite language.
+
+0:22:23.680,0:22:25.600
+It's just, I love it,
+
+0:22:25.600,0:22:27.180
+because I can use it in a lot of things,
+
+0:22:27.180,0:22:28.960
+like Game Boy Advance programming.
+
+0:22:28.960,0:22:32.200
+So it's just nice and flat,
+
+0:22:32.200,0:22:33.400
+and I don't have to worry about objects,
+
+0:22:33.400,0:22:35.120
+I'm a very simple man.
+
+0:22:35.120,0:22:36.920
+But let's say you're doing C++,
+
+0:22:36.920,0:22:38.080
+and I do a lot of C++,
+
+0:22:38.080,0:22:42.080
+obviously my day job is programming in C++.
+
+0:22:43.080,0:22:48.080
+So in C++, yes, you do have a little bit of a problem,
+
+0:22:48.120,0:22:50.600
+because you don't have an ABI,
+
+0:22:50.600,0:22:52.240
+you don't have a standard for ABI,
+
+0:22:52.240,0:22:55.840
+so you don't know if application binary interface,
+
+0:22:55.840,0:22:58.920
+basically the byte order of a class or a struct.
+
+0:23:00.720,0:23:03.560
+So, I guess I can explain that real quick,
+
+0:23:03.560,0:23:05.760
+for those of you who don't know.
+
+0:23:05.760,0:23:08.040
+In C, you have this flat ABI,
+
+0:23:08.040,0:23:13.000
+and now I don't wanna get too much into alignment
+
+0:23:13.000,0:23:14.360
+and all that sort of stuff,
+
+0:23:15.440,0:23:18.160
+because you do have to do some work there,
+
+0:23:18.160,0:23:19.960
+if you're dealing with things like that.
+
+0:23:19.960,0:23:23.200
+If you're, say, serialize,
+
+0:23:23.200,0:23:24.040
+if you're sending something
+
+0:23:24.040,0:23:26.280
+from a 64-bit computer over to,
+
+0:23:26.280,0:23:27.640
+I don't know, a 16-bit computer,
+
+0:23:27.640,0:23:30.120
+you're definitely gonna have to do a little bit of work
+
+0:23:31.240,0:23:32.080
+on that.
+
+0:23:32.080,0:23:34.440
+But let's say that you set up your struct
+
+0:23:34.440,0:23:35.800
+with the proper alignment and all that,
+
+0:23:35.800,0:23:38.040
+in C, you could just send it straight across,
+
+0:23:38.040,0:23:39.640
+and knowing that maybe your smallest
+
+0:23:39.640,0:23:41.560
+or minimum spec is 16,
+
+0:23:41.560,0:23:43.720
+there's gonna be, did I say byte?
+
+0:23:43.720,0:23:44.640
+16 bits.
+
+0:23:46.000,0:23:48.160
+So, you can,
+
+0:23:49.520,0:23:51.520
+let's say that you want to do that,
+
+0:23:52.840,0:23:53.840
+I've lost my train of thought,
+
+0:23:53.840,0:23:54.680
+that alignment,
+
+0:23:54.680,0:23:55.840
+and let's say you have all that,
+
+0:23:55.840,0:23:57.640
+you can send it straight across.
+
+0:23:57.640,0:24:00.240
+Now, one of the problems you have in C++
+
+0:24:00.240,0:24:02.960
+is that it doesn't have that ABI across compilers,
+
+0:24:02.960,0:24:04.360
+and even compiler versions,
+
+0:24:04.360,0:24:09.360
+like if you use Clang X and then you use Clang Y,
+
+0:24:09.800,0:24:13.880
+it's not guaranteed that the name mangling or the,
+
+0:24:15.200,0:24:16.880
+which doesn't matter in this argument,
+
+0:24:16.880,0:24:19.160
+but the ABI is gonna be the same.
+
+0:24:19.160,0:24:21.080
+And that's because,
+
+0:24:21.080,0:24:24.520
+mainly I think it's because of the Vtable.
+
+0:24:24.520,0:24:26.960
+A Vtable is a piece,
+
+0:24:26.960,0:24:31.640
+is a block of your class for virtual classes
+
+0:24:31.640,0:24:34.720
+where they point to the function it should call
+
+0:24:34.720,0:24:35.960
+when you call a function.
+
+0:24:35.960,0:24:38.240
+As you know, you can create a virtual function,
+
+0:24:38.240,0:24:41.560
+you can override those functions in the child classes,
+
+0:24:41.560,0:24:44.680
+or the derivatives, whatever you wanna call them.
+
+0:24:44.680,0:24:47.000
+Now that Vtable could be at the top,
+
+0:24:47.000,0:24:50.640
+it could be right in the middle of the binary data,
+
+0:24:50.640,0:24:53.040
+it could be at the end of the class,
+
+0:24:53.040,0:24:54.200
+there's no telling where that is.
+
+0:24:54.200,0:24:56.320
+So just serializing and sending it off
+
+0:24:56.320,0:24:58.680
+is gonna be a little bit of a problem.
+
+0:24:58.680,0:25:02.240
+And that's where serialization libraries start coming in.
+
+0:25:03.160,0:25:05.840
+You have other languages where you don't have access
+
+0:25:05.840,0:25:09.600
+to the raw binary of the class
+
+0:25:09.600,0:25:11.720
+without turning on special flags
+
+0:25:11.720,0:25:12.880
+or whatever for the compiler,
+
+0:25:12.880,0:25:16.080
+like in C Sharp or say JavaScript or something like that.
+
+0:25:16.080,0:25:18.520
+So sending things straight over,
+
+0:25:18.520,0:25:20.720
+like you do in C, is not as easy.
+
+0:25:20.720,0:25:25.720
+And so I do understand that part of where we get into this.
+
+0:25:27.520,0:25:29.400
+This whole, let's JSON serialize it,
+
+0:25:29.400,0:25:32.760
+because then I can write my program in C Sharp
+
+0:25:32.760,0:25:36.320
+and then have a JavaScript client be able to read the data.
+
+0:25:36.320,0:25:37.960
+And I don't have to worry about,
+
+0:25:37.960,0:25:40.120
+I don't have to worry about Indian-ness,
+
+0:25:40.120,0:25:41.720
+or I don't have to worry about, you know,
+
+0:25:41.720,0:25:43.520
+the alignment or anything like that.
+
+0:25:45.080,0:25:47.760
+So yeah, it does kind of really help
+
+0:25:47.760,0:25:51.680
+and it does kind of reduce the cost of effort up front
+
+0:25:51.680,0:25:55.600
+to do those kind of like, just use a JSON library.
+
+0:25:55.600,0:25:56.440
+But it's so wasteful.
+
+0:25:56.440,0:25:59.280
+I think that if you just, it's really,
+
+0:26:00.640,0:26:04.320
+programs, companies have this weird thing
+
+0:26:04.320,0:26:08.360
+where they think that it takes months
+
+0:26:08.360,0:26:11.140
+to do something as simple as serializing some bytes.
+
+0:26:12.120,0:26:14.840
+They're like, I don't know if that fits into the schedule.
+
+0:26:14.840,0:26:18.160
+Man, that's a whole other thing.
+
+0:26:18.160,0:26:20.000
+Let's not go on that.
+
+0:26:20.000,0:26:25.000
+But yeah, I do understand that, you know,
+
+0:26:25.080,0:26:27.600
+it's a cost analysis.
+
+0:26:27.600,0:26:29.520
+No company, I can tell you this,
+
+0:26:29.520,0:26:32.000
+I've worked at so many different companies,
+
+0:26:32.000,0:26:35.920
+no company, none of them care about how much power
+
+0:26:37.640,0:26:41.000
+you're drawing from a wall socket to run their program.
+
+0:26:41.000,0:26:44.680
+And as long as it's fast and it gets the player,
+
+0:26:44.680,0:26:46.440
+the client, what they need.
+
+0:26:48.240,0:26:50.720
+Now this is a different argument for mobile.
+
+0:26:50.720,0:26:53.680
+In mobile, they sometimes do care
+
+0:26:53.680,0:26:56.280
+because they want good battery life.
+
+0:26:56.280,0:26:59.040
+I don't want to say excellent battery life,
+
+0:26:59.040,0:27:02.280
+otherwise they wouldn't use engines that drain battery life.
+
+0:27:02.280,0:27:04.640
+They would, you know, write their own stuff.
+
+0:27:05.880,0:27:09.480
+But they do care a little bit there.
+
+0:27:09.480,0:27:11.180
+So I'll give them credit on that.
+
+0:27:11.180,0:27:16.180
+So this brings us to things like,
+
+0:27:17.880,0:27:20.280
+gosh, what's it called, protobuf.
+
+0:27:20.280,0:27:23.000
+Okay, protobuf does help you
+
+0:27:23.000,0:27:25.960
+with that binary serialization.
+
+0:27:25.960,0:27:30.400
+Now I didn't go through the entirety of the class
+
+0:27:30.400,0:27:32.280
+or all the classes to determine
+
+0:27:32.280,0:27:36.160
+whether the binary serialization is efficient.
+
+0:27:36.160,0:27:38.880
+I assume it's efficient because it's open source
+
+0:27:38.880,0:27:40.000
+and a lot of people have looked at it
+
+0:27:40.000,0:27:42.320
+and probably have contributed.
+
+0:27:42.320,0:27:46.400
+And I do, I know I prefixed this earlier
+
+0:27:46.400,0:27:48.880
+about Google employees and all that sort of stuff.
+
+0:27:48.880,0:27:50.880
+It's not to say they're bad programmers.
+
+0:27:51.760,0:27:56.480
+It's just, you know, there are some bad programs
+
+0:27:56.480,0:27:58.400
+that come out of Google, a lot of bad programs
+
+0:27:58.400,0:27:59.600
+that come out of Google.
+
+0:27:59.600,0:28:01.960
+And it's not the fault of the programmer most of the time,
+
+0:28:01.960,0:28:04.160
+it's the fault of the company.
+
+0:28:06.040,0:28:08.920
+So they do have good programmers that do study this stuff
+
+0:28:08.920,0:28:10.560
+and take the effort and they do the research
+
+0:28:10.560,0:28:11.480
+and all this other stuff,
+
+0:28:11.480,0:28:12.720
+which is very important to everybody,
+
+0:28:12.720,0:28:14.360
+especially when you open source it.
+
+0:28:14.360,0:28:16.860
+So no complaints from me there.
+
+0:28:17.800,0:28:22.040
+But protobuf is like hundreds of thousands of lines of code
+
+0:28:22.040,0:28:26.000
+to serialize some bytes and that is huge.
+
+0:28:27.720,0:28:32.720
+I have this thought about libraries
+
+0:28:33.800,0:28:36.080
+and even programmers just inside of a company.
+
+0:28:36.080,0:28:41.080
+Programmers are often stuck to doing a specific type of work
+
+0:28:43.120,0:28:44.080
+on these big companies.
+
+0:28:44.080,0:28:48.580
+So I like to say that if you took a person
+
+0:28:48.580,0:28:52.160
+and you paid them a pretty good amount of money
+
+0:28:52.160,0:28:57.160
+and you gave them a rock in the corner of a room
+
+0:28:57.160,0:29:00.420
+and you said, your job is to manage this rock,
+
+0:29:02.460,0:29:04.240
+the best thing that person could do
+
+0:29:04.240,0:29:06.960
+is not do anything.
+
+0:29:06.960,0:29:09.640
+The rock is gonna be completely fine.
+
+0:29:09.640,0:29:11.520
+But chances are you're gonna come back two weeks later
+
+0:29:11.520,0:29:14.200
+and the rock is gonna have a little house set up
+
+0:29:14.200,0:29:15.280
+with a little dinner table
+
+0:29:15.280,0:29:17.360
+and it's gonna be laying inside of a little bed
+
+0:29:17.360,0:29:18.760
+with a blanket over it.
+
+0:29:18.760,0:29:21.880
+And then once you ask the developer how he's going,
+
+0:29:21.880,0:29:23.680
+he's gonna say, oh, well, you see,
+
+0:29:23.680,0:29:26.080
+I've optimized the living situation for this rock
+
+0:29:26.080,0:29:29.320
+and I've also created a Jira workflow
+
+0:29:29.320,0:29:31.420
+so that we can keep track of its schedule.
+
+0:29:32.400,0:29:33.880
+And that's just how people are
+
+0:29:33.880,0:29:35.400
+when you pay them a good amount of money
+
+0:29:35.400,0:29:37.040
+and tell them to do something.
+
+0:29:37.040,0:29:40.400
+They overdo it every time
+
+0:29:40.400,0:29:44.040
+because maybe it's because they're bored
+
+0:29:44.040,0:29:45.320
+and they need something to do
+
+0:29:45.320,0:29:47.420
+and the task wasn't interesting enough
+
+0:29:47.420,0:29:49.160
+so they go way off the wall
+
+0:29:49.160,0:29:51.320
+or maybe they're trying to prove something,
+
+0:29:52.360,0:29:55.080
+they want a higher salary or maybe a different position
+
+0:29:55.080,0:30:00.080
+so they really kind of polish the rock, so to speak.
+
+0:30:00.080,0:30:03.320
+So I feel that's the case for a lot of libraries.
+
+0:30:03.320,0:30:07.640
+You set a library out there, let's say a logging library,
+
+0:30:07.640,0:30:11.160
+and it does sufficiently what you need it to do
+
+0:30:11.160,0:30:13.280
+for your program.
+
+0:30:13.280,0:30:15.640
+So then all of a sudden,
+
+0:30:16.920,0:30:20.000
+I don't know, it gets picked up by somebody
+
+0:30:20.000,0:30:21.520
+on a YouTube video or something
+
+0:30:21.520,0:30:22.560
+and then everybody's using it.
+
+0:30:22.560,0:30:24.600
+All of a sudden you have half a million people
+
+0:30:24.600,0:30:26.600
+downloading or half a million downloads
+
+0:30:26.600,0:30:27.440
+of your software.
+
+0:30:27.440,0:30:30.640
+Half a million people downloading or half a million downloads
+
+0:30:30.640,0:30:32.160
+on your library.
+
+0:30:32.160,0:30:34.120
+You all of a sudden turn over and say,
+
+0:30:34.120,0:30:37.240
+man, there's a lot of people downloading this library.
+
+0:30:37.240,0:30:38.960
+I need to improve it.
+
+0:30:38.960,0:30:40.320
+And so you start going in there
+
+0:30:40.320,0:30:44.440
+and you start adding tons and tons of features
+
+0:30:44.440,0:30:46.160
+that are not needed at all.
+
+0:30:46.160,0:30:50.440
+Remember that you got half a million downloads already.
+
+0:30:50.440,0:30:52.160
+That means it does what people want.
+
+0:30:52.160,0:30:54.400
+Of course they're gonna come and complain.
+
+0:30:54.400,0:30:56.520
+The other part is, and this is not the fault
+
+0:30:56.520,0:30:59.200
+of the person polishing the rock,
+
+0:30:59.200,0:31:00.600
+this is the fault of the people
+
+0:31:00.600,0:31:02.960
+who are using their libraries.
+
+0:31:02.960,0:31:06.200
+People often think that if a library is not updated
+
+0:31:06.200,0:31:07.920
+in the past month or half a year,
+
+0:31:07.920,0:31:09.680
+it's all of a sudden just broken.
+
+0:31:09.680,0:31:10.720
+You can't use this.
+
+0:31:10.720,0:31:13.960
+It's just, ugh, it doesn't work anymore.
+
+0:31:15.200,0:31:18.240
+The code just rotted itself out of existence
+
+0:31:18.240,0:31:19.600
+from sitting there for too long.
+
+0:31:19.600,0:31:21.120
+I don't know.
+
+0:31:21.120,0:31:22.720
+And there's a lot of pressure on that
+
+0:31:22.720,0:31:26.240
+to keep them updating and doing things like that.
+
+0:31:26.240,0:31:27.920
+Now, also you have open source,
+
+0:31:27.920,0:31:31.880
+so you have hundreds of people sending issues
+
+0:31:31.880,0:31:35.160
+and also pull requests and you start accepting things.
+
+0:31:35.160,0:31:36.000
+It just bloats.
+
+0:31:36.000,0:31:37.920
+And so this is what happens with libraries.
+
+0:31:37.920,0:31:41.840
+And I don't think Protobuf is any exception to this.
+
+0:31:41.840,0:31:43.920
+I just wanna serialize some bytes.
+
+0:31:43.920,0:31:48.160
+And so Protobuf is quite bitty.
+
+0:31:48.160,0:31:53.160
+Here, let me look up the Protobuf here.
+
+0:31:58.600,0:32:01.400
+So we have the protocol buffers.
+
+0:32:01.400,0:32:05.680
+And I'll actually just, is this the main library?
+
+0:32:05.680,0:32:07.280
+Looks like it.
+
+0:32:07.280,0:32:08.680
+It was updated five hours ago.
+
+0:32:08.680,0:32:12.200
+This thing worked like five years ago or whatever
+
+0:32:12.200,0:32:16.040
+when I was using it, but it's still being updated.
+
+0:32:16.040,0:32:20.560
+And five years later, it's some serious business
+
+0:32:20.560,0:32:21.720
+taking some bytes and putting them
+
+0:32:21.720,0:32:22.880
+into a file across network.
+
+0:32:22.880,0:32:24.760
+And I know I'm simplifying it.
+
+0:32:24.760,0:32:26.320
+I've done tons of network stuff.
+
+0:32:26.320,0:32:27.160
+I get it.
+
+0:32:28.760,0:32:30.120
+Half the time, you don't even use Protobuf
+
+0:32:30.120,0:32:32.280
+for network stuff, so there's that.
+
+0:32:33.280,0:32:35.160
+But we're gonna, I'm just gonna,
+
+0:32:36.360,0:32:37.560
+I'm gonna grab this guy.
+
+0:32:37.560,0:32:39.560
+Hold on, I've gotta turn off a thing on my computer
+
+0:32:39.560,0:32:41.680
+that talks to me whenever I copy text.
+
+0:32:41.680,0:32:45.000
+Okay, so I'm gonna grab this guy
+
+0:32:45.000,0:32:48.120
+and we will go ahead and,
+
+0:32:50.880,0:32:53.040
+we'll go ahead and clone it down somewhere.
+
+0:32:56.520,0:33:00.640
+Put it in a document, documents.
+
+0:33:02.800,0:33:05.880
+Go to git, git clone that guy.
+
+0:33:07.480,0:33:10.480
+So we'll clone it down and let's take a look
+
+0:33:10.480,0:33:13.440
+at where the source code is for this guy.
+
+0:33:13.440,0:33:15.240
+And of course, a lot of the source code
+
+0:33:15.240,0:33:17.560
+is gonna be in language wrappers
+
+0:33:17.560,0:33:20.080
+and that might be where half the updates
+
+0:33:20.080,0:33:22.640
+are coming from is language wrappers, I don't know.
+
+0:33:22.640,0:33:26.480
+But you got C-sharp, Java, Python, Ruby, Rust, blah, blah, blah.
+
+0:33:26.480,0:33:28.880
+So it's probably gonna be in the source folder
+
+0:33:28.880,0:33:32.400
+and in this Google Protobuf here.
+
+0:33:33.760,0:33:37.920
+So it's still downloading, but let's take a little
+
+0:33:37.920,0:33:42.920
+Ubuntu local instance here
+
+0:33:44.240,0:33:46.840
+and let's go over to,
+
+0:33:49.320,0:33:51.000
+let's go to, what is it?
+
+0:33:51.000,0:33:56.000
+Mount C user brand documents git.
+
+0:33:58.320,0:34:01.360
+And this is gonna be inside of Protobuf.
+
+0:34:02.160,0:34:06.640
+And then if we go inside of this folder,
+
+0:34:06.640,0:34:11.640
+so cd to source, cd to Google, cd to Protobuf.
+
+0:34:12.960,0:34:16.560
+So here we are inside of Protobuf
+
+0:34:16.560,0:34:19.920
+and we're gonna do a little experiment here
+
+0:34:19.920,0:34:20.760
+if I type it right.
+
+0:34:20.760,0:34:25.760
+So we're gonna find dot, we're gonna do a reg x.
+
+0:34:26.640,0:34:29.000
+I have this written down because I am not,
+
+0:34:30.840,0:34:32.720
+you know, the most incredible person
+
+0:34:32.720,0:34:37.720
+at remembering all these Unix or Linux commands.
+
+0:34:39.120,0:34:40.600
+One of the beautiful things about Linux
+
+0:34:40.600,0:34:43.360
+is that programs do a single thing and they do it well.
+
+0:34:43.360,0:34:44.360
+I love that.
+
+0:34:44.360,0:34:49.040
+That's the best design decision anyone could have.
+
+0:34:49.040,0:34:51.400
+In fact, I think I can, let me copy.
+
+0:34:51.400,0:34:53.960
+I think I can just copy this text
+
+0:34:53.960,0:34:55.840
+and paste it into the terminal here.
+
+0:34:57.040,0:34:58.600
+I know I can.
+
+0:34:58.600,0:35:02.960
+Whoop, it looks like I got a weird binary thing
+
+0:35:02.960,0:35:03.800
+at the beginning there.
+
+0:35:03.800,0:35:06.000
+Let me see if it's because the way I copied it.
+
+0:35:07.000,0:35:11.440
+No, here, let's just go to, nope.
+
+0:35:13.320,0:35:14.440
+You can't see it off screen,
+
+0:35:14.440,0:35:19.440
+but I have this inside of a little word or something.
+
+0:35:19.760,0:35:22.080
+Okay, f, there we go.
+
+0:35:22.080,0:35:25.520
+So I'm gonna do this reg x to just get all the headers,
+
+0:35:25.520,0:35:28.160
+cc, cfiles, and cpp files,
+
+0:35:28.160,0:35:30.160
+because this is a C++ repository.
+
+0:35:30.160,0:35:32.840
+I'm gonna do print zero instead of print
+
+0:35:33.960,0:35:36.760
+so that I can do x arg zero.
+
+0:35:36.760,0:35:39.440
+I'm gonna do basically a line count.
+
+0:35:39.440,0:35:42.720
+I'm gonna count the lines in this project.
+
+0:35:43.960,0:35:47.080
+So just to serialize bytes in one language
+
+0:35:48.720,0:35:51.740
+is over a quarter million lines of code.
+
+0:35:51.740,0:35:55.480
+And I don't know if some of those lines
+
+0:35:55.480,0:35:57.680
+are comments or whatever,
+
+0:35:57.680,0:35:59.760
+but this, I've written a game engine
+
+0:35:59.760,0:36:03.280
+that uses Vulkan and all in C.
+
+0:36:03.280,0:36:05.760
+So I've gotta do the Vulkan library in C,
+
+0:36:05.760,0:36:07.160
+and then it works with entities,
+
+0:36:07.160,0:36:12.160
+and it has all the transformations,
+
+0:36:12.320,0:36:14.440
+all that sort of stuff, including the shaders,
+
+0:36:14.440,0:36:17.680
+and it's less lines of code than this,
+
+0:36:17.680,0:36:19.440
+and it has tons of comments too.
+
+0:36:19.440,0:36:22.720
+So over a quarter million lines of code
+
+0:36:22.720,0:36:25.680
+is a lot of code for serializing some bytes.
+
+0:36:25.680,0:36:28.240
+And that's kind of where I'm coming from on this.
+
+0:36:28.240,0:36:30.600
+And if we go to the wrappers,
+
+0:36:30.600,0:36:35.600
+hopefully they're not as big.
+
+0:36:36.000,0:36:38.040
+Let's take a look at, let's say C sharp.
+
+0:36:39.880,0:36:41.880
+There's a lot of batch files in here.
+
+0:36:41.880,0:36:44.240
+Keys, vtest, okay, here we go, source.
+
+0:36:44.240,0:36:49.240
+Okay, so C sharp, source, and then of course we've got,
+
+0:36:51.980,0:36:54.280
+what are all these, tests?
+
+0:36:54.280,0:36:56.720
+Eh, let's just do the whole thing.
+
+0:36:56.720,0:36:57.560
+Life is short.
+
+0:36:59.240,0:37:04.240
+So this is much easier, we can just do CS files.
+
+0:37:06.680,0:37:11.120
+So this one alone is 142,139.
+
+0:37:11.120,0:37:13.360
+And this is a wrapper to like call.
+
+0:37:13.360,0:37:16.040
+I don't know if they re-implemented the code in C sharp,
+
+0:37:16.040,0:37:18.640
+or if they're calling the C++ code here.
+
+0:37:18.640,0:37:19.600
+Not a percent sure.
+
+0:37:19.600,0:37:24.600
+But still, it's a lot of code to write some bytes.
+
+0:37:25.760,0:37:30.760
+So that's kind of my perspective on big companies.
+
+0:37:33.520,0:37:35.780
+Their code bases, libraries.
+
+0:37:36.840,0:37:39.320
+I thought this is a nice simple way
+
+0:37:39.320,0:37:42.920
+to start off whatever series I'm doing here.
+
+0:37:44.680,0:37:47.320
+It's just talk about some code, I like code.
+
+0:37:47.320,0:37:49.840
+And I'm not, like I said, I'm not complaining
+
+0:37:49.840,0:37:52.920
+about all this, it all functions, I've used it.
+
+0:37:52.920,0:37:54.560
+It makes things a lot easier.
+
+0:37:55.400,0:37:58.400
+Companies should use them rather than rolling their own
+
+0:37:58.400,0:38:01.480
+because most likely you're gonna make a mistake
+
+0:38:01.480,0:38:02.560
+if you roll your own.
+
+0:38:02.560,0:38:05.240
+And you gotta deal with all that debugging and stuff.
+
+0:38:05.240,0:38:08.560
+I'm just putting out a hypothesis,
+
+0:38:08.560,0:38:12.400
+hypotheses or ideas here about how much power is wasted
+
+0:38:12.400,0:38:17.400
+and kind of how programmers polish rocks.
+
+0:38:17.720,0:38:19.920
+And I polish rocks all the time.
+
+0:38:19.920,0:38:24.080
+So yeah, and I think that's,
+
+0:38:26.880,0:38:31.880
+yeah, that's all I got for my view
+
+0:38:32.240,0:38:37.240
+on just coding, programming, third party libraries.
+
+0:38:37.240,0:38:42.240
+I don't know exactly what I'm gonna go over
+
+0:38:42.360,0:38:45.440
+in kind of future, what are these,
+
+0:38:45.440,0:38:49.360
+future podcasts I guess these are.
+
+0:38:50.400,0:38:53.040
+Not 100% sure what I'm gonna go over.
+
+0:38:53.040,0:38:57.080
+I can go over assembly for Game Boy games,
+
+0:38:57.080,0:38:59.040
+I can kind of dive into other people's code,
+
+0:38:59.040,0:39:01.680
+I can just talk about games in general and game design.
+
+0:39:01.680,0:39:05.040
+I have a lot of ideas or thoughts on game design.
+
+0:39:05.040,0:39:07.280
+And I'm trying not to ramble on them here.
+
+0:39:07.280,0:39:11.280
+And I've got lots of thoughts
+
+0:39:11.280,0:39:13.240
+of how we connect software together
+
+0:39:13.240,0:39:18.240
+from straight from the hardware in the C and C++ area
+
+0:39:18.440,0:39:23.440
+or whatever low level language that you use
+
+0:39:23.520,0:39:26.680
+or like all the way up to how it communicates
+
+0:39:26.680,0:39:27.800
+with a web server.
+
+0:39:29.480,0:39:32.280
+Yeah, I think that there's just a lot to think about,
+
+0:39:32.280,0:39:33.440
+a lot to talk about.
+
+0:39:33.440,0:39:36.280
+A lot to talk about and a lot to have fun with.
+
+0:39:37.920,0:39:42.680
+So this is like the first episode of this podcast
+
+0:39:42.680,0:39:45.600
+and I don't know how many people are gonna watch it
+
+0:39:45.600,0:39:47.560
+or people are even gonna see it.
+
+0:39:47.560,0:39:52.560
+But if you guys do exist, feel free to like throw out
+
+0:39:52.880,0:39:54.200
+some ideas of what to talk about
+
+0:39:54.200,0:39:57.400
+because like I said, it doesn't have to be just about code.
+
+0:39:57.400,0:40:00.160
+I love code, I could talk about code all day.
+
+0:40:00.160,0:40:01.600
+And it's been like 40 minutes,
+
+0:40:01.600,0:40:04.960
+I didn't even notice this time flew by.
+
+0:40:04.960,0:40:08.120
+But I could talk about games and game design, old games,
+
+0:40:08.120,0:40:09.840
+collecting games, I collect a lot of games.
+
+0:40:09.840,0:40:13.480
+I could talk about art, art as it relates to programming
+
+0:40:13.480,0:40:17.120
+or games or just art in general, I like to draw.
+
+0:40:17.120,0:40:19.800
+So I have a lot of thoughts on that sort of stuff.
+
+0:40:19.800,0:40:23.680
+So yeah, it'd be really interesting to see
+
+0:40:23.680,0:40:26.080
+if anybody has some ideas of what to look over.
+
+0:40:26.080,0:40:31.080
+I thought this was a lot of fun.
+
+0:40:31.840,0:40:34.440
+I like talking about code, this is awesome.
+
+0:40:34.440,0:40:58.440
+Anyways, see you guys.

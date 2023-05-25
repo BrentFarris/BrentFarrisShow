@@ -1,0 +1,1544 @@
+0:00:00.000,0:00:06.800
+Hello and welcome back. This is gonna be I guess episode 2. Well I started zero for
+
+0:00:06.800,0:00:13.040
+indexing right so this will be episode 1. Welcome to episode 1 of the
+
+0:00:13.040,0:00:24.120
+podcast. I just saw recently that there was kind of an uptick in people who
+
+0:00:24.120,0:00:30.440
+are streaming and they hit alt tab or they have they just have things on their
+
+0:00:30.440,0:00:37.680
+screen that they shouldn't have. You know everything from like home addresses,
+
+0:00:37.680,0:00:47.720
+web searches, adult videos, the websites, you know and that sort of stuff. Just a
+
+0:00:47.720,0:00:54.000
+lot of personal information that is just going out there and it's kind of a
+
+0:00:54.000,0:00:59.640
+it's kind of a problem you know with people streaming a lot and exposing all
+
+0:00:59.640,0:01:06.240
+this stuff and there's a lot of easy ways to combat these problems especially
+
+0:01:06.240,0:01:13.040
+on Windows. Windows has a lot of tools for you to not fall prey to this to this
+
+0:01:13.040,0:01:19.440
+I don't know what to call it these self-destructive problems. It could be
+
+0:01:19.440,0:01:27.920
+out of laziness or whatever else but I have some some thoughts on how to solve
+
+0:01:27.920,0:01:32.240
+that and just some things people can do when they're streaming and it's not even
+
+0:01:32.240,0:01:35.440
+just streaming there's a lot of people who record videos. I've watched people
+
+0:01:35.440,0:01:39.760
+who record videos and they think the the animations and the things moving around
+
+0:01:39.760,0:01:45.880
+is fast enough to not worry about people seeing their address you know on a maps
+
+0:01:45.880,0:01:53.600
+location or seeing their private messages with their with their wife in
+
+0:01:53.600,0:02:00.200
+this case that I'm thinking of wife or husband or whoever else. So there's
+
+0:02:00.200,0:02:03.560
+there's very easy things you can do whenever you're recording whenever you're
+
+0:02:03.560,0:02:08.480
+streaming on Windows that'll solve this. So I'm going to start off with talking
+
+0:02:08.480,0:02:13.160
+about those things just some tools that you can use to to not fall prey to that
+
+0:02:13.160,0:02:17.440
+and then the second part I'm going to talk a little bit about programming
+
+0:02:17.440,0:02:25.400
+mainly about optimizing and making your code a bit faster and just things to
+
+0:02:25.400,0:02:31.840
+think about I guess. So staying private while you're streaming one of the most
+
+0:02:31.840,0:02:38.800
+common things that people do is the alt tab and alt tab is nice it allows you
+
+0:02:38.800,0:02:44.000
+get through things really quickly. Let me suggest to you alt escape let's say that
+
+0:02:44.000,0:02:48.200
+you have two windows you can put the window that you want to kind of look at
+
+0:02:48.200,0:02:52.680
+on the screen behind the game and put your other stuff on the other monitor
+
+0:02:52.680,0:02:59.280
+and you use alt escape to go to the background window and then come back to
+
+0:02:59.280,0:03:05.240
+foreground so it's kind of like going through them in that way it just allows
+
+0:03:05.240,0:03:11.560
+you to simply switch between it basically sends the current program to
+
+0:03:11.560,0:03:15.040
+the back of the stack and the next one shows up so if there's only two you're
+
+0:03:15.040,0:03:20.360
+just gonna be swapping between the two. So that's just a quick alternative if
+
+0:03:20.360,0:03:26.520
+you're kind of wanting that that velocity of alt tab but of course we
+
+0:03:26.520,0:03:29.400
+have lots of tabs we want to tab through them and we want to find the one that
+
+0:03:29.400,0:03:36.000
+we're interested in. So the next thing that you'd want to do is virtual
+
+0:03:36.000,0:03:41.760
+desktops. Not many people I've seen through their streams or anything like
+
+0:03:41.760,0:03:46.200
+that use virtual desktops they kind of just stick everything about them up on
+
+0:03:46.200,0:03:53.920
+their primary window. So I like to use virtual desktops to separate out this
+
+0:03:53.920,0:03:58.080
+stuff and the great thing about virtual desktops is that you can shut down your
+
+0:03:58.080,0:04:00.800
+computer you can restart your computer and it'll come back up and you'll still
+
+0:04:00.800,0:04:06.960
+have your virtual desktop so you don't have to reset them up. In fact here's a
+
+0:04:06.960,0:04:14.400
+example of what it looks like we have I have a primary desktop here and I got a
+
+0:04:14.400,0:04:19.480
+podcast desktop here you can guess which one I'm using right now. So the primary
+
+0:04:19.480,0:04:24.320
+one is gonna have you know chats and that sort of stuff on it and then the
+
+0:04:24.320,0:04:28.080
+podcast one is gonna have podcast related things. The great thing about
+
+0:04:28.080,0:04:33.720
+this is when you alt tab you're presented with just the programs that
+
+0:04:33.720,0:04:38.920
+are running on that desktop so in this way you don't have to do much you can
+
+0:04:38.920,0:04:43.080
+just set up these you can even give them a name as you saw just right click it
+
+0:04:43.080,0:04:51.720
+hit rename there you go. Another problem that people have is browser tabs lots of
+
+0:04:51.720,0:04:55.560
+lots of browser tabs also when you type in the browser it shows history of your
+
+0:04:55.560,0:05:00.760
+searches I don't want to know what kind of weird things you search for but I am
+
+0:05:00.760,0:05:05.720
+only human so when I see that pop up a little nagging part of the back my brain
+
+0:05:05.720,0:05:10.640
+is like what's in there what are they what are they interested in not in a
+
+0:05:10.640,0:05:14.520
+nefarious way but you know people you like to watch they have some information
+
+0:05:14.520,0:05:20.720
+on things you wonder where they're getting it from so it's very tempting
+
+0:05:20.720,0:05:25.880
+for a lot of people. People are curious by nature and they're going to wind up
+
+0:05:25.880,0:05:31.640
+looking through that stuff that pops up especially if you have tabs search
+
+0:05:31.640,0:05:40.200
+history all that sort of stuff. So how do we solve this if you're a gamer you can
+
+0:05:40.200,0:05:45.120
+use the Steam browser I think you press shift tab and that'll open up the the
+
+0:05:45.120,0:05:48.440
+Steam overlay and you hit web browser and you can search on stuff in there and
+
+0:05:48.440,0:05:52.400
+that's a kind of an easier way for people that don't want to hold tab out
+
+0:05:52.400,0:05:57.600
+or anything like that. The other one is to use browser sessions this is something
+
+0:05:57.600,0:06:03.400
+I use quite often as you can see I have a few sessions here so when you're in
+
+0:06:03.400,0:06:06.560
+your browser there's a little icon in the top right and you click on it and
+
+0:06:06.560,0:06:10.800
+create you'll basically get this window with the sessions so you see I have my
+
+0:06:10.800,0:06:15.680
+personal one I have one that is explicitly for Google things only I have
+
+0:06:15.680,0:06:21.720
+one that's for the podcast I have one for Japanese stuff so you can guess that
+
+0:06:21.720,0:06:26.360
+I'll be using podcast one whenever I'm going through this and so the podcast
+
+0:06:26.360,0:06:31.840
+they have their separate histories they have their separate logins and you know
+
+0:06:31.840,0:06:38.000
+data and plugins and everything else so separate out your separate
+
+0:06:38.000,0:06:42.320
+separate out your browser stuff don't don't go streaming with your main
+
+0:06:42.320,0:06:47.920
+browser and you know bank tabs open and all that sort of stuff so yeah it's very
+
+0:06:47.920,0:06:51.240
+easy just set these up and you can you can decorate them you just hit the add
+
+0:06:51.240,0:06:56.720
+button you can add as many as you want very simple so that's kind of how you
+
+0:06:56.720,0:07:01.680
+can separate your browser how you separate your desktops one of the
+
+0:07:01.680,0:07:06.760
+problems that you'll have with even if you separate out your desktops is you're
+
+0:07:06.760,0:07:11.120
+gonna have your file system if you are a programmer and you're doing a programming
+
+0:07:11.120,0:07:18.920
+video or a dev log or whatever you're gonna show your file system so it's just
+
+0:07:18.920,0:07:24.520
+inevitable you have a file window open or you know you'll have files that you
+
+0:07:24.520,0:07:28.920
+have to load up or something like that so if you want to show off that stuff I
+
+0:07:28.920,0:07:35.480
+think we all use git we all use you know subversion I guess or perforce or you
+
+0:07:35.480,0:07:42.680
+know all the different kinds of repositories so we can clone that stuff
+
+0:07:42.680,0:07:47.120
+over to a separate user account it's very easy to create a separate user
+
+0:07:47.120,0:07:52.280
+account I create one for family members I create them for just random stuff I
+
+0:07:52.280,0:07:57.200
+want to lock myself out from or if I want to sandbox and like test around
+
+0:07:57.200,0:08:02.480
+with things but you can create a user and then do all your videos and your
+
+0:08:02.480,0:08:06.760
+streaming in that user you know if you're a big game streamer you just
+
+0:08:06.760,0:08:14.000
+create a this is my game streaming account and you set up a user and it has
+
+0:08:14.000,0:08:17.240
+its own file system and you can lock it out of access from your main file system
+
+0:08:17.240,0:08:22.800
+so in that way you can prevent showing off your files whatever files you may
+
+0:08:22.800,0:08:29.680
+have you know court subpoenas or whatever yeah they they'll now be kind
+
+0:08:29.680,0:08:34.960
+of hidden away especially if you use the preview I sometimes use preview instead
+
+0:08:34.960,0:08:37.320
+of Explorer and you know you accidentally click on something it'll
+
+0:08:37.320,0:08:40.480
+show you preview on the right and you don't want that going up on your stream
+
+0:08:40.480,0:08:48.080
+or you know up in your video and you didn't notice so creating a user account
+
+0:08:48.080,0:08:52.760
+super easy you just go into your settings you look for accounts and
+
+0:08:52.760,0:08:56.960
+there's other user accounts right here you just click add account very easy I
+
+0:08:56.960,0:09:01.440
+don't think you have to have a Microsoft account for this for these you can add
+
+0:09:01.440,0:09:05.440
+it as a family member I don't know just add an account and it's very simple and
+
+0:09:05.440,0:09:11.640
+that'll make it so that you can separate out your file system and this will also
+
+0:09:11.640,0:09:14.840
+make it so that you don't need virtual desktops or have to make different
+
+0:09:14.840,0:09:22.440
+browser stuff so this is just another vector of attack for hiding you know not
+
+0:09:22.440,0:09:29.040
+hiding but you know not not displaying your goods to the world there's a lot of
+
+0:09:29.040,0:09:32.960
+important stuff on our computers and we have a lot of computers with a lot of
+
+0:09:32.960,0:09:36.000
+stuff strung around that we don't even notice especially when we're clicking
+
+0:09:36.000,0:09:41.720
+around real fast and a lot of people when they edit their videos they'll just
+
+0:09:41.720,0:09:46.800
+load up their video and they'll skip ahead and you'll just miss those flashes
+
+0:09:46.800,0:09:52.440
+of frames that pop up with sensitive information so please use user accounts
+
+0:09:52.440,0:10:01.040
+if you need to protect your file system and those sort of things so another kind
+
+0:10:01.040,0:10:05.920
+of thing that you can do is Windows Sandbox unfortunately you need to have
+
+0:10:05.920,0:10:09.840
+Windows Pro your BIOS has to allow for virtualization you need to have it on in
+
+0:10:09.840,0:10:15.440
+your BIOS and I think you need to have Hyper-V set up so there's a lot of
+
+0:10:15.440,0:10:18.920
+prerequisites to this and it may cost money if you don't have Windows
+
+0:10:18.920,0:10:24.680
+Pro so this is kind of for the other people that have Windows Pro and all
+
+0:10:24.680,0:10:31.920
+the virtualization enabled in this one it's very simple you have apps and
+
+0:10:31.920,0:10:35.880
+features just search features it'll show up apps and features here and then
+
+0:10:35.880,0:10:42.000
+you'll have a list of features I suggest you turn on Windows subsystem for Linux
+
+0:10:42.000,0:10:46.400
+as well if you're a developer and if you're watching this you probably are so
+
+0:10:46.400,0:10:51.600
+turn that guy on if you don't already anyways Windows Sandbox is right there
+
+0:10:51.600,0:10:57.360
+you turn that on restart your computer you'll be good to go and I guess I can I
+
+0:10:57.360,0:11:04.600
+can show sandbox another problem I had with sandbox is once I installed it I
+
+0:11:04.600,0:11:10.200
+could type in sandbox and it doesn't show up in all my apps so I actually
+
+0:11:10.200,0:11:17.480
+have to go and go to all apps and then scroll all the way down to the W I'm
+
+0:11:17.480,0:11:23.600
+actually gonna pin it pin to start you'll find in there just pin it or open
+
+0:11:23.600,0:11:31.320
+it from from that and that will open up this Windows Sandbox and you'll see that
+
+0:11:31.320,0:11:35.520
+it's just a regular old Windows looking instance I think I can scale this down
+
+0:11:35.520,0:11:41.400
+so that it'll fit on the screen here there we go so you'll see it looks like
+
+0:11:41.400,0:11:45.920
+a regular Windows instance you can set up a configuration file so that this can
+
+0:11:45.920,0:11:51.320
+have access to certain folders when it launches which is nice you can make it
+
+0:11:51.320,0:11:56.480
+run programs at startup which is also nice if you want to install stuff that
+
+0:11:56.480,0:12:00.600
+sort of thing and then of course you can copy and paste from your primary desktop
+
+0:12:00.600,0:12:05.960
+over into here so you can kind of set up your Windows Sandbox to present
+
+0:12:05.960,0:12:09.280
+something or anything like that and this is a nice way to not have to make a user
+
+0:12:09.280,0:12:15.320
+and also it's a nice way to clean out stuff if it's temporary and you're just
+
+0:12:15.320,0:12:20.680
+showing off something and you don't want to keep all those files and it's it's
+
+0:12:20.680,0:12:24.480
+just a waste of space and you don't have to clean them up yourself using the
+
+0:12:24.480,0:12:29.160
+Windows Sandbox is cool because it destroys everything that's in its
+
+0:12:29.160,0:12:33.520
+session of course it doesn't destroy the linked folders but if you put files and
+
+0:12:33.520,0:12:37.800
+stuff in here on the desktop or in its own file system that's not the linked
+
+0:12:37.800,0:12:43.080
+folders it will destroy them which is great especially if you're let's say
+
+0:12:43.080,0:12:50.160
+that you're showing off something in your program and it installs or whenever
+
+0:12:50.160,0:12:55.400
+you build it it makes like a makes like 30 gigs of files of assets or something
+
+0:12:55.400,0:12:59.000
+it's really nice to have it in a sandbox so you just close it and not worry about
+
+0:12:59.000,0:13:03.320
+it it's just gone once you hit that X you'll see you sure you want to kill
+
+0:13:03.320,0:13:05.960
+sandbox yeah
+
+0:13:07.160,0:13:17.760
+and for you if you're not interested in having people see all of your goods now
+
+0:13:17.760,0:13:22.800
+I kind of did want to show what happens what people do instead of YouTube if you
+
+0:13:22.800,0:13:26.800
+don't know this you know other web players have this and you probably do
+
+0:13:26.800,0:13:33.840
+know this I'm sure a lot of developers know this but you can actually play
+
+0:13:33.840,0:13:42.840
+frame-by-frame on a video so let's let's just let's just open up a video I have
+
+0:13:42.840,0:13:48.840
+here and you'll see that I have it paused here and if I use the period key
+
+0:13:48.840,0:13:53.440
+or the comma so the period a little forward a frame and the comma will go
+
+0:13:53.440,0:13:57.040
+back a frame so I can press period period period so you can see I go
+
+0:13:57.040,0:14:05.480
+frame-by-frame and view what's going on now I didn't want to bring up anybody's
+
+0:14:05.480,0:14:10.680
+any of the particular videos that I've seen and I've seen a lot of them where
+
+0:14:10.680,0:14:17.560
+you could just tell from one frame you can see the file system is exposed the
+
+0:14:17.560,0:14:21.360
+browser tabs are shown all sorts of stuff is shown in one frame and they
+
+0:14:21.360,0:14:28.040
+don't even notice it you very easily press pause and then just use the period
+
+0:14:28.040,0:14:35.880
+and comma to go frame by frame to view this sensitive information and there are
+
+0:14:35.880,0:14:40.880
+channels that are dedicated not dedicated there are channels that are
+
+0:14:40.880,0:14:45.760
+kind of like reaction channels and they will very often use this this
+
+0:14:45.760,0:14:49.760
+frame-by-frame feature to look at stuff in the background and comment on it or
+
+0:14:49.760,0:14:54.480
+you know look at what's going on you know and their tabs and all this other
+
+0:14:54.480,0:15:01.360
+stuff and they'll just comment on it as part of their gimmick so it's not just
+
+0:15:01.360,0:15:06.200
+you know malicious actors who know how to do it there's a lot of YouTube
+
+0:15:06.200,0:15:10.960
+channels that just promote this this frame swapping which is fine it's a
+
+0:15:10.960,0:15:16.840
+fantastic feature like I've I've used it for animations when I watch some really
+
+0:15:16.840,0:15:21.720
+cool animations online and I want to see how they they did the tweening or
+
+0:15:21.720,0:15:26.360
+something like that I can use the the comma and the period to go back and
+
+0:15:26.360,0:15:30.480
+forth the frame to kind of see how they they did the tweening and it's really
+
+0:15:30.480,0:15:36.800
+nice it's a really nice feature honestly it's just in the wrong hands and with
+
+0:15:36.800,0:15:44.360
+experienced video creators you'll find that they you know malicious people view
+
+0:15:44.360,0:15:48.560
+it or as though you know it's maybe they're not malicious but it's just
+
+0:15:48.560,0:15:51.000
+information they shouldn't know and shouldn't have in their head it's
+
+0:15:51.000,0:16:01.280
+information for your head so that's kind of my perspective on on all of that sort
+
+0:16:01.280,0:16:06.440
+of stuff now there is one more thing that you need to be aware of and this
+
+0:16:06.440,0:16:11.280
+one is a lot has caught a lot more in people's videos but sometimes they're
+
+0:16:11.280,0:16:21.000
+not and that's notifications so you'll get notifications on phones and you'll
+
+0:16:21.000,0:16:27.160
+get notifications on in on Windows so if it's on the phone it's a little bit more
+
+0:16:27.160,0:16:30.480
+difficult but if the phones on the desk and the cameras pointed in such a way
+
+0:16:30.480,0:16:38.320
+that they can see it it'll be very easy to kind of see you see information there
+
+0:16:38.320,0:16:42.800
+maybe it's hard because in the background is blurry but still you
+
+0:16:42.800,0:16:50.160
+should just put on is it busy or you know yeah I think it's like busy on your
+
+0:16:50.160,0:16:55.000
+phone where you it doesn't present any notifications turn that guy on if your
+
+0:16:55.000,0:16:58.480
+phone is gonna be in the video or if you're reviewing phones or anything like
+
+0:16:58.480,0:17:02.560
+that just if it's on the screen on a table in the back a lot of people have
+
+0:17:02.560,0:17:07.840
+tables on the side or they put their phones and yeah it's it's not the
+
+0:17:07.840,0:17:14.720
+greatest so just turn on busy or put it face down either one works and on
+
+0:17:14.720,0:17:21.120
+Windows you can use quiet hours and it is important that you click it twice or
+
+0:17:21.120,0:17:25.320
+quite time I don't always called is port you click it twice to alarms only
+
+0:17:25.320,0:17:29.680
+because there is one that shows important notifications which may be
+
+0:17:29.680,0:17:38.360
+work or emails or things like that so it's pretty easy you just hit on the
+
+0:17:38.360,0:17:42.600
+down here where the little speaker thing is and the this is from a laptop so the
+
+0:17:42.600,0:17:46.680
+little battery and the Ethernet just click on that and you click on this moon
+
+0:17:46.680,0:17:51.080
+icon twice if it's not there then just hit this little pencil and add it hit it
+
+0:17:51.080,0:17:56.440
+twice go to alarms only you're not gonna get any notifications a lot of this may
+
+0:17:56.440,0:18:01.520
+be redundant for people but I've seen a lot of technical people don't follow
+
+0:18:01.520,0:18:09.880
+these and it's just information that people shouldn't see so that's my rant
+
+0:18:09.880,0:18:17.000
+on that that bothered me a lot recently it's happened way too many times and I
+
+0:18:17.000,0:18:22.680
+also have a friend he's he's goofy anytime I put up a video and I'd like
+
+0:18:22.680,0:18:29.520
+alt-tab that I'm just sending him for you know I trust him and all that you
+
+0:18:29.520,0:18:33.400
+know he'll send me a screenshot be like what's that that sort of stuff and it's
+
+0:18:33.400,0:18:39.000
+like a single frame so it's it's just part of human nature to be very curious
+
+0:18:39.000,0:18:43.680
+on what's on people's computers and desktops what's in there it's kind of
+
+0:18:43.680,0:18:50.360
+like you know there's a back room and the door is cracked slightly open pretty
+
+0:18:50.360,0:18:54.960
+much everybody yeah who's who's not boring is gonna be you know trying to
+
+0:18:54.960,0:19:01.200
+see creep over there and kind of peek or maybe even just ask her outright so yeah
+
+0:19:01.200,0:19:09.120
+it's just something I thought needed a PSA but hopefully you follow all those
+
+0:19:09.120,0:19:17.040
+so now I'm gonna talk about programming so part two I guess this is I don't know
+
+0:19:17.040,0:19:24.960
+what to call it I think we'll call it it's very it's not groundbreaking but
+
+0:19:24.960,0:19:31.400
+I'll call it grapevine coding it's where you hear something about how to program
+
+0:19:31.400,0:19:40.880
+and you kind of take it as law of programming so programming back in the
+
+0:19:40.880,0:19:45.280
+past may have been closer to that where there are paradigms that you can tell
+
+0:19:45.280,0:19:50.480
+each other and they would be pretty reliable at being fast efficient saving
+
+0:19:50.480,0:19:55.960
+size all those sorts of things and those paradigms first of all we're still using
+
+0:19:55.960,0:20:02.080
+ones from three years ago three decades you'll still run into programmers who
+
+0:20:02.080,0:20:10.960
+ask you know about these very old problems and that no longer exist so you
+
+0:20:10.960,0:20:17.240
+kind of hear it on the grapevine and you you base your code and and and how you
+
+0:20:17.240,0:20:23.680
+design your code on it which is even worse so one of the first things I want
+
+0:20:23.680,0:20:31.880
+to mention is premature optimization we've all heard it we've all had leads
+
+0:20:31.880,0:20:37.520
+we've all had friends who have said it preemus premature optimization is the
+
+0:20:37.520,0:20:44.200
+root of all evil and they're quoting some guys from you know 60 years ago or
+
+0:20:44.200,0:20:50.800
+so and they're guys I respect like Donald Knuth is it Knuth? Donald Knuth? I
+
+0:20:50.800,0:20:58.760
+don't know I have his art of coding series it's like a big stack of books he
+
+0:20:58.760,0:21:07.040
+kind of repeated it and one thing we need to realize is that quote was from
+
+0:21:07.040,0:21:12.400
+the time of assembly and if anybody's programmed in assembly you know exactly
+
+0:21:12.400,0:21:16.200
+what I'm talking about and you know exactly what they're talking about when
+
+0:21:16.200,0:21:21.480
+they say premature optimization is the root of all evil because in assembly it's
+
+0:21:21.480,0:21:26.720
+as programmers we can count the clock cycles and we can think oh man I if I
+
+0:21:26.720,0:21:30.680
+can shave off a clock cycle here and a clock here you know I could do a cool
+
+0:21:30.680,0:21:37.280
+effect or something or I can add I can have extra performance and those were
+
+0:21:37.280,0:21:43.600
+very dangerous because you would design pretty pretty ridiculous code the code
+
+0:21:43.600,0:21:50.760
+would be completely unreadable even with comments for assembly code and it's just
+
+0:21:50.760,0:21:54.440
+awful to work in a team where parts of code you just don't understand
+
+0:21:54.440,0:22:02.000
+especially if they're using some kind of hack or anything like that so it's that's
+
+0:22:02.000,0:22:10.800
+kind of the root of it now that's propagated itself into modern era and in
+
+0:22:10.800,0:22:17.360
+the modern era people use it for high-level languages now of course over
+
+0:22:17.360,0:22:22.960
+optimization some early over optimization is not helpful on a team
+
+0:22:22.960,0:22:28.600
+but you should always think about optimization as you're designing the
+
+0:22:28.600,0:22:32.440
+code as part of your design not over optimization not ever you can't even
+
+0:22:32.440,0:22:37.400
+really you can't even count clock cycles in a high-level language but you can
+
+0:22:37.400,0:22:40.120
+think about how things are going to interact how slow they're going to be
+
+0:22:40.120,0:22:47.600
+and so you really don't want to get that premature optimization is a root of all
+
+0:22:47.600,0:22:54.720
+evil as like a base you want to work from in any project that is that is not
+
+0:22:54.720,0:23:00.440
+good advice for high-level languages now the reason I say that is because
+
+0:23:00.440,0:23:04.800
+high-level languages are much more easy to become spaghetti code you start
+
+0:23:04.800,0:23:09.880
+adding a bunch of libraries your classes become super intertwined and is just
+
+0:23:09.880,0:23:14.640
+almost impossible to undo things once they've get way too set in stone
+
+0:23:14.640,0:23:20.560
+especially on a project where there's timelines involved and you've got
+
+0:23:20.560,0:23:24.080
+project managers you're not going to get time to go back and rip out that whole
+
+0:23:24.080,0:23:29.240
+thing to redo it so you do need to optimize those things up front and you
+
+0:23:29.240,0:23:32.520
+need to think about the optimization you don't want to over optimize it it
+
+0:23:32.520,0:23:37.680
+shouldn't be something that supports every test case scenario it should be
+
+0:23:37.680,0:23:43.920
+something that supports the desired scenario and maybe design in a way that
+
+0:23:43.920,0:23:49.400
+can extend it at minimal effort something like the visitor pattern is a
+
+0:23:49.400,0:23:54.520
+great pattern for that sort of thing where the business logic comes into the
+
+0:23:54.520,0:23:58.040
+system and it works off of that and you can swap out the business logic very
+
+0:23:58.040,0:24:04.960
+easily so you do want to optimize ahead of time and that does want that should
+
+0:24:04.960,0:24:07.960
+be something in the back of your mind you shouldn't just hack things in to get
+
+0:24:07.960,0:24:12.400
+them going get them going quick you will regret it and it will waste a lot of
+
+0:24:12.400,0:24:18.520
+your time and a lot of everybody else's time who has to use it and just to kind
+
+0:24:18.520,0:24:25.560
+of show where I got this from this is actually a pretty nice book so let me
+
+0:24:25.560,0:24:33.520
+set up my overhead camera here so we can look at it first of all it's from this
+
+0:24:33.520,0:24:38.240
+book I like no scratch press this is a nice book thinking low-level writing
+
+0:24:38.240,0:24:44.960
+high-level it's it's a kind of a thick book I have their x86 assembly x64
+
+0:24:44.960,0:24:49.680
+assembly and a couple others of their books because they're they're nice I
+
+0:24:49.680,0:24:55.200
+don't read books from start to finish so at programming books I don't read
+
+0:24:55.200,0:25:03.880
+programming books from start to finish so that's definitely kind of one thing
+
+0:25:03.880,0:25:05.000
+to keep in mind
+
+0:25:05.000,0:25:16.720
+Just a moment, I've got to set up this overhead camera. Let's see. Okay, pretty sure I got
+
+0:25:16.720,0:25:23.920
+it set up here. Let me move my keyboard out of the way. Thinking low-level, writing high-level.
+
+0:25:23.920,0:25:32.200
+I just want to show you kind of where I got this. I've kind of always thought this, but
+
+0:25:32.200,0:25:42.320
+it was put nicely into words in this book here. Let's see if we can't get a little bit
+
+0:25:42.320,0:25:51.360
+of a zoom. There we go. So it actually talks about this here. Let's see. Although it's
+
+0:25:51.360,0:26:00.600
+often attributed to Donald Knuth, who popularized it, Tony Hoare, another fantastic computer
+
+0:26:00.600,0:26:07.280
+scientist, who said, premature optimization is the root of all evil. This has been a rallying
+
+0:26:07.280,0:26:12.280
+cry of software engineers for application performance until the very end of time. However,
+
+0:26:12.280,0:26:18.400
+it did not say concern with application performance during the early stages of application development
+
+0:26:18.400,0:26:25.520
+is the root of all evil. And that's kind of the important part there. It was in a time
+
+0:26:25.520,0:26:31.200
+of counting clock cycles. If you've done assembly programming, like I said, it's very tempting
+
+0:26:31.200,0:26:36.200
+to count clock cycles. And I've done that quite a few times, and it's always bit me
+
+0:26:36.200,0:26:43.400
+in the butt. And the people I code with on that, they regretted it. They were upset at
+
+0:26:43.400,0:26:52.520
+me. So that's the book. I highly recommend it. I wouldn't go, I don't know how much this
+
+0:26:52.520,0:26:58.200
+book was. It was kind of expensive. It's like $50. I don't know what it is now. But maybe
+
+0:26:58.200,0:27:05.000
+if you can pick up a used copy, thumb through it, it's a pretty nice book. I like the no
+
+0:27:05.000,0:27:17.520
+scratch press books. They're pretty sweet. So I'll put that back down here. So that's
+
+0:27:17.520,0:27:28.080
+my long-winded part of premature optimizations. And I agree with the book. So let me turn
+
+0:27:28.080,0:27:42.920
+off this phone. Okay. So that's part one, premature optimizations. So now that we've
+
+0:27:42.920,0:27:54.840
+said that part, I'm going to counter that a little bit. That isn't a free pass to over-optimize
+
+0:27:54.840,0:28:05.960
+all the time. Here's another example of programming and doing premature optimizations. So this
+
+0:28:05.960,0:28:15.120
+is an example of something I did in my C library for my game engine. I was doing UTF-8 strings.
+
+0:28:15.120,0:28:24.280
+And in those strings, I kind of put it, I knew I could go online and check out how other
+
+0:28:24.280,0:28:28.640
+people have dealt with getting the length of the strings and all that sort of stuff
+
+0:28:28.640,0:28:33.320
+and validating the strings. And I went online and I saw that, oh, it has tons of if statements.
+
+0:28:33.320,0:28:44.960
+It has like four if statements just inside of a loop to determine if the UTF-8 string,
+
+0:28:44.960,0:28:50.520
+to figure out its length, how many characters are in it. And for me, I was like, well, branching
+
+0:28:50.520,0:29:01.760
+is not very good. All that branching is going to cost you in the long run. So I set up for
+
+0:29:01.760,0:29:12.880
+myself a solution to the problem. Okay. I had to set up my web pages there. But I set
+
+0:29:12.880,0:29:22.080
+up what I thought was a solution to the problem, I should say. And it was not, it did work.
+
+0:29:22.080,0:29:33.600
+It was indeed faster. So this is my website. I had a little UTF-8 thing here. And you can
+
+0:29:33.600,0:29:38.520
+see that I don't use any if statements. It's all just shifting logic and multiplication
+
+0:29:38.520,0:29:44.120
+and addition, which can vectorize. It's not vectorized here because I'm not going to assume
+
+0:29:44.120,0:29:53.200
+people are going to turn on vectorization. But here it's set up and then I have a validation
+
+0:29:53.200,0:30:01.040
+function below that. So when I go to, when I went to run it, you'll see that it did go
+
+0:30:01.040,0:30:08.480
+faster. It was 1.4 times faster than the internet common, or my previous attempt, I should say.
+
+0:30:08.480,0:30:20.560
+And I do have the internet common one somewhere as well. Let me double check here. Okay. Unfortunately,
+
+0:30:20.560,0:30:24.800
+I don't have the previous one. I do have one that I worked on a little bit. It did have
+
+0:30:24.800,0:30:29.160
+a couple of if statements in it. This was like my first attempt at messing with it.
+
+0:30:29.160,0:30:38.760
+And that one was 1.6 times faster than the, I guess it's five cases in the common internet
+
+0:30:38.760,0:30:47.640
+one. So you can see that I can, I got faster than even one that was faster than that. 1.4
+
+0:30:47.640,0:30:56.000
+times faster than that. Now, one of the problems I had was as the string scaled and it repeated
+
+0:30:56.000,0:31:02.680
+itself, the internet common one, which is the one with all of the if statements, wound
+
+0:31:02.680,0:31:10.840
+up being faster than my implementation without any if statements inside of the loop. And
+
+0:31:10.840,0:31:16.640
+that's very, you know, surprising for anyone that, you know, talks about branching being
+
+0:31:16.640,0:31:26.800
+very slow. Now I could try and run it. I do have the updated version here. But my problem
+
+0:31:26.800,0:31:34.120
+is that the benchmarking software or website that I'm using here stopped working today,
+
+0:31:34.120,0:31:40.200
+I think. So let's try to run it. I'm just going to paste it in here and then let's use
+
+0:31:40.200,0:31:46.720
+cling 14. That's the one I used for my C++ engine. I'm going to run the benchmark. I'm
+
+0:31:46.720,0:31:51.320
+not going to make you wait for this. I'm going to pause and see if it breaks. Okay. Yep,
+
+0:31:51.320,0:31:57.200
+it's still broken. But you can take my word on it. When it was a short string or a string
+
+0:31:57.200,0:32:04.240
+of random characters, I would see that my implementation was a little bit faster or
+
+0:32:04.240,0:32:08.560
+quite a bit faster depending on the scenario. But when it was a really long string of repeating
+
+0:32:08.560,0:32:18.200
+characters, the one with many if else branches wouldn't work. And this isn't even the right
+
+0:32:18.200,0:32:24.960
+one. It's supposed to be this one. Anyways, it doesn't matter. It doesn't work anyways.
+
+0:32:24.960,0:32:29.900
+So there goes against the conventional logic. Of course, the reasoning for this is that
+
+0:32:29.900,0:32:37.720
+whenever it's a repeating string, the CPU, and this is modern CPU, I'm assuming, that
+
+0:32:37.720,0:32:45.480
+is running on these cloud servers that this is hosted on, it detected the pattern and
+
+0:32:45.480,0:32:55.160
+it did the branch selection much more efficiently. The other alternative is that the compiler
+
+0:32:55.160,0:33:00.360
+saw the pattern. And since it's a very common pattern for UTF-8, the compiler optimized
+
+0:33:00.360,0:33:07.160
+the code to a better performing UTF-8 function in assembly code. And so the compiler is kind
+
+0:33:07.160,0:33:20.680
+of in the way there. Or useful? Useful in my way for my test, but useful overall.
+
+0:33:20.680,0:33:29.440
+So essentially that's one of the things about tribal knowledge. The tribal knowledge of
+
+0:33:29.440,0:33:34.880
+this will go faster if you remove the branches is not always true. So you don't want to just
+
+0:33:34.880,0:33:40.080
+remove if statements to make it faster. Now, I do use my version of UTF-8 because it's
+
+0:33:40.080,0:33:44.600
+better in most scenarios and it looks nicer to me. I think it looks pretty. It's better
+
+0:33:44.600,0:33:52.800
+in a bunch of if-else cases. But that kind of shows you that you really do need to test
+
+0:33:52.800,0:34:02.680
+on your hardware. There's nothing beyond testing on your target hardware.
+
+0:34:02.680,0:34:08.760
+Now I've talked a lot about kind of just general things of optimization early. Over-optimizing
+
+0:34:08.760,0:34:16.160
+doesn't always work. But now I want to talk about ways that you can improve your code
+
+0:34:16.160,0:34:25.320
+on any system that either has these features or some features they have to have, like memory
+
+0:34:25.320,0:34:32.640
+stuff. But these are surefire ways to improve the performance of your code. They are, you
+
+0:34:32.640,0:34:39.840
+know, kind of like magic bullets. Basically, it's hard to go wrong with them unless you
+
+0:34:39.840,0:34:47.560
+really don't know what you're doing. The first one is turn on the MMX or AVX or SIMD or for
+
+0:34:47.560,0:35:01.840
+Android turn on NEON with flags like in Clang I think on Linux it's minus M-A-V-X. On Windows
+
+0:35:01.840,0:35:07.640
+you can set it in Visual Studio. But turn those on and the compiler itself is going
+
+0:35:07.640,0:35:13.400
+to vectorize. And vectorization, if you don't know what it is, SIMD stands for simultaneous
+
+0:35:13.400,0:35:21.120
+instruction, multiple data. Essentially, you can provide lots of numbers and it can run,
+
+0:35:21.120,0:35:29.920
+say, an ADD instruction in one of, it's not a single clock cycle, but in one of its virtual
+
+0:35:29.920,0:35:41.160
+clocks for that. And so it will run in one instruction. So, you're not always going to
+
+0:35:41.160,0:35:45.320
+know exactly what to do. It will try to vectorize where it can. It'll do it pretty efficiently
+
+0:35:45.320,0:35:51.340
+in the standard libraries. So you will get some magic performance even if it's a little
+
+0:35:51.340,0:35:57.600
+bit out of turning on vectorization. You can code vectorization yourself and it's not that
+
+0:35:57.600,0:36:05.920
+difficult. The part that's annoying is that Android NEON uses something different than
+
+0:36:05.920,0:36:14.280
+the standard AVX, MMX stuff. So you do have to if else case some of those things. The
+
+0:36:14.280,0:36:25.120
+other problem is that on desktops you have access to doubles, larger, like a 256 byte
+
+0:36:25.120,0:36:32.000
+vector. Whereas in Android NEON, I think you're limited to 128 byte vector. So you can't use
+
+0:36:32.000,0:36:38.160
+like doubles, I mean you can do doubles, but you can't do, say, four doubles all together.
+
+0:36:38.160,0:36:43.160
+You can do two, which is basically four floats. So there are some gotchas on that, depending
+
+0:36:43.160,0:36:48.920
+on your platform. So it is a little annoying to support both. But you can write your code
+
+0:36:48.920,0:36:54.000
+for this. And I wrote my own math library for my game engine. So all the vector math
+
+0:36:54.000,0:37:01.640
+and all the matrix math, the whole shebang, I wrote by hand in C. And I used SIMD instructions
+
+0:37:01.640,0:37:12.720
+to make it faster on desktop and make it faster on Android. Any CPUs that support those simultaneous
+
+0:37:12.720,0:37:19.920
+instructions. So that's one way that you can, it's like a little magic bullet sometimes.
+
+0:37:19.920,0:37:23.760
+You won't see much performance at all. And other times you can get some pretty big performance
+
+0:37:23.760,0:37:33.560
+based on what you're doing. The other kind of magic bullet for making things faster is
+
+0:37:33.560,0:37:40.000
+caching a lot of stuff. So of course, access to memory is slow, but caching things that
+
+0:37:40.000,0:37:46.360
+are complicated or big structures, you know, if you're reading a file from a disk, whether
+
+0:37:46.360,0:37:50.960
+it's binary or text, you've got to go read the file, do some stuff with it, read the
+
+0:37:50.960,0:37:56.200
+file again later on. I don't know when, how often you do this. But if you were to load
+
+0:37:56.200,0:38:01.160
+that into memory and just hold it in memory, just hold more in memory and not have to access
+
+0:38:01.160,0:38:11.200
+it from the network or from file systems or, you know, kind of just those just elsewhere,
+
+0:38:11.200,0:38:17.200
+you will gain performance. And of course, don't overdo it. Don't put your, I mean, we
+
+0:38:17.200,0:38:22.760
+do that now. I think Unreal does that. It loads basically everything you need or as
+
+0:38:22.760,0:38:28.160
+much as possible onto the GPU in this case, so that it can access it really quick.
+
+0:38:28.160,0:38:37.200
+It is a very common practice to load up your memory with stuff you're going to use. That
+
+0:38:37.200,0:38:41.440
+can go for shaders, it can go for GPU stuff, it can go for CPU if you're just processing
+
+0:38:41.440,0:38:50.200
+data. Loading up that stuff into memory, caching things. In fact, one of the things, one of
+
+0:38:50.200,0:38:54.640
+the software that you'll use in web is called Memcached or Memcached, I don't know how to
+
+0:38:54.640,0:39:00.920
+say it, I'm pretty sure it's Memcached, where you can save things in a local cache or even,
+
+0:39:00.920,0:39:05.760
+not even a local cache, it could be a remote cache, but it's all in memory, so it's much
+
+0:39:05.760,0:39:11.560
+faster than a remote database and reading from the database, which reads from file system,
+
+0:39:11.560,0:39:20.600
+even with SSDs. So, caching stuff in memory, kind of a magic bullet if you do it right.
+
+0:39:20.600,0:39:26.360
+Checking your memory alignment. Some platforms like Raspberry Pi 3 will actually crash if
+
+0:39:26.360,0:39:32.680
+you don't align your memory. So, some platforms force you to do this. But Intel, for the longest
+
+0:39:32.680,0:39:39.240
+time, does not force you to align your memory. And aligning your memory properly will improve
+
+0:39:39.240,0:39:46.000
+your performance, not significantly, but it is a nice performance boost. Reading data
+
+0:39:46.000,0:39:51.640
+into structures, writing data, holding data, transferring data between multiple objects
+
+0:39:51.640,0:39:55.600
+or cloning your data, it's going to be much faster, not much faster, it's going to be
+
+0:39:55.600,0:40:02.480
+faster if you align your data properly. So, I think compilers have the option to align
+
+0:40:02.480,0:40:09.240
+the memory for you, but it's not that hard to put an alignment in your structure. In
+
+0:40:09.240,0:40:18.080
+fact, if you're using like Vulkan or Raspberry Pi 3, you do have to align your data structures
+
+0:40:18.080,0:40:22.280
+to use it. So, in Vulkan, whenever you're setting up all your structures that interact
+
+0:40:22.280,0:40:28.000
+with the Vulkan API, you align that data, because when it goes through the GPU, it expects
+
+0:40:28.000,0:40:33.960
+to have a very specific alignment. So, it's not that much work, but it can gain you some
+
+0:40:33.960,0:40:43.480
+performance. I don't think it's worth the effort most of the time, but it is probably
+
+0:40:43.480,0:40:52.200
+a good practice to align your data. And then, aggregate commonly accessed data. I'm sure
+
+0:40:52.200,0:40:58.000
+everybody's heard about this. They've heard about dots in Unity or, you know, what is
+
+0:40:58.000,0:41:02.320
+it called? Entity component systems, stuff like that, where you have a system and then
+
+0:41:02.320,0:41:08.120
+you have entities as an array and it accesses them, multiple enemies to the system. And
+
+0:41:08.120,0:41:14.040
+it goes through this flow of accessing linear data, and that's much faster than accessing,
+
+0:41:14.040,0:41:20.320
+say like a linked list. With a linked list, you have an object over there, an object over
+
+0:41:20.320,0:41:25.160
+there, who knows where they're at. The memory is virtualized, so who knows where they're
+
+0:41:25.160,0:41:32.880
+actually at in the physical memory. So, if you use, and by the way, like a linked list
+
+0:41:32.880,0:41:39.400
+inside of lists, for example, inside of C Sharp are vectors, which are internally arrays.
+
+0:41:39.400,0:41:47.360
+So, I'm talking about linked lists, when the data is disconnected. So, having your data,
+
+0:41:47.360,0:41:56.980
+especially frequently accessed data, that is relative to each other in consecutive memory.
+
+0:41:56.980,0:42:02.080
+If you want to do memory pooling and then have a big chunk of memory, and then, you
+
+0:42:02.080,0:42:10.360
+know, virtualize your own addresses within that space, and you want to, say, put your
+
+0:42:10.360,0:42:13.760
+entity for your game object in there, and its components and all that stuff that it
+
+0:42:13.760,0:42:19.960
+has to access, you can put it in there. If you have a set of entities that all do the
+
+0:42:19.960,0:42:25.480
+same thing, but they have individual datas, but you want to update them collectively,
+
+0:42:25.480,0:42:30.960
+consecutively, you can use that memory pooling to kind of put them all in this consecutive
+
+0:42:30.960,0:42:37.160
+memory. And knowing your CPU is good for this, because if you know how much cache you have
+
+0:42:37.160,0:42:42.320
+on the CPU, you can actually optimize for cache, so that it'll load in a big old chunk,
+
+0:42:42.320,0:42:46.360
+and it'll just blow through it really fast, and then you don't have to worry so much about
+
+0:42:46.360,0:42:52.800
+your access to memory being slow. And that's the bottleneck of pretty much most programs
+
+0:42:52.800,0:42:57.360
+outside of file system access and that sort of stuff, network stuff. So, aggregate your
+
+0:42:57.360,0:43:08.680
+data together. That's one easy way to surefire, make your program faster.
+
+0:43:08.680,0:43:13.080
+So those are some things you do to have magic bullets to solve a little bit of performance,
+
+0:43:13.080,0:43:18.040
+but you're not going to make huge gains out of that. You're going to make little tiny
+
+0:43:18.040,0:43:23.680
+gains, and it could be fun doing that sort of stuff. So there's no magic bullet for doubling
+
+0:43:23.680,0:43:28.320
+your speed. Usually that just means fixing your overall algorithm, your business logic
+
+0:43:28.320,0:43:37.280
+and how it operates. So even quantifiable algorithms that, you know, you've tested
+
+0:43:37.280,0:43:43.120
+two algorithms and you've quantified mathematically, and one algorithm is better than the other,
+
+0:43:43.120,0:43:47.880
+does not mean that it's going to run faster than the other, unless it leaps and bounds
+
+0:43:47.880,0:43:52.640
+faster. If it's slightly faster, it does not mean it's going to run faster. Like I said,
+
+0:43:52.640,0:43:57.400
+the CPUs are very smart. They figure out branching, they figure out caching and all that sort
+
+0:43:57.400,0:44:03.120
+of stuff. So you can have a quantifiable, faster algorithm that will get beat by a slower
+
+0:44:03.120,0:44:08.880
+algorithm just because of the architecture. So I really liked, you know, Game Boy or Xbox,
+
+0:44:08.880,0:44:13.840
+PlayStation 3, you know, all those computers, Commodore 64, where they all have the same
+
+0:44:13.840,0:44:21.680
+hardware and that means it's known and so you can test it very easily. Our problem nowadays
+
+0:44:21.680,0:44:26.440
+is we have tons of different CPUs, tons of different iterations of CPUs, even along,
+
+0:44:26.440,0:44:32.280
+like if you said, I support only Intel CPUs, there's tons of different Intel CPUs, you
+
+0:44:32.280,0:44:37.840
+know, released every year and you don't know which one your players are going to be using
+
+0:44:37.840,0:44:45.960
+or your clients are going to be using. So you don't really want to test and really hyper,
+
+0:44:45.960,0:44:53.240
+make the performance hyper fast on a specific CPU, aka your development machine, at the
+
+0:44:53.240,0:45:00.480
+cost of flexible code or readable code or elegant code or any of that. So it's just
+
+0:45:00.480,0:45:05.320
+something to keep in mind. If you are using a very well-known, specific set of hardware,
+
+0:45:05.320,0:45:11.800
+usually game consoles, more power to you. Just knock out that performance on that CPU
+
+0:45:11.800,0:45:17.480
+because it's a known CPU that you can, you're programming against. Everybody, everyone who's
+
+0:45:17.480,0:45:24.520
+going to play your game on that device has that device. So that's, you can optimize in
+
+0:45:24.520,0:45:34.760
+those scenarios and just go whole ham for that. So yeah, just test specific hardware.
+
+0:45:34.760,0:45:41.400
+If you have minimum requirements, suggested requirements, test on those guys, test the
+
+0:45:41.400,0:45:46.680
+performance. You may very well find that one performs better in one scenario and worse
+
+0:45:46.680,0:45:55.080
+in another. So that's kind of the thoughts on optimization. Now I do want to wrap this
+
+0:45:55.080,0:46:04.520
+up with a famous optimization and I've been asked about this optimization. You know, it's
+
+0:46:04.520,0:46:10.400
+something that a lot of people know because it's a very popular one. And this is the inverse,
+
+0:46:10.400,0:46:23.240
+the fast inverse square root. You know, it's a 30-year-old square root that they did for,
+
+0:46:23.240,0:46:30.800
+was it Doom or Quake? It was probably Quake. I don't know. John Carmack made it but he
+
+0:46:30.800,0:46:35.000
+got it from someone else. I'm like, I don't know the history. History is not important.
+
+0:46:35.000,0:46:41.160
+The fact is you shouldn't be using this. This is a 30-year-old algorithm made for the machines
+
+0:46:41.160,0:46:48.200
+of the time which didn't have branch prediction, for example. And they didn't have built-in
+
+0:46:48.200,0:46:57.120
+signs or they didn't have built-in square roots. Nowadays, we have built-in square roots.
+
+0:46:57.120,0:47:00.240
+We have built-in square roots for floats. We have built-in square roots for doubles
+
+0:47:00.240,0:47:09.440
+and they are single instruction on the CPU. So it's not worth our time to implement 30-year-old
+
+0:47:09.440,0:47:18.400
+algorithms and computers change often. And it's just one thing that I do see developers
+
+0:47:18.400,0:47:24.620
+getting caught up on is some of these, some of this old knowledge that doesn't really
+
+0:47:24.620,0:47:30.160
+apply anymore. So I've got a little thing here we can take a look at. So if we take
+
+0:47:30.160,0:47:35.880
+a look here at this code, we're including math. It's just a little C file. And we're
+
+0:47:35.880,0:47:42.720
+going to do the square root float, square root double. And I'm just going to put a break
+
+0:47:42.720,0:47:46.880
+point here. This is debug mode. Nothing is optimized because otherwise it will strip
+
+0:47:46.880,0:47:54.200
+out the stuff and I don't want to fight the optimizer to show an example of something.
+
+0:47:54.200,0:47:58.360
+So we're going to run this and what we're going to do here, I already have it open,
+
+0:47:58.360,0:48:04.680
+but you can go to debug, windows, disassembly to see the assembly code that's generated
+
+0:48:04.680,0:48:14.400
+for this program. And if we just look at the disassembly here, we can see that we have,
+
+0:48:14.400,0:48:18.880
+this is the C code and these are the functions that are set up for it. I don't know exactly
+
+0:48:18.880,0:48:23.400
+what it's going to be when you optimize the code. It may even strip the square root based
+
+0:48:23.400,0:48:27.920
+on the cons that are going in and all that sort of stuff. But anyways, you can see here
+
+0:48:27.920,0:48:34.560
+it uses implementation of square root F here, which is going to be an internal function
+
+0:48:34.560,0:48:40.120
+that does magic things. But what you can see here for the square root of double is that
+
+0:48:40.120,0:48:48.520
+it is a single built in assembly instruction. Well, it's calling this function. And this
+
+0:48:48.520,0:48:53.840
+function, the reason it's calling this function is that vendors can implement it how they
+
+0:48:53.840,0:49:00.600
+want. Most of them are going to implement it. You can see this is using XMM by the way.
+
+0:49:00.600,0:49:08.480
+Most of the vendors are going to implement it the way that is fastest. So CPU calls,
+
+0:49:08.480,0:49:15.560
+it's going to be based on the architecture. But this is going to be way, way faster than
+
+0:49:15.560,0:49:21.920
+the inverse square root function from 30 years ago. So do not use that. And don't use knowledge
+
+0:49:21.920,0:49:30.960
+from 30 years ago. Use wisdom from 30 years ago. Generally how you work with teams and
+
+0:49:30.960,0:49:37.760
+how you work with code and how you design code and think about how things interact.
+
+0:49:37.760,0:49:41.280
+That sort of stuff is super valuable. Those guys did a lot of research mainly in those
+
+0:49:41.280,0:49:47.180
+fields. They didn't optimize these little instructions. And that is the useful information
+
+0:49:47.180,0:49:54.840
+for you. Not inverse square root or any particular algorithm. If an algorithm has been used for
+
+0:49:54.840,0:50:00.640
+30 years, take a look at maybe making a new algorithm. Because there's a lot of stuff
+
+0:50:00.640,0:50:07.840
+that gets added to CPUs. We have now artificial intelligence parts of our CPUs. We've got
+
+0:50:07.840,0:50:15.720
+matrix stacked CPUs. We've got all kinds of new stuff that can use a different algorithm
+
+0:50:15.720,0:50:23.120
+and perform much faster. Say whether it's distributed across multiple cores. Or maybe
+
+0:50:23.120,0:50:28.560
+you even use the GPU to do the algorithm. Because we do have compute GPU now. Like compute
+
+0:50:28.560,0:50:37.440
+shaders or CUDA. You can just write an algorithm that runs across a huge amount of cores and
+
+0:50:37.440,0:50:45.960
+blow through things way faster now. So that's kind of my general advice on optimization.
+
+0:50:45.960,0:50:55.000
+Don't over optimize. But do think about optimizing ahead of time. And don't stress out. Have
+
+0:50:55.000,0:51:00.400
+fun while coding. Think about it. Think more about your overall design. Who you're working
+
+0:51:00.400,0:51:06.600
+with. Whether you're working alone or not. And just think about those aspects of your
+
+0:51:06.600,0:51:10.440
+coding. And you're going to have a wonderful experience. And you're going to be much happier.
+
+0:51:10.440,0:51:14.520
+And you're not going to get caught up in all the fights on stack overflow or whatever people
+
+0:51:14.520,0:51:21.240
+do on stack overflow these days. So, cool. That's basically it. If you guys have any
+
+0:51:21.240,0:51:28.480
+suggestions on things to take a look at or think about or talk about or anything like
+
+0:51:28.480,0:51:34.400
+that. This has been quite a lot of fun. So, yeah. Let me know if I missed anything. If
+
+0:51:34.400,0:51:39.720
+I messed up anything. If I got any information wrong. You know, if things have changed or
+
+0:51:39.720,0:51:46.040
+maybe I just misinterpreted something. Let me know and we can always pin the comment
+
+0:51:46.040,0:51:51.480
+so that other people know too. So, bye for now.
+
+0:51:51.480,0:51:57.880
+Hello. This is an amendment to the podcast. You can tell that it's a different day. Sun's
+
+0:51:57.880,0:52:03.400
+out and everything. But I was going to sleep last night and I realized that I said 256
+
+0:52:03.400,0:52:10.920
+bytes for SIMD instructions and 128 bytes for the NEON instructions for ARM. And I meant
+
+0:52:10.920,0:52:15.480
+to say bits. So, I don't know why that bugged me. Clearing that one up. Second one, the
+
+0:52:15.480,0:52:22.400
+one that actually bothered me was the system calls to the square root functions. And that's
+
+0:52:22.400,0:52:27.840
+because we were in debug mode and it was getting late and I wasn't thinking about it. So, I
+
+0:52:27.840,0:52:37.120
+have now set up a release mode demo here where we will see the x86 instructions for square
+
+0:52:37.120,0:52:41.840
+roots. So, you can see I have to print them out so that it doesn't optimize my variables
+
+0:52:41.840,0:52:47.760
+out. And then if we run this and check out our disassembly, it will be in reverse order.
+
+0:52:47.760,0:52:52.400
+The key is going to be up here. But you see it calls the assembly instruction square root
+
+0:52:52.400,0:53:01.240
+PD and then square root single signed or signed single. I don't know which one of the S's
+
+0:53:01.240,0:53:08.240
+is signed and which one is singled. But there you go. That's the actual assembly instructions
+
+0:53:08.240,0:53:12.880
+I was expecting to see. I was a little bit surprised when I didn't see them last night.
+
+0:53:12.880,0:53:20.040
+But it's because I was in debug mode. I wasn't thinking. So, yeah. And that's basically my
+
+0:53:20.040,0:53:22.480
+amendment. See you guys.

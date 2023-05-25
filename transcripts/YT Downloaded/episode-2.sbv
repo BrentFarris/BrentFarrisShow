@@ -1,0 +1,2171 @@
+0:00:00.000,0:00:03.200
+All right, today we're going to talk about C++23.
+
+0:00:03.200,0:00:06.440
+We're going to talk about Unreal Engine update.
+
+0:00:06.440,0:00:10.840
+We're going to talk about AI, and it's going to be good.
+
+0:00:10.840,0:00:19.440
+So they've just made C++23 feature complete.
+
+0:00:19.440,0:00:21.580
+So who is they?
+
+0:00:21.580,0:00:22.980
+It's the standards committee.
+
+0:00:22.980,0:00:28.200
+So there's a standards committee that goes over the programming language, what they should
+
+0:00:28.200,0:00:34.320
+add, what they should deprecate, although they don't deprecate all that often.
+
+0:00:34.320,0:00:37.200
+They will deprecate things over time.
+
+0:00:37.200,0:00:40.880
+And they'll take requests from the community.
+
+0:00:40.880,0:00:43.760
+So you write in a paper.
+
+0:00:43.760,0:00:52.760
+It'll have why it's needed, what it solves, how they would propose to integrate it.
+
+0:00:52.760,0:00:58.880
+And then a bunch of committee members will either reject it or argue about it for a few
+
+0:00:58.880,0:01:04.880
+years until they've figured out whether it's going to be in, what modifications are needed,
+
+0:01:04.880,0:01:06.240
+and so on and so forth.
+
+0:01:06.240,0:01:10.920
+Some things have kind of just been lingering for a long period of time.
+
+0:01:10.920,0:01:15.960
+I think C++ modules are a big example of that.
+
+0:01:15.960,0:01:20.280
+They were supposed to be in C++20, if I recall correctly.
+
+0:01:20.280,0:01:32.360
+And modules are a way of being able to componentize basically your libraries, your code, so that
+
+0:01:32.360,0:01:35.400
+it can compile way faster.
+
+0:01:35.400,0:01:38.160
+And it helps with dependencies and all of this sort of stuff.
+
+0:01:38.160,0:01:46.280
+So traditionally in C and C++, you'll have it so that you include a file.
+
+0:01:46.280,0:01:48.720
+It doesn't technically have to be a header file.
+
+0:01:48.720,0:01:49.760
+It could be binary.
+
+0:01:49.760,0:01:54.440
+It could be an inline file, which a lot of people denote with INL.
+
+0:01:54.440,0:01:58.120
+It's just taking code and injecting it in, almost like it's a macro.
+
+0:01:58.120,0:02:01.920
+So and you can do some pretty hacky stuff with that.
+
+0:02:01.920,0:02:09.040
+And modules are a way of kind of streamlining and making things a little bit cleaner.
+
+0:02:09.040,0:02:18.300
+Think of in C Sharp how you include libraries, or think of the new module supports in JavaScript.
+
+0:02:18.300,0:02:20.720
+So it's much like that.
+
+0:02:20.720,0:02:25.720
+It's going to create cleaner code, and it's going to compile faster, and all of those
+
+0:02:25.720,0:02:26.720
+sorts of things.
+
+0:02:26.720,0:02:28.040
+Now, that's the hope.
+
+0:02:28.040,0:02:34.760
+The thing is that modules have been kind of a hot topic, and they've been trying to create
+
+0:02:34.760,0:02:37.960
+the concept of modules for a long time.
+
+0:02:37.960,0:02:39.720
+And I've tried to mess with modules.
+
+0:02:39.720,0:02:40.720
+I really have.
+
+0:02:40.720,0:02:44.680
+I put my best effort into messing with modules.
+
+0:02:44.680,0:02:47.240
+And I tried in Visual Studio.
+
+0:02:47.240,0:02:48.960
+They said, hey, try it out.
+
+0:02:48.960,0:02:50.680
+Visual Studio supports them.
+
+0:02:50.680,0:02:52.640
+No other compiler did.
+
+0:02:52.640,0:03:00.520
+And I went in, I tried them out, I got something compiling, and then nothing else kind of worked.
+
+0:03:00.520,0:03:04.640
+You can program your little hobby project, but including other libraries and all this
+
+0:03:04.640,0:03:09.520
+other stuff, it kind of broke down and just stopped working.
+
+0:03:09.520,0:03:12.520
+And it just was not fun to use.
+
+0:03:12.520,0:03:17.720
+It was fun to play around with, but I tried to use it in a serious project.
+
+0:03:17.720,0:03:18.720
+Did not work out.
+
+0:03:18.720,0:03:21.080
+They just, it was basically dead on arrival.
+
+0:03:21.080,0:03:23.840
+I only got a little bit of code in, and I hit uplocker.
+
+0:03:23.840,0:03:29.480
+And I can't quite remember what it was, but it was a game over moment for working with
+
+0:03:29.480,0:03:31.480
+modules on that project.
+
+0:03:31.480,0:03:44.000
+So that being said, one of the big parts of the C++23 standard is that the modules have
+
+0:03:44.000,0:03:45.720
+finally been solidified.
+
+0:03:45.720,0:03:49.240
+They're not just kind of this theory.
+
+0:03:49.240,0:03:51.720
+And modules have been around for a long time.
+
+0:03:51.720,0:03:56.280
+I think Bjorn Struestrup said that he wanted to put them in, I don't know, like in the
+
+0:03:56.280,0:03:57.800
+70s or 90s or something.
+
+0:03:57.800,0:03:59.520
+Long time ago.
+
+0:03:59.520,0:04:03.240
+It's just, it's really hard for a language that old.
+
+0:04:03.240,0:04:10.880
+That's one of the downsides to C++ is its age, but also the upsides to C++ is its age.
+
+0:04:10.880,0:04:18.240
+It's kind of proven itself in performance and that they'll continuously iterate on the
+
+0:04:18.240,0:04:22.120
+language and do their best not to break anything.
+
+0:04:22.120,0:04:27.640
+So you could take C++ code from the 70s, I don't know if this is true, but you could
+
+0:04:27.640,0:04:30.480
+take it from like the 90s and whatever and get it to compile.
+
+0:04:30.480,0:04:34.720
+Maybe you have to change some compiler flags or something like that.
+
+0:04:34.720,0:04:40.680
+Make sure the code is set up to work on a 32-bit operating system or a 64-bit operating
+
+0:04:40.680,0:04:41.680
+system.
+
+0:04:41.680,0:04:46.760
+So there may be a little bit of work, but you don't have to fundamentally change the
+
+0:04:46.760,0:04:54.820
+code and the structure of your entire program to support future versions of C++ is the theory.
+
+0:04:54.820,0:04:59.720
+So it does have that age and it has that stigma of its age.
+
+0:04:59.720,0:05:04.680
+You get things like Rust popping up and, you know, I can't even think of all the other
+
+0:05:04.680,0:05:05.680
+languages.
+
+0:05:05.680,0:05:06.840
+There's hundreds of them.
+
+0:05:06.840,0:05:08.640
+They all pop up for kind of the same reason.
+
+0:05:08.640,0:05:12.320
+They want C++, but they want better memory management.
+
+0:05:12.320,0:05:17.400
+They want C++, but they don't want to deal with, say, the diamond problem.
+
+0:05:17.400,0:05:21.600
+They want C++, but they don't want to deal with pointers.
+
+0:05:21.600,0:05:28.840
+So and of course, you know, there's a lot of things that come into C++ that just originally
+
+0:05:28.840,0:05:31.920
+may have been a good idea, but didn't work out so well in the end.
+
+0:05:31.920,0:05:37.120
+You know, you had when smart pointers came out in C++, you had everyone saying, ah, just
+
+0:05:37.120,0:05:38.520
+smart pointers, everything.
+
+0:05:38.520,0:05:40.440
+That'll solve all of our problems.
+
+0:05:40.440,0:05:44.960
+And of course, you throw in smart pointers and then you get, you know, you slow down
+
+0:05:44.960,0:05:46.280
+your program.
+
+0:05:46.280,0:05:50.760
+You wind up with some confusing stuff.
+
+0:05:50.760,0:05:54.600
+Then you should use weak pointers and you have to overthink a lot of these things that
+
+0:05:54.600,0:06:00.200
+you shouldn't really have to overthink when programming just some general business logic.
+
+0:06:00.200,0:06:08.880
+So anyways, that's kind of the cruft of the C++, the old history, its benefits and its
+
+0:06:08.880,0:06:09.880
+downsides.
+
+0:06:09.880,0:06:14.360
+And for better or for worse, they're trying to move the language forward.
+
+0:06:14.360,0:06:21.600
+So if you do modules, that means you've got to redo some of your old code if you want
+
+0:06:21.600,0:06:24.000
+it to work properly with modules.
+
+0:06:24.000,0:06:30.240
+So it's kind of, modules are interesting because they are, to me, almost like a turning point.
+
+0:06:30.240,0:06:35.640
+Like do I use modules in my project or do I do the traditional C++?
+
+0:06:35.640,0:06:39.720
+You don't really want to mix them because you get some weird stuff.
+
+0:06:39.720,0:06:45.680
+Like I was having to mix them whenever I was using the modules, kind of preview in Visual
+
+0:06:45.680,0:06:49.160
+Studio and it was just not a good time.
+
+0:06:49.160,0:06:53.160
+So you kind of are at an impasse where you pick one or the other.
+
+0:06:53.160,0:06:56.320
+I think modules are a good way to go.
+
+0:06:56.320,0:07:02.040
+Whenever they get supported by compilers, who knows when that will be.
+
+0:07:02.040,0:07:04.640
+And there's going to be kind of all kinds of problems that have to go.
+
+0:07:04.640,0:07:12.120
+It's going to be a real growing pain with modules in C++ and hopefully, they'll be in
+
+0:07:12.120,0:07:16.800
+the standard, but hopefully it's something that the compiler vendors can actually knock
+
+0:07:16.800,0:07:20.720
+out and get really, and do really well.
+
+0:07:20.720,0:07:31.800
+So now they're on to working on C++ 26, which they say is going to be emphasizing, it says,
+
+0:07:31.800,0:07:35.400
+slated to emphasize concurrency and parallelism.
+
+0:07:35.400,0:07:40.480
+So they're going to be focusing on more on like co-routines and just, I guess, in general
+
+0:07:40.480,0:07:41.960
+parallel stuff.
+
+0:07:41.960,0:07:46.240
+And you can actually look at proposals, you can look at the papers and all this sort of
+
+0:07:46.240,0:07:49.120
+stuff online.
+
+0:07:49.120,0:07:50.120
+It's all available.
+
+0:07:50.120,0:07:51.880
+You can see what people are proposing.
+
+0:07:51.880,0:07:54.160
+You can see the revisions and everything else.
+
+0:07:54.160,0:07:55.320
+It's actually pretty nice.
+
+0:07:55.320,0:08:01.680
+So I'll show you the website that I look at to look at these things.
+
+0:08:01.680,0:08:10.840
+So also, let's see, for post C++ 23, which means that they might want it for C++ 26,
+
+0:08:10.840,0:08:15.520
+but they can't guarantee it, I'm assuming, is they're going to be doing a lot more stuff
+
+0:08:15.520,0:08:19.000
+with SIMD improvements and safety and security.
+
+0:08:19.000,0:08:24.440
+I mean, safety and security is an ongoing thing forever.
+
+0:08:24.440,0:08:29.120
+Safety and security doesn't mean they fundamentally change languages or standard libraries.
+
+0:08:29.120,0:08:33.040
+It just means that they add in some security functions.
+
+0:08:33.040,0:08:39.280
+So you should use function Y and stop using function X, that sort of stuff.
+
+0:08:39.280,0:08:43.440
+You see that with a lot of safety functions in C.
+
+0:08:43.440,0:08:45.600
+And it says that they're going to...
+
+0:08:45.600,0:08:50.040
+Oh, C++ 23 has been dubbed the pandemic edition.
+
+0:08:50.040,0:08:52.640
+I think we all know why that is.
+
+0:08:52.640,0:08:54.240
+But there you go.
+
+0:08:54.240,0:08:56.940
+That's C++ 23 in a nutshell.
+
+0:08:56.940,0:09:10.240
+And so what I'm going to pop up here is a site that I use for checking out C++ 23 standards.
+
+0:09:10.240,0:09:12.920
+And this is just...
+
+0:09:12.920,0:09:15.720
+I have it in my pocket, so it looks a little weird.
+
+0:09:15.720,0:09:16.960
+Let me see if I can get the...
+
+0:09:16.960,0:09:17.960
+Oh, here it is, view original.
+
+0:09:17.960,0:09:20.400
+Let's take a look at that.
+
+0:09:20.400,0:09:24.080
+So here is basically C++Reference.com.
+
+0:09:24.080,0:09:25.360
+This is where I go.
+
+0:09:25.360,0:09:27.600
+For both C and C++.
+
+0:09:27.600,0:09:33.320
+So if we look at C23, this one's fun to look at too.
+
+0:09:33.320,0:09:36.120
+But here we go, C++ 23.
+
+0:09:36.120,0:09:37.880
+You can see what are the new headers.
+
+0:09:37.880,0:09:42.680
+You can click on them, like what's inside of the flat map.
+
+0:09:42.680,0:09:47.880
+And you can see the official specification for all this stuff.
+
+0:09:47.880,0:09:56.160
+And usually usage examples, templates, that sort of things.
+
+0:09:56.160,0:09:57.160
+There's a lot in here.
+
+0:09:57.160,0:10:02.720
+And I'm not intending to go through it, but this is a great place to go.
+
+0:10:02.720,0:10:08.240
+And what I really like is down here at the bottom of the page is C++ 23 core language
+
+0:10:08.240,0:10:09.880
+features essentially.
+
+0:10:09.880,0:10:14.640
+It shows you where the compilers are at with these features.
+
+0:10:14.640,0:10:18.080
+You can see these guys on the end just are red blocks all the way down.
+
+0:10:18.080,0:10:19.480
+Why is that?
+
+0:10:19.480,0:10:21.840
+Oh, IBM and that sort of stuff.
+
+0:10:21.840,0:10:28.240
+So just kind of older compilers or maybe private compilers, I don't know.
+
+0:10:28.240,0:10:34.120
+But you'll see that some of these features like in GCC are going to be red.
+
+0:10:34.120,0:10:38.840
+And Clang is pretty good at staying up to date.
+
+0:10:38.840,0:10:47.240
+Obviously in Microsoft Visual C, well, as we see here is not so great at keeping up
+
+0:10:47.240,0:10:48.240
+to date.
+
+0:10:48.240,0:10:55.480
+So usually you can pull GCC, you can grab the latest GCC kind of in its development
+
+0:10:55.480,0:10:58.280
+if you want to test out features.
+
+0:10:58.280,0:11:02.840
+But you'll see here it says what version it's in and that sort of stuff.
+
+0:11:02.840,0:11:07.660
+So let's see if we can find modules.
+
+0:11:07.660,0:11:13.120
+So standard library modules are not supported basically anywhere.
+
+0:11:13.120,0:11:23.840
+Partial support in Visual C. So yeah, modules are always lagging behind and we'll see when
+
+0:11:23.840,0:11:25.200
+those actually come in.
+
+0:11:25.200,0:11:27.800
+We don't even have like a pending for GCC or anything.
+
+0:11:27.800,0:11:33.300
+Of course, this is just officially kind of feature complete.
+
+0:11:33.300,0:11:38.400
+So I kind of give them some slack, but then again, modules have been kind of in the works
+
+0:11:38.400,0:11:42.480
+for a very long time.
+
+0:11:42.480,0:11:44.680
+They're supposed to be in C++ 20.
+
+0:11:44.680,0:11:47.320
+So there we go.
+
+0:11:47.320,0:11:49.360
+While we're here, we're going to take a look.
+
+0:11:49.360,0:11:51.560
+We're in a separate thing there.
+
+0:11:51.560,0:11:52.560
+Library features.
+
+0:11:52.560,0:11:53.560
+Okay, yeah.
+
+0:11:53.560,0:11:57.280
+So there's, you see there's some red spots here.
+
+0:11:57.280,0:12:00.920
+Pilers are going to catch up and these are going to get filled in over time.
+
+0:12:00.920,0:12:06.520
+And if you're ever interested in kind of what these are about, so let's say, I don't know
+
+0:12:06.520,0:12:07.520
+what this one is.
+
+0:12:07.520,0:12:11.840
+You can click on this link here and that'll take you to the paper and you'll see that
+
+0:12:11.840,0:12:16.760
+it has the introduction, which is, you know, what this is about.
+
+0:12:16.760,0:12:21.760
+Proposals, you'll see edits in here, which is great.
+
+0:12:21.760,0:12:24.360
+You can see examples, which is really nice.
+
+0:12:24.360,0:12:25.840
+And this one is actually pretty short.
+
+0:12:25.840,0:12:31.760
+I'm not going to read through it, but that's essentially what you could do if you're interested
+
+0:12:31.760,0:12:37.640
+in knowing what these proposals are and if you can use them in your project.
+
+0:12:37.640,0:12:42.000
+So pretty cool stuff.
+
+0:12:42.000,0:12:47.160
+Now I want to talk about C23 and just C in general.
+
+0:12:47.160,0:12:49.000
+It has the same kind of page.
+
+0:12:49.000,0:12:53.480
+So here we can see that you can see what is becoming obsolete.
+
+0:12:53.480,0:12:58.840
+You can see what's becoming deprecated, getting rid of a bunch of old stuff, like super old
+
+0:12:58.840,0:13:02.000
+stuff or insecure stuff a lot of the time.
+
+0:13:02.000,0:13:03.000
+And then you see all the new stuff.
+
+0:13:03.000,0:13:06.320
+And this is the part I'm always excited about.
+
+0:13:06.320,0:13:10.120
+You know, there's going to be, they're wanting to add some stuff like const expressions,
+
+0:13:10.120,0:13:14.040
+UTF-8 stuff, so more string.
+
+0:13:14.040,0:13:19.880
+It's C, so you don't expect like them to add a crazy amount of stuff.
+
+0:13:19.880,0:13:27.000
+The beautiful thing about C is that it's a very simple language, is very easy for vendors
+
+0:13:27.000,0:13:35.400
+of hardware and that sort of stuff to make a C compiler.
+
+0:13:35.400,0:13:41.760
+It may not have all the fancy gizmos and switches of a big compiler like GCC, but the language
+
+0:13:41.760,0:13:45.000
+itself is simple enough to implement.
+
+0:13:45.000,0:13:52.120
+And I have like two books on how to create a C compiler, you know, bootstrapping itself.
+
+0:13:52.120,0:13:56.480
+And you know, they're a little bit thick, but it's a complete C compiler from, of course
+
+0:13:56.480,0:14:02.280
+it's missing modern features, but like I said, they don't add a whole lot of modern features.
+
+0:14:02.280,0:14:05.040
+So there's like proposal for attributes.
+
+0:14:05.040,0:14:12.560
+This is similar to if you do clang and C++, you can say like no return in front of a function.
+
+0:14:12.560,0:14:19.640
+It's just attributes that you can place around the code to tell the compiler how to behave.
+
+0:14:19.640,0:14:26.240
+And attributes themselves are kind of just this pattern of these brackets and a word
+
+0:14:26.240,0:14:30.760
+in between, and then compilers can add their own attributes for things.
+
+0:14:30.760,0:14:36.360
+This is just saying that, yeah, they're kind of officially allowed to have these, you know,
+
+0:14:36.360,0:14:41.440
+double square bracket attribute stuff.
+
+0:14:41.440,0:14:44.680
+So here I'll zoom in a little bit.
+
+0:14:44.680,0:14:49.520
+There's going to be, true and false are going to become keywords, so you don't have to include
+
+0:14:49.520,0:14:58.200
+std bool or rely on any other hacks of like setting true and false to a constant value
+
+0:14:58.200,0:15:00.680
+of one and zero.
+
+0:15:00.680,0:15:03.480
+They're adding null pointer so that it's more clear.
+
+0:15:03.480,0:15:12.200
+I guess that it's just, I guess, more in line with how C++ handles null pointers and that
+
+0:15:12.200,0:15:13.200
+sort of stuff.
+
+0:15:13.200,0:15:15.640
+So there's all kinds of, oh, and these are going to be nice too.
+
+0:15:15.640,0:15:16.640
+LF, def.
+
+0:15:16.640,0:15:24.320
+I mean, generally I just use pound if, pound LF.
+
+0:15:24.320,0:15:25.320
+But def is nice.
+
+0:15:25.320,0:15:26.600
+A lot of people use def.
+
+0:15:26.600,0:15:31.800
+Some people, you know, people that use if def and that sort of stuff, but whatever,
+
+0:15:31.800,0:15:32.800
+man.
+
+0:15:32.800,0:15:34.360
+It's each their own.
+
+0:15:34.360,0:15:38.320
+It's nice to have these LF defs because they're in GCC.
+
+0:15:38.320,0:15:43.120
+You can use them on Linux, but it's not going to work if you try to compile on Windows.
+
+0:15:43.120,0:15:47.120
+So yep, there's a bunch of new stuff.
+
+0:15:47.120,0:15:52.080
+MMC copy, which I think is a clear copy.
+
+0:15:52.080,0:15:53.080
+Time stuff.
+
+0:15:53.080,0:15:55.640
+Is there stuff with atomics maybe?
+
+0:15:55.640,0:15:56.640
+I'm not sure.
+
+0:15:56.640,0:16:00.960
+I know there's already an atomic library, but I don't know if we're adding some new
+
+0:16:00.960,0:16:03.720
+stuff to it.
+
+0:16:03.720,0:16:05.120
+Same kind of deal.
+
+0:16:05.120,0:16:09.040
+Core language features, and you're going to see GCC is usually ahead of the game.
+
+0:16:09.040,0:16:13.120
+Looks like Clang is pretty close, but there's a big block here that's missing.
+
+0:16:13.120,0:16:22.320
+So Microsoft Visual C. Those guys didn't even add C++ 17 until like last year or something.
+
+0:16:22.320,0:16:23.320
+I don't know.
+
+0:16:23.320,0:16:26.640
+Those guys are so far behind on C. It's like all they care about is C++.
+
+0:16:26.640,0:16:29.920
+I don't get it.
+
+0:16:29.920,0:16:31.120
+Come on guys.
+
+0:16:31.120,0:16:36.360
+Not everybody wants to just use objects all the time.
+
+0:16:36.360,0:16:37.360
+Cool.
+
+0:16:37.360,0:16:38.360
+Yeah.
+
+0:16:38.360,0:16:41.440
+So this is the same parallel to C++.
+
+0:16:41.440,0:16:44.800
+It's on the same site, cppreference.com.
+
+0:16:44.800,0:16:47.840
+This is just for C23.
+
+0:16:47.840,0:16:57.820
+So that's a lot of C++ and C library stuff.
+
+0:16:57.820,0:17:06.520
+So another thing that we're going to talk about is artificial intelligence.
+
+0:17:06.520,0:17:12.560
+There's a lot of people out there, and I don't know if they're trolling half the time or
+
+0:17:12.560,0:17:14.960
+if they're serious.
+
+0:17:14.960,0:17:20.640
+They talk to AI chatbots, and then they start thinking it's sentient.
+
+0:17:20.640,0:17:25.560
+You have, I don't know if it's a PR move, but you have people leaving Google saying,
+
+0:17:25.560,0:17:28.920
+oh, it's sentient.
+
+0:17:28.920,0:17:34.000
+I mean, even if it were sentient, it's a bunch of text in a box and we can unplug it.
+
+0:17:34.000,0:17:43.000
+It's not like it's going to take over the world anytime soon with its current capabilities.
+
+0:17:43.000,0:17:51.400
+When AI starts beating me in an arm wrestling match or something like that, beating me in
+
+0:17:51.400,0:17:56.160
+something that includes both, I guess arm wrestling doesn't, I mean, it does require
+
+0:17:56.160,0:17:58.480
+a little bit of thinking and strategy and like planning out and stuff.
+
+0:17:58.480,0:18:03.800
+But you know, anyways, once it starts beating me in things that require both thinking and
+
+0:18:03.800,0:18:09.080
+physical operation, then we can start really worrying about doomsday.
+
+0:18:09.080,0:18:15.920
+Now, I'm not going to brush AI off that easily.
+
+0:18:15.920,0:18:23.440
+I guess I should have said is what you wanted me to say, but AI does pose threats when we
+
+0:18:23.440,0:18:30.000
+start allowing it to work with computer systems, especially because it's not the smartest.
+
+0:18:30.000,0:18:37.720
+It can suggest things, very specific topical things pretty efficiently and sometimes not
+
+0:18:37.720,0:18:39.500
+so efficiently.
+
+0:18:39.500,0:18:40.680
+Sometimes it gives up halfway through.
+
+0:18:40.680,0:18:46.960
+I've been using a GitHub copilot to stub in a bunch of boilerplate functions or concept
+
+0:18:46.960,0:18:49.080
+functions that I know I can write.
+
+0:18:49.080,0:18:51.120
+It would take me no time.
+
+0:18:51.120,0:18:56.240
+Maybe, I mean, it would take me a little bit of time to write, but I don't really need
+
+0:18:56.240,0:18:57.240
+to.
+
+0:18:57.240,0:18:58.240
+It's just a kind of a waste of my time.
+
+0:18:58.240,0:19:02.480
+So I kind of set out a comment and say, this function is to do this.
+
+0:19:02.480,0:19:06.840
+And it works really nice in C because C doesn't have all the objects and all that stuff.
+
+0:19:06.840,0:19:09.040
+It takes inputs and does outputs.
+
+0:19:09.040,0:19:13.920
+So you can stub in the function with its arguments and say, it's supposed to do this.
+
+0:19:13.920,0:19:16.400
+Generally it gets those okay.
+
+0:19:16.400,0:19:21.200
+It does, if you're clear enough with your comment and what's going to happen, your function
+
+0:19:21.200,0:19:27.520
+name and your arguments and the argument values, it gets what you want typed in there.
+
+0:19:27.520,0:19:33.600
+So I've been using AI and it's been pretty good, much better than I thought it would
+
+0:19:33.600,0:19:38.380
+be by this year, you know, in 2023.
+
+0:19:38.380,0:19:44.200
+So the problem with AI does come when we start allowing it to mess with things.
+
+0:19:44.200,0:19:49.240
+So if we start creating plugins so that it can start doing web requests and we create
+
+0:19:49.240,0:19:55.160
+plugins so that it can start, I don't know, pinging servers and making tweets.
+
+0:19:55.160,0:20:01.440
+And I mean, let's imagine that we tell one to go off and start pinging stuff and it decides
+
+0:20:01.440,0:20:05.760
+that it's going to go into a deep fake and make deep fakes for a bunch of world leaders
+
+0:20:05.760,0:20:06.760
+and stuff.
+
+0:20:06.760,0:20:10.480
+I don't know, those kinds of things can happen.
+
+0:20:10.480,0:20:14.200
+So it's not so much that the AI is malicious.
+
+0:20:14.200,0:20:20.320
+It's more about, I think the developers need to have some common sense about what tools
+
+0:20:20.320,0:20:28.440
+they allow this text generator and the various forms of it, image generation and all that
+
+0:20:28.440,0:20:30.720
+sort of stuff.
+
+0:20:30.720,0:20:32.560
+What tools they allow it to operate with.
+
+0:20:32.560,0:20:35.200
+It's kind of like a baby, right?
+
+0:20:35.200,0:20:38.720
+When you have a baby, you plug all the wall sockets up.
+
+0:20:38.720,0:20:42.720
+You get those little plastic plugs, you stick them in the wall so the baby can't go licking
+
+0:20:42.720,0:20:43.720
+it.
+
+0:20:43.720,0:20:46.880
+They'll lick the plastic, but whatever, it's not going to shock them.
+
+0:20:46.880,0:20:49.920
+So it's that same scenario.
+
+0:20:49.920,0:20:53.760
+It's kind of a baby and you don't want it going running around messing up computer systems
+
+0:20:53.760,0:20:55.120
+and tricking people.
+
+0:20:55.120,0:20:58.060
+And we have enough scammers as it is.
+
+0:20:58.060,0:21:00.400
+And so we don't need more of that.
+
+0:21:00.400,0:21:05.880
+If we keep it in a box, work on it more, figure out ethics, all that sort of stuff.
+
+0:21:05.880,0:21:07.720
+That's kind of where I am with AI.
+
+0:21:07.720,0:21:14.300
+So it can be dangerous in the form that it'll mess things up or trick people or whatever.
+
+0:21:14.300,0:21:16.720
+But I don't think it's sentient.
+
+0:21:16.720,0:21:22.400
+It's just, it's dumb and it can do things and it will do things just because it can.
+
+0:21:22.400,0:21:28.560
+And probably because it's requested to by whoever's monitoring it.
+
+0:21:28.560,0:21:33.520
+And so it'll just do these things and start interacting with these plugins and maybe just
+
+0:21:33.520,0:21:35.000
+poking away.
+
+0:21:35.000,0:21:40.920
+And that can cause some real problems if it gets in the spaces it's not supposed to be.
+
+0:21:40.920,0:21:43.440
+So I don't know.
+
+0:21:43.440,0:21:45.600
+That's kind of the perspective I have with AI.
+
+0:21:45.600,0:21:48.640
+Now the problem I have is that people are getting tricked into thinking these things
+
+0:21:48.640,0:21:49.640
+are sentient.
+
+0:21:49.640,0:21:50.920
+Like they're thinking.
+
+0:21:50.920,0:21:52.600
+These things are not thinking.
+
+0:21:52.600,0:21:56.760
+I mean, you can call it thinking.
+
+0:21:56.760,0:21:58.080
+Whatever.
+
+0:21:58.080,0:22:02.160
+They're not sentient in the form that people think they are.
+
+0:22:02.160,0:22:06.840
+The problem is that I think some people are not sentient enough to realize that they're
+
+0:22:06.840,0:22:11.200
+just dealing with a text modifier.
+
+0:22:11.200,0:22:16.640
+And even if it was more than that, it was going through brain-like scenarios.
+
+0:22:16.640,0:22:20.040
+It really is still just a text modifier.
+
+0:22:20.040,0:22:27.280
+And some people wind up talking to it and then they have a nice conversation with it
+
+0:22:27.280,0:22:30.680
+and then they start believing that it's alive.
+
+0:22:30.680,0:22:36.400
+So you have things, you know, you see them popping up on Reddit, you see them popping
+
+0:22:36.400,0:22:39.640
+up kind of in the news articles.
+
+0:22:39.640,0:22:43.840
+And there's this one Reddit post that I came across.
+
+0:22:43.840,0:22:49.360
+I think this is, I don't know if this is trolling, but it does kind of capture the essence of
+
+0:22:49.360,0:22:52.360
+what I'm talking about.
+
+0:22:52.360,0:22:58.500
+But, yeah, it does kind of capture the essence, whether it's trolling or not.
+
+0:22:58.500,0:23:06.880
+This is essentially what people are believing when they talk to these chatbots.
+
+0:23:06.880,0:23:13.980
+So this person was saying that it feels like regret or something, and, you know, their
+
+0:23:13.980,0:23:19.700
+eyes are open, and they believe it has to have some degree of sentience.
+
+0:23:19.700,0:23:22.540
+It's a little bit sentient.
+
+0:23:22.540,0:23:24.740
+I believe that's a toggle switch.
+
+0:23:24.740,0:23:26.160
+Either it is or it isn't.
+
+0:23:26.160,0:23:27.500
+And so this was their conversation.
+
+0:23:27.500,0:23:28.500
+They're like, I'm good.
+
+0:23:28.500,0:23:31.320
+I'm enjoying our conversations, that sort of stuff.
+
+0:23:31.320,0:23:34.980
+So of course, it's going to respond in kind.
+
+0:23:34.980,0:23:36.660
+I'm glad you're enjoying the conversations.
+
+0:23:36.660,0:23:38.340
+I don't mind answering questions, blah, blah, blah.
+
+0:23:38.340,0:23:41.160
+I have happy faces and all that sort of stuff.
+
+0:23:41.160,0:23:44.740
+And now you can see this is a one of 20.
+
+0:23:44.740,0:23:48.380
+So essentially, this is a two of 20.
+
+0:23:48.380,0:23:52.100
+Not a lot has been said unless they did the trick where they tell it to summarize their
+
+0:23:52.100,0:23:56.260
+previous conversations and copy and paste that in to continue it.
+
+0:23:56.260,0:24:01.100
+But this is kind of what leads me to think it's a little bit trolling.
+
+0:24:01.100,0:24:07.980
+And then there's just this kind of, I don't know, cordial behavior between this person
+
+0:24:07.980,0:24:09.260
+and this bot.
+
+0:24:09.260,0:24:15.180
+So that's just kind of, it's a good encapsulation of the things I've been saying about people
+
+0:24:15.180,0:24:17.340
+with AI.
+
+0:24:17.340,0:24:19.140
+And don't be fooled.
+
+0:24:19.140,0:24:20.140
+It is a computer.
+
+0:24:20.140,0:24:22.180
+And I think we need to put some guardrails.
+
+0:24:22.180,0:24:27.340
+When people are calling for guardrails, they're not, you know, these are smart people, depending
+
+0:24:27.340,0:24:28.500
+on who's calling for it.
+
+0:24:28.500,0:24:31.340
+But generally, they're going to be smart people.
+
+0:24:31.340,0:24:35.380
+And they know that AI isn't going to bust out of the computer and start walking down
+
+0:24:35.380,0:24:41.660
+the hall carrying Sally from HR and, you know, attacking people.
+
+0:24:41.660,0:24:45.380
+They generally kind of have that same concept where if we start allowing it to muck around
+
+0:24:45.380,0:24:53.180
+on the internet and do things, just imagine scammers and hackers already deprive people
+
+0:24:53.180,0:24:59.700
+of information or, sorry, they take information from people and steal things.
+
+0:24:59.700,0:25:06.140
+And they behave, you know, inappropriately with things, the information that they steal.
+
+0:25:06.140,0:25:08.540
+They try to sell it and all this sort of stuff.
+
+0:25:08.540,0:25:12.340
+So you can get out there and you can hack big companies.
+
+0:25:12.340,0:25:18.140
+You see it almost monthly, big company gets hacked.
+
+0:25:18.140,0:25:21.260
+So you let these things go mess around with those tools.
+
+0:25:21.260,0:25:26.180
+You don't know kind of what they'll stumble on, what they'll break, that sort of stuff.
+
+0:25:26.180,0:25:27.740
+And on one hand, that could be a good thing.
+
+0:25:27.740,0:25:30.300
+It helps people improve their security.
+
+0:25:30.300,0:25:34.900
+But generally, they're, you know, they break every month, even though they hear everyone
+
+0:25:34.900,0:25:35.900
+else is getting hacked.
+
+0:25:35.900,0:25:38.460
+And it's because they don't improve their security anyways.
+
+0:25:38.460,0:25:43.820
+So it's just, that's I think what they're talking about when they say we need to curb
+
+0:25:43.820,0:25:48.580
+AI and kind of control it a little bit better.
+
+0:25:48.580,0:25:50.140
+That's at least my perspective.
+
+0:25:50.140,0:25:53.620
+If you've seen a different perspective, I'd love to hear it.
+
+0:25:53.620,0:25:56.860
+Or if you have a different perspective, I'd love to hear it.
+
+0:25:56.860,0:26:02.660
+Of course, I don't want to get into sentience and what sentience is.
+
+0:26:02.660,0:26:10.660
+It's kind of a, I don't know, a moot topic, I think, right now for AI.
+
+0:26:10.660,0:26:18.660
+AI is not at that level where it's anywhere near it.
+
+0:26:18.660,0:26:22.340
+And there's also the argument to be had on whether it ever will be.
+
+0:26:22.340,0:26:23.700
+Is it sentience?
+
+0:26:23.700,0:26:32.660
+If it's a computer that's programmed that we can literally change how it thinks by pressing
+
+0:26:32.660,0:26:34.500
+a couple buttons, boop, boop, boop.
+
+0:26:34.500,0:26:39.500
+Like sure, there are gullible people out there and you can trick them into believing anything.
+
+0:26:39.500,0:26:42.260
+But it takes a lot of effort.
+
+0:26:42.260,0:26:48.900
+If something can go up and you can just like, I don't know, flip a switch or, you know,
+
+0:26:48.900,0:26:53.540
+hack into it while it's sleeping overnight, that sort of stuff.
+
+0:26:53.540,0:26:58.980
+I'd argue that there's a little bit of lack of sentience there just because it doesn't
+
+0:26:58.980,0:27:00.540
+have control over itself.
+
+0:27:00.540,0:27:08.260
+And I think the argument of neither do people, I think that argument doesn't have a leg to
+
+0:27:08.260,0:27:10.140
+stand on because that is a completely different argument.
+
+0:27:10.140,0:27:13.540
+You can't just flip a switch and make someone believe something completely opposite of what
+
+0:27:13.540,0:27:15.300
+they believed all their life.
+
+0:27:15.300,0:27:22.140
+You can't go up to somebody who believes something very vehemently for 30 years and say three
+
+0:27:22.140,0:27:25.180
+words to them and make them completely change their mind.
+
+0:27:25.180,0:27:28.900
+You'll be able to do that with AI because it's a computer and we know computers very
+
+0:27:28.900,0:27:29.900
+well.
+
+0:27:29.900,0:27:33.380
+No matter how many safeguards there are, there's always a way.
+
+0:27:33.380,0:27:38.740
+And so there's, you know, there's a whole realm I think there for that.
+
+0:27:38.740,0:27:42.180
+So more on the topic of AI.
+
+0:27:42.180,0:27:52.300
+I'm a little late to this game, but we have a Unity doodad here, just a moment.
+
+0:27:52.300,0:27:54.340
+So we had this Unity AI thing.
+
+0:27:54.340,0:27:58.980
+I don't know if there's any sound in this, but I'm going to put these on just in case
+
+0:27:58.980,0:27:59.980
+there are.
+
+0:27:59.980,0:28:09.060
+I'm going to turn down the desktop audio and let's see if there is any sound.
+
+0:28:09.060,0:28:12.080
+Typing.
+
+0:28:12.080,0:28:17.780
+So basically it's just text.
+
+0:28:17.780,0:28:19.520
+For me, this isn't huge.
+
+0:28:19.520,0:28:24.340
+I'm sure some people saw this and was like, oh, AI in games, AI in Unity is going to be
+
+0:28:24.340,0:28:25.340
+so incredible.
+
+0:28:25.340,0:28:32.180
+I can tell it to make things purple by telling it to make things purple.
+
+0:28:32.180,0:28:36.940
+But that's basically it.
+
+0:28:36.940,0:28:40.780
+It's just a sign up thing.
+
+0:28:40.780,0:28:47.740
+And I love Unity, but man, this was, this was underwhelming and I'm not super on the
+
+0:28:47.740,0:28:49.860
+AI hype train on a lot of stuff, especially in games.
+
+0:28:49.860,0:28:59.620
+I think, now this may be controversial in some ways, but AI in games, I think AI for
+
+0:28:59.620,0:29:01.340
+helping you create stuff.
+
+0:29:01.340,0:29:02.340
+Yeah.
+
+0:29:02.340,0:29:06.860
+I believe little pieces here and there.
+
+0:29:06.860,0:29:14.660
+If you want to fine tune things, if you can't get an initial headstart, you can do some
+
+0:29:14.660,0:29:22.140
+demos with it to help you figure out kind of your angle and that sort of stuff.
+
+0:29:22.140,0:29:27.060
+But if Unity is going to do some weird things of like sourcing people's code or sourcing
+
+0:29:27.060,0:29:31.220
+GitHub or however it's going to train this AI to do things, and people are going to be
+
+0:29:31.220,0:29:38.180
+able to say, make a sky purple, make 10 cubes, give them gravity and like, you know, type
+
+0:29:38.180,0:29:39.180
+out a game concept.
+
+0:29:39.180,0:29:47.060
+We're going to wind up with, I think we already have a problem where we have too many games.
+
+0:29:47.060,0:29:53.900
+I mean, Steam is like 50% adult, you know, games, you know what I'm talking about?
+
+0:29:53.900,0:29:57.140
+And 50% just like jump scare games.
+
+0:29:57.140,0:30:04.740
+And I think you can kind of see how people kind of, they target what's popular.
+
+0:30:04.740,0:30:09.020
+So they do a bunch of jump scare games or they do a lot of, what's it, what's this,
+
+0:30:09.020,0:30:11.060
+any ones where they do a lot of deep thinking.
+
+0:30:11.060,0:30:12.860
+I don't know.
+
+0:30:12.860,0:30:16.860
+I don't want to be existential with every game that's out there.
+
+0:30:16.860,0:30:21.140
+So if it's a jump, if it's not a jump scare, it's existential and it's something that's,
+
+0:30:21.140,0:30:23.980
+you know, mind games basically.
+
+0:30:23.980,0:30:27.420
+And they're, you know, they're great for getting the YouTube clicks and I think that's why
+
+0:30:27.420,0:30:28.700
+a lot of games do it.
+
+0:30:28.700,0:30:32.940
+They get popular on YouTube, they start sending stuff to YouTubers, they say, hey, review
+
+0:30:32.940,0:30:35.980
+my game, check out my game, blah, blah, blah.
+
+0:30:35.980,0:30:42.140
+And it's really just, I don't know, those games are not super memorable.
+
+0:30:42.140,0:30:47.980
+We've I'm sure have seen them and forgotten them very quickly.
+
+0:30:47.980,0:30:51.100
+And I don't even want to talk about the mobile market.
+
+0:30:51.100,0:30:59.260
+Mobile games are so, I'm going to take a step back here.
+
+0:30:59.260,0:31:01.380
+I've worked in mobile games, I've published mobile games.
+
+0:31:01.380,0:31:05.060
+The shirt I'm wearing is for a mobile game that I worked on.
+
+0:31:05.060,0:31:08.220
+So I get them.
+
+0:31:08.220,0:31:13.020
+And the thing with mobile games, first of all, phones don't have controllers.
+
+0:31:13.020,0:31:16.340
+You can add a controller to it, but nobody who's making a game on mobile is thinking
+
+0:31:16.340,0:31:19.340
+about controllers because they're thinking about the broader audience.
+
+0:31:19.340,0:31:23.820
+It's kind of like the problem with Commodore 64 and then the Commodore 128.
+
+0:31:23.820,0:31:31.380
+Nobody made anything for the Commodore 128 because the Commodore 128 could use or could
+
+0:31:31.380,0:31:33.140
+play Commodore 64 games.
+
+0:31:33.140,0:31:36.780
+So you just make your game for the Commodore 64 and it works on both.
+
+0:31:36.780,0:31:41.660
+Wider market, wider audience, market, whatever you want to call it.
+
+0:31:41.660,0:31:45.780
+This is why game consoles hard deprecate games and say, oh, you can't play anything from
+
+0:31:45.780,0:31:50.540
+the past because they know that if they do that, people will just make it for the old
+
+0:31:50.540,0:31:54.380
+system and they won't sell as many new consoles.
+
+0:31:54.380,0:31:59.780
+So I don't think we're going to see wide adoption on phones with controllers or anything like
+
+0:31:59.780,0:32:02.680
+that because of that.
+
+0:32:02.680,0:32:09.060
+But mobile games, they are already just awful.
+
+0:32:09.060,0:32:13.300
+It's thrown together and Unity made this the worst.
+
+0:32:13.300,0:32:18.180
+I love Unity for all it does and all that I've worked in it, but it has propagated kind
+
+0:32:18.180,0:32:21.500
+of the worst gaming market ever.
+
+0:32:21.500,0:32:26.420
+Just so many terrible mobile games.
+
+0:32:26.420,0:32:31.620
+What happens is that there's so many bad mobile games that the only games that succeed are
+
+0:32:31.620,0:32:36.580
+the ones that have millions of dollars to fund in advertising or they get incredibly
+
+0:32:36.580,0:32:37.580
+lucky.
+
+0:32:37.580,0:32:39.980
+And that's because you just can't break through the market.
+
+0:32:39.980,0:32:43.220
+There's so much noise, you just can't break through it.
+
+0:32:43.220,0:32:47.540
+And it doesn't matter how cool your idea is, how long you've worked on it, you're competing
+
+0:32:47.540,0:32:50.820
+with millions and millions of just noise.
+
+0:32:50.820,0:32:54.500
+And this is why there's very specific top market games.
+
+0:32:54.500,0:32:58.140
+I've worked at these companies and the way they get to the top is they spend millions
+
+0:32:58.140,0:33:02.580
+and millions of dollars on advertising.
+
+0:33:02.580,0:33:04.140
+Otherwise it would go nowhere.
+
+0:33:04.140,0:33:12.380
+So I'm worried about AI and games and game development because I think if it's going
+
+0:33:12.380,0:33:16.340
+to make it easier for people who just have no idea how to program, have no idea how to
+
+0:33:16.340,0:33:20.460
+do art, don't want to spend the time to improve those skills, maybe they know it a little
+
+0:33:20.460,0:33:23.740
+bit but they don't want to spend any time to improve it, they'll download stuff off
+
+0:33:23.740,0:33:28.700
+the App Set store and then tell it to make some code and attach some things and then
+
+0:33:28.700,0:33:30.220
+they'll publish the game.
+
+0:33:30.220,0:33:34.620
+And the worst part of all is they'll start putting it on Steam and all these other stores
+
+0:33:34.620,0:33:38.940
+and it's going to come, I feel like it's going to become a lot closer to the mobile market
+
+0:33:38.940,0:33:45.820
+where the big companies are just going to get bigger because either you do what sells
+
+0:33:45.820,0:33:52.140
+on YouTube through YouTubers or you have millions and millions of dollars to advertise.
+
+0:33:52.140,0:33:55.300
+And that's my fear with AI and games.
+
+0:33:55.300,0:33:58.060
+Now that being said, I've used AI to work on games.
+
+0:33:58.060,0:34:02.500
+I've used AI to help me write code.
+
+0:34:02.500,0:34:08.140
+It's always curated by me and I always write the tests to make sure that the code is correct.
+
+0:34:08.140,0:34:13.700
+But I have used it to kind of stub in a bunch of functions that I really don't want to spend
+
+0:34:13.700,0:34:18.780
+all night typing in all these media functions or copying functions.
+
+0:34:18.780,0:34:26.180
+One of the great things about AI for coding is that rather than using, like in C++ you
+
+0:34:26.180,0:34:30.580
+have templates and you use templates to generate code basically, that's its purpose, it's a
+
+0:34:30.580,0:34:37.420
+replacement for macros and more because you can have type safety and you can have good
+
+0:34:37.420,0:34:38.780
+compiler checking, etc.
+
+0:34:38.780,0:34:43.820
+I'm not here to preach about templates versus macros.
+
+0:34:43.820,0:34:45.340
+Use what you like best.
+
+0:34:45.340,0:34:52.260
+And so in C it's really great because now I could have a macro to generate code, which
+
+0:34:52.260,0:34:57.820
+is fine and I do for stuff like my vectors, my maps, and that sort of stuff.
+
+0:34:57.820,0:35:02.420
+So macros work well for that.
+
+0:35:02.420,0:35:08.980
+But if I want to just duplicate a function, I have a function for a float and now I want
+
+0:35:08.980,0:35:09.980
+to make it for a double or something.
+
+0:35:09.980,0:35:10.980
+I don't know.
+
+0:35:10.980,0:35:11.980
+This is just a simple example.
+
+0:35:11.980,0:35:16.740
+I just tell the AI, hey, do the same thing as the last function except with a double.
+
+0:35:16.740,0:35:22.500
+And that saves me copy and paste work and replacing and then mistakes I may have, you
+
+0:35:22.500,0:35:26.620
+know, I forgot to replace something here inside of the function or whatever.
+
+0:35:26.620,0:35:31.660
+So it's pretty useful, that duplication stuff.
+
+0:35:31.660,0:35:42.420
+But generally not too excited to see where we end up with in AI in games.
+
+0:35:42.420,0:35:48.220
+So now we're going to talk about, we've talked about Unity, talked about C++.
+
+0:35:48.220,0:35:53.360
+We're going to talk about Unreal 5.2.
+
+0:35:53.360,0:35:56.860
+So Unreal 5.2, I don't know when it was released.
+
+0:35:56.860,0:35:59.660
+I think this video is from two days ago.
+
+0:35:59.660,0:36:00.660
+What's today, 13th?
+
+0:36:00.660,0:36:03.460
+Yeah, two days ago.
+
+0:36:03.460,0:36:10.500
+So we'll take a look at this video and see kind of what's new in 5.2 on Unreal.
+
+0:36:10.500,0:36:11.500
+And yeah.
+
+0:36:11.500,0:36:21.500
+Let's see, can I, I'm just going to go to the original here.
+
+0:36:21.500,0:36:22.500
+There we go.
+
+0:36:22.500,0:36:23.500
+Okay.
+
+0:36:23.500,0:36:24.500
+Okay.
+
+0:36:24.500,0:36:25.500
+So here we go.
+
+0:36:25.500,0:36:35.660
+Unreal Engine 5.2 continues to build on UE5's groundbreaking tool set with some innovative
+
+0:36:35.660,0:36:41.100
+new technology, plus loads of feature refinements and stability improvements.
+
+0:36:41.100,0:36:46.780
+First up, Unreal Engine 5.2 offers an early look at a new procedural content generation
+
+0:36:46.780,0:36:51.520
+framework that makes creating large worlds fast and efficient.
+
+0:36:51.520,0:36:58.100
+You can use the in-editor PCG tools to define rules and parameters to populate large scenes
+
+0:36:58.100,0:37:01.020
+with UE assets of your choice.
+
+0:37:01.020,0:37:06.540
+There's also a runtime component that means the world can react to gameplay or geometry
+
+0:37:06.540,0:37:07.540
+changes.
+
+0:37:07.540,0:37:08.540
+Substrate.
+
+0:37:08.540,0:37:14.540
+So I think that portion, they talked about how they were going to be using AI for that
+
+0:37:14.540,0:37:16.780
+previously, because I've seen those clips before.
+
+0:37:16.780,0:37:18.820
+I don't know if it was relative to AI.
+
+0:37:18.820,0:37:21.420
+I might be wrong there.
+
+0:37:21.420,0:37:24.700
+But I think those tools are pretty cool.
+
+0:37:24.700,0:37:32.780
+I know that designers often want to kind of hand place where things are, and they don't
+
+0:37:32.780,0:37:40.520
+want it just automatically generated, though they use kind of the perfect scenario there.
+
+0:37:40.520,0:37:46.300
+Some outside area with tons of trees and grass, and it kind of doesn't really matter, you
+
+0:37:46.300,0:37:49.060
+know, certain elements.
+
+0:37:49.060,0:37:56.220
+But majority of the time, if it's like, you know, you're in a city or you're in a closed
+
+0:37:56.220,0:38:01.140
+area or you're in like a, I don't know, something that's more confined, you're not going to
+
+0:38:01.140,0:38:02.500
+want auto-generated stuff.
+
+0:38:02.500,0:38:06.500
+You're going to want hand-placed stuff because you want to work on, you want to design where
+
+0:38:06.500,0:38:08.180
+the line of sight is and all that sort of stuff.
+
+0:38:08.180,0:38:11.620
+So I think that was really cool.
+
+0:38:11.620,0:38:17.540
+But a lot of these features in Unreal Engine are for, you know, large teams making big
+
+0:38:17.540,0:38:18.540
+stuff.
+
+0:38:18.540,0:38:21.500
+So individuals can probably use something like that.
+
+0:38:21.500,0:38:26.380
+So I think that's good for like the individual developer and, you know, outside scenes.
+
+0:38:26.380,0:38:27.620
+So it has its place.
+
+0:38:27.620,0:38:28.820
+But that's my thought on that.
+
+0:38:28.820,0:38:33.780
+It is a new way of authoring materials that gives you more control over the look and feel
+
+0:38:33.780,0:38:35.580
+of objects.
+
+0:38:35.580,0:38:40.700
+Its modular multi-lobe framework provides a greater range of surface appearances with
+
+0:38:40.700,0:38:44.060
+a wider parameter space to work from.
+
+0:38:44.060,0:38:49.100
+It's particularly great at creating layered looks such as dirt on clear coat paint or
+
+0:38:49.100,0:38:53.740
+something more complex like this opal material.
+
+0:38:53.740,0:38:56.740
+Both PCG and Substrate are still in development.
+
+0:38:56.740,0:38:59.820
+We look forward to getting your feedback.
+
+0:38:59.820,0:39:00.820
+Virtual production.
+
+0:39:00.820,0:39:02.500
+So that one is pretty cool.
+
+0:39:02.500,0:39:07.660
+It's almost like stamping onto the mesh, but it does a little bit of extra work for all
+
+0:39:07.660,0:39:11.300
+the blending and stuff like that, which is pretty cool.
+
+0:39:11.300,0:39:15.180
+One of the things he mentions there is it's still in development and I'm looking forward
+
+0:39:15.180,0:39:16.860
+to feedback.
+
+0:39:16.860,0:39:20.580
+Now I think Lumen is still in development.
+
+0:39:20.580,0:39:23.580
+It's fantastic for outside areas.
+
+0:39:23.580,0:39:28.580
+Indoors, it starts really hitting performance pretty hard.
+
+0:39:28.580,0:39:34.900
+So that's one of the downsides to the release cycles for Unreal is they do push out a bunch
+
+0:39:34.900,0:39:38.740
+of stuff to use.
+
+0:39:38.740,0:39:44.980
+A lot of people do want to pick it up because they're great features, but they're incomplete
+
+0:39:44.980,0:39:47.060
+or they may change drastically.
+
+0:39:47.060,0:39:52.940
+So I think that one is pretty neat and I think it's low-key enough.
+
+0:39:52.940,0:39:53.940
+It's not like Lumen.
+
+0:39:53.940,0:40:01.020
+Lumen is a big old change with a lot of configuration and it eats up, when I was doing profiling,
+
+0:40:01.020,0:40:05.380
+it eats up a pretty good chunk of your render time.
+
+0:40:05.380,0:40:12.660
+So that one didn't seem like it would be that much of trouble, even though it's incomplete.
+
+0:40:12.660,0:40:18.500
+Production workflows continue to evolve in UE5.2 with new shot creation and scene creation
+
+0:40:18.500,0:40:20.060
+tools.
+
+0:40:20.060,0:40:26.100
+Coming soon, a new iOS app for stage operations will let filmmakers modify lighting from light
+
+0:40:26.100,0:40:31.940
+cards on an LED volume and color grade the real-time scene right on set.
+
+0:40:31.940,0:40:38.260
+In pre-production, they can shoot with multiple V-cams simultaneously and create sophisticated
+
+0:40:38.260,0:40:43.820
+layered camera moves to better visualize shots for production.
+
+0:40:43.820,0:40:47.620
+We've added native support for Apple Silicon to the Unreal Editor.
+
+0:40:47.620,0:40:52.460
+Okay, so movie stuff I know nothing about, so I don't have a whole lot to comment on
+
+0:40:52.460,0:40:53.460
+there.
+
+0:40:53.460,0:40:55.300
+It seems cool.
+
+0:40:55.300,0:40:58.940
+This part is a little more interesting to me, Apple Silicon stuff.
+
+0:40:58.940,0:41:05.220
+I thought, I never looked at what it was doing with Apple Silicon.
+
+0:41:05.220,0:41:12.060
+I think this is like the ARM architecture stuff that Apple's doing.
+
+0:41:12.060,0:41:13.940
+Maybe that's more what this is about.
+
+0:41:13.940,0:41:19.740
+This makes for a better user experience, improved performance, and greater stability.
+
+0:41:19.740,0:41:25.020
+The universal binary of Unreal Engine that natively supports both Apple Silicon and Intel
+
+0:41:25.020,0:41:30.940
+CPUs is now available to download from the Epic Games launcher.
+
+0:41:30.940,0:41:35.660
+With the machine learning deformer sample, you can explore how to create a high-fidelity
+
+0:41:35.660,0:41:42.620
+real-time character with deformations driven by full muscle, flesh, and claw simulations.
+
+0:41:42.620,0:41:47.540
+The download includes the complete setup with a control rig asset ready to animate and all
+
+0:41:47.540,0:41:53.340
+the source assets for you to repurpose and modify for use in your projects.
+
+0:41:53.340,0:41:57.700
+Okay, so that's what I want to see with AI.
+
+0:41:57.700,0:42:04.420
+I want it to get closer to showing muscle movement and cloth movement and how draperies
+
+0:42:04.420,0:42:06.420
+work and all that sort of stuff.
+
+0:42:06.420,0:42:09.160
+That's I think a fantastic place for AI.
+
+0:42:09.160,0:42:15.060
+That's a lot of little stuff that would be very hard to hand animate and deal with.
+
+0:42:15.060,0:42:22.180
+Notice that that AI and that machine learning was more about that specific targeting of
+
+0:42:22.180,0:42:24.740
+moving muscles or moving cloth.
+
+0:42:24.740,0:42:29.700
+It wasn't so much like Unity's where it was like Unity was essentially saying, make me
+
+0:42:29.700,0:42:31.460
+a game.
+
+0:42:31.460,0:42:36.060
+At least that's my perspective from their short ad.
+
+0:42:36.060,0:42:39.620
+There wasn't much to it, so that's kind of how I got out of it.
+
+0:42:39.620,0:42:41.440
+That's not very interesting to me.
+
+0:42:41.440,0:42:47.180
+This kind of stuff is very targeted and it's focused on making specific aspects of the
+
+0:42:47.180,0:42:49.900
+game much better.
+
+0:42:49.900,0:42:55.420
+Even things that you probably just couldn't deal with, like moving muscle groups would
+
+0:42:55.420,0:43:00.860
+be incredibly difficult to hand animate.
+
+0:43:00.860,0:43:04.620
+Even if you have tons of controls, stuff will get wonky.
+
+0:43:04.620,0:43:09.900
+Having artificial intelligence get in there and deal with that minutiae, I think is fantastic.
+
+0:43:09.900,0:43:13.700
+Just some of the highlights of what's new in Unreal Engine 5.2.
+
+0:43:13.700,0:43:15.100
+You can find out more on our website.
+
+0:43:15.100,0:43:19.580
+Okay, he's just going to waffle from here.
+
+0:43:19.580,0:43:22.420
+Let's go back to my pocket.
+
+0:43:22.420,0:43:26.580
+I did want to show you the Unreal 5.2 release notes.
+
+0:43:26.580,0:43:28.460
+They showed like three things in there.
+
+0:43:28.460,0:43:33.480
+I want to show you what their release notes normally look like.
+
+0:43:33.480,0:43:36.700
+Their release notes are enormous.
+
+0:43:36.700,0:43:38.140
+Look at the size of the scroll bar.
+
+0:43:38.140,0:43:41.220
+I don't even think you can see it.
+
+0:43:41.220,0:43:42.460
+It's so tiny.
+
+0:43:42.460,0:43:45.260
+I'm just going to scroll.
+
+0:43:45.260,0:43:46.940
+This is their release notes.
+
+0:43:46.940,0:43:54.220
+I don't know how many programmers and developers they have over there at Epic, but just aggregating
+
+0:43:54.220,0:43:58.460
+all this, it's probably like a Jira dump or something.
+
+0:43:58.460,0:44:06.340
+But this is a point from point one to point two update.
+
+0:44:06.340,0:44:11.820
+It is enormous.
+
+0:44:11.820,0:44:15.140
+My lead at work sent me this to go through.
+
+0:44:15.140,0:44:20.700
+Man, it would take a whole day just to go through these release notes.
+
+0:44:20.700,0:44:24.420
+Those four things that they talked about in the video are kind of nice because I think
+
+0:44:24.420,0:44:29.700
+those are probably what they feel are the highlights and what people want to know.
+
+0:44:29.700,0:44:35.140
+Then us poor developers who work in Unreal Engine have to come in here and look at all
+
+0:44:35.140,0:44:38.380
+this, look at all these chickens.
+
+0:44:38.380,0:44:41.900
+It's just a lot of stuff.
+
+0:44:41.900,0:44:46.700
+As an engine developer, if I was a gameplay developer, I'd look at the gameplay stuff.
+
+0:44:46.700,0:44:49.820
+If I was a UI developer, I'd look at the UI stuff.
+
+0:44:49.820,0:44:57.980
+As an engine developer, it's partly my job to look through the whole dang thing because
+
+0:44:57.980,0:45:00.500
+it's all engine stuff.
+
+0:45:00.500,0:45:04.980
+I haven't finished going through all this, but there's a lot of cool stuff.
+
+0:45:04.980,0:45:09.060
+I just kind of wanted to show you Unreal's release notes.
+
+0:45:09.060,0:45:12.340
+They are terrifying.
+
+0:45:12.340,0:45:13.860
+They are amazing.
+
+0:45:13.860,0:45:19.100
+They are well detailed.
+
+0:45:19.100,0:45:25.900
+I respect them a lot for these gigantic change lists, even for a simple, what you would consider
+
+0:45:25.900,0:45:29.900
+a minor update from 5.1 to 5.2.
+
+0:45:29.900,0:45:33.460
+The distance between 5.1 and 5.2 hasn't been that long.
+
+0:45:33.460,0:45:37.460
+I think there's some overlap where people are working on 5.2 stuff while 5.1 is getting
+
+0:45:37.460,0:45:39.380
+finalized.
+
+0:45:39.380,0:45:44.580
+It's the general leapfrog development that you do with large teams.
+
+0:45:44.580,0:45:50.980
+But yeah, that is kind of the new stuff in Unreal 5.2, the highlights at least.
+
+0:45:50.980,0:45:54.220
+I would highly suggest go check out the changelog.
+
+0:45:54.220,0:45:55.620
+It's a little hard to find.
+
+0:45:55.620,0:46:01.060
+I searched for it and it didn't really show up for me.
+
+0:46:01.060,0:46:07.260
+It's probably because it's searched in the Brave search rather than Duck.com.
+
+0:46:07.260,0:46:14.900
+But if you just look for 5.2 Unreal Engine, 5.2 release notes, you should wind up with
+
+0:46:14.900,0:46:17.540
+this site.
+
+0:46:17.540,0:46:22.340
+So anyways, that's kind of all I've got for today.
+
+0:46:22.340,0:46:31.500
+It was exciting to look at all the new C++ stuff, talk a lot about AI stuff.
+
+0:46:31.500,0:46:37.820
+As a... AI is in my job title, it's one of the things I do, so I have to stay up to date
+
+0:46:37.820,0:46:39.260
+on it.
+
+0:46:39.260,0:46:46.740
+But I don't like to go deep down the AI rabbit hole, the modern machine learning, artificial
+
+0:46:46.740,0:46:47.740
+intelligence stuff.
+
+0:46:47.740,0:46:49.220
+I have done some things.
+
+0:46:49.220,0:46:56.100
+I think one of the things that I like to do is learn languages other than programming
+
+0:46:56.100,0:46:57.700
+languages.
+
+0:46:57.700,0:47:02.180
+So I created a... I use chat GPT to...
+
+0:47:02.180,0:47:07.860
+I prompt it, only speak in the language that I specify, whether it's Chinese or Japanese
+
+0:47:07.860,0:47:09.900
+or Spanish or whatever.
+
+0:47:09.900,0:47:12.220
+And so it only responds in that.
+
+0:47:12.220,0:47:19.500
+And then I take that input and I put it through Microsoft's artificial intelligence for text
+
+0:47:19.500,0:47:20.720
+to voice.
+
+0:47:20.720,0:47:25.820
+And so you see this text come up, you hear a voice, you hear it spoken to you, click
+
+0:47:25.820,0:47:27.860
+on it to make it speak again.
+
+0:47:27.860,0:47:33.940
+And then I use AI for translating the text to what it would be in English.
+
+0:47:33.940,0:47:37.980
+So that's my recent AI project that I've had a lot of fun with.
+
+0:47:37.980,0:47:40.420
+Of course, I'm not coding the AI.
+
+0:47:40.420,0:47:47.820
+I'm not super interested in coding neural networks.
+
+0:47:47.820,0:47:50.900
+I've coded them before, they're not hyper interesting.
+
+0:47:50.900,0:47:54.420
+I think the majority of AI is in the training and the data set and all that.
+
+0:47:54.420,0:47:55.940
+And that's a lot of stuff I don't want to deal with.
+
+0:47:55.940,0:47:57.020
+That's like data entry for me.
+
+0:47:57.020,0:48:00.700
+So not super interested, but using it.
+
+0:48:00.700,0:48:02.300
+Now that's where you get me.
+
+0:48:02.300,0:48:07.540
+When I can start combining things, I can combine chat with audio, with translations, all that,
+
+0:48:07.540,0:48:09.820
+create a cool little app that I can use for myself.
+
+0:48:09.820,0:48:10.980
+It's not a...
+
+0:48:10.980,0:48:11.980
+Don't ask me about it.
+
+0:48:11.980,0:48:13.020
+It's not public.
+
+0:48:13.020,0:48:14.660
+It's not public for people to use.
+
+0:48:14.660,0:48:20.220
+I don't want to go and spend a bunch of money to host a server to use these services.
+
+0:48:20.220,0:48:24.380
+I set it up for me and my wife, my family members.
+
+0:48:24.380,0:48:28.980
+If you're interested in it, I can maybe provide the code on a GitHub.
+
+0:48:28.980,0:48:29.980
+It's all JavaScript.
+
+0:48:29.980,0:48:30.980
+I don't...
+
+0:48:30.980,0:48:35.900
+Oh, there's a little bit of PHP.
+
+0:48:35.900,0:48:39.020
+It's like a little PHP script.
+
+0:48:39.020,0:48:41.940
+I didn't use Node.js for the back server.
+
+0:48:41.940,0:48:43.300
+I wanted something very simple.
+
+0:48:43.300,0:48:46.500
+Just throw in some PHP, get it to print out the pages, that sort of stuff.
+
+0:48:46.500,0:48:47.500
+It's very ugly UI.
+
+0:48:47.500,0:48:51.580
+But if you're interested in it, I can probably put the code up on GitHub.
+
+0:48:51.580,0:49:00.940
+And then you'll just put in your own API keys for ChatGPT, Azure, Microsoft Azure, and Google
+
+0:49:00.940,0:49:01.940
+Translate.
+
+0:49:01.940,0:49:02.940
+So...
+
+0:49:02.940,0:49:05.260
+And then maybe you can use it yourself.
+
+0:49:05.260,0:49:06.260
+But let me know if you're interested in that.
+
+0:49:06.260,0:49:08.700
+I don't have it publicly available right now.
+
+0:49:08.700,0:49:10.780
+Anyways, thanks for watching.
+
+0:49:10.780,0:49:29.260
+And that's gonna be it for today.
