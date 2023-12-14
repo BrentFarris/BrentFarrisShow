@@ -1,0 +1,2715 @@
+1
+00:00:00,000 --> 00:00:05,680
+Hello, and welcome to the first episode of whatever this might be.
+
+2
+00:00:05,680 --> 00:00:11,480
+I think I'm going to call it overnight assembly, because I like assembly programming.
+
+3
+00:00:11,480 --> 00:00:16,760
+It's one of those languages that are just a lot of fun to program in, and I do it at
+
+4
+00:00:16,760 --> 00:00:20,160
+night, so maybe that's what I'll call it.
+
+5
+00:00:20,160 --> 00:00:26,840
+Generally, what I want to talk about here maybe is my perspective as a programmer on
+
+6
+00:00:26,840 --> 00:00:35,240
+technology and computers and games and code and repositories and libraries and game engines
+
+7
+00:00:35,240 --> 00:00:36,520
+and whatever else.
+
+8
+00:00:36,520 --> 00:00:43,360
+I have a lot of opinions about a lot of things, but I also like to get the opinions of others
+
+9
+00:00:43,360 --> 00:00:46,760
+and kind of grow my understanding.
+
+10
+00:00:46,760 --> 00:00:53,600
+It is very common for programmers to be very biased about things.
+
+11
+00:00:53,600 --> 00:00:59,000
+We all have worked with programmers, I've worked with them for about 15 years, and we
+
+12
+00:00:59,000 --> 00:01:01,320
+all have strong opinions about a lot of things.
+
+13
+00:01:01,320 --> 00:01:06,080
+So I want to try not to be strongly opinionated.
+
+14
+00:01:06,080 --> 00:01:11,120
+I've changed a lot of my opinions over the years, and I feel like they're going to change
+
+15
+00:01:11,120 --> 00:01:17,240
+a lot more as we go, or as I go, on programming.
+
+16
+00:01:17,240 --> 00:01:21,760
+So yeah, that's kind of the general overview.
+
+17
+00:01:21,760 --> 00:01:23,720
+I also want to talk about games, I love games.
+
+18
+00:01:23,720 --> 00:01:26,880
+I have thousands of old games and new games.
+
+19
+00:01:26,880 --> 00:01:34,080
+I have a whole collection of almost every system, maybe, maybe half the systems, I don't
+
+20
+00:01:34,080 --> 00:01:35,080
+want to say that.
+
+21
+00:01:35,080 --> 00:01:39,600
+There's some that I don't have, just I collect a lot of the ones I'm interested in, and I
+
+22
+00:01:39,600 --> 00:01:43,680
+go on a spree of those type of games for a while.
+
+23
+00:01:43,680 --> 00:01:48,280
+So I just wound up with tons of games, some duplicates that I need to get rid of, but
+
+24
+00:01:48,280 --> 00:01:53,920
+there are quite a few games that I don't like because you get the games that you do want
+
+25
+00:01:53,920 --> 00:01:54,920
+instead of a lot.
+
+26
+00:01:54,920 --> 00:02:02,160
+Anyways, that's a topic for another day, so I'll be talking about old games, new games,
+
+27
+00:02:02,160 --> 00:02:09,920
+old computers, new computers, technology, who knows, just general things that I find
+
+28
+00:02:09,920 --> 00:02:14,200
+interesting in the game development and software development field.
+
+29
+00:02:14,200 --> 00:02:15,560
+So who am I?
+
+30
+00:02:15,560 --> 00:02:16,560
+I'm Brent.
+
+31
+00:02:16,560 --> 00:02:19,200
+I've been programming since about 2009.
+
+32
+00:02:19,200 --> 00:02:23,840
+I went to school for animation, so I know how to animate.
+
+33
+00:02:23,840 --> 00:02:26,160
+I know how to rig and 3D model.
+
+34
+00:02:26,160 --> 00:02:32,240
+I draw even, I do a lot of brush pen drawing and that sort of stuff.
+
+35
+00:02:32,240 --> 00:02:33,240
+But mostly I program.
+
+36
+00:02:33,240 --> 00:02:34,240
+I program a lot.
+
+37
+00:02:34,240 --> 00:02:37,320
+I've programmed too much.
+
+38
+00:02:37,320 --> 00:02:45,000
+I have a huge graveyard of projects because I program essentially the thing that I find
+
+39
+00:02:45,000 --> 00:02:52,280
+most interesting in the project and then I put it off into the GitHub graveyard.
+
+40
+00:02:52,280 --> 00:02:57,640
+Just that huge list of just things I'll probably never touch again, but it's there if I want
+
+41
+00:02:57,640 --> 00:02:59,600
+to.
+
+42
+00:02:59,600 --> 00:03:02,080
+So I'm currently a professional programmer.
+
+43
+00:03:02,080 --> 00:03:05,080
+I've been programming for almost 15 years.
+
+44
+00:03:05,080 --> 00:03:13,400
+I've been in web development, game programming, mobile programming, console programming, indie
+
+45
+00:03:13,400 --> 00:03:15,640
+programming, PC, all this stuff.
+
+46
+00:03:15,640 --> 00:03:18,200
+I've programmed stuff for the Game Boy.
+
+47
+00:03:18,200 --> 00:03:20,400
+I've programmed a little bit on the Game Boy Advance.
+
+48
+00:03:20,400 --> 00:03:27,480
+I've programmed a lot of third party consoles that are just, you know, people just release.
+
+49
+00:03:27,480 --> 00:03:31,880
+So just kind of, I just like programming on a bunch of different things and I love low
+
+50
+00:03:31,880 --> 00:03:35,040
+level code and I love the ease of high level code.
+
+51
+00:03:35,040 --> 00:03:37,120
+So I'm not partial to anything.
+
+52
+00:03:37,120 --> 00:03:40,480
+I bounce around quite often.
+
+53
+00:03:40,480 --> 00:03:48,880
+I'm currently a game engine programmer and an artificial intelligence programmer professionally.
+
+54
+00:03:48,880 --> 00:03:50,760
+So that's what I'm paid to do.
+
+55
+00:03:50,760 --> 00:03:59,920
+So yeah, sometimes it is hard to explain the things I'm interested in because I go all
+
+56
+00:03:59,920 --> 00:04:02,800
+over the place as you just saw.
+
+57
+00:04:02,800 --> 00:04:08,280
+But here's a not so complete list off the top of my head that I wrote down to kind of
+
+58
+00:04:08,280 --> 00:04:10,520
+explain the things that I bounce around in.
+
+59
+00:04:10,520 --> 00:04:15,040
+So there's going to be languages and frameworks and all this sort of stuff just to kind of
+
+60
+00:04:15,040 --> 00:04:19,080
+give a background of where I'm coming from and where a lot of my opinions on the future
+
+61
+00:04:19,080 --> 00:04:21,480
+episodes are going to be from.
+
+62
+00:04:21,480 --> 00:04:26,320
+This is kind of the source of my mindset.
+
+63
+00:04:26,320 --> 00:04:35,100
+So let's see, I've programmed in C, C++, x86, x64, the assembly languages, ARM assembly
+
+64
+00:04:35,100 --> 00:04:44,320
+including Thumb, 6502, the C64 and the NES variant of that, the Z80, the Game Boy variant
+
+65
+00:04:44,320 --> 00:04:51,880
+specifically, assembly code, C Sharp, I've done BIOS programming, GLSL, Java, JavaScript,
+
+66
+00:04:51,880 --> 00:04:58,280
+Python, Lua, HTML, CSS, XML, you know, those various markup languages, Bash, PowerShell,
+
+67
+00:04:58,280 --> 00:05:01,200
+OpenGL, DirectX, Direct2D, DirectWrite.
+
+68
+00:05:01,200 --> 00:05:11,120
+CUDA, I did CUDA for ray tracing, this little ray tracing project I did, I got like a 720p
+
+69
+00:05:11,120 --> 00:05:14,680
+rendering of like this ray traced scene at 30 frames per second.
+
+70
+00:05:14,680 --> 00:05:19,400
+It was a very simple scene, lots of spheres because spheres are easy.
+
+71
+00:05:19,400 --> 00:05:27,680
+And I got that done on a non, on like a 1070 or something, it was pretty nice.
+
+72
+00:05:27,680 --> 00:05:34,120
+I've dealt with SDL and Scriptum, Android, and Android NDK, Wasapi, if you don't know
+
+73
+00:05:34,120 --> 00:05:41,360
+what that is, it's a Windows audio, I forgot what the S stands for, it's not stack, it's
+
+74
+00:05:41,360 --> 00:05:45,480
+like sampling or something, API.
+
+75
+00:05:45,480 --> 00:05:49,200
+And I did that for a voice over IP thing and I was using C and I was integrating with it,
+
+76
+00:05:49,200 --> 00:05:56,200
+it was very much a C++ library but I was able to get like the GUID for the various devices
+
+77
+00:05:56,200 --> 00:06:00,760
+and there's a lot of GUID stuff, you just gotta get those in order to tell Windows,
+
+78
+00:06:00,760 --> 00:06:02,960
+hey, this is what I want to do.
+
+79
+00:06:02,960 --> 00:06:09,320
+So I've dealt with that, it was a very interesting kind of random project I did.
+
+80
+00:06:09,320 --> 00:06:17,520
+I've done network programming on Unity a long time ago, I made Forge Networking, I've since
+
+81
+00:06:17,520 --> 00:06:21,040
+archived it, I just didn't have the time to support that.
+
+82
+00:06:21,040 --> 00:06:29,000
+It got really popular at one point and I refactored it to Alloy but I never could finish it, way
+
+83
+00:06:29,000 --> 00:06:34,360
+too much stuff in life, including having kids.
+
+84
+00:06:34,360 --> 00:06:38,480
+That makes things a little complicated to kind of do a hobby project like that.
+
+85
+00:06:38,480 --> 00:06:44,560
+So I've done a lot of multi-threading, WebSockets, MySQL, Redis, Memcached, the various databases,
+
+86
+00:06:44,560 --> 00:06:50,280
+I've dealt with vertical databases as well as horizontal scaling databases like NoSQL
+
+87
+00:06:50,280 --> 00:06:53,400
+and all that.
+
+88
+00:06:53,400 --> 00:06:57,360
+Lots of, SQLite is basically the same thing, why not even put it on this list?
+
+89
+00:06:57,360 --> 00:07:02,640
+Frameworks like.NET, Node.js, game engines, I've done a lot of Unity, I've done quite
+
+90
+00:07:02,640 --> 00:07:08,840
+a bit of Unreal 4 and 5 now, and Godot is something I just recently started messing
+
+91
+00:07:08,840 --> 00:07:13,360
+around with, I've programmed my own game engines.
+
+92
+00:07:13,360 --> 00:07:15,320
+So that's kind of my perspective.
+
+93
+00:07:15,320 --> 00:07:19,260
+I jump around a lot, I've done a lot of assembly and low-level stuff but a lot of high-level
+
+94
+00:07:19,260 --> 00:07:22,280
+stuff in game engines like Unreal and that sort of stuff.
+
+95
+00:07:22,280 --> 00:07:29,600
+So I love jumping around, oh and lots of web, I've done lots of web, JavaScript stuff, JavaScript
+
+96
+00:07:29,600 --> 00:07:32,600
+games, all that sort of stuff.
+
+97
+00:07:32,600 --> 00:07:35,960
+I love to prototype in JavaScript, it's just so fast and easy.
+
+98
+00:07:35,960 --> 00:07:40,840
+And I have some libraries that I just use, I've been using modules a lot lately, which
+
+99
+00:07:40,840 --> 00:07:41,840
+is a lot of fun.
+
+100
+00:07:41,840 --> 00:07:47,800
+I do like modules quite a bit, rolling them up into a single file and all that is annoying,
+
+101
+00:07:47,800 --> 00:07:53,360
+but modules are a lot of fun, I can definitely say that.
+
+102
+00:07:53,360 --> 00:07:58,840
+So that's kind of all of that, and I kind of mentioned this, but the most important
+
+103
+00:07:58,840 --> 00:08:04,960
+thing about me is that I'm a father and a husband, that's what makes my life happy.
+
+104
+00:08:04,960 --> 00:08:14,880
+So other than that, that's kind of my whole background and kind of my perspective on opinions.
+
+105
+00:08:14,880 --> 00:08:22,320
+Now one thing that I'm not, unfortunately, is one of those ex-Google employees.
+
+106
+00:08:22,320 --> 00:08:27,760
+I'm sure you've seen all of those YouTube videos out there that are like, ex-Google
+
+107
+00:08:27,760 --> 00:08:31,560
+employee blah blah blah blah blah, it says something like that.
+
+108
+00:08:31,560 --> 00:08:37,640
+I don't know if they do that for like Clickbait or Cloud or something like that.
+
+109
+00:08:37,640 --> 00:08:41,320
+Google has a lot of employees, so I mean there's a lot of ex-employees now that are all getting
+
+110
+00:08:41,320 --> 00:08:42,320
+fired.
+
+111
+00:08:42,320 --> 00:08:48,520
+I'm sorry, I'm not attacking anyone with that.
+
+112
+00:08:48,520 --> 00:08:55,920
+I'm not one of those, I've never worked at a gigantic company, mainly because I don't
+
+113
+00:08:55,920 --> 00:08:56,920
+want to.
+
+114
+00:08:56,920 --> 00:09:05,720
+The more smaller companies, they can sometimes pay more, and also you get a lot of equity,
+
+115
+00:09:05,720 --> 00:09:10,760
+so you can get a lot in the long run out of it, versus those big companies.
+
+116
+00:09:10,760 --> 00:09:15,600
+And frankly, I've had a lot of friends who've gone to those big companies, and it's just
+
+117
+00:09:15,600 --> 00:09:16,600
+boring.
+
+118
+00:09:16,600 --> 00:09:22,880
+They say that they chill outside, they disappear for a week, and nobody even notices.
+
+119
+00:09:22,880 --> 00:09:31,200
+They just hardly do any work, and if they do, it's something super minor, kind of just
+
+120
+00:09:31,200 --> 00:09:32,600
+maintaining stuff.
+
+121
+00:09:32,600 --> 00:09:36,440
+There's a small group of people that actually do the hard work.
+
+122
+00:09:36,440 --> 00:09:40,280
+And of course, if you're a programmer, which you likely are, I don't know who would be
+
+123
+00:09:40,280 --> 00:09:44,560
+watching this that doesn't like to program or is interested in games.
+
+124
+00:09:44,560 --> 00:09:48,680
+You know the industry has a lot of leads and managers and those sorts of people that don't
+
+125
+00:09:48,680 --> 00:09:49,680
+really program a lot.
+
+126
+00:09:49,680 --> 00:09:55,600
+You can have a lead engineer, and they don't do a lot of programming.
+
+127
+00:09:55,600 --> 00:10:00,280
+The one that I work with does a lot of programming, but typically, especially at the big places,
+
+128
+00:10:00,280 --> 00:10:05,480
+you can get some that hardly ever program, ever, even on their free time.
+
+129
+00:10:05,480 --> 00:10:13,560
+So I'm not one of those ex-Google employees says, XYZ.
+
+130
+00:10:13,560 --> 00:10:19,080
+I like to do work, and I like to participate in a team.
+
+131
+00:10:19,080 --> 00:10:23,760
+Maybe there's a role somewhere at one of those places that is more research-based or something
+
+132
+00:10:23,760 --> 00:10:28,940
+like that that I can take advantage of and have a lot of fun with.
+
+133
+00:10:28,940 --> 00:10:35,400
+But maybe in the core, like operating system part of the business, I'm not sure.
+
+134
+00:10:35,400 --> 00:10:40,920
+But I don't have any one of those flashy name tags.
+
+135
+00:10:40,920 --> 00:10:44,680
+I've released lots of games with companies, mobile.
+
+136
+00:10:44,680 --> 00:10:48,360
+I'm currently working on a console game.
+
+137
+00:10:48,360 --> 00:10:52,760
+So I've bounced around a lot.
+
+138
+00:10:52,760 --> 00:10:58,080
+So I kind of want to learn more about a lot of other fields.
+
+139
+00:10:58,080 --> 00:11:06,160
+I've done so many things roll in my mind whenever I think about those, but we'll probably go
+
+140
+00:11:06,160 --> 00:11:11,200
+over a lot of these in future episodes, just things that are interesting in programming
+
+141
+00:11:11,200 --> 00:11:15,240
+and computers and tech and all that sort of stuff.
+
+142
+00:11:15,240 --> 00:11:24,600
+So yeah, speaking of those ex-Google employee gives you advice on how to get hired or whatever
+
+143
+00:11:24,600 --> 00:11:29,000
+kind of videos, I don't ever click on them, I don't know why they keep sending them to
+
+144
+00:11:29,000 --> 00:11:30,000
+me.
+
+145
+00:11:30,000 --> 00:11:34,440
+But I don't know if you see them, maybe it's just me.
+
+146
+00:11:34,440 --> 00:11:37,880
+I don't know.
+
+147
+00:11:37,880 --> 00:11:38,880
+I get a few of them.
+
+148
+00:11:38,880 --> 00:11:45,840
+I always have to hide the channel or whatever because they pop up.
+
+149
+00:11:45,840 --> 00:11:49,200
+It's almost like clockwork.
+
+150
+00:11:49,200 --> 00:11:53,680
+Another thing that I like to do is I like to program very small.
+
+151
+00:11:53,680 --> 00:11:58,880
+I like very small programs, I like very fast programs, I like elegant code and elegant
+
+152
+00:11:58,880 --> 00:12:04,360
+functions, very small functions, that sort of stuff.
+
+153
+00:12:04,360 --> 00:12:10,000
+And if you look at what these big companies produce, they produce simple libraries and
+
+154
+00:12:10,000 --> 00:12:17,520
+their apps, they have tens of thousands of classes that make up, I don't know if it's
+
+155
+00:12:17,520 --> 00:12:21,780
+like code generation or what, but they've got tens of thousands of classes, which is
+
+156
+00:12:21,780 --> 00:12:23,440
+insane to me.
+
+157
+00:12:23,440 --> 00:12:26,760
+That's a lot of something.
+
+158
+00:12:26,760 --> 00:12:28,560
+Half of them probably don't know what it is.
+
+159
+00:12:28,560 --> 00:12:34,760
+Half of them are probably third-party libraries, which is even worse.
+
+160
+00:12:34,760 --> 00:12:39,320
+And their size is huge, hundreds of megabytes.
+
+161
+00:12:39,320 --> 00:12:43,760
+And even worse, if you think about a lot of these apps, a lot of people complain about
+
+162
+00:12:43,760 --> 00:12:47,360
+Google, a lot about their apps.
+
+163
+00:12:47,360 --> 00:12:53,300
+The experience of YouTube on iPhone is different from Android, which is different from Android
+
+164
+00:12:53,300 --> 00:12:55,800
+tablet, which is different from the web.
+
+165
+00:12:55,800 --> 00:13:01,280
+And you'd imagine when we use web technology across devices, I know it's a little bit more
+
+166
+00:13:01,280 --> 00:13:05,700
+complicated with the iOS ecosystem and how they want to handle with all that and web
+
+167
+00:13:05,700 --> 00:13:10,160
+views and all that sort of stuff, it gets annoying.
+
+168
+00:13:10,160 --> 00:13:17,180
+But they invested millions and millions of dollars in V8 to kind of build this platform
+
+169
+00:13:17,180 --> 00:13:18,180
+they can work off of.
+
+170
+00:13:18,180 --> 00:13:23,920
+And their apps are just broken across, I mean, their function, but they're just missing features
+
+171
+00:13:23,920 --> 00:13:27,520
+across the different devices.
+
+172
+00:13:27,520 --> 00:13:29,560
+You know, that's kind of crazy to me.
+
+173
+00:13:29,560 --> 00:13:30,560
+Got so much money.
+
+174
+00:13:30,560 --> 00:13:32,080
+Don't you think they can consolidate it?
+
+175
+00:13:32,080 --> 00:13:33,080
+I don't know.
+
+176
+00:13:33,080 --> 00:13:36,040
+I don't know kind of what they set up.
+
+177
+00:13:36,040 --> 00:13:37,760
+I do know how most teams operate.
+
+178
+00:13:37,760 --> 00:13:39,880
+I can see how it happens.
+
+179
+00:13:39,880 --> 00:13:42,400
+But yeah, it's really fractured.
+
+180
+00:13:42,400 --> 00:13:46,800
+So that's another thing I don't really want to work with is when you go to those big companies
+
+181
+00:13:46,800 --> 00:13:52,680
+and you got to deal with cross disciplines and all this other stuff, as it's called cross
+
+182
+00:13:52,680 --> 00:13:55,520
+disciplines.
+
+183
+00:13:55,520 --> 00:14:00,800
+And you got to deal with all of like, you can't merge two things and you got to deal
+
+184
+00:14:00,800 --> 00:14:03,600
+with the bureaucracy.
+
+185
+00:14:03,600 --> 00:14:05,800
+I like small teams where you can just move around.
+
+186
+00:14:05,800 --> 00:14:06,920
+You can say, I want to work on that.
+
+187
+00:14:06,920 --> 00:14:10,360
+And they said, cool, we can figure out, you know, if it works with our product, let's
+
+188
+00:14:10,360 --> 00:14:12,000
+figure out how we get you over there.
+
+189
+00:14:12,000 --> 00:14:13,680
+That's what I like about smaller companies too.
+
+190
+00:14:13,680 --> 00:14:17,320
+It's just, it's really nice.
+
+191
+00:14:17,320 --> 00:14:23,200
+So yeah, I mean, so it's not just Google and software companies like that.
+
+192
+00:14:23,200 --> 00:14:25,640
+It's game companies too.
+
+193
+00:14:25,640 --> 00:14:31,120
+Working in game companies and kind of seeing the games that are produced is crazy.
+
+194
+00:14:31,120 --> 00:14:37,040
+Of course, it's not a fair comparison to say, look at games from the 90s and 80s and they
+
+195
+00:14:37,040 --> 00:14:40,980
+have so little bugs compared to modern games and they have, you know, they're so much faster
+
+196
+00:14:40,980 --> 00:14:42,920
+and smaller, blah, blah, blah.
+
+197
+00:14:42,920 --> 00:14:46,680
+It's not fair because there's a lot of stuff in modern games, crazy amount of stuff in
+
+198
+00:14:46,680 --> 00:14:47,680
+modern games.
+
+199
+00:14:47,680 --> 00:14:50,960
+So I give it some slack there.
+
+200
+00:14:50,960 --> 00:14:55,120
+I do believe that the programmers were much more disciplined in the past because they
+
+201
+00:14:55,120 --> 00:15:00,420
+had to be working with low level code just with no other option.
+
+202
+00:15:00,420 --> 00:15:06,920
+So there are differences and similarities in some aspects, but games, man, like the
+
+203
+00:15:06,920 --> 00:15:10,240
+minimum requirements for games is pretty dang high.
+
+204
+00:15:10,240 --> 00:15:14,320
+Of course, luckily computers are getting way cheap now.
+
+205
+00:15:14,320 --> 00:15:22,380
+So pretty much anyone can muscle through and punch through the wall of system requirements
+
+206
+00:15:22,380 --> 00:15:23,380
+these days.
+
+207
+00:15:23,380 --> 00:15:26,640
+Like you can run tons of AAA games on something like a Steam Deck.
+
+208
+00:15:26,640 --> 00:15:34,200
+So you know, sure, they have all the compute power to really muscle through it, but they
+
+209
+00:15:34,200 --> 00:15:35,560
+make some weird decisions.
+
+210
+00:15:35,560 --> 00:15:39,000
+Like why are games like 200 gigabytes?
+
+211
+00:15:39,000 --> 00:15:40,520
+That's crazy.
+
+212
+00:15:40,520 --> 00:15:46,840
+So we come up with this frame scaling technology, FSR, that sort of stuff.
+
+213
+00:15:46,840 --> 00:15:51,320
+And then you still put 4K textures in your game and your game is being rendered at like
+
+214
+00:15:51,320 --> 00:15:57,180
+720p pretty much most of the time or 1080p, but you're putting 4K textures in.
+
+215
+00:15:57,180 --> 00:16:04,800
+And then we don't know what's the amount of people that have 4K monitors versus, you know,
+
+216
+00:16:04,800 --> 00:16:06,520
+1080p monitors.
+
+217
+00:16:06,520 --> 00:16:10,640
+And I would imagine that you can kind of detect that and you can have Steam kind of upgrade
+
+218
+00:16:10,640 --> 00:16:13,520
+the game based on, you know, what kind of monitor they have.
+
+219
+00:16:13,520 --> 00:16:19,440
+But you can't, if you have a 4K texture and you're displaying it on a 1080p monitor, that's
+
+220
+00:16:19,440 --> 00:16:22,880
+just, it doesn't even, it's crazy.
+
+221
+00:16:22,880 --> 00:16:26,720
+Like it's bigger than the screen in resolution.
+
+222
+00:16:26,720 --> 00:16:34,120
+And so then you add FSR in the mix and now the 4K monitors aren't even rendering at 4K.
+
+223
+00:16:34,120 --> 00:16:38,560
+And to make the most of it, of course, you know, this is being a little pedantic because
+
+224
+00:16:38,560 --> 00:16:43,920
+you can have one texture that goes across multiple objects and you want that to be 4K
+
+225
+00:16:43,920 --> 00:16:47,160
+in order to optimize your memory and how much you're loading at runtime.
+
+226
+00:16:47,160 --> 00:16:49,840
+Yes, I get that.
+
+227
+00:16:49,840 --> 00:16:55,440
+But man, how many textures are actually that versus, you know, a giant 4K rock texture
+
+228
+00:16:55,440 --> 00:16:57,400
+that they just splatter on rocks?
+
+229
+00:16:57,400 --> 00:17:01,720
+It's kind of funny, I guess for stretching and stuff.
+
+230
+00:17:01,720 --> 00:17:06,920
+I don't know, I really think there's a huge waste in memory there.
+
+231
+00:17:06,920 --> 00:17:13,200
+And it's kind of, you know, so it's not just Google and big software companies that just
+
+232
+00:17:13,200 --> 00:17:17,920
+absolutely waste your CPU and your storage.
+
+233
+00:17:17,920 --> 00:17:20,040
+It's games too, a lot of times.
+
+234
+00:17:20,040 --> 00:17:24,040
+And I think those can be better optimized, but you know what?
+
+235
+00:17:24,040 --> 00:17:26,080
+The game is about money.
+
+236
+00:17:26,080 --> 00:17:30,760
+The game of making games is about making money for, I mean, mostly.
+
+237
+00:17:30,760 --> 00:17:36,240
+It's having fun is sometimes what the designers care about, even though they've got to make
+
+238
+00:17:36,240 --> 00:17:38,120
+the investors happy.
+
+239
+00:17:38,120 --> 00:17:42,680
+But 4K textures are kind of going crazy right now.
+
+240
+00:17:42,680 --> 00:17:48,960
+I think we can probably reduce a lot of that and rely more on the FSR stuff.
+
+241
+00:17:48,960 --> 00:17:57,320
+It's just, you know, I think that's, yeah, there's a whole rant there.
+
+242
+00:17:57,320 --> 00:18:01,520
+There's also, when it comes to wasting, and we're going to combine the two now, we're
+
+243
+00:18:01,520 --> 00:18:05,440
+going to take software and we're going to combine it with games and what they both do
+
+244
+00:18:05,440 --> 00:18:07,040
+wrong.
+
+245
+00:18:07,040 --> 00:18:12,400
+One of the things I hate, hate is a strong word, one of the things I strongly dislike
+
+246
+00:18:12,400 --> 00:18:15,520
+is JSON.
+
+247
+00:18:15,520 --> 00:18:17,440
+I mean, it's fantastic.
+
+248
+00:18:17,440 --> 00:18:25,800
+And the argument is always, what if we need to read it and modify it?
+
+249
+00:18:25,800 --> 00:18:29,880
+But the funny thing about that is they try to compress JSON so it becomes unreadable.
+
+250
+00:18:29,880 --> 00:18:34,240
+It's just an unreadable garbled mess because you're trying to reduce the string sizes as
+
+251
+00:18:34,240 --> 00:18:37,600
+you try to compress this data.
+
+252
+00:18:37,600 --> 00:18:40,480
+So you lose the readability and it's still bloated.
+
+253
+00:18:40,480 --> 00:18:44,160
+And then your CPU has to pay the cost of parsing it.
+
+254
+00:18:44,160 --> 00:18:45,840
+Well, first of all, serializing it.
+
+255
+00:18:45,840 --> 00:18:50,480
+So it takes this binary data, serializes it, and it's got to pay somebody else's poor computer's
+
+256
+00:18:50,480 --> 00:18:58,120
+going to take the cost of deserializing it, parsing it, turning it back into binary objects.
+
+257
+00:18:58,120 --> 00:19:01,040
+And then you have to also transport it across the wire.
+
+258
+00:19:01,040 --> 00:19:06,280
+And then we have to use compression algorithms, so using more CPU to compress that, the strings,
+
+259
+00:19:06,280 --> 00:19:10,440
+which they can get pretty compressed just with a standard zip algorithm.
+
+260
+00:19:10,440 --> 00:19:14,120
+And then you want to send that, and then you've got to decompress it.
+
+261
+00:19:14,120 --> 00:19:28,960
+So I have this theory that JSON files alone, like if you took all of the energy, all of
+
+262
+00:19:28,960 --> 00:19:34,640
+the power that we use in our computers and our smartphones to parse and read and do all
+
+263
+00:19:34,640 --> 00:19:43,120
+of that and transmit and zip JSON data, you could probably give an entire small country
+
+264
+00:19:43,120 --> 00:19:47,920
+somewhere, power for free, because that's how much is being wasted.
+
+265
+00:19:47,920 --> 00:19:53,360
+And then you can add up all the heat that the CPUs generate by parsing and doing all
+
+266
+00:19:53,360 --> 00:19:58,040
+that, just that cumulative over like a month or something, every device that does it, and
+
+267
+00:19:58,040 --> 00:20:03,160
+you could probably heat an entire small country with that amount of heat.
+
+268
+00:20:03,160 --> 00:20:04,880
+So it's a waste.
+
+269
+00:20:04,880 --> 00:20:08,920
+It's a weird thing to think about.
+
+270
+00:20:08,920 --> 00:20:15,160
+We complain a lot about, oh, you know, crypto mining, using tons of energy, blah, blah,
+
+271
+00:20:15,160 --> 00:20:16,160
+blah.
+
+272
+00:20:16,160 --> 00:20:17,760
+It's bad for the environment.
+
+273
+00:20:17,760 --> 00:20:21,040
+Well, you know what else is bad for the environment?
+
+274
+00:20:21,040 --> 00:20:23,560
+Using JSON files for everything.
+
+275
+00:20:23,560 --> 00:20:32,120
+When you can simply and easily just serialize binary, where you just take binary, make it
+
+276
+00:20:32,120 --> 00:20:33,720
+basically into a file and send it.
+
+277
+00:20:33,720 --> 00:20:37,640
+And you can do whatever compression you want if you want to, but binary is already smaller
+
+278
+00:20:37,640 --> 00:20:39,000
+than JSON.
+
+1
+00:00:00,000 --> 00:00:03,840
+So yeah, all the crypto miners wasting tons of power
+
+2
+00:00:03,840 --> 00:00:05,840
+across the planet, yeah.
+
+3
+00:00:07,060 --> 00:00:08,360
+You know what else is wasting power?
+
+4
+00:00:08,360 --> 00:00:10,720
+JSON deserialization, my goodness.
+
+5
+00:00:10,720 --> 00:00:13,160
+JSON deserialization of 4K textures.
+
+6
+00:00:13,160 --> 00:00:16,160
+Let's get those reduced and let's save the environment
+
+7
+00:00:16,160 --> 00:00:19,580
+from just taking those out of the picture.
+
+8
+00:00:19,580 --> 00:00:23,080
+So yeah, that's kind of my perspective on,
+
+9
+00:00:25,540 --> 00:00:26,680
+how did I get on this?
+
+10
+00:00:26,680 --> 00:00:30,220
+Let's talk about Google people on YouTube,
+
+11
+00:00:30,220 --> 00:00:32,040
+or ex-Google people.
+
+12
+00:00:32,040 --> 00:00:35,220
+So anyways, yeah, it's just super wasteful.
+
+13
+00:00:35,220 --> 00:00:39,400
+The entire industry is very wasteful in how they do things.
+
+14
+00:00:40,500 --> 00:00:43,860
+And I know we don't all use C,
+
+15
+00:00:43,860 --> 00:00:46,920
+but in C you can just take a struct,
+
+16
+00:00:46,920 --> 00:00:49,640
+or even a compound struct of plain old data,
+
+17
+00:00:49,640 --> 00:00:50,680
+let's say there's no pointers,
+
+18
+00:00:50,680 --> 00:00:52,640
+or even if you just write a little function
+
+19
+00:00:52,640 --> 00:00:55,200
+to get rid of the pointers.
+
+20
+00:00:55,200 --> 00:00:57,800
+I mean, I would argue that if you're gonna be
+
+21
+00:00:57,800 --> 00:01:01,640
+serializing data and there's gonna be pointers in there,
+
+22
+00:01:01,640 --> 00:01:03,060
+if you have to have them in there,
+
+23
+00:01:03,060 --> 00:01:04,920
+you should separate them into their own structure
+
+24
+00:01:04,920 --> 00:01:06,640
+so you can easily strip it out,
+
+25
+00:01:06,640 --> 00:01:09,520
+or put it as like a head and then do the offset
+
+26
+00:01:09,520 --> 00:01:12,200
+so you can find the offset of where the POD starts,
+
+27
+00:01:12,200 --> 00:01:15,800
+POD for plain old data, and then just write it.
+
+28
+00:01:15,800 --> 00:01:18,000
+But in C you can just take that struct
+
+29
+00:01:18,000 --> 00:01:22,840
+and just write to a file or across the network.
+
+30
+00:01:22,840 --> 00:01:25,400
+You don't have to do any compression or serialization
+
+31
+00:01:25,400 --> 00:01:26,680
+or anything like that, you just,
+
+32
+00:01:26,680 --> 00:01:30,040
+here's a struct, it's a set of data, and send it off.
+
+33
+00:01:30,040 --> 00:01:34,440
+And that's how much energy you'd save
+
+34
+00:01:34,440 --> 00:01:36,400
+from doing that, it's quite tremendous.
+
+35
+00:01:38,200 --> 00:01:41,000
+But I know we don't all use C.
+
+36
+00:01:41,000 --> 00:01:42,840
+I know C is, I didn't say it,
+
+37
+00:01:42,840 --> 00:01:44,680
+but C is my favorite language.
+
+38
+00:01:44,680 --> 00:01:46,600
+It's just, I love it,
+
+39
+00:01:46,600 --> 00:01:48,180
+because I can use it in a lot of things,
+
+40
+00:01:48,180 --> 00:01:49,960
+like Game Boy Advance programming.
+
+41
+00:01:49,960 --> 00:01:53,200
+So it's just nice and flat,
+
+42
+00:01:53,200 --> 00:01:54,400
+and I don't have to worry about objects,
+
+43
+00:01:54,400 --> 00:01:56,120
+I'm a very simple man.
+
+44
+00:01:56,120 --> 00:01:57,920
+But let's say you're doing C++,
+
+45
+00:01:57,920 --> 00:01:59,080
+and I do a lot of C++,
+
+46
+00:01:59,080 --> 00:02:03,080
+obviously my day job is programming in C++.
+
+47
+00:02:04,080 --> 00:02:09,080
+So in C++, yes, you do have a little bit of a problem,
+
+48
+00:02:09,120 --> 00:02:11,600
+because you don't have an ABI,
+
+49
+00:02:11,600 --> 00:02:13,240
+you don't have a standard for ABI,
+
+50
+00:02:13,240 --> 00:02:16,840
+so you don't know if application binary interface,
+
+51
+00:02:16,840 --> 00:02:19,920
+basically the byte order of a class or a struct.
+
+52
+00:02:21,720 --> 00:02:24,560
+So, I guess I can explain that real quick,
+
+53
+00:02:24,560 --> 00:02:26,760
+for those of you who don't know.
+
+54
+00:02:26,760 --> 00:02:29,040
+In C, you have this flat ABI,
+
+55
+00:02:29,040 --> 00:02:34,000
+and now I don't wanna get too much into alignment
+
+56
+00:02:34,000 --> 00:02:35,360
+and all that sort of stuff,
+
+57
+00:02:36,440 --> 00:02:39,160
+because you do have to do some work there,
+
+58
+00:02:39,160 --> 00:02:40,960
+if you're dealing with things like that.
+
+59
+00:02:40,960 --> 00:02:44,200
+If you're, say, serialize,
+
+60
+00:02:44,200 --> 00:02:45,040
+if you're sending something
+
+61
+00:02:45,040 --> 00:02:47,280
+from a 64-bit computer over to,
+
+62
+00:02:47,280 --> 00:02:48,640
+I don't know, a 16-bit computer,
+
+63
+00:02:48,640 --> 00:02:51,120
+you're definitely gonna have to do a little bit of work
+
+64
+00:02:52,240 --> 00:02:53,080
+on that.
+
+65
+00:02:53,080 --> 00:02:55,440
+But let's say that you set up your struct
+
+66
+00:02:55,440 --> 00:02:56,800
+with the proper alignment and all that,
+
+67
+00:02:56,800 --> 00:02:59,040
+in C, you could just send it straight across,
+
+68
+00:02:59,040 --> 00:03:00,640
+and knowing that maybe your smallest
+
+69
+00:03:00,640 --> 00:03:02,560
+or minimum spec is 16,
+
+70
+00:03:02,560 --> 00:03:04,720
+there's gonna be, did I say byte?
+
+71
+00:03:04,720 --> 00:03:05,640
+16 bits.
+
+72
+00:03:07,000 --> 00:03:09,160
+So, you can,
+
+73
+00:03:10,520 --> 00:03:12,520
+let's say that you want to do that,
+
+74
+00:03:13,840 --> 00:03:14,840
+I've lost my train of thought,
+
+75
+00:03:14,840 --> 00:03:15,680
+that alignment,
+
+76
+00:03:15,680 --> 00:03:16,840
+and let's say you have all that,
+
+77
+00:03:16,840 --> 00:03:18,640
+you can send it straight across.
+
+78
+00:03:18,640 --> 00:03:21,240
+Now, one of the problems you have in C++
+
+79
+00:03:21,240 --> 00:03:23,960
+is that it doesn't have that ABI across compilers,
+
+80
+00:03:23,960 --> 00:03:25,360
+and even compiler versions,
+
+81
+00:03:25,360 --> 00:03:30,360
+like if you use Clang X and then you use Clang Y,
+
+82
+00:03:30,800 --> 00:03:34,880
+it's not guaranteed that the name mangling or the,
+
+83
+00:03:36,200 --> 00:03:37,880
+which doesn't matter in this argument,
+
+84
+00:03:37,880 --> 00:03:40,160
+but the ABI is gonna be the same.
+
+85
+00:03:40,160 --> 00:03:42,080
+And that's because,
+
+86
+00:03:42,080 --> 00:03:45,520
+mainly I think it's because of the Vtable.
+
+87
+00:03:45,520 --> 00:03:47,960
+A Vtable is a piece,
+
+88
+00:03:47,960 --> 00:03:52,640
+is a block of your class for virtual classes
+
+89
+00:03:52,640 --> 00:03:55,720
+where they point to the function it should call
+
+90
+00:03:55,720 --> 00:03:56,960
+when you call a function.
+
+91
+00:03:56,960 --> 00:03:59,240
+As you know, you can create a virtual function,
+
+92
+00:03:59,240 --> 00:04:02,560
+you can override those functions in the child classes,
+
+93
+00:04:02,560 --> 00:04:05,680
+or the derivatives, whatever you wanna call them.
+
+94
+00:04:05,680 --> 00:04:08,000
+Now that Vtable could be at the top,
+
+95
+00:04:08,000 --> 00:04:11,640
+it could be right in the middle of the binary data,
+
+96
+00:04:11,640 --> 00:04:14,040
+it could be at the end of the class,
+
+97
+00:04:14,040 --> 00:04:15,200
+there's no telling where that is.
+
+98
+00:04:15,200 --> 00:04:17,320
+So just serializing and sending it off
+
+99
+00:04:17,320 --> 00:04:19,680
+is gonna be a little bit of a problem.
+
+100
+00:04:19,680 --> 00:04:23,240
+And that's where serialization libraries start coming in.
+
+101
+00:04:24,160 --> 00:04:26,840
+You have other languages where you don't have access
+
+102
+00:04:26,840 --> 00:04:30,600
+to the raw binary of the class
+
+103
+00:04:30,600 --> 00:04:32,720
+without turning on special flags
+
+104
+00:04:32,720 --> 00:04:33,880
+or whatever for the compiler,
+
+105
+00:04:33,880 --> 00:04:37,080
+like in C Sharp or say JavaScript or something like that.
+
+106
+00:04:37,080 --> 00:04:39,520
+So sending things straight over,
+
+107
+00:04:39,520 --> 00:04:41,720
+like you do in C, is not as easy.
+
+108
+00:04:41,720 --> 00:04:46,720
+And so I do understand that part of where we get into this.
+
+109
+00:04:48,520 --> 00:04:50,400
+This whole, let's JSON serialize it,
+
+110
+00:04:50,400 --> 00:04:53,760
+because then I can write my program in C Sharp
+
+111
+00:04:53,760 --> 00:04:57,320
+and then have a JavaScript client be able to read the data.
+
+112
+00:04:57,320 --> 00:04:58,960
+And I don't have to worry about,
+
+113
+00:04:58,960 --> 00:05:01,120
+I don't have to worry about Indian-ness,
+
+114
+00:05:01,120 --> 00:05:02,720
+or I don't have to worry about, you know,
+
+115
+00:05:02,720 --> 00:05:04,520
+the alignment or anything like that.
+
+116
+00:05:06,080 --> 00:05:08,760
+So yeah, it does kind of really help
+
+117
+00:05:08,760 --> 00:05:12,680
+and it does kind of reduce the cost of effort up front
+
+118
+00:05:12,680 --> 00:05:16,600
+to do those kind of like, just use a JSON library.
+
+119
+00:05:16,600 --> 00:05:17,440
+But it's so wasteful.
+
+120
+00:05:17,440 --> 00:05:20,280
+I think that if you just, it's really,
+
+121
+00:05:21,640 --> 00:05:25,320
+programs, companies have this weird thing
+
+122
+00:05:25,320 --> 00:05:29,360
+where they think that it takes months
+
+123
+00:05:29,360 --> 00:05:32,140
+to do something as simple as serializing some bytes.
+
+124
+00:05:33,120 --> 00:05:35,840
+They're like, I don't know if that fits into the schedule.
+
+125
+00:05:35,840 --> 00:05:39,160
+Man, that's a whole other thing.
+
+126
+00:05:39,160 --> 00:05:41,000
+Let's not go on that.
+
+127
+00:05:41,000 --> 00:05:46,000
+But yeah, I do understand that, you know,
+
+128
+00:05:46,080 --> 00:05:48,600
+it's a cost analysis.
+
+129
+00:05:48,600 --> 00:05:50,520
+No company, I can tell you this,
+
+130
+00:05:50,520 --> 00:05:53,000
+I've worked at so many different companies,
+
+131
+00:05:53,000 --> 00:05:56,920
+no company, none of them care about how much power
+
+132
+00:05:58,640 --> 00:06:02,000
+you're drawing from a wall socket to run their program.
+
+133
+00:06:02,000 --> 00:06:05,680
+And as long as it's fast and it gets the player,
+
+134
+00:06:05,680 --> 00:06:07,440
+the client, what they need.
+
+135
+00:06:09,240 --> 00:06:11,720
+Now this is a different argument for mobile.
+
+136
+00:06:11,720 --> 00:06:14,680
+In mobile, they sometimes do care
+
+137
+00:06:14,680 --> 00:06:17,280
+because they want good battery life.
+
+138
+00:06:17,280 --> 00:06:20,040
+I don't want to say excellent battery life,
+
+139
+00:06:20,040 --> 00:06:23,280
+otherwise they wouldn't use engines that drain battery life.
+
+140
+00:06:23,280 --> 00:06:25,640
+They would, you know, write their own stuff.
+
+141
+00:06:26,880 --> 00:06:30,480
+But they do care a little bit there.
+
+142
+00:06:30,480 --> 00:06:32,180
+So I'll give them credit on that.
+
+143
+00:06:32,180 --> 00:06:37,180
+So this brings us to things like,
+
+144
+00:06:38,880 --> 00:06:41,280
+gosh, what's it called, protobuf.
+
+145
+00:06:41,280 --> 00:06:44,000
+Okay, protobuf does help you
+
+146
+00:06:44,000 --> 00:06:46,960
+with that binary serialization.
+
+147
+00:06:46,960 --> 00:06:51,400
+Now I didn't go through the entirety of the class
+
+148
+00:06:51,400 --> 00:06:53,280
+or all the classes to determine
+
+149
+00:06:53,280 --> 00:06:57,160
+whether the binary serialization is efficient.
+
+150
+00:06:57,160 --> 00:06:59,880
+I assume it's efficient because it's open source
+
+151
+00:06:59,880 --> 00:07:01,000
+and a lot of people have looked at it
+
+152
+00:07:01,000 --> 00:07:03,320
+and probably have contributed.
+
+153
+00:07:03,320 --> 00:07:07,400
+And I do, I know I prefixed this earlier
+
+154
+00:07:07,400 --> 00:07:09,880
+about Google employees and all that sort of stuff.
+
+155
+00:07:09,880 --> 00:07:11,880
+It's not to say they're bad programmers.
+
+156
+00:07:12,760 --> 00:07:17,480
+It's just, you know, there are some bad programs
+
+157
+00:07:17,480 --> 00:07:19,400
+that come out of Google, a lot of bad programs
+
+158
+00:07:19,400 --> 00:07:20,600
+that come out of Google.
+
+159
+00:07:20,600 --> 00:07:22,960
+And it's not the fault of the programmer most of the time,
+
+160
+00:07:22,960 --> 00:07:25,160
+it's the fault of the company.
+
+161
+00:07:27,040 --> 00:07:29,920
+So they do have good programmers that do study this stuff
+
+162
+00:07:29,920 --> 00:07:31,560
+and take the effort and they do the research
+
+163
+00:07:31,560 --> 00:07:32,480
+and all this other stuff,
+
+164
+00:07:32,480 --> 00:07:33,720
+which is very important to everybody,
+
+165
+00:07:33,720 --> 00:07:35,360
+especially when you open source it.
+
+166
+00:07:35,360 --> 00:07:37,860
+So no complaints from me there.
+
+167
+00:07:38,800 --> 00:07:43,040
+But protobuf is like hundreds of thousands of lines of code
+
+168
+00:07:43,040 --> 00:07:47,000
+to serialize some bytes and that is huge.
+
+169
+00:07:48,720 --> 00:07:53,720
+I have this thought about libraries
+
+170
+00:07:54,800 --> 00:07:57,080
+and even programmers just inside of a company.
+
+171
+00:07:57,080 --> 00:08:02,080
+Programmers are often stuck to doing a specific type of work
+
+172
+00:08:04,120 --> 00:08:05,080
+on these big companies.
+
+173
+00:08:05,080 --> 00:08:09,580
+So I like to say that if you took a person
+
+174
+00:08:09,580 --> 00:08:13,160
+and you paid them a pretty good amount of money
+
+175
+00:08:13,160 --> 00:08:18,160
+and you gave them a rock in the corner of a room
+
+176
+00:08:18,160 --> 00:08:21,420
+and you said, your job is to manage this rock,
+
+177
+00:08:23,460 --> 00:08:25,240
+the best thing that person could do
+
+178
+00:08:25,240 --> 00:08:27,960
+is not do anything.
+
+179
+00:08:27,960 --> 00:08:30,640
+The rock is gonna be completely fine.
+
+180
+00:08:30,640 --> 00:08:32,520
+But chances are you're gonna come back two weeks later
+
+181
+00:08:32,520 --> 00:08:35,200
+and the rock is gonna have a little house set up
+
+182
+00:08:35,200 --> 00:08:36,280
+with a little dinner table
+
+183
+00:08:36,280 --> 00:08:38,360
+and it's gonna be laying inside of a little bed
+
+184
+00:08:38,360 --> 00:08:39,760
+with a blanket over it.
+
+185
+00:08:39,760 --> 00:08:42,880
+And then once you ask the developer how he's going,
+
+186
+00:08:42,880 --> 00:08:44,680
+he's gonna say, oh, well, you see,
+
+187
+00:08:44,680 --> 00:08:47,080
+I've optimized the living situation for this rock
+
+188
+00:08:47,080 --> 00:08:50,320
+and I've also created a Jira workflow
+
+189
+00:08:50,320 --> 00:08:52,420
+so that we can keep track of its schedule.
+
+190
+00:08:53,400 --> 00:08:54,880
+And that's just how people are
+
+191
+00:08:54,880 --> 00:08:56,400
+when you pay them a good amount of money
+
+192
+00:08:56,400 --> 00:08:58,040
+and tell them to do something.
+
+193
+00:08:58,040 --> 00:09:01,400
+They overdo it every time
+
+194
+00:09:01,400 --> 00:09:05,040
+because maybe it's because they're bored
+
+195
+00:09:05,040 --> 00:09:06,320
+and they need something to do
+
+196
+00:09:06,320 --> 00:09:08,420
+and the task wasn't interesting enough
+
+197
+00:09:08,420 --> 00:09:10,160
+so they go way off the wall
+
+198
+00:09:10,160 --> 00:09:12,320
+or maybe they're trying to prove something,
+
+199
+00:09:13,360 --> 00:09:16,080
+they want a higher salary or maybe a different position
+
+200
+00:09:16,080 --> 00:09:21,080
+so they really kind of polish the rock, so to speak.
+
+201
+00:09:21,080 --> 00:09:24,320
+So I feel that's the case for a lot of libraries.
+
+202
+00:09:24,320 --> 00:09:28,640
+You set a library out there, let's say a logging library,
+
+203
+00:09:28,640 --> 00:09:32,160
+and it does sufficiently what you need it to do
+
+204
+00:09:32,160 --> 00:09:34,280
+for your program.
+
+205
+00:09:34,280 --> 00:09:36,640
+So then all of a sudden,
+
+206
+00:09:37,920 --> 00:09:41,000
+I don't know, it gets picked up by somebody
+
+207
+00:09:41,000 --> 00:09:42,520
+on a YouTube video or something
+
+208
+00:09:42,520 --> 00:09:43,560
+and then everybody's using it.
+
+209
+00:09:43,560 --> 00:09:45,600
+All of a sudden you have half a million people
+
+210
+00:09:45,600 --> 00:09:47,600
+downloading or half a million downloads
+
+211
+00:09:47,600 --> 00:09:48,440
+of your software.
+
+212
+00:09:48,440 --> 00:09:51,640
+Half a million people downloading or half a million downloads
+
+213
+00:09:51,640 --> 00:09:53,160
+on your library.
+
+214
+00:09:53,160 --> 00:09:55,120
+You all of a sudden turn over and say,
+
+215
+00:09:55,120 --> 00:09:58,240
+man, there's a lot of people downloading this library.
+
+216
+00:09:58,240 --> 00:09:59,960
+I need to improve it.
+
+217
+00:09:59,960 --> 00:10:01,320
+And so you start going in there
+
+218
+00:10:01,320 --> 00:10:05,440
+and you start adding tons and tons of features
+
+219
+00:10:05,440 --> 00:10:07,160
+that are not needed at all.
+
+220
+00:10:07,160 --> 00:10:11,440
+Remember that you got half a million downloads already.
+
+221
+00:10:11,440 --> 00:10:13,160
+That means it does what people want.
+
+222
+00:10:13,160 --> 00:10:15,400
+Of course they're gonna come and complain.
+
+223
+00:10:15,400 --> 00:10:17,520
+The other part is, and this is not the fault
+
+224
+00:10:17,520 --> 00:10:20,200
+of the person polishing the rock,
+
+225
+00:10:20,200 --> 00:10:21,600
+this is the fault of the people
+
+226
+00:10:21,600 --> 00:10:23,960
+who are using their libraries.
+
+227
+00:10:23,960 --> 00:10:27,200
+People often think that if a library is not updated
+
+228
+00:10:27,200 --> 00:10:28,920
+in the past month or half a year,
+
+229
+00:10:28,920 --> 00:10:30,680
+it's all of a sudden just broken.
+
+230
+00:10:30,680 --> 00:10:31,720
+You can't use this.
+
+231
+00:10:31,720 --> 00:10:34,960
+It's just, ugh, it doesn't work anymore.
+
+232
+00:10:36,200 --> 00:10:39,240
+The code just rotted itself out of existence
+
+233
+00:10:39,240 --> 00:10:40,600
+from sitting there for too long.
+
+234
+00:10:40,600 --> 00:10:42,120
+I don't know.
+
+235
+00:10:42,120 --> 00:10:43,720
+And there's a lot of pressure on that
+
+236
+00:10:43,720 --> 00:10:47,240
+to keep them updating and doing things like that.
+
+237
+00:10:47,240 --> 00:10:48,920
+Now, also you have open source,
+
+238
+00:10:48,920 --> 00:10:52,880
+so you have hundreds of people sending issues
+
+239
+00:10:52,880 --> 00:10:56,160
+and also pull requests and you start accepting things.
+
+240
+00:10:56,160 --> 00:10:57,000
+It just bloats.
+
+241
+00:10:57,000 --> 00:10:58,920
+And so this is what happens with libraries.
+
+242
+00:10:58,920 --> 00:11:02,840
+And I don't think Protobuf is any exception to this.
+
+243
+00:11:02,840 --> 00:11:04,920
+I just wanna serialize some bytes.
+
+244
+00:11:04,920 --> 00:11:09,160
+And so Protobuf is quite bitty.
+
+245
+00:11:09,160 --> 00:11:14,160
+Here, let me look up the Protobuf here.
+
+246
+00:11:19,600 --> 00:11:22,400
+So we have the protocol buffers.
+
+247
+00:11:22,400 --> 00:11:26,680
+And I'll actually just, is this the main library?
+
+248
+00:11:26,680 --> 00:11:28,280
+Looks like it.
+
+249
+00:11:28,280 --> 00:11:29,680
+It was updated five hours ago.
+
+250
+00:11:29,680 --> 00:11:33,200
+This thing worked like five years ago or whatever
+
+251
+00:11:33,200 --> 00:11:37,040
+when I was using it, but it's still being updated.
+
+252
+00:11:37,040 --> 00:11:41,560
+And five years later, it's some serious business
+
+253
+00:11:41,560 --> 00:11:42,720
+taking some bytes and putting them
+
+254
+00:11:42,720 --> 00:11:43,880
+into a file across network.
+
+255
+00:11:43,880 --> 00:11:45,760
+And I know I'm simplifying it.
+
+256
+00:11:45,760 --> 00:11:47,320
+I've done tons of network stuff.
+
+257
+00:11:47,320 --> 00:11:48,160
+I get it.
+
+258
+00:11:49,760 --> 00:11:51,120
+Half the time, you don't even use Protobuf
+
+259
+00:11:51,120 --> 00:11:53,280
+for network stuff, so there's that.
+
+260
+00:11:54,280 --> 00:11:56,160
+But we're gonna, I'm just gonna,
+
+261
+00:11:57,360 --> 00:11:58,560
+I'm gonna grab this guy.
+
+262
+00:11:58,560 --> 00:12:00,560
+Hold on, I've gotta turn off a thing on my computer
+
+263
+00:12:00,560 --> 00:12:02,680
+that talks to me whenever I copy text.
+
+264
+00:12:02,680 --> 00:12:06,000
+Okay, so I'm gonna grab this guy
+
+265
+00:12:06,000 --> 00:12:09,120
+and we will go ahead and,
+
+266
+00:12:11,880 --> 00:12:14,040
+we'll go ahead and clone it down somewhere.
+
+267
+00:12:17,520 --> 00:12:21,640
+Put it in a document, documents.
+
+268
+00:12:23,800 --> 00:12:26,880
+Go to git, git clone that guy.
+
+269
+00:12:28,480 --> 00:12:31,480
+So we'll clone it down and let's take a look
+
+270
+00:12:31,480 --> 00:12:34,440
+at where the source code is for this guy.
+
+271
+00:12:34,440 --> 00:12:36,240
+And of course, a lot of the source code
+
+272
+00:12:36,240 --> 00:12:38,560
+is gonna be in language wrappers
+
+273
+00:12:38,560 --> 00:12:41,080
+and that might be where half the updates
+
+274
+00:12:41,080 --> 00:12:43,640
+are coming from is language wrappers, I don't know.
+
+275
+00:12:43,640 --> 00:12:47,480
+But you got C-sharp, Java, Python, Ruby, Rust, blah, blah, blah.
+
+276
+00:12:47,480 --> 00:12:49,880
+So it's probably gonna be in the source folder
+
+277
+00:12:49,880 --> 00:12:53,400
+and in this Google Protobuf here.
+
+278
+00:12:54,760 --> 00:12:58,920
+So it's still downloading, but let's take a little
+
+279
+00:12:58,920 --> 00:13:03,920
+Ubuntu local instance here
+
+280
+00:13:05,240 --> 00:13:07,840
+and let's go over to,
+
+281
+00:13:10,320 --> 00:13:12,000
+let's go to, what is it?
+
+282
+00:13:12,000 --> 00:13:17,000
+Mount C user brand documents git.
+
+283
+00:13:19,320 --> 00:13:22,360
+And this is gonna be inside of Protobuf.
+
+284
+00:13:23,160 --> 00:13:27,640
+And then if we go inside of this folder,
+
+285
+00:13:27,640 --> 00:13:32,640
+so cd to source, cd to Google, cd to Protobuf.
+
+286
+00:13:33,960 --> 00:13:37,560
+So here we are inside of Protobuf
+
+287
+00:13:37,560 --> 00:13:40,920
+and we're gonna do a little experiment here
+
+288
+00:13:40,920 --> 00:13:41,760
+if I type it right.
+
+289
+00:13:41,760 --> 00:13:46,760
+So we're gonna find dot, we're gonna do a reg x.
+
+290
+00:13:47,640 --> 00:13:50,000
+I have this written down because I am not,
+
+291
+00:13:51,840 --> 00:13:53,720
+you know, the most incredible person
+
+292
+00:13:53,720 --> 00:13:58,720
+at remembering all these Unix or Linux commands.
+
+293
+00:14:00,120 --> 00:14:01,600
+One of the beautiful things about Linux
+
+294
+00:14:01,600 --> 00:14:04,360
+is that programs do a single thing and they do it well.
+
+295
+00:14:04,360 --> 00:14:05,360
+I love that.
+
+296
+00:14:05,360 --> 00:14:10,040
+That's the best design decision anyone could have.
+
+297
+00:14:10,040 --> 00:14:12,400
+In fact, I think I can, let me copy.
+
+298
+00:14:12,400 --> 00:14:14,960
+I think I can just copy this text
+
+299
+00:14:14,960 --> 00:14:16,840
+and paste it into the terminal here.
+
+300
+00:14:18,040 --> 00:14:19,600
+I know I can.
+
+301
+00:14:19,600 --> 00:14:23,960
+Whoop, it looks like I got a weird binary thing
+
+302
+00:14:23,960 --> 00:14:24,800
+at the beginning there.
+
+303
+00:14:24,800 --> 00:14:27,000
+Let me see if it's because the way I copied it.
+
+304
+00:14:28,000 --> 00:14:32,440
+No, here, let's just go to, nope.
+
+305
+00:14:34,320 --> 00:14:35,440
+You can't see it off screen,
+
+306
+00:14:35,440 --> 00:14:40,440
+but I have this inside of a little word or something.
+
+307
+00:14:40,760 --> 00:14:43,080
+Okay, f, there we go.
+
+308
+00:14:43,080 --> 00:14:46,520
+So I'm gonna do this reg x to just get all the headers,
+
+309
+00:14:46,520 --> 00:14:49,160
+cc, cfiles, and cpp files,
+
+310
+00:14:49,160 --> 00:14:51,160
+because this is a C++ repository.
+
+311
+00:14:51,160 --> 00:14:53,840
+I'm gonna do print zero instead of print
+
+312
+00:14:54,960 --> 00:14:57,760
+so that I can do x arg zero.
+
+313
+00:14:57,760 --> 00:15:00,440
+I'm gonna do basically a line count.
+
+314
+00:15:00,440 --> 00:15:03,720
+I'm gonna count the lines in this project.
+
+315
+00:15:04,960 --> 00:15:08,080
+So just to serialize bytes in one language
+
+316
+00:15:09,720 --> 00:15:12,740
+is over a quarter million lines of code.
+
+317
+00:15:12,740 --> 00:15:16,480
+And I don't know if some of those lines
+
+318
+00:15:16,480 --> 00:15:18,680
+are comments or whatever,
+
+319
+00:15:18,680 --> 00:15:20,760
+but this, I've written a game engine
+
+320
+00:15:20,760 --> 00:15:24,280
+that uses Vulkan and all in C.
+
+321
+00:15:24,280 --> 00:15:26,760
+So I've gotta do the Vulkan library in C,
+
+322
+00:15:26,760 --> 00:15:28,160
+and then it works with entities,
+
+323
+00:15:28,160 --> 00:15:33,160
+and it has all the transformations,
+
+324
+00:15:33,320 --> 00:15:35,440
+all that sort of stuff, including the shaders,
+
+325
+00:15:35,440 --> 00:15:38,680
+and it's less lines of code than this,
+
+326
+00:15:38,680 --> 00:15:40,440
+and it has tons of comments too.
+
+327
+00:15:40,440 --> 00:15:43,720
+So over a quarter million lines of code
+
+328
+00:15:43,720 --> 00:15:46,680
+is a lot of code for serializing some bytes.
+
+329
+00:15:46,680 --> 00:15:49,240
+And that's kind of where I'm coming from on this.
+
+330
+00:15:49,240 --> 00:15:51,600
+And if we go to the wrappers,
+
+331
+00:15:51,600 --> 00:15:56,600
+hopefully they're not as big.
+
+332
+00:15:57,000 --> 00:15:59,040
+Let's take a look at, let's say C sharp.
+
+333
+00:16:00,880 --> 00:16:02,880
+There's a lot of batch files in here.
+
+334
+00:16:02,880 --> 00:16:05,240
+Keys, vtest, okay, here we go, source.
+
+335
+00:16:05,240 --> 00:16:10,240
+Okay, so C sharp, source, and then of course we've got,
+
+336
+00:16:12,980 --> 00:16:15,280
+what are all these, tests?
+
+337
+00:16:15,280 --> 00:16:17,720
+Eh, let's just do the whole thing.
+
+338
+00:16:17,720 --> 00:16:18,560
+Life is short.
+
+339
+00:16:20,240 --> 00:16:25,240
+So this is much easier, we can just do CS files.
+
+340
+00:16:27,680 --> 00:16:32,120
+So this one alone is 142,139.
+
+341
+00:16:32,120 --> 00:16:34,360
+And this is a wrapper to like call.
+
+342
+00:16:34,360 --> 00:16:37,040
+I don't know if they re-implemented the code in C sharp,
+
+343
+00:16:37,040 --> 00:16:39,640
+or if they're calling the C++ code here.
+
+344
+00:16:39,640 --> 00:16:40,600
+Not a percent sure.
+
+345
+00:16:40,600 --> 00:16:45,600
+But still, it's a lot of code to write some bytes.
+
+346
+00:16:46,760 --> 00:16:51,760
+So that's kind of my perspective on big companies.
+
+347
+00:16:54,520 --> 00:16:56,780
+Their code bases, libraries.
+
+348
+00:16:57,840 --> 00:17:00,320
+I thought this is a nice simple way
+
+349
+00:17:00,320 --> 00:17:03,920
+to start off whatever series I'm doing here.
+
+350
+00:17:05,680 --> 00:17:08,320
+It's just talk about some code, I like code.
+
+351
+00:17:08,320 --> 00:17:10,840
+And I'm not, like I said, I'm not complaining
+
+352
+00:17:10,840 --> 00:17:13,920
+about all this, it all functions, I've used it.
+
+353
+00:17:13,920 --> 00:17:15,560
+It makes things a lot easier.
+
+354
+00:17:16,400 --> 00:17:19,400
+Companies should use them rather than rolling their own
+
+355
+00:17:19,400 --> 00:17:22,480
+because most likely you're gonna make a mistake
+
+356
+00:17:22,480 --> 00:17:23,560
+if you roll your own.
+
+357
+00:17:23,560 --> 00:17:26,240
+And you gotta deal with all that debugging and stuff.
+
+358
+00:17:26,240 --> 00:17:29,560
+I'm just putting out a hypothesis,
+
+359
+00:17:29,560 --> 00:17:33,400
+hypotheses or ideas here about how much power is wasted
+
+360
+00:17:33,400 --> 00:17:38,400
+and kind of how programmers polish rocks.
+
+361
+00:17:38,720 --> 00:17:40,920
+And I polish rocks all the time.
+
+362
+00:17:40,920 --> 00:17:45,080
+So yeah, and I think that's,
+
+363
+00:17:47,880 --> 00:17:52,880
+yeah, that's all I got for my view
+
+364
+00:17:53,240 --> 00:17:58,240
+on just coding, programming, third party libraries.
+
+365
+00:17:58,240 --> 00:18:03,240
+I don't know exactly what I'm gonna go over
+
+366
+00:18:03,360 --> 00:18:06,440
+in kind of future, what are these,
+
+367
+00:18:06,440 --> 00:18:10,360
+future podcasts I guess these are.
+
+368
+00:18:11,400 --> 00:18:14,040
+Not 100% sure what I'm gonna go over.
+
+369
+00:18:14,040 --> 00:18:18,080
+I can go over assembly for Game Boy games,
+
+370
+00:18:18,080 --> 00:18:20,040
+I can kind of dive into other people's code,
+
+371
+00:18:20,040 --> 00:18:22,680
+I can just talk about games in general and game design.
+
+372
+00:18:22,680 --> 00:18:26,040
+I have a lot of ideas or thoughts on game design.
+
+373
+00:18:26,040 --> 00:18:28,280
+And I'm trying not to ramble on them here.
+
+374
+00:18:28,280 --> 00:18:32,280
+And I've got lots of thoughts
+
+375
+00:18:32,280 --> 00:18:34,240
+of how we connect software together
+
+376
+00:18:34,240 --> 00:18:39,240
+from straight from the hardware in the C and C++ area
+
+377
+00:18:39,440 --> 00:18:44,440
+or whatever low level language that you use
+
+378
+00:18:44,520 --> 00:18:47,680
+or like all the way up to how it communicates
+
+379
+00:18:47,680 --> 00:18:48,800
+with a web server.
+
+380
+00:18:50,480 --> 00:18:53,280
+Yeah, I think that there's just a lot to think about,
+
+381
+00:18:53,280 --> 00:18:54,440
+a lot to talk about.
+
+382
+00:18:54,440 --> 00:18:57,280
+A lot to talk about and a lot to have fun with.
+
+383
+00:18:58,920 --> 00:19:03,680
+So this is like the first episode of this podcast
+
+384
+00:19:03,680 --> 00:19:06,600
+and I don't know how many people are gonna watch it
+
+385
+00:19:06,600 --> 00:19:08,560
+or people are even gonna see it.
+
+386
+00:19:08,560 --> 00:19:13,560
+But if you guys do exist, feel free to like throw out
+
+387
+00:19:13,880 --> 00:19:15,200
+some ideas of what to talk about
+
+388
+00:19:15,200 --> 00:19:18,400
+because like I said, it doesn't have to be just about code.
+
+389
+00:19:18,400 --> 00:19:21,160
+I love code, I could talk about code all day.
+
+390
+00:19:21,160 --> 00:19:22,600
+And it's been like 40 minutes,
+
+391
+00:19:22,600 --> 00:19:25,960
+I didn't even notice this time flew by.
+
+392
+00:19:25,960 --> 00:19:29,120
+But I could talk about games and game design, old games,
+
+393
+00:19:29,120 --> 00:19:30,840
+collecting games, I collect a lot of games.
+
+394
+00:19:30,840 --> 00:19:34,480
+I could talk about art, art as it relates to programming
+
+395
+00:19:34,480 --> 00:19:38,120
+or games or just art in general, I like to draw.
+
+396
+00:19:38,120 --> 00:19:40,800
+So I have a lot of thoughts on that sort of stuff.
+
+397
+00:19:40,800 --> 00:19:44,680
+So yeah, it'd be really interesting to see
+
+398
+00:19:44,680 --> 00:19:47,080
+if anybody has some ideas of what to look over.
+
+399
+00:19:47,080 --> 00:19:52,080
+I thought this was a lot of fun.
+
+400
+00:19:52,840 --> 00:19:55,440
+I like talking about code, this is awesome.
+
+401
+00:19:55,440 --> 00:20:19,440
+Anyways, see you guys.

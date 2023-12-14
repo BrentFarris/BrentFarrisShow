@@ -1,0 +1,1916 @@
+1
+00:00:00,000 --> 00:00:07,000
+Welcome back! Today we're one step closer to Microsoft buying Blizzard. Some new C stuff,
+
+2
+00:00:07,000 --> 00:00:13,520
+I got a PHP note, we got, there's a lot of stuff about programmer health and some other
+
+3
+00:00:13,520 --> 00:00:20,520
+stuff to go over today. So, I guess the first big story that happened today was Microsoft
+
+4
+00:00:21,080 --> 00:00:27,280
+is one step closer to buying Blizzard. Of course this is all part of the industry consolidation
+
+5
+00:00:27,280 --> 00:00:34,280
+that everyone's talking about for the game industry. And it's part of, I think it's related
+
+6
+00:00:34,600 --> 00:00:41,600
+to something I mentioned before which is we have an issue where a lot of stuff, there's
+
+7
+00:00:41,600 --> 00:00:47,640
+just a lot of games being published out to Steam and app stores on both iOS and Android
+
+8
+00:00:47,640 --> 00:00:54,040
+and a lot now even on the Nintendo Switch which used to be a really walled off garden.
+
+9
+00:00:54,040 --> 00:01:00,960
+And with all that noise it's really hard for people to punch through it and become successful.
+
+10
+00:01:00,960 --> 00:01:07,600
+A lot of them have to go through YouTubers and YouTubers have a very specific show to
+
+11
+00:01:07,600 --> 00:01:14,600
+put on. So a lot of games are being kind of developed in a way that YouTubers can use
+
+12
+00:01:14,880 --> 00:01:21,880
+them to be funny or entertaining. And so we've got a lot of noise in that at respect. There's
+
+13
+00:01:21,880 --> 00:01:27,680
+a lot of games that are getting published with Unity Asset Store stuff. They just pull
+
+14
+00:01:27,680 --> 00:01:33,040
+some stuff off the Asset Store they pay a few bucks for, throw it all together, do some
+
+15
+00:01:33,040 --> 00:01:38,480
+very light coding and then they put out a game in less than a week. And sometimes they're
+
+16
+00:01:38,480 --> 00:01:45,360
+really successful on YouTube. There's a lot of channels out there constantly looking for
+
+17
+00:01:45,360 --> 00:01:51,800
+more content and games to play that are different and so that constant stream is really nice.
+
+18
+00:01:51,800 --> 00:01:56,680
+That being said, that makes for a lot of noise in the game industry. Lots and lots of noise
+
+19
+00:01:56,680 --> 00:02:03,680
+on all platforms. We have a lot of adult games coming out of nowhere. My wife complains a
+
+20
+00:02:04,280 --> 00:02:08,920
+lot about how many adult games she's getting on Steam even though she has so many filters
+
+21
+00:02:08,920 --> 00:02:13,080
+to block them. They keep coming through. I think it's kind of the joke now. Everybody
+
+22
+00:02:13,080 --> 00:02:20,080
+kind of sees that. So with all that madness, big companies, they have the money to push
+
+23
+00:02:20,080 --> 00:02:24,880
+their games, to push their products. They can market to millions of people. They have
+
+24
+00:02:24,880 --> 00:02:31,320
+hundreds of millions of dollars to put into marketing and research and influencer campaigns,
+
+25
+00:02:31,320 --> 00:02:38,320
+lots of influencer campaigns. A lot of streamers are paid to pay the games to promote them.
+
+26
+00:02:39,360 --> 00:02:46,360
+And sometimes, I don't know if the streamers even mention that they are paid to promote
+
+27
+00:02:46,400 --> 00:02:49,880
+them and if they do it's probably at the beginning of the stream and a lot of people aren't
+
+28
+00:02:49,880 --> 00:02:53,920
+there for that so they just think that the streamers playing this game that they really
+
+29
+00:02:53,920 --> 00:02:59,360
+just found and enjoyed when those streamers are paid a ton of money to stream. I know
+
+30
+00:02:59,360 --> 00:03:03,200
+this because I've worked with companies that do those kinds of campaigns. And they're a
+
+31
+00:03:03,200 --> 00:03:09,240
+valid marketing campaign because you can get a lot of people to play your game using this
+
+32
+00:03:09,240 --> 00:03:11,680
+technique.
+
+33
+00:03:11,680 --> 00:03:17,280
+So how does that relate to Microsoft buying Blizzard and consolidating of the game industry?
+
+34
+00:03:17,280 --> 00:03:22,880
+Well, like I said in some previous videos, these companies are able to spend millions
+
+35
+00:03:22,880 --> 00:03:27,080
+and millions of dollars to get eyeballs on their games, to buy their games and they make
+
+36
+00:03:27,080 --> 00:03:32,520
+tons of money. And all the little companies that can't compete with that wealth have a
+
+37
+00:03:32,520 --> 00:03:36,800
+very hard time even with really incredible games. There's a lot of incredible games that
+
+38
+00:03:36,800 --> 00:03:43,800
+just nobody ever hears of or that never can get completed because they can't get the funding.
+
+39
+00:03:43,800 --> 00:03:49,680
+So, these big companies get bigger. They spend a lot of money to make a lot of money and
+
+40
+00:03:49,680 --> 00:03:55,880
+then they spend that money to buy up all the other medium-sized businesses. I think every
+
+41
+00:03:55,880 --> 00:04:01,200
+company I've worked at for the last three companies, all three of them were purchased
+
+42
+00:04:01,200 --> 00:04:07,360
+by a much larger company and one of them got purchased twice by a large company. So, it's
+
+43
+00:04:07,360 --> 00:04:11,280
+a very real thing, the consolidation of all these companies.
+
+44
+00:04:11,280 --> 00:04:18,280
+So the European Commission has approved Microsoft's Blizzard purchase. Some other European country,
+
+45
+00:04:18,880 --> 00:04:24,400
+I don't know what it was, probably England or something, denied it. But there's, I don't
+
+46
+00:04:24,400 --> 00:04:29,200
+know how this works, but it still goes through and they're still going to be working towards
+
+47
+00:04:29,200 --> 00:04:35,880
+it. I am frankly a little bit ambivalent to big companies buying up other big companies
+
+48
+00:04:35,880 --> 00:04:42,880
+or big companies buying up medium-sized companies. It's a great way for developers, if they get
+
+49
+00:04:43,000 --> 00:04:48,320
+equity in a medium-sized company, it's a great way to get an extra paycheck. And it's kind
+
+50
+00:04:48,320 --> 00:04:53,240
+of just the way the system is, what can we do? We can't tell people to stop developing
+
+51
+00:04:53,240 --> 00:04:58,640
+indie games or we can't make them promise that they'll spend more than a week on an
+
+52
+00:04:58,640 --> 00:05:05,640
+indie game before they publish it to Steam or any other game store. So, just getting
+
+53
+00:05:06,360 --> 00:05:12,760
+past that noise is already a high bar. Even if you do a Kickstarter campaign, a lot of
+
+54
+00:05:12,760 --> 00:05:17,800
+the times your game has to be some kind of meme to just stand out and punch through all
+
+55
+00:05:17,800 --> 00:05:22,640
+that noise. And that can be frustrating for people who don't want to make meme games.
+
+56
+00:05:22,640 --> 00:05:26,480
+They want to make games that maybe tell a story that means something to them or make
+
+57
+00:05:26,480 --> 00:05:33,480
+a game that's a story for children or they want to make a game that's more puzzle-related
+
+58
+00:05:33,600 --> 00:05:37,720
+but there's no gimmick and it's just a bunch of series of different kinds of puzzles, that
+
+59
+00:05:37,720 --> 00:05:42,160
+sort of stuff. And those developers are basically developing games for themselves and their
+
+60
+00:05:42,160 --> 00:05:49,160
+friends because it's a hard market to compete with. Like I said, I'm ambivalent to big companies
+
+61
+00:05:49,700 --> 00:05:54,820
+buying up other big companies. I think the consolidation just happens. Maybe it'll lead
+
+62
+00:05:54,820 --> 00:06:01,820
+to some kind of tipping point where people get tired of it. Maybe developers will get
+
+63
+00:06:02,240 --> 00:06:06,840
+tired of making stuff. Of course, then we get into the whole AI stuff and then putting
+
+64
+00:06:06,840 --> 00:06:13,840
+AI into games for really quick and easy content. So, I don't know. It could be noisy forever.
+
+65
+00:06:14,200 --> 00:06:18,720
+Maybe we can band together, all of us game developers who spend a good quality amount
+
+66
+00:06:18,720 --> 00:06:25,720
+of time on our games. There's a lot of us. So, if we got together and bought and sold
+
+67
+00:06:25,920 --> 00:06:32,920
+each other's games and kind of collaborated in that way to create our own kind of group
+
+68
+00:06:33,180 --> 00:06:37,160
+marketing strategy in that way, maybe that's the way we can punch through with great game
+
+69
+00:06:37,160 --> 00:06:44,160
+ideas and stop leaving it just to the big guys to be able to get their games out there.
+
+70
+00:06:44,160 --> 00:06:51,160
+So, beyond this kind of business news, the next thing I want to talk about is C. C is
+
+71
+00:06:58,640 --> 00:07:04,920
+my favorite language. I love C++. I love C Sharp. I love JavaScript. Python I'm okay
+
+72
+00:07:04,920 --> 00:07:11,920
+with. I'm learning the Python variant in Godot. I've used Python for over a decade now. It's
+
+73
+00:07:16,280 --> 00:07:20,280
+not one of my favorites, but mainly because of the whole tabbing thing and spacing and
+
+74
+00:07:20,280 --> 00:07:27,280
+all that sort of stuff. But it's a lot different than it was back then. So, I give it some
+
+75
+00:07:27,280 --> 00:07:34,280
+credit. Anyways, back to C. We got some great news for some C people. GCC 13 now supports
+
+76
+00:07:35,600 --> 00:07:42,600
+C2X stuff. And some of the notable things that people like to point out is null pointer,
+
+77
+00:07:44,320 --> 00:07:49,200
+which comes from C++. That one I'm iffy about. It doesn't really matter to me. I'm fine with
+
+78
+00:07:49,200 --> 00:07:55,000
+null. This null pointer makes it a little bit more explicit, better compiler support,
+
+79
+00:07:55,000 --> 00:08:00,480
+that sort of stuff. It's not just a macro that evaluates to zero. So, that will allow
+
+80
+00:08:00,480 --> 00:08:07,480
+some better compiler checking for things like that. Enhanced enums. Oh, also for null pointer,
+
+81
+00:08:07,960 --> 00:08:14,960
+not only for compilers, but kind of, what are they called? Static analysis tools will
+
+82
+00:08:16,120 --> 00:08:22,660
+have, you know, they won't have to deal with evaluating macros by name to figure out what
+
+83
+00:08:22,660 --> 00:08:27,280
+the context is that people are doing. So, there are some benefits there for the static
+
+84
+00:08:27,280 --> 00:08:34,280
+analysis and the compilers. Enhanced enumerations. If you've used enum, you know that it evaluates
+
+85
+00:08:34,300 --> 00:08:41,300
+to an int. An int on a 16-bit system is going to be different than a 32. 32 and 64 are basically
+
+86
+00:08:43,200 --> 00:08:50,200
+the same. Int evaluates to 32 bits. But it's ambiguous, right? That's why we have stdint.h,
+
+87
+00:08:50,200 --> 00:08:57,200
+which allows us to use very specific sizes for our integers, like int32t, uint32t, and
+
+88
+00:09:00,880 --> 00:09:07,880
+all that sort of stuff. So, the enhanced enumerations, if I recall correctly, allow you to put a
+
+89
+00:09:07,920 --> 00:09:13,000
+colon and then put the size of the enum. You see this a lot, like in Unreal Engine, whenever
+
+90
+00:09:13,000 --> 00:09:20,000
+they're doing enums. It's not like in C++, the class enum stuff. This is just allowing
+
+91
+00:09:22,080 --> 00:09:27,960
+enums to be a little bit safer in that way and adhere to a proper ABI. Because if you
+
+92
+00:09:27,960 --> 00:09:32,580
+put an enum instead of a struct and then you compile it on two different systems, you can't
+
+93
+00:09:32,580 --> 00:09:37,320
+guarantee, or two different compilers even, you can't guarantee that you're going to wind
+
+94
+00:09:37,320 --> 00:09:42,280
+up with the exact same ABI, especially across the network, if you're talking to like some
+
+95
+00:09:42,280 --> 00:09:49,280
+super small embedded device. You want your ABI, especially in C, to be consistent. So,
+
+96
+00:09:50,960 --> 00:09:56,760
+enhanced enumerations will help a lot with that. Another thing that I think my friend,
+
+97
+00:09:56,760 --> 00:10:03,140
+a good friend of mine, he really, really wants from C++, which is the auto keyword. Now,
+
+98
+00:10:03,140 --> 00:10:10,140
+you may know that C++ hijacked the auto keyword. Auto comes from B, which comes before C. Dennis
+
+99
+00:10:10,140 --> 00:10:17,140
+Ritchie worked on, when he worked with B, he wanted, you know, C is supposed to be somewhat
+
+100
+00:10:17,580 --> 00:10:22,420
+backwards compatible. I don't know a whole lot about B, but the auto keyword came from
+
+101
+00:10:22,420 --> 00:10:28,300
+that. And it was for, I think, locally scoped variables or maybe something like that. And
+
+102
+00:10:28,300 --> 00:10:32,660
+it just got deprecated and unused over time. So, the auto keyword, you'll notice, is a
+
+103
+00:10:32,660 --> 00:10:39,660
+keyword in C. And now they're deciding, you know, bring auto in and detect types. Of course,
+
+104
+00:10:40,540 --> 00:10:45,180
+you really need that in C++ because some of those types with the namespaces and everything
+
+105
+00:10:45,180 --> 00:10:52,180
+else, the namespaces plus the long class names plus the, you know, the templating make, just,
+
+106
+00:10:52,180 --> 00:10:59,180
+just declaring the type of a variable alone takes up the full 80 columns. For people like
+
+107
+00:11:03,060 --> 00:11:09,340
+me who like to code in 80 columns, you know, you're going to wind up with like 120 minimum
+
+108
+00:11:09,340 --> 00:11:15,580
+just to define your variable, not even assign it. So, auto is super necessary, in my opinion,
+
+109
+00:11:15,580 --> 00:11:21,980
+for C++. Not as necessary in C, but is nice for when you just, you just want to auto it
+
+110
+00:11:21,980 --> 00:11:26,660
+in and you don't want to have to worry about it. I don't, I don't change type names that
+
+111
+00:11:26,660 --> 00:11:32,380
+often. If I do, I use a refactoring tool. So, not crazy. I'm not like banging down the
+
+112
+00:11:32,380 --> 00:11:39,140
+door to get auto in. Another one is const expression. Now, I know you C++ guys, you
+
+113
+00:11:39,140 --> 00:11:43,680
+know what const expressions are. They're a great tool for the compiler. We are not talking
+
+114
+00:11:43,680 --> 00:11:48,140
+about the same const expression. This is like a lightweight version of const expression,
+
+115
+00:11:48,140 --> 00:11:52,760
+which does allow some compile time stuff. It's been months since I read the spec on
+
+116
+00:11:52,760 --> 00:11:59,100
+const expression for C, so I don't recall it all off the top of my head, but go check
+
+117
+00:11:59,100 --> 00:12:05,900
+it out. It's kind of like a nice little addition. Again, C is supposed to be lightweight, and
+
+118
+00:12:05,900 --> 00:12:10,340
+I can take or leave any of these. I can code in C99, but I do like to stay up to date in
+
+119
+00:12:10,340 --> 00:12:16,820
+C and mess around with like the generic macro or, you know, some of the modern atomic stuff
+
+120
+00:12:16,820 --> 00:12:24,700
+and things like that. It is nice to stay kind of up to date with computers and just what
+
+121
+00:12:24,700 --> 00:12:31,540
+CPUs and all the CPUs and GPUs are doing these days. So, it's good to stay up to date. That's
+
+122
+00:12:31,540 --> 00:12:38,420
+what's happening in C land. Now, I'm going to take a second to talk about PHP for you
+
+123
+00:12:38,420 --> 00:12:44,400
+web people who still use PHP. I don't, I love PHP because it's so simple. I use Node.js
+
+124
+00:12:44,400 --> 00:12:49,220
+for websites too. I use things like Firebase for a random website every now and then to
+
+125
+00:12:49,220 --> 00:12:57,020
+throw it up. You know, I, but I do love PHP because it's very flat, straightforward, simple,
+
+126
+00:12:57,020 --> 00:13:02,340
+and it's well supported on basically everything. Like, coding on Windows is pretty easy, debugging
+
+127
+00:13:02,340 --> 00:13:07,180
+in all Windows and all that, at least since I've been doing it for a while. Maybe I'm
+
+128
+00:13:07,180 --> 00:13:13,620
+cheating because I've used it for many years. But PHP 8 came out a while ago, and now I
+
+129
+00:13:13,620 --> 00:13:21,020
+have a little bit of a rant for people who are using PHP and not using PHP 8. I love PHP,
+
+130
+00:13:21,020 --> 00:13:26,300
+and I love the flexibility of it, so I get it. You want to use kind of the old tried
+
+131
+00:13:26,300 --> 00:13:36,300
+and true, but please try out PHP 8, and especially try out the, what are they called, type names.
+
+132
+00:13:36,300 --> 00:13:44,900
+Being able to type name and kind of strongly type your PHP is very nice. And it's great
+
+133
+00:13:44,900 --> 00:13:50,460
+because it's not all or nothing. You can use some strong types, or you should use strong
+
+134
+00:13:50,460 --> 00:13:57,100
+types in many places where you know what the type is going to be. And then you can just
+
+135
+00:13:57,100 --> 00:14:01,220
+not use strong types in places that you want to deal with, you know, strings or network
+
+136
+00:14:01,220 --> 00:14:07,420
+requests or things coming from the client or going to the client or just arbitrary data,
+
+137
+00:14:07,420 --> 00:14:15,340
+like collections or an array of, you know, if you want to make an array with mixed data
+
+138
+00:14:15,340 --> 00:14:24,420
+types inside of them, that's completely fine. But try out PHP 8 and do use the type name
+
+139
+00:14:24,420 --> 00:14:33,500
+syntax. The reason I bring this up is because I don't see, I continue to see PHP being used
+
+140
+00:14:33,500 --> 00:14:39,900
+in the modern era, and all of them are like, I've even seen stuff on PHP 5, which I used
+
+141
+00:14:39,900 --> 00:14:49,300
+like a decade ago. So PHP 7 is pretty popular, but try out PHP 8, get up to date, it's faster.
+
+142
+00:14:49,300 --> 00:14:54,820
+Type safety, whenever you add type names, you automatically get some magical speed up
+
+143
+00:14:54,820 --> 00:15:00,860
+in your code just because it's known. Anytime you have something known, your code's going
+
+144
+00:15:00,860 --> 00:15:09,940
+to go faster. This is why native code, like C and C++, are so fast, other than them not
+
+145
+00:15:09,940 --> 00:15:16,820
+having garbage collectors or being interpreted. Everything, you try to make everything known,
+
+146
+00:15:16,820 --> 00:15:21,580
+like you duplicate functions, that's what templates do, they just duplicate the functions
+
+147
+00:15:21,580 --> 00:15:25,380
+for different types, and everything is just statically known. And so it can be really
+
+148
+00:15:25,380 --> 00:15:30,100
+fast because it knows what it's doing, it knows the size of variables that are going
+
+149
+00:15:30,100 --> 00:15:38,020
+inside of functions, it doesn't have to dynamically allocate the stack. So just a little aside.
+
+150
+00:15:38,020 --> 00:15:42,900
+In assembly, whenever you compile C or C++, there's a thing called a shadow stack, and
+
+151
+00:15:42,900 --> 00:15:47,860
+there's also home space. This is a space when you call a function, it has to allocate, it
+
+152
+00:15:47,860 --> 00:15:53,060
+uses some registers for the first few arguments, but then it has to allocate the stack, some
+
+153
+00:15:53,060 --> 00:15:57,940
+memory on the stack to be able to know the size of the arguments going in. If the size
+
+154
+00:15:57,940 --> 00:16:02,340
+is arbitrary and jumping around all the time, it's going to have to determine the size before
+
+155
+00:16:02,340 --> 00:16:09,540
+it can allocate that stack space, or it's going to over-allocate the stack space just
+
+156
+00:16:09,540 --> 00:16:19,780
+to support some unknown type. So, yeah, type safety is also good. Just FYI, for all of
+
+157
+00:16:19,780 --> 00:16:28,660
+you PHP programmers out there, give it a try, I promise you'll love it. I love it. I still
+
+158
+00:16:28,660 --> 00:16:34,780
+keep the flexibility and simplicity of PHP, I can write a whole routing, I can write an
+
+159
+00:16:34,780 --> 00:16:42,660
+entire router for a request that comes in, I can take the URL and figure out which, like,
+
+160
+00:16:42,660 --> 00:16:51,460
+get or post request or even to return some content with. In less than 30 lines of code,
+
+161
+00:16:51,460 --> 00:16:58,420
+I can write a PHP router. And that's using all the PHP stuff. So give it a try.
+
+162
+00:16:58,420 --> 00:17:05,780
+The next thing that I want to talk about is programmers' mental health. I saw a lot of
+
+163
+00:17:05,780 --> 00:17:12,820
+news articles recently about programmers with mental health, not issues, but like they're
+
+164
+00:17:12,820 --> 00:17:17,380
+burnt out or, you know, they stopped coding for a while and they're coming back or they
+
+165
+00:17:17,380 --> 00:17:24,060
+just, you know, they can't seem to keep a job or get a job, the job market's hard right
+
+166
+00:17:24,060 --> 00:17:30,180
+now. I'm not looking for a job, so I don't know about it. I know there's been tons and
+
+167
+00:17:30,180 --> 00:17:36,380
+tons of layoffs recently. I don't know how many of those are programmers, but I'm certain
+
+168
+00:17:36,380 --> 00:17:41,180
+there's got to be quite a few programmers within there. And probably a lot of web programmers,
+
+169
+00:17:41,180 --> 00:17:48,860
+and just because I think they got overstaffed during, you know, the stuff that went on in
+
+170
+00:17:48,860 --> 00:17:56,620
+2020, 2019, all that stuff. So they kind of overstaffed and, you know, now it's hard to
+
+171
+00:17:56,620 --> 00:18:03,420
+find work apparently for some people. Yeah, if you're getting burnt out from programming,
+
+172
+00:18:03,420 --> 00:18:10,420
+I don't know what to tell you, take a break, I don't know. Maybe you're not coding what
+
+173
+00:18:10,420 --> 00:18:21,520
+you love coding. I have coded almost nonstop, no breaks, for nearly 15 years. Hours and
+
+174
+00:18:21,520 --> 00:18:28,380
+hours a day, every day. I still have a wife, I still have kids, I still have a job, I still
+
+175
+00:18:28,380 --> 00:18:34,220
+do random stuff on the side like this thing, and, you know, I still code. I love code.
+
+176
+00:18:34,220 --> 00:18:38,060
+I sit here and read articles about code. So if you're getting burned out, maybe you're
+
+177
+00:18:38,060 --> 00:18:46,180
+not focusing on what matters most to you. Maybe you're chasing after trends. Maybe you're,
+
+178
+00:18:46,180 --> 00:18:51,860
+you know, not, you're trying too hard to complete projects that you're not interested anymore.
+
+179
+00:18:51,860 --> 00:18:59,620
+I think the key to my success in continuing to code and not get burned out is that I just,
+
+180
+00:18:59,620 --> 00:19:05,020
+whenever I finish coding a part of some big grand idea that I've had, I just quit programming
+
+181
+00:19:05,020 --> 00:19:10,420
+and I'm done and I move on to something else. It's not that important to finish the project.
+
+182
+00:19:10,420 --> 00:19:13,340
+And you know what, you don't always have to be the guy. You don't have to go make a million
+
+183
+00:19:13,340 --> 00:19:18,900
+dollars, you don't have to be super, you know, you don't have to make some super cool project
+
+184
+00:19:18,900 --> 00:19:22,140
+that everyone uses or anything like that. You don't have to be the guy. Give yourself
+
+185
+00:19:22,140 --> 00:19:28,500
+some slack, have fun. Coding is fun. Most of it is creative and playing around with
+
+186
+00:19:28,500 --> 00:19:33,180
+different ideas. It's all just a game. It's a puzzle that you play around with and have
+
+187
+00:19:33,180 --> 00:19:39,420
+fun with. And that's the key. And that's also why I've programmed in so many languages,
+
+188
+00:19:39,420 --> 00:19:44,660
+I've dealt with so many different technologies and also programmed stuff for like Game Boy
+
+189
+00:19:44,660 --> 00:19:50,740
+and I've tried out and learned four different assembly languages. I just have fun. It's
+
+190
+00:19:50,740 --> 00:19:55,600
+just a puzzle to me. So don't burn yourself out. If you're getting burned out, it's probably
+
+191
+00:19:55,600 --> 00:20:06,420
+because you're doing something you don't want to do. This guy here, I'm not going to show
+
+192
+00:20:06,420 --> 00:20:11,620
+it, I don't want to point out anybody specific, but he's saying that he's having a hard time
+
+193
+00:20:11,620 --> 00:20:19,740
+with the job market. But he seems really like blase, super chill and like, you know, get
+
+194
+00:20:19,740 --> 00:20:27,780
+coffee and chill, sip on some tea. It looks like he mentioned, the only reason I know
+
+195
+00:20:27,780 --> 00:20:32,140
+he's a coder is because he mentioned it. There's like a one sentence where it was mentioned
+
+196
+00:20:32,140 --> 00:20:39,580
+in this whole thing. So maybe if you talk more about code and update your LinkedIn,
+
+197
+00:20:39,580 --> 00:20:43,820
+do some things like that. I'm not too fond of his advice. His advice is just like, if
+
+198
+00:20:43,820 --> 00:20:50,260
+you're doing front end, do back end. If you're like, I don't know, stuff about self care
+
+199
+00:20:50,260 --> 00:20:54,500
+and stuff like that. Look, if you want a job in code and programming, I'll tell you the
+
+200
+00:20:54,500 --> 00:21:00,560
+secret. Program a lot. Impress people. Do some math for fun. Make a whole bunch of websites.
+
+201
+00:21:00,560 --> 00:21:06,220
+Make some games. Update your LinkedIn. Recruiters are always looking on LinkedIn. Put a whole
+
+202
+00:21:06,220 --> 00:21:10,540
+bunch of keywords of everything you've done. So you'll see in the first episode of the
+
+203
+00:21:10,540 --> 00:21:15,860
+podcast where I read off a bunch of stuff that I have messed with, that list and more
+
+204
+00:21:15,860 --> 00:21:21,540
+is on my LinkedIn. And I'm, you know, recruiters. They look up these keywords and that's how
+
+205
+00:21:21,540 --> 00:21:25,740
+they find people. So update your LinkedIn, put in all the keywords of the stuff that
+
+206
+00:21:25,740 --> 00:21:30,620
+you know how to do because you will be tested on them. If you go for a job interview, don't
+
+207
+00:21:30,620 --> 00:21:37,620
+waste anybody's time not knowing how to do something. That being said, my first job,
+
+208
+00:21:37,620 --> 00:21:42,700
+when I barely started coding in PHP, I BSed it and said I knew exactly what I was doing.
+
+209
+00:21:42,700 --> 00:21:46,820
+And the guy, the owner had me come out to the back and he's like, look, here's my problem
+
+210
+00:21:46,820 --> 00:21:52,180
+with the code. And he left me with it. And I had to figure it out in 30 minutes. And
+
+211
+00:21:52,180 --> 00:21:56,460
+it was just a, it was a serious problem I had with their company. And this was a small
+
+212
+00:21:56,460 --> 00:22:01,420
+company and I figured it out in 30 minutes and I blew my own mind. And he was, he hired
+
+213
+00:22:01,420 --> 00:22:06,060
+me on the spot because he was so excited that I solved it. So sometimes that scenario can
+
+214
+00:22:06,060 --> 00:22:12,180
+work, but don't rely on it. Don't take my advice on that.
+
+215
+00:22:12,180 --> 00:22:20,380
+There's been also one other thing related to health and programming is people have been
+
+216
+00:22:20,380 --> 00:22:26,180
+talking about software development ethics. Now I have a very specific view on ethics
+
+217
+00:22:26,180 --> 00:22:32,620
+in programming. If it's a game and it doesn't hurt anybody and you don't steal anybody's
+
+218
+00:22:32,620 --> 00:22:38,340
+stuff and you don't take their money and all this sort of stuff. You know, if you, if you're,
+
+219
+00:22:38,340 --> 00:22:45,660
+if you buy a product and you own it, for example, like if you buy a game, a modern game even,
+
+220
+00:22:45,660 --> 00:22:50,100
+and you tear it apart to figure out what's going on inside of it and you learn their
+
+221
+00:22:50,100 --> 00:22:56,380
+company secrets that way, that's fine. In my opinion, that's you exploring and researching.
+
+222
+00:22:56,380 --> 00:23:02,600
+That's not the ethics I'm talking about here. I think their ethics is more about their focus
+
+223
+00:23:02,600 --> 00:23:10,780
+is kind of on artificial intelligence and it talks about, you know, using AI to steal
+
+224
+00:23:10,780 --> 00:23:16,220
+stuff or scam people and all that sort of stuff. I don't think, I don't think we're
+
+225
+00:23:16,220 --> 00:23:24,420
+going to change anybody's mind on programming ethics. You're just going to code the way
+
+226
+00:23:24,420 --> 00:23:31,060
+that you code. If you're going to get more ethical in programming, you need to be more
+
+227
+00:23:31,060 --> 00:23:38,620
+ethical as a person. I don't mean to make this less technical of a talk, but the problem
+
+228
+00:23:38,620 --> 00:23:47,060
+is at the source. You know, that's the same truth in code as it is with people. So if
+
+229
+00:23:47,060 --> 00:23:52,940
+you find that you're talking to somebody or know somebody that has, you know, they're
+
+230
+00:23:52,940 --> 00:23:57,820
+doing nasty things and stealing people's info and trying to scam them, you're not going
+
+231
+00:23:57,820 --> 00:24:02,380
+to, you're not going to change their mind by writing a blog post about programming ethics
+
+232
+00:24:02,380 --> 00:24:07,260
+and trying to get out there and teach programming ethics to groups of people. I've seen it on
+
+233
+00:24:07,260 --> 00:24:12,700
+LinkedIn. I've seen it in blog posts. I've seen it kind of, it's like, I don't know if
+
+234
+00:24:12,700 --> 00:24:17,540
+people are just trying to become speakers at some kind of event or something, but ethics
+
+235
+00:24:17,540 --> 00:24:23,100
+are at the source and the people have to change their own internal ethics. They have to be
+
+236
+00:24:23,100 --> 00:24:26,820
+willing not to steal from people. They have to be willing not to lie. They have to be
+
+237
+00:24:26,820 --> 00:24:33,060
+willing to have integrity and not run up the clock for their employer doing nothing. A
+
+238
+00:24:33,060 --> 00:24:39,380
+lot of programmers don't do as much as they should when they're at work or when they're
+
+239
+00:24:39,380 --> 00:24:46,900
+on teams. I have a little story about when I was in college. There was this, I would
+
+240
+00:24:46,900 --> 00:24:52,580
+always be on teams in college and I was the one, even though I went to school for animation,
+
+241
+00:24:52,580 --> 00:24:57,460
+I was the one who was doing the code stuff and I wound up doing all the code. And the
+
+242
+00:24:57,460 --> 00:25:05,060
+coders just didn't, they didn't do their work. Of course, I was a coder at the same time
+
+243
+00:25:05,060 --> 00:25:12,180
+because I was more focused on code at that point. But I wound up doing all the work and
+
+244
+00:25:12,180 --> 00:25:16,860
+they didn't do anything. And that's not their own software development ethics, that's their
+
+245
+00:25:16,860 --> 00:25:21,700
+own personal ethics. They were more interested, one of them was more interested in looking
+
+246
+00:25:21,700 --> 00:25:29,540
+at OpenGL and making a cube move or something. That's just people ethics. You can't preach
+
+247
+00:25:29,540 --> 00:25:34,940
+software ethics to people. If you want to preach ethics, you've got to preach people
+
+248
+00:25:34,940 --> 00:25:41,980
+ethics. Treat people nicely. Don't steal. Don't steal from your employer. Don't steal
+
+249
+00:25:41,980 --> 00:25:46,620
+their time. Don't steal their money. Don't steal from others. Respect others. All these
+
+250
+00:25:46,620 --> 00:25:57,220
+things, this isn't a podcast about morals, but you need to preach morals to people, not
+
+251
+00:25:57,220 --> 00:26:03,940
+software ethic. So please don't go to any of these software ethics talks. I don't know
+
+252
+00:26:03,940 --> 00:26:13,380
+what they really have to talk about. So yeah, that's kind of the mental health aspect of
+
+253
+00:26:13,380 --> 00:26:23,740
+today's thing. And yeah, I just noticed there was a burst in all these, I mean, it seems
+
+254
+00:26:23,740 --> 00:26:32,020
+to be constant ever since 2019. Lots of mental health and kind of existential crises with
+
+255
+00:26:32,020 --> 00:26:38,340
+programmers. I don't know why programmers have this. You know, I feel like I've been
+
+256
+00:26:38,340 --> 00:26:45,500
+playing a game for 15 years. So I haven't really felt this, but all I can say is what
+
+257
+00:26:45,500 --> 00:27:10,500
+I've done, and hopefully that helps somebody out there.
+
+
+
+1
+00:00:00,000 --> 00:00:13,360
+So I want to talk about now Google. Google is one of those, they're not part of ICANN,
+
+2
+00:00:13,360 --> 00:00:20,360
+I don't think. ICANN, the domain name, I don't know what to call them, the domain name consortium
+
+3
+00:00:20,360 --> 00:00:25,540
+or something like that. But they are kind of, they are associated to it, which means
+
+4
+00:00:25,540 --> 00:00:31,040
+they can come up with domain names. And one of the things that they decided to come up
+
+5
+00:00:31,040 --> 00:00:38,640
+with, here I've even got the site here to show you. One of the things that they came
+
+6
+00:00:38,640 --> 00:00:50,400
+up with is, here's the new domain names. Let me zoom in on this. Okay,.foo. Okay, I feel
+
+7
+00:00:50,400 --> 00:00:56,520
+like that's some kind of programming joke maybe. Okay, that's fine. Let's see, what
+
+8
+00:00:56,520 --> 00:01:10,260
+else? We've got.zip. Now, the eagle-eyed viewer out there will know that.zip is probably
+
+9
+00:01:10,260 --> 00:01:17,460
+not a good idea for a domain extension. What are they called? Top level domain name or
+
+10
+00:01:17,460 --> 00:01:22,200
+something like that, TLDN or something..zip is probably not a good idea. You probably
+
+11
+00:01:22,200 --> 00:01:27,120
+shouldn't use super well-known extensions for your domain names. And now, this is the
+
+12
+00:01:27,120 --> 00:01:33,500
+goofy part. Zip, this is their definition. This is what they told ICANN. And these are
+
+13
+00:01:33,500 --> 00:01:39,440
+approved, I believe. Please note that the launch schedule for this is, this TLD has
+
+14
+00:01:39,440 --> 00:01:44,420
+been modified since being announced. The schedule is published below and has been updated and
+
+15
+00:01:44,420 --> 00:01:53,860
+approved by ICANN. Zip is a secure domain name for typing, for tying things together
+
+16
+00:01:53,860 --> 00:02:01,000
+or moving really fast. Hosting content on a.zip domain means speed. This is kind of
+
+17
+00:02:01,000 --> 00:02:10,960
+like zip and zippies, zip, zip, zip, zip. So, maybe they didn't realize that's also
+
+18
+00:02:10,960 --> 00:02:16,560
+for the compressed file type. I feel like that's just problems waiting to happen. Like
+
+19
+00:02:16,560 --> 00:02:23,700
+who, first of all, I would never make a domain name unless it's a joke as a.zip because
+
+20
+00:02:23,700 --> 00:02:28,900
+you'll probably be put on all the spam lists and no one will probably click your link.
+
+21
+00:02:28,900 --> 00:02:32,960
+They'll think that you're scamming them with a zip file. That's already one problem. And
+
+22
+00:02:32,960 --> 00:02:40,640
+good on them too because I can tell you that.zip domains will probably be used to scam
+
+23
+00:02:40,640 --> 00:02:48,600
+people a lot. You know, freemusic.zip and it'll download a zip file when you go to
+
+24
+00:02:48,600 --> 00:02:55,080
+it. And then of course the kids or whoever is downloading this will then get a virus
+
+25
+00:02:55,080 --> 00:03:03,200
+because they went to this.zip domain. And I know it's not any different than freemusic.com
+
+26
+00:03:03,200 --> 00:03:12,080
+slash zip or slash whatever or freemusic.com and they get a zip file sent to you. But if
+
+27
+00:03:12,080 --> 00:03:18,240
+something downloads when you go to a website, you are probably questioning it. Even a kid
+
+28
+00:03:18,240 --> 00:03:22,380
+would be like, I didn't click on anything. But if you go to a.zip domain and it downloads
+
+29
+00:03:22,380 --> 00:03:27,980
+something that's a zip file, you probably won't question it as much. I'm just saying.
+
+30
+00:03:27,980 --> 00:03:35,680
+The other one is.mov. Let's see, this is a secure domain for moving pictures and other
+
+31
+00:03:35,680 --> 00:03:42,280
+things that move. For anything that moves you,.move is the perfect domain. This is
+
+32
+00:03:42,280 --> 00:03:52,800
+also a famous file extension. And if you download a.mov file by going to, I don't know, pocahontas.mov
+
+33
+00:03:52,800 --> 00:03:59,120
+and it downloads a movie called Pocahontas and it's not really a movie file, it's something
+
+34
+00:03:59,120 --> 00:04:08,600
+else, then you have another problem. I love.dad though..dad is a secure domain for
+
+35
+00:04:08,600 --> 00:04:16,840
+dads. And I'm a dad. I can get behind.dad. That's awesome. So I can't get behind.zip.mov,
+
+36
+00:04:16,840 --> 00:04:28,180
+but I can get behind.dad..phd,.professor. Hopefully these show off your teaching credentials.
+
+37
+00:04:28,180 --> 00:04:34,240
+Hopefully these are locked. I don't know if any of these are locked. Like.edu and.gov
+
+38
+00:04:34,240 --> 00:04:39,320
+are locked. You can't get them as an individual. You have to prove that you're an educational
+
+39
+00:04:39,320 --> 00:04:45,320
+institution for.edu and you have to prove you're a government entity for.gov. And that's
+
+40
+00:04:45,320 --> 00:04:51,680
+why those are successful and you can use a.edu for getting discounts and stuff is because
+
+41
+00:04:51,680 --> 00:04:56,360
+they can trust that those are locked. I don't know if PhD and professor are locked, nor
+
+42
+00:04:56,360 --> 00:05:07,800
+do I care. I don't think certain people in society should just get special, like individuals
+
+43
+00:05:07,800 --> 00:05:13,960
+get special privileges for domain extensions. That seems a little weird. Especially when
+
+44
+00:05:13,960 --> 00:05:23,080
+there's a lot of people with PhDs that study weird things and they have a PhD or they study
+
+45
+00:05:23,080 --> 00:05:26,560
+one thing and then they start preaching about another and say they're a doctor. We have
+
+46
+00:05:26,560 --> 00:05:34,680
+a lot of those on the internet. My wife shows me a bunch of them. Just these people masquerading
+
+47
+00:05:34,680 --> 00:05:40,600
+as actual scientists or whatever and they're not. So these are a little weird. I can see
+
+48
+00:05:40,600 --> 00:05:47,560
+these scamming people. I can see these scamming people with kind of just falsified stuff.
+
+49
+00:05:47,560 --> 00:05:53,920
+And even so, there are a lot of doctors and PhD people out there that kind of, they don't
+
+50
+00:05:53,920 --> 00:05:57,840
+have time to do the research. Let's say they're a doctor and they're a surgeon. They don't
+
+51
+00:05:57,840 --> 00:06:06,520
+have time to research some other field of medical science. So they rely on others. And
+
+52
+00:06:06,520 --> 00:06:13,400
+so if someone sent them, if they trust someone and that person's email got hacked and they
+
+53
+00:06:13,400 --> 00:06:17,440
+sent them a fake thing and then this other person started propagating it, we shouldn't
+
+54
+00:06:17,440 --> 00:06:27,040
+have like authority domains outside of.gov. So I don't know what ESQ is. I think we show
+
+55
+00:06:27,040 --> 00:06:38,160
+you are a bar admissions, Lamar work experience lawyer. Okay. Yeah. So I'm not super down
+
+56
+00:06:38,160 --> 00:06:42,600
+on lockdown domains outside of edu and gov. I think those were two good choices and the
+
+57
+00:06:42,600 --> 00:06:48,240
+only two that I think should exist. Dot dad. That's the one that wins it. I bet you I can
+
+58
+00:06:48,240 --> 00:06:52,200
+saw this list and all they saw was dot dad and it's like, yeah, whatever. I just let
+
+59
+00:06:52,200 --> 00:06:59,960
+it go. We're getting dot dad there. Oh, Nexus. I skipped that one. It's like a hub. Interesting.
+
+60
+00:06:59,960 --> 00:07:04,240
+Yeah. Zip and MOV are the ones I wanted to complain about and I have complained about
+
+61
+00:07:04,240 --> 00:07:21,120
+them. So let's move on. So another topic that I've seen fairly recently is, I mean, it's,
+
+62
+00:07:21,120 --> 00:07:27,760
+I've seen it recently, but I've seen it essentially the whole time I've done web development and
+
+63
+00:07:27,760 --> 00:07:32,920
+that's people trying to figure out what database to use. Now, a lot of these sites are going
+
+64
+00:07:32,920 --> 00:07:38,800
+to be one versus the other. So like graph database versus a relational database or a
+
+65
+00:07:38,800 --> 00:07:44,660
+no SQL database versus a SQL database. I don't often see vertical databases in here or anything
+
+66
+00:07:44,660 --> 00:07:53,200
+like that. So our memory cache databases, although my SQL has memory cache, it has,
+
+67
+00:07:53,200 --> 00:08:01,480
+you can set it up to have memory cache as a storage mechanism. So anyways, the debate
+
+68
+00:08:01,480 --> 00:08:08,880
+on which database to use, really you should be using many different databases for the
+
+69
+00:08:08,880 --> 00:08:15,520
+different parts of your program that does different things with data. So you'll use,
+
+70
+00:08:15,520 --> 00:08:20,800
+I think it's a, you'll use like a Redis for a leaderboard so that you can quickly sort
+
+71
+00:08:20,800 --> 00:08:28,200
+and select things. You'll use a MySQL for long term concrete storage. You don't want
+
+72
+00:08:28,200 --> 00:08:35,640
+messed up like accounts and no keeping track of very sensitive data like that. You'll use
+
+73
+00:08:35,640 --> 00:08:46,200
+no SQL databases for game data and quick storage of save data or like where enemies kind of,
+
+74
+00:08:46,200 --> 00:08:49,720
+I don't know if you have like timetables or something and you can put those in there.
+
+75
+00:08:49,720 --> 00:08:56,160
+Just kind of transient data that's not so important that's okay to refill. And you'll
+
+76
+00:08:56,160 --> 00:09:03,880
+use, you know, cache databases for very quick lookups. If especially this is you, you normally
+
+77
+00:09:03,880 --> 00:09:11,720
+front cache like a MySQL relational database. You front cache it so that you can, if something's
+
+78
+00:09:11,720 --> 00:09:19,720
+requested a lot from those structured databases, you can get to that information very quickly.
+
+79
+00:09:19,720 --> 00:09:25,680
+Another one is, what did I mention, the graph database. So a graph database is great for
+
+80
+00:09:25,680 --> 00:09:31,760
+data that is highly intertwined. Think friend graphs, I think we've all seen that. So you
+
+81
+00:09:31,760 --> 00:09:38,440
+have a lot of, you know, data that's connected to, that's interconnected and it can have
+
+82
+00:09:38,440 --> 00:09:45,600
+some blobs of information, you know, like account name and login date and, you know,
+
+83
+00:09:45,600 --> 00:09:50,280
+friends and the friends is the graph or something like that. So use a graph for that kind of
+
+84
+00:09:50,280 --> 00:09:57,400
+data. So what I'm getting at is stop arguing over database types. Use them all. They all
+
+85
+00:09:57,400 --> 00:10:01,960
+have a specific purpose for specific things. There's not one that's going to be a magic
+
+86
+00:10:01,960 --> 00:10:07,280
+bullet and there's not one that's going to solve all your problems. I know that if you
+
+87
+00:10:07,280 --> 00:10:14,000
+use things like Firebase or whatever, they may only support a couple variants of databases,
+
+88
+00:10:14,000 --> 00:10:20,900
+which is bad, but it does help with those types of like live apps or whatever. You should
+
+89
+00:10:20,900 --> 00:10:27,680
+use the database that you need for the time you need it. Cool. You know, key value stores
+
+90
+00:10:27,680 --> 00:10:33,800
+also. I know that NoSQL is often a key value store, but you can also just have a flat like
+
+91
+00:10:33,800 --> 00:10:40,120
+key and value, whether it's a blob of binary data or whatever. So just pick the database
+
+92
+00:10:40,120 --> 00:10:47,080
+that works for the task, not the program, not the whole app, for the task and you'll
+
+93
+00:10:47,080 --> 00:10:51,520
+be happy. That's one of the downsides of web development. If you're a web developer, you've
+
+94
+00:10:51,520 --> 00:10:56,640
+got to use different technologies all the time from the language to the stack to the
+
+95
+00:10:56,640 --> 00:11:05,360
+operating system to the web browser size, whether it's a phone or a desktop window or
+
+96
+00:11:05,360 --> 00:11:10,200
+if it's a database, it doesn't matter. You're using different tech all the time. It's the
+
+97
+00:11:10,200 --> 00:11:18,680
+curse of the job. So that's my view on all the arguments I constantly see over the years
+
+98
+00:11:18,680 --> 00:11:24,940
+of database selection. So don't fall into which database is better. Use the database
+
+99
+00:11:24,940 --> 00:11:30,640
+that works for the specific type of data. It is not unreasonable to use all the databases
+
+100
+00:11:30,640 --> 00:11:40,600
+because you need all those different types of data. And now I can't go on to the fun
+
+101
+00:11:40,600 --> 00:11:46,240
+stuff without talking about artificial intelligence. It's all in the news, so of course there's
+
+102
+00:11:46,240 --> 00:11:53,040
+a lot of news for it. Google has, you know, they had Google I.O. just recently. That's
+
+103
+00:11:53,040 --> 00:12:05,800
+the developer conference for Google. However, it's also part them trying to please the investors
+
+104
+00:12:05,800 --> 00:12:12,860
+and also consumers because a lot of people who are watching Google I.O. have never programmed
+
+105
+00:12:12,860 --> 00:12:17,100
+in their life because they wanted to see the pixel fold. I'm not here to talk about the
+
+106
+00:12:17,100 --> 00:12:24,540
+pixel fold. I'm here to talk about the goofiness of responsible AI. All these people are praising
+
+107
+00:12:24,540 --> 00:12:29,720
+this responsible AI, and I think that it's, you know, it's good to have responsible AI.
+
+108
+00:12:29,720 --> 00:12:34,400
+However, putting some metadata on a photo and embedding some data into a photo is not
+
+109
+00:12:34,400 --> 00:12:44,720
+responsible AI. Responsible AI comes from the source, not the output. So I know that
+
+110
+00:12:44,720 --> 00:12:48,760
+this is kind of one of the hot arguments on art and that sort of stuff. I'm not here to
+
+111
+00:12:48,760 --> 00:12:54,160
+talk about artificial intelligence, reading people's art and stealing it or anything like
+
+112
+00:12:54,160 --> 00:13:01,640
+that. I have no strong opinions on that. I love AI, and I also love art, and I want to
+
+113
+00:13:01,640 --> 00:13:12,440
+see both of them flourish. So one of the things that felt goofy to me was the responsible
+
+114
+00:13:12,440 --> 00:13:18,160
+AI stuff. And if you know the, if you're in the United States, you may know that all the
+
+115
+00:13:18,160 --> 00:13:23,120
+tech leaders except Elon Musk went to the White House to talk about artificial intelligence
+
+116
+00:13:23,120 --> 00:13:27,840
+and responsible artificial intelligence. So you had like Satya Nadella from Microsoft,
+
+117
+00:13:27,840 --> 00:13:34,280
+you had whoever was from Google. I think the CEOs left and came back. I can't remember
+
+118
+00:13:34,280 --> 00:13:38,560
+the names very well. And then of course all the other places, probably OpenAI and all
+
+119
+00:13:38,560 --> 00:13:47,320
+that. It was a room full of, you know, tech people and the president. So they had this
+
+120
+00:13:47,320 --> 00:13:53,920
+whole meetup about responsible AI. And what does responsible AI mean? Now, it's always
+
+121
+00:13:53,920 --> 00:13:59,920
+kind of goofy to have corporations and CEOs who are beholden to their shareholders in
+
+122
+00:13:59,920 --> 00:14:08,760
+those kinds of meetings to talk about their responsibilities to the human race at large.
+
+123
+00:14:08,760 --> 00:14:13,840
+But you know, it is a good thing that they talk about it. And of course, they get warnings
+
+124
+00:14:13,840 --> 00:14:24,600
+and say, hey, we're going to regulate this thing, probably. So stay in line. Anyways,
+
+125
+00:14:24,600 --> 00:14:31,000
+the one thing that irked me about the AI thing, Google I O was their big push on detecting
+
+126
+00:14:31,000 --> 00:14:37,040
+AI generated images. The image thing really got me because first of all, metadata, they're
+
+127
+00:14:37,040 --> 00:14:41,520
+going to put metadata inside of images. That's fantastic because you know what, whenever
+
+128
+00:14:41,520 --> 00:14:48,760
+you upload an image to any website worth their weight in salt, salt, sugar, worth their weight
+
+129
+00:14:48,760 --> 00:14:58,040
+in gold, they strip meta tags. So meta is useless. It just gets discarded by all companies
+
+130
+00:14:58,040 --> 00:15:02,440
+because well, first they read it, they read it for themselves. They want to get your GPS
+
+131
+00:15:02,440 --> 00:15:08,840
+location, all that stuff that's in your photo. By the way, turn off GPS on your photos. Nobody
+
+132
+00:15:08,840 --> 00:15:19,400
+uses the photos, where was I GPS thing on your phone. You're just giving people your
+
+133
+00:15:19,400 --> 00:15:24,760
+position all the time. It's kind of strange. And who knows who can get access to that.
+
+134
+00:15:24,760 --> 00:15:29,080
+But anyways, before they take that photo and send it off and propagate it to everybody,
+
+135
+00:15:29,080 --> 00:15:33,540
+they completely strip meta tags just so that it does protect your personal information
+
+136
+00:15:33,540 --> 00:15:38,400
+because photos, the meta for photos can have a lot of stuff in there that shouldn't. And
+
+137
+00:15:38,400 --> 00:15:43,800
+also if you're a web developer, strip the meta. Do not just take people's photos and
+
+138
+00:15:43,800 --> 00:15:50,520
+host them. Strip the meta. There's tons, you can just take a photo. If you're doing Node.js
+
+139
+00:15:50,520 --> 00:15:54,520
+for example, there's a library where you just take the photo and when it takes the photo
+
+140
+00:15:54,520 --> 00:16:01,160
+you can have it as part of one of the arguments to just strip the meta. And if you don't know
+
+141
+00:16:01,160 --> 00:16:05,960
+how to do meta stripping or anything like that, the easiest way to do it if you're kind
+
+142
+00:16:05,960 --> 00:16:12,960
+of new to coding or you're not well versed on how to access the metadata on a file, if
+
+143
+00:16:12,960 --> 00:16:17,840
+you take the photo and then use like magics or whatever it's called, just any kind of
+
+144
+00:16:17,840 --> 00:16:23,480
+image library and just crop it by like a, you don't even, I don't even think you have
+
+145
+00:16:23,480 --> 00:16:28,520
+to change it at all, but you probably should just so that you know that it's working. Just
+
+146
+00:16:28,520 --> 00:16:36,080
+like crop it or change something about it using the photo editing software or photo
+
+147
+00:16:36,080 --> 00:16:41,360
+editing library and then save it. And that just strips the meta automatically because
+
+148
+00:16:41,360 --> 00:16:45,400
+it's saving a new image. So strip the meta inside of the photos and videos please. Do
+
+149
+00:16:45,400 --> 00:16:52,640
+not, do not, do not read it, do not take it, do not sell it, do not redistribute it. Strip
+
+150
+00:16:52,640 --> 00:17:00,840
+the meta. So the second thing is, and this is probably the more clever one, but not exactly
+
+151
+00:17:00,840 --> 00:17:06,160
+perfect. That's where you can encode data inside of an image without changing how the
+
+152
+00:17:06,160 --> 00:17:13,200
+image looks. So you can inject data that's not metadata, you know, like, you know, into
+
+153
+00:17:13,200 --> 00:17:19,160
+the interlaced into the pixels or interlaced into the header or anything like that of the
+
+154
+00:17:19,160 --> 00:17:27,640
+file. Now that's obviously not something that gets stripped very easily, but if you open
+
+155
+00:17:27,640 --> 00:17:32,400
+that photo inside of a photo editor and save it, that's just going to be gone. It's not
+
+156
+00:17:32,400 --> 00:17:36,320
+encoded in the pixels. I mean, even if it is encoded in the pixels, it's just going
+
+157
+00:17:36,320 --> 00:17:41,080
+to resave the pixels in a new way when you export from a photo program. So it's like
+
+158
+00:17:41,080 --> 00:17:45,240
+the easiest thing to get rid of. So even if you use that library example where you just
+
+159
+00:17:45,240 --> 00:17:50,080
+take it and crop it or whatever and then save it again, that little encoded data that was
+
+160
+00:17:50,080 --> 00:17:55,120
+in there is now gone because it got resaved maybe as a different format or a format that
+
+161
+00:17:55,120 --> 00:18:01,720
+doesn't support interlaced data inside of the pixels. So that's my rant on that. That
+
+162
+00:18:01,720 --> 00:18:07,760
+was just lip service. The photos stuff, just pure lip service by Google on trying to make
+
+163
+00:18:07,760 --> 00:18:12,240
+people think that they're thinking about ethical AI. In fact, in my opinion, that's a complete
+
+164
+00:18:12,240 --> 00:18:18,680
+waste of money. You shouldn't be putting, you know, in fact, that doesn't even cost
+
+165
+00:18:18,680 --> 00:18:23,320
+them that much money to put that in, you know, on the output of the image. Instead of investing
+
+166
+00:18:23,320 --> 00:18:29,280
+money in ethical AI output and the file that gets outputted, you need to invest ethical
+
+167
+00:18:29,280 --> 00:18:35,480
+AI in the input, how you train the system, what you do with the system. That's ethical.
+
+168
+00:18:35,480 --> 00:18:43,960
+It's two different arguments. So don't believe the hype on when people talk about encoding
+
+169
+00:18:43,960 --> 00:18:52,120
+will tell you if it's a AI inside of the image or AI generated in the image. It's nonsense.
+
+170
+00:18:52,120 --> 00:18:56,760
+Invest in a service where I can upload a picture to Google and it has a memory of all the photos
+
+171
+00:18:56,760 --> 00:19:02,400
+it generated so it can tell me if that photo was generated by AI. That right there doesn't
+
+172
+00:19:02,400 --> 00:19:08,240
+need metadata. It doesn't need to put little tags inside of the binary. That just me send
+
+173
+00:19:08,240 --> 00:19:14,240
+you it and you tell me whether it is. Just do that. That's probably way more useful.
+
+174
+00:19:14,240 --> 00:19:20,440
+And then just make that an API I can call. So I guess that was kind of a rant on ethical
+
+175
+00:19:20,440 --> 00:19:28,120
+AI. I'm going to talk about some fun stuff now. I've seen in like programming humor stuff,
+
+176
+00:19:28,120 --> 00:19:34,520
+a lot of people are fighting over text editors. This is funny to me because we have people
+
+177
+00:19:34,520 --> 00:19:41,360
+saying I use notepad. Of course we all use notepad to do some code. But they're all ragging
+
+178
+00:19:41,360 --> 00:19:46,040
+on Visual Studio Code. I don't know why. Probably because Visual Studio Code came out and it
+
+179
+00:19:46,040 --> 00:19:50,520
+became really popular because it's Node.js, you can host it in the web, it has all kinds
+
+180
+00:19:50,520 --> 00:19:56,760
+of easy plugins, you can use web technology to write your plugins. And I've written like
+
+181
+00:19:56,760 --> 00:20:04,320
+language servers and stuff like that for Visual Studio Code. It's nice. But you have all kinds
+
+182
+00:20:04,320 --> 00:20:12,720
+of people talking about notepad or atom or my text editor runs inside of a terminal.
+
+183
+00:20:12,720 --> 00:20:18,680
+Visual Studio Code doesn't. My text editor runs a web page within it and all this other
+
+184
+00:20:18,680 --> 00:20:26,400
+stuff. So that's a lot of fun. Go into programming humor and please post some more text editor
+
+185
+00:20:26,400 --> 00:20:33,880
+jokes because I love them. They're funny to me. I think nobody's taking it seriously.
+
+186
+00:20:33,880 --> 00:20:39,080
+Of course there are people out there that are diards on their text editors. I can use
+
+187
+00:20:39,080 --> 00:20:42,840
+anything. I can use notepad, I use C-Line, I use Visual Studio, I use Visual Studio Code,
+
+188
+00:20:42,840 --> 00:20:52,800
+I use Nano, I sometimes use Vim, I use web div, editable divs. It doesn't matter to me.
+
+189
+00:20:52,800 --> 00:20:59,000
+Text is text. It's whatever. As long as I can press tab and I get a tab, that's all
+
+190
+00:20:59,000 --> 00:21:08,760
+I need. But those are kind of funny. So here's a, I have an example here of one. This is
+
+191
+00:21:08,760 --> 00:21:13,280
+just one. I saw like seven of these. I think there's a thing going on right now where everyone's
+
+192
+00:21:13,280 --> 00:21:22,440
+doing them. But go contribute to these. And now I'm going to talk about, I don't know
+
+193
+00:21:22,440 --> 00:21:29,000
+anything about this indie game or anything else. I just know it looked kind of fun. So
+
+194
+00:21:29,000 --> 00:21:32,720
+I thought I'd share it just because I kind of want to talk about indie games every now
+
+195
+00:21:32,720 --> 00:21:37,640
+and then that piqued my interest. It may be a copy of another indie game. It may be a
+
+196
+00:21:37,640 --> 00:21:45,080
+clone. It may be a stolen idea or whatever. The concept is pretty fun. I'm actually going
+
+197
+00:21:45,080 --> 00:21:49,520
+to turn it off. It has some music. I don't know if it's copyright. But the idea is that
+
+198
+00:21:49,520 --> 00:21:54,520
+you have these little paddles on the bottom and you got to slap the boxes that are coming
+
+199
+00:21:54,520 --> 00:22:01,840
+down. And as you rotate them, the paddles on the bottom sticks in place. So you have
+
+200
+00:22:01,840 --> 00:22:05,680
+the blue one on the right now. It can wind up all the way on the left. And I thought
+
+201
+00:22:05,680 --> 00:22:11,120
+that was kind of a neat little puzzle game. I love puzzle games. I love first person shooters,
+
+202
+00:22:11,120 --> 00:22:15,760
+puzzle games, RTS. I love all kinds of games. So I thought this one was kind of fun. So
+
+203
+00:22:15,760 --> 00:22:24,280
+I kind of wanted to shout out. Whatever game this is. It's called Swap I guess. Pretty
+
+204
+00:22:24,280 --> 00:22:31,400
+neat idea. It's fun. It's simple. Hopefully it's not just going to be a mobile game. Hopefully
+
+205
+00:22:31,400 --> 00:22:35,480
+there's going to be more to it. I'm not super into mobile games. But it does have iOS and
+
+206
+00:22:35,480 --> 00:22:42,080
+Android here. And it's coming on Steam. So I don't know. If you're a developer, add some
+
+207
+00:22:42,080 --> 00:22:52,080
+cool desktop perks. Don't make your game lock down. Don't lock down its potential to mobile
+
+208
+00:22:52,080 --> 00:22:59,600
+devices. And that's kind of another thing I guess I'll end on. If you're going to make
+
+209
+00:22:59,600 --> 00:23:07,280
+a game and you're going to put it on different devices, one of the things that I don't like,
+
+210
+00:23:07,280 --> 00:23:13,760
+for example, is old games like Grand Theft Auto, Vice City or something coming to mobile
+
+211
+00:23:13,760 --> 00:23:19,720
+because the controls are clunky. And I didn't buy it because I didn't want to play it on
+
+212
+00:23:19,720 --> 00:23:27,600
+phone. I have copies of Vice City on Xbox and PlayStation 2 I think it is over there
+
+213
+00:23:27,600 --> 00:23:35,680
+somewhere. So I didn't spend any money on it. But I doubt it has good Bluetooth controller
+
+214
+00:23:35,680 --> 00:23:42,560
+support. A lot of games on mobile don't. So if you put your game on Steam or whatever,
+
+215
+00:23:42,560 --> 00:23:47,560
+make some controller support on mobile. Put in the extra effort. I know it kind of sucks.
+
+216
+00:23:47,560 --> 00:23:53,360
+But let's make mobile games better by adding more support controls. Let's add a whole realm.
+
+217
+00:23:53,360 --> 00:23:59,320
+Let's force Google and Apple to have a little tag on there that says, you know, controller
+
+218
+00:23:59,320 --> 00:24:02,560
+required or something like that. Let's just make a whole category for it. That would be
+
+219
+00:24:02,560 --> 00:24:08,000
+fantastic. I would love that. But anyways, yeah, that was a cool little indie game called
+
+220
+00:24:08,000 --> 00:24:14,440
+Swap. Don't know much more than that video. That's all I've seen. So that's about it.
+
+221
+00:24:14,440 --> 00:24:34,440
+Thanks for listening and I'll see you guys in the next one. Bye for now.
+
+
+
